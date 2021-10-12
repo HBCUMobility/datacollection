@@ -1,6 +1,6 @@
 # datacollection
 
-This repository is for storing the in-progress development of the process of collecting data for the NSF Award #2122525, "Examining the effects of academic mobility on individual professors' research activity and institutional human capital at HBCUs".
+This repository is for storing the in-progress development of the process of collecting data for the [NSF Award #2122525](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122525&HistoricalAwards=false), "Examining the effects of academic mobility on individual professors' research activity and institutional human capital at HBCUs".
 
 ## The primary code
 
