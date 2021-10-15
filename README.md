@@ -10,7 +10,15 @@ This repository is for storing the in-progress development of the process of col
 
 The Python script expects a Memento Aggregator to be running. [Memento (RFC7089)](https://datatracker.ietf.org/doc/html/rfc7089) is a standardized framework for negotiating with resources in time with the primary use case being exhibited. An aggregator acts as a central endpoint to send a request that will then be relayed to multiple archives. Few aggregators exist -- one hosted by Los Alamos National Laboratory at mementoweb.org and the free and open-source [MemGator](https://github.com/oduwsdl/MemGator) software. We will be using MemGator, as it is user-configurable. [Another instance of MemGator](https://aggregator.matkelly.com) is run by [@machawk1](https://github.com/machawk1) but ultimately it is best to run your own. See the [MemGator GitHub repository](https://github.com/oduwsdl/MemGator) for more information and to obtain a binary.
 
-The purpose of the Pythonm script, at least initially, is to take the CSVs for input and for each URL, fetch the TimeMap. These TimeMaps (defined in the [Memento specification](https://datatracker.ietf.org/doc/html/rfc7089)) contain a list of URIs that represent historical captures of a web page in time along with inline metadata and additional context. Each of these is called a URI-M (see [RFC7089](https://datatracker.ietf.org/doc/html/rfc7089)).
+In short:
+
+1. Download the latest binary release of MemGator at https://github.com/oduwsdl/MemGator/releases/tag/1.0-rc8, for example, the file `memgator-darwin-365`.
+2. In Terminal, move to the directory where you downloaded the file and run `./memgator server`. This will start the MemGator service from your machine on port 1208 by default.
+3. In a separate Terminal, move to the directory where _this_ repository's code resides.
+4. Install the Python script's requirements via `python3 -m pip install -r requirements.txt`.
+5. Run the script from the Terminal using `python3 ./fetch_timemaps.py` then wait awhile while it processes the CSV(s).
+
+The purpose of the Python script, at least initially, is to take the CSVs for input and for each URL, fetch the TimeMap. These TimeMaps (defined in the [Memento specification](https://datatracker.ietf.org/doc/html/rfc7089)) contain a list of URIs that represent historical captures of a web page in time along with inline metadata and additional context. Each of these is called a URI-M (see [RFC7089](https://datatracker.ietf.org/doc/html/rfc7089)).
 
 ## Next Steps
 
