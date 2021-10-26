@@ -61,7 +61,7 @@ async def fetch_timemap(uri_r: str, session: aiohttp.ClientSession) -> str:
     return str(Path(timemap_file_path).resolve())
 
 def extract_original_uris(filename: str) -> list:
-    with open(data_files[0]) as f:
+    with open(filename) as f:
         csv = f.read()
 
     csv_rows = csv.split('\n')
