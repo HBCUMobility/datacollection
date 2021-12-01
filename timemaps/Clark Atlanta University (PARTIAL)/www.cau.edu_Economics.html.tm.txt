@@ -1,0 +1,31 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/Economics.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-business/Departments/Economics.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-business/Departments/Economics.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-business/Departments/Economics.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-business/Departments/Economics.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/Economics.html"}}
+20191112022836 {"uri": "https://web.archive.org/web/20191112022836/http://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "first memento", "datetime": "Tue, 12 Nov 2019 02:28:36 GMT"}
+20191208201702 {"uri": "https://web.archive.org/web/20191208201702/http://www.cau.edu:80/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Sun, 08 Dec 2019 20:17:02 GMT"}
+20191212023025 {"uri": "https://web.archive.org/web/20191212023025/http://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Thu, 12 Dec 2019 02:30:25 GMT"}
+20200112023246 {"uri": "https://web.archive.org/web/20200112023246/http://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Sun, 12 Jan 2020 02:32:46 GMT"}
+20200207152808 {"uri": "https://web.archive.org/web/20200207152808/http://www.cau.edu:80/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Fri, 07 Feb 2020 15:28:08 GMT"}
+20200212164136 {"uri": "https://web.archive.org/web/20200212164136/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 16:41:36 GMT"}
+20200312045534 {"uri": "https://web.archive.org/web/20200312045534/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Thu, 12 Mar 2020 04:55:34 GMT"}
+20200412014906 {"uri": "https://web.archive.org/web/20200412014906/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Sun, 12 Apr 2020 01:49:06 GMT"}
+20200512030555 {"uri": "https://web.archive.org/web/20200512030555/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Tue, 12 May 2020 03:05:55 GMT"}
+20200612072046 {"uri": "https://web.archive.org/web/20200612072046/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 07:20:46 GMT"}
+20200712015429 {"uri": "https://web.archive.org/web/20200712015429/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Sun, 12 Jul 2020 01:54:29 GMT"}
+20200812030251 {"uri": "https://web.archive.org/web/20200812030251/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Wed, 12 Aug 2020 03:02:51 GMT"}
+20200912043326 {"uri": "https://web.archive.org/web/20200912043326/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Sat, 12 Sep 2020 04:33:26 GMT"}
+20201012035151 {"uri": "https://web.archive.org/web/20201012035151/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Mon, 12 Oct 2020 03:51:51 GMT"}
+20201112025853 {"uri": "https://web.archive.org/web/20201112025853/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Thu, 12 Nov 2020 02:58:53 GMT"}
+20201212084459 {"uri": "https://web.archive.org/web/20201212084459/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Sat, 12 Dec 2020 08:44:59 GMT"}
+20210112030731 {"uri": "https://web.archive.org/web/20210112030731/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Tue, 12 Jan 2021 03:07:31 GMT"}
+20210212035046 {"uri": "https://web.archive.org/web/20210212035046/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Fri, 12 Feb 2021 03:50:46 GMT"}
+20210312032446 {"uri": "https://web.archive.org/web/20210312032446/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Fri, 12 Mar 2021 03:24:46 GMT"}
+20210412012713 {"uri": "https://web.archive.org/web/20210412012713/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Mon, 12 Apr 2021 01:27:13 GMT"}
+20210512043131 {"uri": "https://web.archive.org/web/20210512043131/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Wed, 12 May 2021 04:31:31 GMT"}
+20210612055118 {"uri": "https://web.archive.org/web/20210612055118/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Sat, 12 Jun 2021 05:51:18 GMT"}
+20210712015510 {"uri": "https://web.archive.org/web/20210712015510/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Mon, 12 Jul 2021 01:55:10 GMT"}
+20210812032816 {"uri": "https://web.archive.org/web/20210812032816/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "memento", "datetime": "Thu, 12 Aug 2021 03:28:16 GMT"}
+20210912033310 {"uri": "https://web.archive.org/web/20210912033310/https://www.cau.edu/school-of-business/Departments/Economics.html", "rel": "last memento", "datetime": "Sun, 12 Sep 2021 03:33:10 GMT"}

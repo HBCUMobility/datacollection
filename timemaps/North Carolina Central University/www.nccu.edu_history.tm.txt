@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/history"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/cash/history"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/cash/history"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/cash/history", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/cash/history", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/history"}}
+20210508012547 {"uri": "https://web.archive.org/web/20210508012547/https://www.nccu.edu/cash/history", "rel": "first last memento", "datetime": "Sat, 08 May 2021 01:25:47 GMT"}

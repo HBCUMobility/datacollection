@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/sociology-and-criminology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/sociology-and-criminology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/sociology-and-criminology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/sociology-and-criminology", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/sociology-and-criminology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/sociology-and-criminology"}}
+20170708165538 {"uri": "https://web.archive.org/web/20170708165538/https://gs.howard.edu/graduate-programs/sociology-and-criminology", "rel": "first memento", "datetime": "Sat, 08 Jul 2017 16:55:38 GMT"}
+20200126055813 {"uri": "https://web.archive.org/web/20200126055813/https://gs.howard.edu/graduate-programs/sociology-and-criminology", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:58:13 GMT"}
+20201001045150 {"uri": "https://web.archive.org/web/20201001045150/https://gs.howard.edu/graduate-programs/sociology-and-criminology", "rel": "memento", "datetime": "Thu, 01 Oct 2020 04:51:50 GMT"}
+20210121144706 {"uri": "https://web.archive.org/web/20210121144706/https://gs.howard.edu/graduate-programs/sociology-and-criminology", "rel": "memento", "datetime": "Thu, 21 Jan 2021 14:47:06 GMT"}
+20210416012928 {"uri": "https://web.archive.org/web/20210416012928/https://gs.howard.edu/graduate-programs/sociology-and-criminology", "rel": "last memento", "datetime": "Fri, 16 Apr 2021 01:29:28 GMT"}

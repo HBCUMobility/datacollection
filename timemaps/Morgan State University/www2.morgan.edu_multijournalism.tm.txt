@@ -1,0 +1,39 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/sgjc/multijournalism"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/sgjc/multijournalism"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/sgjc/multijournalism"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/sgjc/multijournalism", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/sgjc/multijournalism", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/sgjc/multijournalism"}}
+20171012055303 {"uri": "https://web.archive.org/web/20171012055303/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "first memento", "datetime": "Thu, 12 Oct 2017 05:53:03 GMT"}
+20171014021542 {"uri": "https://web.archive.org/web/20171014021542/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Sat, 14 Oct 2017 02:15:42 GMT"}
+20171103193132 {"uri": "https://web.archive.org/web/20171103193132/http://morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Fri, 03 Nov 2017 19:31:32 GMT"}
+20171111190137 {"uri": "https://web.archive.org/web/20171111190137/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Sat, 11 Nov 2017 19:01:37 GMT"}
+20171212225939 {"uri": "https://web.archive.org/web/20171212225939/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Tue, 12 Dec 2017 22:59:39 GMT"}
+20171214194251 {"uri": "https://web.archive.org/web/20171214194251/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Thu, 14 Dec 2017 19:42:51 GMT"}
+20180114034753 {"uri": "https://web.archive.org/web/20180114034753/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Sun, 14 Jan 2018 03:47:53 GMT"}
+20180214022728 {"uri": "https://web.archive.org/web/20180214022728/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Wed, 14 Feb 2018 02:27:28 GMT"}
+20180214122456 {"uri": "https://web.archive.org/web/20180214122456/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Wed, 14 Feb 2018 12:24:56 GMT"}
+20180215140838 {"uri": "https://web.archive.org/web/20180215140838/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Thu, 15 Feb 2018 14:08:38 GMT"}
+20180222005133 {"uri": "https://web.archive.org/web/20180222005133/http://www.morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Thu, 22 Feb 2018 00:51:33 GMT"}
+20180319054450 {"uri": "https://web.archive.org/web/20180319054450/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Mon, 19 Mar 2018 05:44:50 GMT"}
+20180320033513 {"uri": "https://web.archive.org/web/20180320033513/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Tue, 20 Mar 2018 03:35:13 GMT"}
+20180411034036 {"uri": "https://web.archive.org/web/20180411034036/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Wed, 11 Apr 2018 03:40:36 GMT"}
+20180512203805 {"uri": "https://web.archive.org/web/20180512203805/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Sat, 12 May 2018 20:38:05 GMT"}
+20180613063741 {"uri": "https://web.archive.org/web/20180613063741/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Wed, 13 Jun 2018 06:37:41 GMT"}
+20180718062917 {"uri": "https://web.archive.org/web/20180718062917/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Wed, 18 Jul 2018 06:29:17 GMT"}
+20180904015157 {"uri": "https://web.archive.org/web/20180904015157/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Tue, 04 Sep 2018 01:51:57 GMT"}
+20181022154947 {"uri": "https://web.archive.org/web/20181022154947/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Mon, 22 Oct 2018 15:49:47 GMT"}
+20181023163950 {"uri": "https://web.archive.org/web/20181023163950/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Tue, 23 Oct 2018 16:39:50 GMT"}
+20190913181806 {"uri": "https://web.archive.org/web/20190913181806/http://www.morgan.edu:80/sgjc/multijournalism", "rel": "memento", "datetime": "Fri, 13 Sep 2019 18:18:06 GMT"}
+20200510121349 {"uri": "https://web.archive.org/web/20200510121349/https://www.morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Sun, 10 May 2020 12:13:49 GMT"}
+20200807041723 {"uri": "https://web.archive.org/web/20200807041723/https://morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Fri, 07 Aug 2020 04:17:23 GMT"}
+20200807185020 {"uri": "https://web.archive.org/web/20200807185020/https://www.morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Fri, 07 Aug 2020 18:50:20 GMT"}
+20201028173839 {"uri": "https://web.archive.org/web/20201028173839/https://morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Wed, 28 Oct 2020 17:38:39 GMT"}
+20201031110400 {"uri": "https://web.archive.org/web/20201031110400/https://www.morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Sat, 31 Oct 2020 11:04:00 GMT"}
+20201129051754 {"uri": "https://web.archive.org/web/20201129051754/https://www.morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Sun, 29 Nov 2020 05:17:54 GMT"}
+20210126000322 {"uri": "https://web.archive.org/web/20210126000322/https://morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Tue, 26 Jan 2021 00:03:22 GMT"}
+20210126033550 {"uri": "https://web.archive.org/web/20210126033550/https://www.morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Tue, 26 Jan 2021 03:35:50 GMT"}
+20210224181901 {"uri": "https://web.archive.org/web/20210224181901/https://www.morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Wed, 24 Feb 2021 18:19:01 GMT"}
+20210414031612 {"uri": "https://web.archive.org/web/20210414031612/https://morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:16:12 GMT"}
+20210804014630 {"uri": "https://web.archive.org/web/20210804014630/https://www.morgan.edu/sgjc/multijournalism", "rel": "memento", "datetime": "Wed, 04 Aug 2021 01:46:30 GMT"}
+20210817060216 {"uri": "https://web.archive.org/web/20210817060216/https://morgan.edu/sgjc/multijournalism", "rel": "last memento", "datetime": "Tue, 17 Aug 2021 06:02:16 GMT"}

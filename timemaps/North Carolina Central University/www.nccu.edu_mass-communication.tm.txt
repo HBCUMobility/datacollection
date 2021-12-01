@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/mass-communication"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/cash/mass-communication"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/cash/mass-communication"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/cash/mass-communication", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/cash/mass-communication", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/mass-communication"}}
+20210127223205 {"uri": "https://web.archive.org/web/20210127223205/https://www.nccu.edu/cash/mass-communication", "rel": "first memento", "datetime": "Wed, 27 Jan 2021 22:32:05 GMT"}
+20210308200225 {"uri": "https://web.archive.org/web/20210308200225/https://www.nccu.edu/cash/mass-communication", "rel": "last memento", "datetime": "Mon, 08 Mar 2021 20:02:25 GMT"}

@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/cla/politicalscience"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.morgan.edu/cla/politicalscience"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.morgan.edu/cla/politicalscience"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.morgan.edu/cla/politicalscience", "json_format": "http://localhost:1208/timemap/json/https://www.morgan.edu/cla/politicalscience", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/cla/politicalscience"}}
+20171024221752 {"uri": "https://web.archive.org/web/20171024221752/http://www.morgan.edu:80/cla/politicalscience", "rel": "first memento", "datetime": "Tue, 24 Oct 2017 22:17:52 GMT"}
+20171103191406 {"uri": "https://web.archive.org/web/20171103191406/http://morgan.edu:80/cla/politicalscience", "rel": "memento", "datetime": "Fri, 03 Nov 2017 19:14:06 GMT"}
+20171111105901 {"uri": "https://web.archive.org/web/20171111105901/http://www.morgan.edu:80/cla/politicalscience", "rel": "memento", "datetime": "Sat, 11 Nov 2017 10:59:01 GMT"}
+20171129190542 {"uri": "https://web.archive.org/web/20171129190542/http://www.morgan.edu:80/cla/politicalscience", "rel": "memento", "datetime": "Wed, 29 Nov 2017 19:05:42 GMT"}
+20171230153334 {"uri": "https://web.archive.org/web/20171230153334/http://www.morgan.edu:80/cla/politicalscience", "rel": "memento", "datetime": "Sat, 30 Dec 2017 15:33:34 GMT"}
+20180131051630 {"uri": "https://web.archive.org/web/20180131051630/http://www.morgan.edu:80/cla/politicalscience", "rel": "memento", "datetime": "Wed, 31 Jan 2018 05:16:30 GMT"}
+20180308141705 {"uri": "https://web.archive.org/web/20180308141705/http://www.morgan.edu:80/cla/politicalscience", "rel": "memento", "datetime": "Thu, 08 Mar 2018 14:17:05 GMT"}
+20180414053451 {"uri": "https://web.archive.org/web/20180414053451/http://www.morgan.edu:80/cla/politicalscience", "rel": "memento", "datetime": "Sat, 14 Apr 2018 05:34:51 GMT"}
+20210414033901 {"uri": "https://web.archive.org/web/20210414033901/https://morgan.edu/cla/politicalscience", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:39:01 GMT"}
+20210816084818 {"uri": "https://web.archive.org/web/20210816084818/https://morgan.edu/cla/politicalscience", "rel": "last memento", "datetime": "Mon, 16 Aug 2021 08:48:18 GMT"}

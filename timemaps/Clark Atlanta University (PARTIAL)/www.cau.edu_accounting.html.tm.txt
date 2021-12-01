@@ -1,0 +1,31 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/accounting.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-business/Departments/accounting.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-business/Departments/accounting.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-business/Departments/accounting.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-business/Departments/accounting.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/accounting.html"}}
+20191112022834 {"uri": "https://web.archive.org/web/20191112022834/http://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "first memento", "datetime": "Tue, 12 Nov 2019 02:28:34 GMT"}
+20191208201727 {"uri": "https://web.archive.org/web/20191208201727/http://www.cau.edu:80/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Sun, 08 Dec 2019 20:17:27 GMT"}
+20191212023023 {"uri": "https://web.archive.org/web/20191212023023/http://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Thu, 12 Dec 2019 02:30:23 GMT"}
+20200112023244 {"uri": "https://web.archive.org/web/20200112023244/http://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Sun, 12 Jan 2020 02:32:44 GMT"}
+20200207104748 {"uri": "https://web.archive.org/web/20200207104748/http://www.cau.edu:80/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Fri, 07 Feb 2020 10:47:48 GMT"}
+20200212163854 {"uri": "https://web.archive.org/web/20200212163854/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 16:38:54 GMT"}
+20200312045450 {"uri": "https://web.archive.org/web/20200312045450/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Thu, 12 Mar 2020 04:54:50 GMT"}
+20200412014843 {"uri": "https://web.archive.org/web/20200412014843/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Sun, 12 Apr 2020 01:48:43 GMT"}
+20200512030523 {"uri": "https://web.archive.org/web/20200512030523/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Tue, 12 May 2020 03:05:23 GMT"}
+20200612071935 {"uri": "https://web.archive.org/web/20200612071935/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 07:19:35 GMT"}
+20200712015415 {"uri": "https://web.archive.org/web/20200712015415/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Sun, 12 Jul 2020 01:54:15 GMT"}
+20200812030219 {"uri": "https://web.archive.org/web/20200812030219/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Wed, 12 Aug 2020 03:02:19 GMT"}
+20200912043221 {"uri": "https://web.archive.org/web/20200912043221/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Sat, 12 Sep 2020 04:32:21 GMT"}
+20201012035107 {"uri": "https://web.archive.org/web/20201012035107/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Mon, 12 Oct 2020 03:51:07 GMT"}
+20201112025824 {"uri": "https://web.archive.org/web/20201112025824/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Thu, 12 Nov 2020 02:58:24 GMT"}
+20201212084438 {"uri": "https://web.archive.org/web/20201212084438/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Sat, 12 Dec 2020 08:44:38 GMT"}
+20210112030714 {"uri": "https://web.archive.org/web/20210112030714/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Tue, 12 Jan 2021 03:07:14 GMT"}
+20210212035005 {"uri": "https://web.archive.org/web/20210212035005/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Fri, 12 Feb 2021 03:50:05 GMT"}
+20210312032424 {"uri": "https://web.archive.org/web/20210312032424/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Fri, 12 Mar 2021 03:24:24 GMT"}
+20210412012703 {"uri": "https://web.archive.org/web/20210412012703/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Mon, 12 Apr 2021 01:27:03 GMT"}
+20210512043116 {"uri": "https://web.archive.org/web/20210512043116/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Wed, 12 May 2021 04:31:16 GMT"}
+20210612055051 {"uri": "https://web.archive.org/web/20210612055051/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Sat, 12 Jun 2021 05:50:51 GMT"}
+20210712015448 {"uri": "https://web.archive.org/web/20210712015448/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Mon, 12 Jul 2021 01:54:48 GMT"}
+20210812032754 {"uri": "https://web.archive.org/web/20210812032754/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "memento", "datetime": "Thu, 12 Aug 2021 03:27:54 GMT"}
+20210912033259 {"uri": "https://web.archive.org/web/20210912033259/https://www.cau.edu/school-of-business/Departments/accounting.html", "rel": "last memento", "datetime": "Sun, 12 Sep 2021 03:32:59 GMT"}

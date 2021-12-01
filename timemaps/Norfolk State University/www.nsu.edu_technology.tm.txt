@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/technology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/technology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/technology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/technology", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/technology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/technology"}}
+20090306171352 {"uri": "https://wayback.archive-it.org/all/20090306171352/https://www.nsu.edu/technology/", "rel": "first memento", "datetime": "Fri, 06 Mar 2009 17:13:52 GMT"}
+20090306171353 {"uri": "https://wayback.archive-it.org/all/20090306171353/https://www.nsu.edu/technology/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:13:53 GMT"}
+20090306173154 {"uri": "https://wayback.archive-it.org/all/20090306173154/http://www.nsu.edu/technology/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:31:54 GMT"}
+20090306173155 {"uri": "https://wayback.archive-it.org/all/20090306173155/http://www.nsu.edu/technology/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:31:55 GMT"}
+20090309181145 {"uri": "https://wayback.archive-it.org/all/20090309181145/https://www.nsu.edu/technology/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 18:11:45 GMT"}
+20090309191749 {"uri": "https://wayback.archive-it.org/all/20090309191749/http://www.nsu.edu/technology/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 19:17:49 GMT"}
+20090313154534 {"uri": "https://wayback.archive-it.org/all/20090313154534/http://www.nsu.edu/technology/", "rel": "memento", "datetime": "Fri, 13 Mar 2009 15:45:34 GMT"}
+20090313161525 {"uri": "https://wayback.archive-it.org/all/20090313161525/https://www.nsu.edu/technology/", "rel": "memento", "datetime": "Fri, 13 Mar 2009 16:15:25 GMT"}
+20090317154733 {"uri": "https://wayback.archive-it.org/all/20090317154733/https://www.nsu.edu/technology/", "rel": "memento", "datetime": "Tue, 17 Mar 2009 15:47:33 GMT"}
+20090317160249 {"uri": "https://wayback.archive-it.org/all/20090317160249/http://www.nsu.edu/technology/", "rel": "last memento", "datetime": "Tue, 17 Mar 2009 16:02:49 GMT"}

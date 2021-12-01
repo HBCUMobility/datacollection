@@ -1,0 +1,32 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/Marketing%20.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-business/Departments/Marketing%20.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-business/Departments/Marketing%20.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/Marketing%20.html"}}
+20191112022839 {"uri": "https://web.archive.org/web/20191112022839/http://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "first memento", "datetime": "Tue, 12 Nov 2019 02:28:39 GMT"}
+20191208121558 {"uri": "https://web.archive.org/web/20191208121558/http://www.cau.edu:80/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Sun, 08 Dec 2019 12:15:58 GMT"}
+20191212023029 {"uri": "https://web.archive.org/web/20191212023029/http://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Thu, 12 Dec 2019 02:30:29 GMT"}
+20200107195147 {"uri": "https://web.archive.org/web/20200107195147/http://www.cau.edu:80/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Tue, 07 Jan 2020 19:51:47 GMT"}
+20200112023249 {"uri": "https://web.archive.org/web/20200112023249/http://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Sun, 12 Jan 2020 02:32:49 GMT"}
+20200207001120 {"uri": "https://web.archive.org/web/20200207001120/http://www.cau.edu:80/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Fri, 07 Feb 2020 00:11:20 GMT"}
+20200212164535 {"uri": "https://web.archive.org/web/20200212164535/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 16:45:35 GMT"}
+20200312045630 {"uri": "https://web.archive.org/web/20200312045630/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Thu, 12 Mar 2020 04:56:30 GMT"}
+20200412014933 {"uri": "https://web.archive.org/web/20200412014933/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Sun, 12 Apr 2020 01:49:33 GMT"}
+20200512030642 {"uri": "https://web.archive.org/web/20200512030642/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Tue, 12 May 2020 03:06:42 GMT"}
+20200612072149 {"uri": "https://web.archive.org/web/20200612072149/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 07:21:49 GMT"}
+20200712015454 {"uri": "https://web.archive.org/web/20200712015454/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Sun, 12 Jul 2020 01:54:54 GMT"}
+20200812030351 {"uri": "https://web.archive.org/web/20200812030351/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Wed, 12 Aug 2020 03:03:51 GMT"}
+20200912043433 {"uri": "https://web.archive.org/web/20200912043433/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Sat, 12 Sep 2020 04:34:33 GMT"}
+20201012035257 {"uri": "https://web.archive.org/web/20201012035257/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Mon, 12 Oct 2020 03:52:57 GMT"}
+20201112025934 {"uri": "https://web.archive.org/web/20201112025934/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Thu, 12 Nov 2020 02:59:34 GMT"}
+20201212084625 {"uri": "https://web.archive.org/web/20201212084625/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Sat, 12 Dec 2020 08:46:25 GMT"}
+20210112030755 {"uri": "https://web.archive.org/web/20210112030755/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Tue, 12 Jan 2021 03:07:55 GMT"}
+20210212035139 {"uri": "https://web.archive.org/web/20210212035139/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Fri, 12 Feb 2021 03:51:39 GMT"}
+20210312032522 {"uri": "https://web.archive.org/web/20210312032522/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Fri, 12 Mar 2021 03:25:22 GMT"}
+20210412012729 {"uri": "https://web.archive.org/web/20210412012729/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Mon, 12 Apr 2021 01:27:29 GMT"}
+20210512043153 {"uri": "https://web.archive.org/web/20210512043153/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Wed, 12 May 2021 04:31:53 GMT"}
+20210612055203 {"uri": "https://web.archive.org/web/20210612055203/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Sat, 12 Jun 2021 05:52:03 GMT"}
+20210712015536 {"uri": "https://web.archive.org/web/20210712015536/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Mon, 12 Jul 2021 01:55:36 GMT"}
+20210812032838 {"uri": "https://web.archive.org/web/20210812032838/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "memento", "datetime": "Thu, 12 Aug 2021 03:28:38 GMT"}
+20210912033323 {"uri": "https://web.archive.org/web/20210912033323/https://www.cau.edu/school-of-business/Departments/Marketing%20.html", "rel": "last memento", "datetime": "Sun, 12 Sep 2021 03:33:23 GMT"}

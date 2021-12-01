@@ -1,0 +1,31 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-business/Departments/Decision-sciences.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html"}}
+20191112022835 {"uri": "https://web.archive.org/web/20191112022835/http://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "first memento", "datetime": "Tue, 12 Nov 2019 02:28:35 GMT"}
+20191208201654 {"uri": "https://web.archive.org/web/20191208201654/http://www.cau.edu:80/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Sun, 08 Dec 2019 20:16:54 GMT"}
+20191212023024 {"uri": "https://web.archive.org/web/20191212023024/http://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Thu, 12 Dec 2019 02:30:24 GMT"}
+20200112023245 {"uri": "https://web.archive.org/web/20200112023245/http://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Sun, 12 Jan 2020 02:32:45 GMT"}
+20200207142634 {"uri": "https://web.archive.org/web/20200207142634/http://www.cau.edu:80/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Fri, 07 Feb 2020 14:26:34 GMT"}
+20200212164009 {"uri": "https://web.archive.org/web/20200212164009/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 16:40:09 GMT"}
+20200312045515 {"uri": "https://web.archive.org/web/20200312045515/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Thu, 12 Mar 2020 04:55:15 GMT"}
+20200412014853 {"uri": "https://web.archive.org/web/20200412014853/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Sun, 12 Apr 2020 01:48:53 GMT"}
+20200512030540 {"uri": "https://web.archive.org/web/20200512030540/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Tue, 12 May 2020 03:05:40 GMT"}
+20200612072008 {"uri": "https://web.archive.org/web/20200612072008/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 07:20:08 GMT"}
+20200712015420 {"uri": "https://web.archive.org/web/20200712015420/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Sun, 12 Jul 2020 01:54:20 GMT"}
+20200812030234 {"uri": "https://web.archive.org/web/20200812030234/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Wed, 12 Aug 2020 03:02:34 GMT"}
+20200912043248 {"uri": "https://web.archive.org/web/20200912043248/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Sat, 12 Sep 2020 04:32:48 GMT"}
+20201012035130 {"uri": "https://web.archive.org/web/20201012035130/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Mon, 12 Oct 2020 03:51:30 GMT"}
+20201112025838 {"uri": "https://web.archive.org/web/20201112025838/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Thu, 12 Nov 2020 02:58:38 GMT"}
+20201212084448 {"uri": "https://web.archive.org/web/20201212084448/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Sat, 12 Dec 2020 08:44:48 GMT"}
+20210112030722 {"uri": "https://web.archive.org/web/20210112030722/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Tue, 12 Jan 2021 03:07:22 GMT"}
+20210212035026 {"uri": "https://web.archive.org/web/20210212035026/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Fri, 12 Feb 2021 03:50:26 GMT"}
+20210312032434 {"uri": "https://web.archive.org/web/20210312032434/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Fri, 12 Mar 2021 03:24:34 GMT"}
+20210412012709 {"uri": "https://web.archive.org/web/20210412012709/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Mon, 12 Apr 2021 01:27:09 GMT"}
+20210512043121 {"uri": "https://web.archive.org/web/20210512043121/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Wed, 12 May 2021 04:31:21 GMT"}
+20210612055105 {"uri": "https://web.archive.org/web/20210612055105/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Sat, 12 Jun 2021 05:51:05 GMT"}
+20210712015458 {"uri": "https://web.archive.org/web/20210712015458/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Mon, 12 Jul 2021 01:54:58 GMT"}
+20210812032806 {"uri": "https://web.archive.org/web/20210812032806/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "memento", "datetime": "Thu, 12 Aug 2021 03:28:06 GMT"}
+20210912033304 {"uri": "https://web.archive.org/web/20210912033304/https://www.cau.edu/school-of-business/Departments/Decision-sciences.html", "rel": "last memento", "datetime": "Sun, 12 Sep 2021 03:33:04 GMT"}

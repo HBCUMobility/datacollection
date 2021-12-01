@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/agriculture-natural-resources"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://cast.desu.edu/departments/agriculture-natural-resources"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://cast.desu.edu/departments/agriculture-natural-resources"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://cast.desu.edu/departments/agriculture-natural-resources", "json_format": "http://localhost:1208/timemap/json/https://cast.desu.edu/departments/agriculture-natural-resources", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/agriculture-natural-resources"}}
+20210619162444 {"uri": "https://wayback.archive-it.org/all/20210619162444/https://cast.desu.edu/departments/agriculture-natural-resources", "rel": "first last memento", "datetime": "Sat, 19 Jun 2021 16:24:44 GMT"}

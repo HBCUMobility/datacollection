@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://cea.howard.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://cea.howard.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://cea.howard.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://cea.howard.edu/", "json_format": "http://localhost:1208/timemap/json/https://cea.howard.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://cea.howard.edu/"}}
+20170207164810 {"uri": "http://archive.md/20170207164810/http://cea.howard.edu/", "rel": "first last memento", "datetime": "Tue, 07 Feb 2017 16:48:10 GMT"}

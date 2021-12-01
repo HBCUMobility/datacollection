@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/ephd/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.jsums.edu/ephd/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.jsums.edu/ephd/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.jsums.edu/ephd/", "json_format": "http://localhost:1208/timemap/json/https://www.jsums.edu/ephd/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/ephd/"}}
+20090306150603 {"uri": "https://wayback.archive-it.org/all/20090306150603/http://www.jsums.edu/ephd/", "rel": "first memento", "datetime": "Fri, 06 Mar 2009 15:06:03 GMT"}
+20090306150604 {"uri": "https://wayback.archive-it.org/all/20090306150604/http://www.jsums.edu/ephd/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 15:06:04 GMT"}
+20090306162127 {"uri": "https://wayback.archive-it.org/all/20090306162127/http://www.jsums.edu/ephd", "rel": "memento", "datetime": "Fri, 06 Mar 2009 16:21:27 GMT"}
+20090306162128 {"uri": "https://wayback.archive-it.org/all/20090306162128/http://www.jsums.edu/ephd", "rel": "memento", "datetime": "Fri, 06 Mar 2009 16:21:28 GMT"}
+20090309174526 {"uri": "https://wayback.archive-it.org/all/20090309174526/http://www.jsums.edu/ephd/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 17:45:26 GMT"}
+20090309182725 {"uri": "https://wayback.archive-it.org/all/20090309182725/http://www.jsums.edu/ephd", "rel": "memento", "datetime": "Mon, 09 Mar 2009 18:27:25 GMT"}
+20090311183952 {"uri": "https://wayback.archive-it.org/all/20090311183952/http://www.jsums.edu/ephd", "rel": "memento", "datetime": "Wed, 11 Mar 2009 18:39:52 GMT"}
+20090313163821 {"uri": "https://wayback.archive-it.org/all/20090313163821/http://www.jsums.edu/ephd", "rel": "memento", "datetime": "Fri, 13 Mar 2009 16:38:21 GMT"}
+20090317160851 {"uri": "https://wayback.archive-it.org/all/20090317160851/http://www.jsums.edu/ephd/", "rel": "memento", "datetime": "Tue, 17 Mar 2009 16:08:51 GMT"}
+20120216002429 {"uri": "https://wayback.archive-it.org/all/20120216002429/http://www.jsums.edu/ephd", "rel": "memento", "datetime": "Thu, 16 Feb 2012 00:24:29 GMT"}
+20120216031620 {"uri": "https://wayback.archive-it.org/all/20120216031620/http://www.jsums.edu/ephd/", "rel": "last memento", "datetime": "Thu, 16 Feb 2012 03:16:20 GMT"}

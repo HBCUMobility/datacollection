@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://biz.hamptonu.edu/page/Accounting-and-Finance"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://biz.hamptonu.edu/page/Accounting-and-Finance"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://biz.hamptonu.edu/page/Accounting-and-Finance"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://biz.hamptonu.edu/page/Accounting-and-Finance", "json_format": "http://localhost:1208/timemap/json/http://biz.hamptonu.edu/page/Accounting-and-Finance", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://biz.hamptonu.edu/page/Accounting-and-Finance"}}
+20190529113347 {"uri": "https://web.archive.org/web/20190529113347/http://biz.hamptonu.edu:80/page/Accounting-and-Finance", "rel": "first memento", "datetime": "Wed, 29 May 2019 11:33:47 GMT"}
+20190706185255 {"uri": "https://web.archive.org/web/20190706185255/http://biz.hamptonu.edu:80/page/Accounting-and-Finance", "rel": "memento", "datetime": "Sat, 06 Jul 2019 18:52:55 GMT"}
+20190806203405 {"uri": "https://web.archive.org/web/20190806203405/http://biz.hamptonu.edu:80/page/Accounting-and-Finance", "rel": "memento", "datetime": "Tue, 06 Aug 2019 20:34:05 GMT"}
+20190907181510 {"uri": "https://web.archive.org/web/20190907181510/http://biz.hamptonu.edu:80/page/Accounting-and-Finance", "rel": "memento", "datetime": "Sat, 07 Sep 2019 18:15:10 GMT"}
+20191021114454 {"uri": "https://web.archive.org/web/20191021114454/http://biz.hamptonu.edu:80/page/Accounting-and-Finance", "rel": "memento", "datetime": "Mon, 21 Oct 2019 11:44:54 GMT"}
+20191220195221 {"uri": "https://web.archive.org/web/20191220195221/http://biz.hamptonu.edu:80/page/Accounting-and-Finance", "rel": "memento", "datetime": "Fri, 20 Dec 2019 19:52:21 GMT"}
+20200616160902 {"uri": "https://web.archive.org/web/20200616160902/http://biz.hamptonu.edu/page/Accounting-and-Finance", "rel": "memento", "datetime": "Tue, 16 Jun 2020 16:09:02 GMT"}
+20200628170123 {"uri": "https://web.archive.org/web/20200628170123/http://biz.hamptonu.edu:80/page/Accounting-and-Finance", "rel": "last memento", "datetime": "Sun, 28 Jun 2020 17:01:23 GMT"}

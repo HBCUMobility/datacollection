@@ -1,0 +1,38 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/familyscience/index.aspx"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/familyscience/index.aspx"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/familyscience/index.aspx"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/familyscience/index.aspx", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/familyscience/index.aspx", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/familyscience/index.aspx"}}
+20151130052901 {"uri": "https://web.archive.org/web/20151130052901/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "first memento", "datetime": "Mon, 30 Nov 2015 05:29:01 GMT"}
+20151231141519 {"uri": "https://web.archive.org/web/20151231141519/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Thu, 31 Dec 2015 14:15:19 GMT"}
+20160712143631 {"uri": "https://web.archive.org/web/20160712143631/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Tue, 12 Jul 2016 14:36:31 GMT"}
+20160813030622 {"uri": "https://web.archive.org/web/20160813030622/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Sat, 13 Aug 2016 03:06:22 GMT"}
+20160814094427 {"uri": "https://web.archive.org/web/20160814094427/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Sun, 14 Aug 2016 09:44:27 GMT"}
+20160922174925 {"uri": "https://web.archive.org/web/20160922174925/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Thu, 22 Sep 2016 17:49:25 GMT"}
+20161024222645 {"uri": "https://web.archive.org/web/20161024222645/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Mon, 24 Oct 2016 22:26:45 GMT"}
+20170524023733 {"uri": "https://web.archive.org/web/20170524023733/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Wed, 24 May 2017 02:37:33 GMT"}
+20170724204857 {"uri": "https://web.archive.org/web/20170724204857/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Mon, 24 Jul 2017 20:48:57 GMT"}
+20171113073831 {"uri": "https://web.archive.org/web/20171113073831/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Mon, 13 Nov 2017 07:38:31 GMT"}
+20171214024502 {"uri": "https://web.archive.org/web/20171214024502/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Thu, 14 Dec 2017 02:45:02 GMT"}
+20180114020546 {"uri": "https://web.archive.org/web/20180114020546/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Sun, 14 Jan 2018 02:05:46 GMT"}
+20180214091819 {"uri": "https://web.archive.org/web/20180214091819/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Wed, 14 Feb 2018 09:18:19 GMT"}
+20180317145355 {"uri": "https://web.archive.org/web/20180317145355/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Sat, 17 Mar 2018 14:53:55 GMT"}
+20180419135710 {"uri": "https://web.archive.org/web/20180419135710/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Thu, 19 Apr 2018 13:57:10 GMT"}
+20180523111803 {"uri": "https://web.archive.org/web/20180523111803/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Wed, 23 May 2018 11:18:03 GMT"}
+20180625203501 {"uri": "https://web.archive.org/web/20180625203501/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Mon, 25 Jun 2018 20:35:01 GMT"}
+20180627091358 {"uri": "https://web.archive.org/web/20180627091358/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Wed, 27 Jun 2018 09:13:58 GMT"}
+20180801163511 {"uri": "https://web.archive.org/web/20180801163511/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Wed, 01 Aug 2018 16:35:11 GMT"}
+20180905155756 {"uri": "https://web.archive.org/web/20180905155756/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Wed, 05 Sep 2018 15:57:56 GMT"}
+20181009204213 {"uri": "https://web.archive.org/web/20181009204213/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Tue, 09 Oct 2018 20:42:13 GMT"}
+20190710112238 {"uri": "https://web.archive.org/web/20190710112238/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Wed, 10 Jul 2019 11:22:38 GMT"}
+20190817031115 {"uri": "https://web.archive.org/web/20190817031115/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Sat, 17 Aug 2019 03:11:15 GMT"}
+20190919200305 {"uri": "https://web.archive.org/web/20190919200305/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Thu, 19 Sep 2019 20:03:05 GMT"}
+20191016181650 {"uri": "https://web.archive.org/web/20191016181650/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Wed, 16 Oct 2019 18:16:50 GMT"}
+20191115222352 {"uri": "https://web.archive.org/web/20191115222352/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Fri, 15 Nov 2019 22:23:52 GMT"}
+20191216005513 {"uri": "https://web.archive.org/web/20191216005513/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Mon, 16 Dec 2019 00:55:13 GMT"}
+20200115092339 {"uri": "https://web.archive.org/web/20200115092339/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Wed, 15 Jan 2020 09:23:39 GMT"}
+20200214174043 {"uri": "https://web.archive.org/web/20200214174043/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Fri, 14 Feb 2020 17:40:43 GMT"}
+20200301142737 {"uri": "https://web.archive.org/web/20200301142737/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Sun, 01 Mar 2020 14:27:37 GMT"}
+20200501083522 {"uri": "https://web.archive.org/web/20200501083522/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "memento", "datetime": "Fri, 01 May 2020 08:35:22 GMT"}
+20200630220142 {"uri": "https://web.archive.org/web/20200630220142/http://www.tnstate.edu:80/familyscience/index.aspx", "rel": "last memento", "datetime": "Tue, 30 Jun 2020 22:01:42 GMT"}

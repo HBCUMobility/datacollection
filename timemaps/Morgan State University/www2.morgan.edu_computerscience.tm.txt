@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/computerscience"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/computerscience"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/computerscience"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/computerscience", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/computerscience", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/computerscience"}}
+20170316224336 {"uri": "https://wayback.archive-it.org/all/20170316224336/http://www.morgan.edu/computerscience", "rel": "first last memento", "datetime": "Thu, 16 Mar 2017 22:43:36 GMT"}

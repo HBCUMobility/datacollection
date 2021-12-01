@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://biz.hamptonu.edu/page/Marketing"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://biz.hamptonu.edu/page/Marketing"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://biz.hamptonu.edu/page/Marketing"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://biz.hamptonu.edu/page/Marketing", "json_format": "http://localhost:1208/timemap/json/http://biz.hamptonu.edu/page/Marketing", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://biz.hamptonu.edu/page/Marketing"}}
+20190529113442 {"uri": "https://web.archive.org/web/20190529113442/http://biz.hamptonu.edu:80/page/Marketing", "rel": "first memento", "datetime": "Wed, 29 May 2019 11:34:42 GMT"}
+20190728225115 {"uri": "https://web.archive.org/web/20190728225115/http://biz.hamptonu.edu:80/page/Marketing", "rel": "memento", "datetime": "Sun, 28 Jul 2019 22:51:15 GMT"}
+20190928131417 {"uri": "https://web.archive.org/web/20190928131417/http://biz.hamptonu.edu:80/page/Marketing", "rel": "memento", "datetime": "Sat, 28 Sep 2019 13:14:17 GMT"}
+20191021114319 {"uri": "https://web.archive.org/web/20191021114319/http://biz.hamptonu.edu:80/page/Marketing", "rel": "memento", "datetime": "Mon, 21 Oct 2019 11:43:19 GMT"}
+20191220195554 {"uri": "https://web.archive.org/web/20191220195554/http://biz.hamptonu.edu:80/page/Marketing", "rel": "memento", "datetime": "Fri, 20 Dec 2019 19:55:54 GMT"}
+20200219000414 {"uri": "https://web.archive.org/web/20200219000414/http://biz.hamptonu.edu:80/page/Marketing", "rel": "memento", "datetime": "Wed, 19 Feb 2020 00:04:14 GMT"}
+20200616175614 {"uri": "https://web.archive.org/web/20200616175614/http://biz.hamptonu.edu/page/Marketing", "rel": "memento", "datetime": "Tue, 16 Jun 2020 17:56:14 GMT"}
+20200628170249 {"uri": "https://web.archive.org/web/20200628170249/http://biz.hamptonu.edu:80/page/Marketing", "rel": "last memento", "datetime": "Sun, 28 Jun 2020 17:02:49 GMT"}

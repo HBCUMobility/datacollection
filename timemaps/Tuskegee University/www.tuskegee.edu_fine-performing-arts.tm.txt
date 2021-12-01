@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts"}}
+20190914105833 {"uri": "https://wayback.archive-it.org/all/20190914105833/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts", "rel": "first memento", "datetime": "Sat, 14 Sep 2019 10:58:33 GMT"}
+20191103102539 {"uri": "https://wayback.archive-it.org/all/20191103102539/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts", "rel": "memento", "datetime": "Sun, 03 Nov 2019 10:25:39 GMT"}
+20200115164702 {"uri": "https://wayback.archive-it.org/all/20200115164702/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts", "rel": "memento", "datetime": "Wed, 15 Jan 2020 16:47:02 GMT"}
+20200521152231 {"uri": "https://wayback.archive-it.org/all/20200521152231/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts", "rel": "memento", "datetime": "Thu, 21 May 2020 15:22:31 GMT"}
+20210207033238 {"uri": "https://wayback.archive-it.org/all/20210207033238/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/fine-performing-arts", "rel": "last memento", "datetime": "Sun, 07 Feb 2021 03:32:38 GMT"}

@@ -1,0 +1,45 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://biz.hamptonu.edu/page/Management"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://biz.hamptonu.edu/page/Management"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://biz.hamptonu.edu/page/Management"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://biz.hamptonu.edu/page/Management", "json_format": "http://localhost:1208/timemap/json/http://biz.hamptonu.edu/page/Management", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://biz.hamptonu.edu/page/Management"}}
+20150303002400 {"uri": "https://web.archive.org/web/20150303002400/http://biz.hamptonu.edu:80/page/Management", "rel": "first memento", "datetime": "Tue, 03 Mar 2015 00:24:00 GMT"}
+20150319192706 {"uri": "https://web.archive.org/web/20150319192706/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Thu, 19 Mar 2015 19:27:06 GMT"}
+20150419133300 {"uri": "https://web.archive.org/web/20150419133300/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sun, 19 Apr 2015 13:33:00 GMT"}
+20150520181037 {"uri": "https://web.archive.org/web/20150520181037/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Wed, 20 May 2015 18:10:37 GMT"}
+20150627053745 {"uri": "https://web.archive.org/web/20150627053745/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sat, 27 Jun 2015 05:37:45 GMT"}
+20151005090409 {"uri": "https://web.archive.org/web/20151005090409/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Mon, 05 Oct 2015 09:04:09 GMT"}
+20151105040345 {"uri": "https://web.archive.org/web/20151105040345/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Thu, 05 Nov 2015 04:03:45 GMT"}
+20160419213553 {"uri": "https://web.archive.org/web/20160419213553/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Tue, 19 Apr 2016 21:35:53 GMT"}
+20160716100210 {"uri": "https://web.archive.org/web/20160716100210/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sat, 16 Jul 2016 10:02:10 GMT"}
+20160816190316 {"uri": "https://web.archive.org/web/20160816190316/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Tue, 16 Aug 2016 19:03:16 GMT"}
+20170419173213 {"uri": "https://web.archive.org/web/20170419173213/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Wed, 19 Apr 2017 17:32:13 GMT"}
+20170420104836 {"uri": "https://web.archive.org/web/20170420104836/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Thu, 20 Apr 2017 10:48:36 GMT"}
+20170521151622 {"uri": "https://web.archive.org/web/20170521151622/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sun, 21 May 2017 15:16:22 GMT"}
+20170621115324 {"uri": "https://web.archive.org/web/20170621115324/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Wed, 21 Jun 2017 11:53:24 GMT"}
+20171009073824 {"uri": "https://web.archive.org/web/20171009073824/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Mon, 09 Oct 2017 07:38:24 GMT"}
+20171109083327 {"uri": "https://web.archive.org/web/20171109083327/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Thu, 09 Nov 2017 08:33:27 GMT"}
+20180706040221 {"uri": "https://web.archive.org/web/20180706040221/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Fri, 06 Jul 2018 04:02:21 GMT"}
+20180806184539 {"uri": "https://web.archive.org/web/20180806184539/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Mon, 06 Aug 2018 18:45:39 GMT"}
+20180906215757 {"uri": "https://web.archive.org/web/20180906215757/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Thu, 06 Sep 2018 21:57:57 GMT"}
+20181008142446 {"uri": "https://web.archive.org/web/20181008142446/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Mon, 08 Oct 2018 14:24:46 GMT"}
+20181108122605 {"uri": "https://web.archive.org/web/20181108122605/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Thu, 08 Nov 2018 12:26:05 GMT"}
+20181209124611 {"uri": "https://web.archive.org/web/20181209124611/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sun, 09 Dec 2018 12:46:11 GMT"}
+20190109191017 {"uri": "https://web.archive.org/web/20190109191017/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Wed, 09 Jan 2019 19:10:17 GMT"}
+20190209220501 {"uri": "https://web.archive.org/web/20190209220501/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sat, 09 Feb 2019 22:05:01 GMT"}
+20190211001531 {"uri": "https://web.archive.org/web/20190211001531/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Mon, 11 Feb 2019 00:15:31 GMT"}
+20190314131755 {"uri": "https://web.archive.org/web/20190314131755/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Thu, 14 Mar 2019 13:17:55 GMT"}
+20190415092500 {"uri": "https://web.archive.org/web/20190415092500/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Mon, 15 Apr 2019 09:25:00 GMT"}
+20190517211031 {"uri": "https://web.archive.org/web/20190517211031/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Fri, 17 May 2019 21:10:31 GMT"}
+20190617213528 {"uri": "https://web.archive.org/web/20190617213528/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Mon, 17 Jun 2019 21:35:28 GMT"}
+20190720013400 {"uri": "https://web.archive.org/web/20190720013400/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sat, 20 Jul 2019 01:34:00 GMT"}
+20190820023853 {"uri": "https://web.archive.org/web/20190820023853/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Tue, 20 Aug 2019 02:38:53 GMT"}
+20190921161515 {"uri": "https://web.archive.org/web/20190921161515/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sat, 21 Sep 2019 16:15:15 GMT"}
+20191019184751 {"uri": "https://web.archive.org/web/20191019184751/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sat, 19 Oct 2019 18:47:51 GMT"}
+20191119014225 {"uri": "https://web.archive.org/web/20191119014225/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Tue, 19 Nov 2019 01:42:25 GMT"}
+20191219070341 {"uri": "https://web.archive.org/web/20191219070341/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Thu, 19 Dec 2019 07:03:41 GMT"}
+20200118130613 {"uri": "https://web.archive.org/web/20200118130613/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Sat, 18 Jan 2020 13:06:13 GMT"}
+20200217185749 {"uri": "https://web.archive.org/web/20200217185749/http://biz.hamptonu.edu:80/page/Management", "rel": "memento", "datetime": "Mon, 17 Feb 2020 18:57:49 GMT"}
+20200616163633 {"uri": "https://web.archive.org/web/20200616163633/http://biz.hamptonu.edu/page/Management", "rel": "memento", "datetime": "Tue, 16 Jun 2020 16:36:33 GMT"}
+20200628170243 {"uri": "https://web.archive.org/web/20200628170243/http://biz.hamptonu.edu:80/page/Management", "rel": "last memento", "datetime": "Sun, 28 Jun 2020 17:02:43 GMT"}

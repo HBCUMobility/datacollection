@@ -1,0 +1,57 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/accounting"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/accounting"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/accounting"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/accounting", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/accounting", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/accounting"}}
+20151113015522 {"uri": "https://web.archive.org/web/20151113015522/http://www.morgan.edu:80/accounting", "rel": "first memento", "datetime": "Fri, 13 Nov 2015 01:55:22 GMT"}
+20151118224519 {"uri": "https://web.archive.org/web/20151118224519/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Wed, 18 Nov 2015 22:45:19 GMT"}
+20151206024913 {"uri": "https://web.archive.org/web/20151206024913/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sun, 06 Dec 2015 02:49:13 GMT"}
+20151223220453 {"uri": "https://web.archive.org/web/20151223220453/http://www.morgan.edu/accounting", "rel": "memento", "datetime": "Wed, 23 Dec 2015 22:04:53 GMT"}
+20160112013214 {"uri": "https://web.archive.org/web/20160112013214/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Tue, 12 Jan 2016 01:32:14 GMT"}
+20160322060918 {"uri": "https://web.archive.org/web/20160322060918/http://www.morgan.edu/accounting", "rel": "memento", "datetime": "Tue, 22 Mar 2016 06:09:18 GMT"}
+20160414140833 {"uri": "https://web.archive.org/web/20160414140833/http://morgan.edu/accounting", "rel": "memento", "datetime": "Thu, 14 Apr 2016 14:08:33 GMT"}
+20160423232940 {"uri": "https://web.archive.org/web/20160423232940/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sat, 23 Apr 2016 23:29:40 GMT"}
+20160511132311 {"uri": "https://web.archive.org/web/20160511132311/http://www.morgan.edu/accounting", "rel": "memento", "datetime": "Wed, 11 May 2016 13:23:11 GMT"}
+20160525020737 {"uri": "https://web.archive.org/web/20160525020737/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Wed, 25 May 2016 02:07:37 GMT"}
+20160625140918 {"uri": "https://web.archive.org/web/20160625140918/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sat, 25 Jun 2016 14:09:18 GMT"}
+20160727224648 {"uri": "https://web.archive.org/web/20160727224648/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Wed, 27 Jul 2016 22:46:48 GMT"}
+20160729114048 {"uri": "https://web.archive.org/web/20160729114048/http://www.morgan.edu/accounting", "rel": "memento", "datetime": "Fri, 29 Jul 2016 11:40:48 GMT"}
+20160828144937 {"uri": "https://web.archive.org/web/20160828144937/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sun, 28 Aug 2016 14:49:37 GMT"}
+20160930234230 {"uri": "https://web.archive.org/web/20160930234230/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Fri, 30 Sep 2016 23:42:30 GMT"}
+20161104132901 {"uri": "https://web.archive.org/web/20161104132901/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Fri, 04 Nov 2016 13:29:01 GMT"}
+20170312115858 {"uri": "https://web.archive.org/web/20170312115858/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sun, 12 Mar 2017 11:58:58 GMT"}
+20170316224054 {"uri": "https://wayback.archive-it.org/all/20170316224054/http://www.morgan.edu/accounting", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:40:54 GMT"}
+20170316224054 {"uri": "https://web.archive.org/web/20170316224054/http://www.morgan.edu/accounting", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:40:54 GMT"}
+20170504092123 {"uri": "https://web.archive.org/web/20170504092123/http://morgan.edu/accounting", "rel": "memento", "datetime": "Thu, 04 May 2017 09:21:23 GMT"}
+20170613150524 {"uri": "https://web.archive.org/web/20170613150524/http://morgan.edu/accounting", "rel": "memento", "datetime": "Tue, 13 Jun 2017 15:05:24 GMT"}
+20170617011419 {"uri": "https://web.archive.org/web/20170617011419/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sat, 17 Jun 2017 01:14:19 GMT"}
+20170718083140 {"uri": "https://web.archive.org/web/20170718083140/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Tue, 18 Jul 2017 08:31:40 GMT"}
+20170820125109 {"uri": "https://web.archive.org/web/20170820125109/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sun, 20 Aug 2017 12:51:09 GMT"}
+20170821140124 {"uri": "https://web.archive.org/web/20170821140124/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Mon, 21 Aug 2017 14:01:24 GMT"}
+20170923001411 {"uri": "https://web.archive.org/web/20170923001411/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sat, 23 Sep 2017 00:14:11 GMT"}
+20171024215735 {"uri": "https://web.archive.org/web/20171024215735/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Tue, 24 Oct 2017 21:57:35 GMT"}
+20171103200911 {"uri": "https://web.archive.org/web/20171103200911/http://morgan.edu:80/accounting", "rel": "memento", "datetime": "Fri, 03 Nov 2017 20:09:11 GMT"}
+20171129201935 {"uri": "https://web.archive.org/web/20171129201935/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Wed, 29 Nov 2017 20:19:35 GMT"}
+20171231043930 {"uri": "https://web.archive.org/web/20171231043930/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sun, 31 Dec 2017 04:39:30 GMT"}
+20180131062055 {"uri": "https://web.archive.org/web/20180131062055/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Wed, 31 Jan 2018 06:20:55 GMT"}
+20180308065844 {"uri": "https://web.archive.org/web/20180308065844/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Thu, 08 Mar 2018 06:58:44 GMT"}
+20180408182913 {"uri": "https://web.archive.org/web/20180408182913/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sun, 08 Apr 2018 18:29:13 GMT"}
+20180512064116 {"uri": "https://web.archive.org/web/20180512064116/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sat, 12 May 2018 06:41:16 GMT"}
+20180513112301 {"uri": "https://web.archive.org/web/20180513112301/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sun, 13 May 2018 11:23:01 GMT"}
+20180614173410 {"uri": "https://web.archive.org/web/20180614173410/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Thu, 14 Jun 2018 17:34:10 GMT"}
+20180718061954 {"uri": "https://web.archive.org/web/20180718061954/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Wed, 18 Jul 2018 06:19:54 GMT"}
+20180826195944 {"uri": "https://web.archive.org/web/20180826195944/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sun, 26 Aug 2018 19:59:44 GMT"}
+20181023080617 {"uri": "https://web.archive.org/web/20181023080617/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Tue, 23 Oct 2018 08:06:17 GMT"}
+20190830085138 {"uri": "https://web.archive.org/web/20190830085138/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Fri, 30 Aug 2019 08:51:38 GMT"}
+20190831160059 {"uri": "https://web.archive.org/web/20190831160059/http://www.morgan.edu:80/accounting", "rel": "memento", "datetime": "Sat, 31 Aug 2019 16:00:59 GMT"}
+20200418072052 {"uri": "https://web.archive.org/web/20200418072052/https://www.morgan.edu/accounting", "rel": "memento", "datetime": "Sat, 18 Apr 2020 07:20:52 GMT"}
+20200717024958 {"uri": "https://web.archive.org/web/20200717024958/https://www.morgan.edu/accounting", "rel": "memento", "datetime": "Fri, 17 Jul 2020 02:49:58 GMT"}
+20200812142236 {"uri": "https://web.archive.org/web/20200812142236/https://morgan.edu/accounting", "rel": "memento", "datetime": "Wed, 12 Aug 2020 14:22:36 GMT"}
+20201028164125 {"uri": "https://web.archive.org/web/20201028164125/https://morgan.edu/accounting", "rel": "memento", "datetime": "Wed, 28 Oct 2020 16:41:25 GMT"}
+20201031190756 {"uri": "https://web.archive.org/web/20201031190756/http://www.morgan.edu/accounting", "rel": "memento", "datetime": "Sat, 31 Oct 2020 19:07:56 GMT"}
+20210125223513 {"uri": "https://web.archive.org/web/20210125223513/https://morgan.edu/accounting", "rel": "memento", "datetime": "Mon, 25 Jan 2021 22:35:13 GMT"}
+20210413173830 {"uri": "https://web.archive.org/web/20210413173830/https://morgan.edu/accounting", "rel": "memento", "datetime": "Tue, 13 Apr 2021 17:38:30 GMT"}
+20210414030735 {"uri": "https://web.archive.org/web/20210414030735/https://morgan.edu/accounting", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:07:35 GMT"}
+20210414044339 {"uri": "https://web.archive.org/web/20210414044339/http://morgan.edu/accounting", "rel": "memento", "datetime": "Wed, 14 Apr 2021 04:43:39 GMT"}
+20210814075049 {"uri": "https://web.archive.org/web/20210814075049/https://morgan.edu/accounting", "rel": "last memento", "datetime": "Sat, 14 Aug 2021 07:50:49 GMT"}

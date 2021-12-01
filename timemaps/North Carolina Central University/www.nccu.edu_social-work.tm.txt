@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/social-work"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/cash/social-work"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/cash/social-work"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/cash/social-work", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/cash/social-work", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/social-work"}}
+20210225161250 {"uri": "https://web.archive.org/web/20210225161250/https://www.nccu.edu/cash/social-work", "rel": "first last memento", "datetime": "Thu, 25 Feb 2021 16:12:50 GMT"}

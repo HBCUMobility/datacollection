@@ -1,0 +1,38 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/cae/degree-ae.aspx"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/cae/degree-ae.aspx"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/cae/degree-ae.aspx"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/cae/degree-ae.aspx", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/cae/degree-ae.aspx", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/cae/degree-ae.aspx"}}
+20150906034244 {"uri": "https://web.archive.org/web/20150906034244/http://www.tnstate.edu/cae/degree-ae.aspx", "rel": "first memento", "datetime": "Sun, 06 Sep 2015 03:42:44 GMT"}
+20160107024508 {"uri": "https://web.archive.org/web/20160107024508/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Thu, 07 Jan 2016 02:45:08 GMT"}
+20160301145145 {"uri": "https://web.archive.org/web/20160301145145/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Tue, 01 Mar 2016 14:51:45 GMT"}
+20170828085025 {"uri": "https://web.archive.org/web/20170828085025/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Mon, 28 Aug 2017 08:50:25 GMT"}
+20180124051735 {"uri": "https://web.archive.org/web/20180124051735/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Wed, 24 Jan 2018 05:17:35 GMT"}
+20180125071009 {"uri": "https://web.archive.org/web/20180125071009/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Thu, 25 Jan 2018 07:10:09 GMT"}
+20180225092026 {"uri": "https://web.archive.org/web/20180225092026/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Sun, 25 Feb 2018 09:20:26 GMT"}
+20180330010046 {"uri": "https://web.archive.org/web/20180330010046/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Fri, 30 Mar 2018 01:00:46 GMT"}
+20180331015707 {"uri": "https://web.archive.org/web/20180331015707/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Sat, 31 Mar 2018 01:57:07 GMT"}
+20180503182721 {"uri": "https://web.archive.org/web/20180503182721/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Thu, 03 May 2018 18:27:21 GMT"}
+20180606053528 {"uri": "https://web.archive.org/web/20180606053528/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Wed, 06 Jun 2018 05:35:28 GMT"}
+20180607085358 {"uri": "https://web.archive.org/web/20180607085358/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Thu, 07 Jun 2018 08:53:58 GMT"}
+20180709070302 {"uri": "https://web.archive.org/web/20180709070302/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Mon, 09 Jul 2018 07:03:02 GMT"}
+20180810063236 {"uri": "https://web.archive.org/web/20180810063236/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Fri, 10 Aug 2018 06:32:36 GMT"}
+20180811194033 {"uri": "https://web.archive.org/web/20180811194033/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Sat, 11 Aug 2018 19:40:33 GMT"}
+20180914191618 {"uri": "https://web.archive.org/web/20180914191618/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Fri, 14 Sep 2018 19:16:18 GMT"}
+20181016004344 {"uri": "https://web.archive.org/web/20181016004344/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Tue, 16 Oct 2018 00:43:44 GMT"}
+20181017075800 {"uri": "https://web.archive.org/web/20181017075800/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Wed, 17 Oct 2018 07:58:00 GMT"}
+20190710112802 {"uri": "https://web.archive.org/web/20190710112802/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Wed, 10 Jul 2019 11:28:02 GMT"}
+20190817070930 {"uri": "https://web.archive.org/web/20190817070930/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Sat, 17 Aug 2019 07:09:30 GMT"}
+20190919132659 {"uri": "https://web.archive.org/web/20190919132659/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Thu, 19 Sep 2019 13:26:59 GMT"}
+20191117205720 {"uri": "https://web.archive.org/web/20191117205720/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Sun, 17 Nov 2019 20:57:20 GMT"}
+20191218022039 {"uri": "https://web.archive.org/web/20191218022039/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Wed, 18 Dec 2019 02:20:39 GMT"}
+20200117070654 {"uri": "https://web.archive.org/web/20200117070654/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Fri, 17 Jan 2020 07:06:54 GMT"}
+20200216120757 {"uri": "https://web.archive.org/web/20200216120757/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Sun, 16 Feb 2020 12:07:57 GMT"}
+20200301152921 {"uri": "https://web.archive.org/web/20200301152921/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Sun, 01 Mar 2020 15:29:21 GMT"}
+20200430171929 {"uri": "https://web.archive.org/web/20200430171929/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Thu, 30 Apr 2020 17:19:29 GMT"}
+20200629222958 {"uri": "https://web.archive.org/web/20200629222958/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Mon, 29 Jun 2020 22:29:58 GMT"}
+20200701034231 {"uri": "https://web.archive.org/web/20200701034231/http://www.tnstate.edu:80/cae/degree-ae.aspx", "rel": "memento", "datetime": "Wed, 01 Jul 2020 03:42:31 GMT"}
+20200810112822 {"uri": "https://web.archive.org/web/20200810112822/http://www.tnstate.edu/cae/degree-ae.aspx", "rel": "memento", "datetime": "Mon, 10 Aug 2020 11:28:22 GMT"}
+20201025165922 {"uri": "https://web.archive.org/web/20201025165922/http://www.tnstate.edu/cae/degree-ae.aspx", "rel": "memento", "datetime": "Sun, 25 Oct 2020 16:59:22 GMT"}
+20210506135818 {"uri": "https://web.archive.org/web/20210506135818/https://www.tnstate.edu/cae/degree-ae.aspx", "rel": "last memento", "datetime": "Thu, 06 May 2021 13:58:18 GMT"}

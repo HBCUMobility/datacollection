@@ -1,0 +1,26 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/anatomy"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/anatomy"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/anatomy"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/anatomy", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/anatomy", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/anatomy"}}
+20170504150826 {"uri": "https://web.archive.org/web/20170504150826/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "first memento", "datetime": "Thu, 04 May 2017 15:08:26 GMT"}
+20170604212859 {"uri": "https://web.archive.org/web/20170604212859/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Sun, 04 Jun 2017 21:28:59 GMT"}
+20170705223307 {"uri": "https://web.archive.org/web/20170705223307/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Wed, 05 Jul 2017 22:33:07 GMT"}
+20170805184414 {"uri": "https://web.archive.org/web/20170805184414/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Sat, 05 Aug 2017 18:44:14 GMT"}
+20170905172730 {"uri": "https://web.archive.org/web/20170905172730/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Tue, 05 Sep 2017 17:27:30 GMT"}
+20171007090927 {"uri": "https://web.archive.org/web/20171007090927/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Sat, 07 Oct 2017 09:09:27 GMT"}
+20171107011808 {"uri": "https://web.archive.org/web/20171107011808/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Tue, 07 Nov 2017 01:18:08 GMT"}
+20171208021825 {"uri": "https://web.archive.org/web/20171208021825/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Fri, 08 Dec 2017 02:18:25 GMT"}
+20180108183942 {"uri": "https://web.archive.org/web/20180108183942/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Mon, 08 Jan 2018 18:39:42 GMT"}
+20180208224547 {"uri": "https://web.archive.org/web/20180208224547/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Thu, 08 Feb 2018 22:45:47 GMT"}
+20180311230705 {"uri": "https://web.archive.org/web/20180311230705/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Sun, 11 Mar 2018 23:07:05 GMT"}
+20180725063115 {"uri": "https://web.archive.org/web/20180725063115/http://gs.howard.edu:80/graduate-programs/anatomy", "rel": "memento", "datetime": "Wed, 25 Jul 2018 06:31:15 GMT"}
+20200126055225 {"uri": "https://web.archive.org/web/20200126055225/https://gs.howard.edu/graduate-programs/anatomy", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:52:25 GMT"}
+20200928105250 {"uri": "https://web.archive.org/web/20200928105250/https://gs.howard.edu/graduate-programs/anatomy/", "rel": "memento", "datetime": "Mon, 28 Sep 2020 10:52:50 GMT"}
+20201001053031 {"uri": "https://web.archive.org/web/20201001053031/https://gs.howard.edu/graduate-programs/anatomy", "rel": "memento", "datetime": "Thu, 01 Oct 2020 05:30:31 GMT"}
+20201201151015 {"uri": "https://web.archive.org/web/20201201151015/https://gs.howard.edu/graduate-programs/anatomy", "rel": "memento", "datetime": "Tue, 01 Dec 2020 15:10:15 GMT"}
+20201202010916 {"uri": "https://web.archive.org/web/20201202010916/https://gs.howard.edu/graduate-programs/anatomy", "rel": "memento", "datetime": "Wed, 02 Dec 2020 01:09:16 GMT"}
+20210121133022 {"uri": "https://web.archive.org/web/20210121133022/https://gs.howard.edu/graduate-programs/anatomy/", "rel": "memento", "datetime": "Thu, 21 Jan 2021 13:30:22 GMT"}
+20210301102424 {"uri": "https://web.archive.org/web/20210301102424/https://gs.howard.edu/graduate-programs/anatomy", "rel": "memento", "datetime": "Mon, 01 Mar 2021 10:24:24 GMT"}
+20210416010320 {"uri": "https://web.archive.org/web/20210416010320/https://gs.howard.edu/graduate-programs/anatomy", "rel": "last memento", "datetime": "Fri, 16 Apr 2021 01:03:20 GMT"}

@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/psychology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/psychology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/psychology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/psychology", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/psychology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/psychology"}}
+20200812154119 {"uri": "https://web.archive.org/web/20200812154119/https://morgan.edu/psychology", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 15:41:19 GMT"}
+20200815081211 {"uri": "https://web.archive.org/web/20200815081211/https://www.morgan.edu/psychology", "rel": "memento", "datetime": "Sat, 15 Aug 2020 08:12:11 GMT"}
+20201028180222 {"uri": "https://web.archive.org/web/20201028180222/https://morgan.edu/psychology", "rel": "memento", "datetime": "Wed, 28 Oct 2020 18:02:22 GMT"}
+20201031104217 {"uri": "https://web.archive.org/web/20201031104217/https://www.morgan.edu/psychology", "rel": "memento", "datetime": "Sat, 31 Oct 2020 10:42:17 GMT"}
+20210123212525 {"uri": "https://web.archive.org/web/20210123212525/https://www.morgan.edu/psychology", "rel": "memento", "datetime": "Sat, 23 Jan 2021 21:25:25 GMT"}
+20210126002437 {"uri": "https://web.archive.org/web/20210126002437/https://morgan.edu/psychology", "rel": "memento", "datetime": "Tue, 26 Jan 2021 00:24:37 GMT"}
+20210301043717 {"uri": "https://web.archive.org/web/20210301043717/https://www.morgan.edu/psychology", "rel": "memento", "datetime": "Mon, 01 Mar 2021 04:37:17 GMT"}
+20210414054149 {"uri": "https://web.archive.org/web/20210414054149/https://morgan.edu/psychology", "rel": "memento", "datetime": "Wed, 14 Apr 2021 05:41:49 GMT"}
+20210814031317 {"uri": "https://web.archive.org/web/20210814031317/https://morgan.edu/psychology", "rel": "last memento", "datetime": "Sat, 14 Aug 2021 03:13:17 GMT"}
