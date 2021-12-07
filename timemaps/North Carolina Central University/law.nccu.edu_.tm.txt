@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://law.nccu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://law.nccu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://law.nccu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://law.nccu.edu/", "json_format": "http://localhost:1208/timemap/json/https://law.nccu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://law.nccu.edu/"}}
+20080110075733 {"uri": "http://archive.md/20080110075733/http://law.nccu.edu/", "rel": "first memento", "datetime": "Thu, 10 Jan 2008 07:57:33 GMT"}
+20120721030601 {"uri": "http://archive.md/20120721030601/http://law.nccu.edu/", "rel": "memento", "datetime": "Sat, 21 Jul 2012 03:06:01 GMT"}
+20121214203148 {"uri": "http://archive.md/20121214203148/http://law.nccu.edu/", "rel": "memento", "datetime": "Fri, 14 Dec 2012 20:31:48 GMT"}
+20160524192811 {"uri": "https://arquivo.pt/wayback/20160524192811mp_/http://law.nccu.edu/", "rel": "memento", "datetime": "Tue, 24 May 2016 19:28:11 GMT"}
+20170701015904 {"uri": "https://wayback.archive-it.org/all/20170701015904/http://law.nccu.edu/", "rel": "memento", "datetime": "Sat, 01 Jul 2017 01:59:04 GMT"}
+20190208225449 {"uri": "https://wayback.archive-it.org/all/20190208225449/http://law.nccu.edu/", "rel": "memento", "datetime": "Fri, 08 Feb 2019 22:54:49 GMT"}
+20190928191533 {"uri": "https://arquivo.pt/wayback/20190928191533mp_/http://law.nccu.edu/", "rel": "memento", "datetime": "Sat, 28 Sep 2019 19:15:33 GMT"}
+20200206110753 {"uri": "https://arquivo.pt/wayback/20200206110753mp_/http://law.nccu.edu/", "rel": "last memento", "datetime": "Thu, 06 Feb 2020 11:07:53 GMT"}

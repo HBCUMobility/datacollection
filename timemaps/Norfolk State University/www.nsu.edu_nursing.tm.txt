@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/nursing"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/nursing"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/nursing"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/nursing", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/nursing", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/nursing"}}
+20090306154850 {"uri": "https://wayback.archive-it.org/all/20090306154850/https://www.nsu.edu/nursing/", "rel": "first memento", "datetime": "Fri, 06 Mar 2009 15:48:50 GMT"}
+20090306154851 {"uri": "https://wayback.archive-it.org/all/20090306154851/https://www.nsu.edu/nursing/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 15:48:51 GMT"}
+20090306161748 {"uri": "https://wayback.archive-it.org/all/20090306161748/http://www.nsu.edu/nursing/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 16:17:48 GMT"}
+20090306161749 {"uri": "https://wayback.archive-it.org/all/20090306161749/http://www.nsu.edu/nursing/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 16:17:49 GMT"}
+20090306181056 {"uri": "https://wayback.archive-it.org/all/20090306181056/http://www.nsu.edu/Nursing", "rel": "memento", "datetime": "Fri, 06 Mar 2009 18:10:56 GMT"}
+20090306181057 {"uri": "https://wayback.archive-it.org/all/20090306181057/http://www.nsu.edu/Nursing", "rel": "memento", "datetime": "Fri, 06 Mar 2009 18:10:57 GMT"}
+20090309191826 {"uri": "https://wayback.archive-it.org/all/20090309191826/http://www.nsu.edu/nursing/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 19:18:26 GMT"}
+20090309194142 {"uri": "https://wayback.archive-it.org/all/20090309194142/https://www.nsu.edu/nursing/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 19:41:42 GMT"}
+20090309214431 {"uri": "https://wayback.archive-it.org/all/20090309214431/http://www.nsu.edu/Nursing", "rel": "memento", "datetime": "Mon, 09 Mar 2009 21:44:31 GMT"}
+20090313152334 {"uri": "https://wayback.archive-it.org/all/20090313152334/https://www.nsu.edu/nursing/", "rel": "memento", "datetime": "Fri, 13 Mar 2009 15:23:34 GMT"}
+20090313154623 {"uri": "https://wayback.archive-it.org/all/20090313154623/http://www.nsu.edu/nursing/", "rel": "memento", "datetime": "Fri, 13 Mar 2009 15:46:23 GMT"}
+20090313165437 {"uri": "https://wayback.archive-it.org/all/20090313165437/http://www.nsu.edu/Nursing", "rel": "memento", "datetime": "Fri, 13 Mar 2009 16:54:37 GMT"}
+20090315172624 {"uri": "https://wayback.archive-it.org/all/20090315172624/https://www.nsu.edu/nursing/", "rel": "memento", "datetime": "Sun, 15 Mar 2009 17:26:24 GMT"}
+20090317161219 {"uri": "https://wayback.archive-it.org/all/20090317161219/https://www.nsu.edu/nursing/", "rel": "last memento", "datetime": "Tue, 17 Mar 2009 16:12:19 GMT"}

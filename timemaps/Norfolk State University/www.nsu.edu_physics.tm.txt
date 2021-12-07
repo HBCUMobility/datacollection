@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/physics"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/physics"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/physics"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/physics", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/physics", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/physics"}}
+20090306174754 {"uri": "https://wayback.archive-it.org/all/20090306174754/http://www.nsu.edu/physics", "rel": "first memento", "datetime": "Fri, 06 Mar 2009 17:47:54 GMT"}
+20090306174755 {"uri": "https://wayback.archive-it.org/all/20090306174755/http://www.nsu.edu/physics", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:47:55 GMT"}
+20090306185024 {"uri": "https://wayback.archive-it.org/all/20090306185024/http://www.nsu.edu/physics/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 18:50:24 GMT"}
+20090306185025 {"uri": "https://wayback.archive-it.org/all/20090306185025/http://www.nsu.edu/physics/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 18:50:25 GMT"}
+20090307023341 {"uri": "https://wayback.archive-it.org/all/20090307023341/https://www.nsu.edu/physics/", "rel": "memento", "datetime": "Sat, 07 Mar 2009 02:33:41 GMT"}
+20090309211233 {"uri": "https://wayback.archive-it.org/all/20090309211233/http://www.nsu.edu/physics", "rel": "memento", "datetime": "Mon, 09 Mar 2009 21:12:33 GMT"}
+20090309222834 {"uri": "https://wayback.archive-it.org/all/20090309222834/http://www.nsu.edu/physics/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 22:28:34 GMT"}
+20090310104818 {"uri": "https://wayback.archive-it.org/all/20090310104818/https://www.nsu.edu/physics/", "rel": "memento", "datetime": "Tue, 10 Mar 2009 10:48:18 GMT"}
+20090311193129 {"uri": "https://wayback.archive-it.org/all/20090311193129/http://www.nsu.edu/physics", "rel": "memento", "datetime": "Wed, 11 Mar 2009 19:31:29 GMT"}
+20090313175458 {"uri": "https://wayback.archive-it.org/all/20090313175458/http://www.nsu.edu/physics/", "rel": "memento", "datetime": "Fri, 13 Mar 2009 17:54:58 GMT"}
+20090313181557 {"uri": "https://wayback.archive-it.org/all/20090313181557/http://www.nsu.edu/physics", "rel": "memento", "datetime": "Fri, 13 Mar 2009 18:15:57 GMT"}
+20090314044501 {"uri": "https://wayback.archive-it.org/all/20090314044501/https://www.nsu.edu/physics/", "rel": "memento", "datetime": "Sat, 14 Mar 2009 04:45:01 GMT"}
+20090315205526 {"uri": "https://wayback.archive-it.org/all/20090315205526/https://www.nsu.edu/physics/", "rel": "memento", "datetime": "Sun, 15 Mar 2009 20:55:26 GMT"}
+20100505204102 {"uri": "https://webarchive.loc.gov/all/20100505204102/http://www.nsu.edu/physics", "rel": "memento", "datetime": "Wed, 05 May 2010 20:41:02 GMT"}
+20101105011513 {"uri": "https://webarchive.loc.gov/all/20101105011513/http://www.nsu.edu/physics", "rel": "memento", "datetime": "Fri, 05 Nov 2010 01:15:13 GMT"}
+20110603190159 {"uri": "https://webarchive.loc.gov/all/20110603190159/http://www.nsu.edu/physics", "rel": "last memento", "datetime": "Fri, 03 Jun 2011 19:01:59 GMT"}

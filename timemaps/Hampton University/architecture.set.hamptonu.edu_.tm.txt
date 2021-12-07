@@ -1,0 +1,80 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://architecture.set.hamptonu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://architecture.set.hamptonu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://architecture.set.hamptonu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://architecture.set.hamptonu.edu/", "json_format": "http://localhost:1208/timemap/json/http://architecture.set.hamptonu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://architecture.set.hamptonu.edu/"}}
+20150330023557 {"uri": "https://web.archive.org/web/20150330023557/http://architecture.set.hamptonu.edu:80/", "rel": "first memento", "datetime": "Mon, 30 Mar 2015 02:35:57 GMT"}
+20150429195646 {"uri": "https://web.archive.org/web/20150429195646/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 29 Apr 2015 19:56:46 GMT"}
+20150531093827 {"uri": "https://web.archive.org/web/20150531093827/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 31 May 2015 09:38:27 GMT"}
+20150702094743 {"uri": "https://web.archive.org/web/20150702094743/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 02 Jul 2015 09:47:43 GMT"}
+20150821141754 {"uri": "https://web.archive.org/web/20150821141754/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 21 Aug 2015 14:17:54 GMT"}
+20151003104338 {"uri": "https://web.archive.org/web/20151003104338/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 03 Oct 2015 10:43:38 GMT"}
+20151103055307 {"uri": "https://web.archive.org/web/20151103055307/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 03 Nov 2015 05:53:07 GMT"}
+20151215201522 {"uri": "https://web.archive.org/web/20151215201522/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 15 Dec 2015 20:15:22 GMT"}
+20160115142911 {"uri": "https://web.archive.org/web/20160115142911/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 15 Jan 2016 14:29:11 GMT"}
+20160216004318 {"uri": "https://web.archive.org/web/20160216004318/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 16 Feb 2016 00:43:18 GMT"}
+20160317175902 {"uri": "https://web.archive.org/web/20160317175902/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 17 Mar 2016 17:59:02 GMT"}
+20160419113701 {"uri": "https://web.archive.org/web/20160419113701/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 19 Apr 2016 11:37:01 GMT"}
+20160521210846 {"uri": "https://web.archive.org/web/20160521210846/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 21 May 2016 21:08:46 GMT"}
+20160622023827 {"uri": "https://web.archive.org/web/20160622023827/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 22 Jun 2016 02:38:27 GMT"}
+20160723080417 {"uri": "https://web.archive.org/web/20160723080417/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 23 Jul 2016 08:04:17 GMT"}
+20160724080517 {"uri": "https://web.archive.org/web/20160724080517/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 24 Jul 2016 08:05:17 GMT"}
+20160824151542 {"uri": "https://web.archive.org/web/20160824151542/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 24 Aug 2016 15:15:42 GMT"}
+20160825180416 {"uri": "https://web.archive.org/web/20160825180416/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 25 Aug 2016 18:04:16 GMT"}
+20160926122826 {"uri": "https://web.archive.org/web/20160926122826/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 26 Sep 2016 12:28:26 GMT"}
+20161028024417 {"uri": "https://web.archive.org/web/20161028024417/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 28 Oct 2016 02:44:17 GMT"}
+20161208020307 {"uri": "https://web.archive.org/web/20161208020307/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 08 Dec 2016 02:03:07 GMT"}
+20170410213745 {"uri": "https://web.archive.org/web/20170410213745/http://architecture.set.hamptonu.edu/", "rel": "memento", "datetime": "Mon, 10 Apr 2017 21:37:45 GMT"}
+20170418234111 {"uri": "https://web.archive.org/web/20170418234111/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 18 Apr 2017 23:41:11 GMT"}
+20170419222701 {"uri": "https://web.archive.org/web/20170419222701/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 19 Apr 2017 22:27:01 GMT"}
+20170521043026 {"uri": "https://web.archive.org/web/20170521043026/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 21 May 2017 04:30:26 GMT"}
+20170621111706 {"uri": "https://web.archive.org/web/20170621111706/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 21 Jun 2017 11:17:06 GMT"}
+20180108021705 {"uri": "https://web.archive.org/web/20180108021705/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 08 Jan 2018 02:17:05 GMT"}
+20180324192314 {"uri": "https://web.archive.org/web/20180324192314/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 24 Mar 2018 19:23:14 GMT"}
+20180329065317 {"uri": "https://web.archive.org/web/20180329065317/http://architecture.set.hamptonu.edu/", "rel": "memento", "datetime": "Thu, 29 Mar 2018 06:53:17 GMT"}
+20180425133746 {"uri": "https://web.archive.org/web/20180425133746/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 25 Apr 2018 13:37:46 GMT"}
+20180526143549 {"uri": "https://web.archive.org/web/20180526143549/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 26 May 2018 14:35:49 GMT"}
+20180620092649 {"uri": "https://web.archive.org/web/20180620092649/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 20 Jun 2018 09:26:49 GMT"}
+20180627023915 {"uri": "https://web.archive.org/web/20180627023915/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 27 Jun 2018 02:39:15 GMT"}
+20180729093736 {"uri": "https://web.archive.org/web/20180729093736/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 29 Jul 2018 09:37:36 GMT"}
+20180821052655 {"uri": "https://web.archive.org/web/20180821052655/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 21 Aug 2018 05:26:55 GMT"}
+20180829090841 {"uri": "https://web.archive.org/web/20180829090841/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 29 Aug 2018 09:08:41 GMT"}
+20180929100425 {"uri": "https://web.archive.org/web/20180929100425/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 29 Sep 2018 10:04:25 GMT"}
+20181022000631 {"uri": "https://web.archive.org/web/20181022000631/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 22 Oct 2018 00:06:31 GMT"}
+20181030173825 {"uri": "https://web.archive.org/web/20181030173825/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 30 Oct 2018 17:38:25 GMT"}
+20181130145245 {"uri": "https://web.archive.org/web/20181130145245/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 30 Nov 2018 14:52:45 GMT"}
+20181225041900 {"uri": "https://web.archive.org/web/20181225041900/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 25 Dec 2018 04:19:00 GMT"}
+20181226072732 {"uri": "https://web.archive.org/web/20181226072732/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 26 Dec 2018 07:27:32 GMT"}
+20190101170102 {"uri": "https://web.archive.org/web/20190101170102/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 01 Jan 2019 17:01:02 GMT"}
+20190102184449 {"uri": "https://web.archive.org/web/20190102184449/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 02 Jan 2019 18:44:49 GMT"}
+20190203113025 {"uri": "https://web.archive.org/web/20190203113025/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 03 Feb 2019 11:30:25 GMT"}
+20190225072003 {"uri": "https://web.archive.org/web/20190225072003/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 25 Feb 2019 07:20:03 GMT"}
+20190306150309 {"uri": "https://web.archive.org/web/20190306150309/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 06 Mar 2019 15:03:09 GMT"}
+20190406162534 {"uri": "https://web.archive.org/web/20190406162534/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 06 Apr 2019 16:25:34 GMT"}
+20190427153825 {"uri": "https://web.archive.org/web/20190427153825/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 27 Apr 2019 15:38:25 GMT"}
+20190508014505 {"uri": "https://web.archive.org/web/20190508014505/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 08 May 2019 01:45:05 GMT"}
+20190609092937 {"uri": "https://web.archive.org/web/20190609092937/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 09 Jun 2019 09:29:37 GMT"}
+20190627103212 {"uri": "https://web.archive.org/web/20190627103212/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 27 Jun 2019 10:32:12 GMT"}
+20190720010502 {"uri": "https://web.archive.org/web/20190720010502/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 20 Jul 2019 01:05:02 GMT"}
+20190820020913 {"uri": "https://web.archive.org/web/20190820020913/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 20 Aug 2019 02:09:13 GMT"}
+20190827044122 {"uri": "https://web.archive.org/web/20190827044122/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 27 Aug 2019 04:41:22 GMT"}
+20190831110857 {"uri": "https://web.archive.org/web/20190831110857/http://architecture.set.hamptonu.edu/", "rel": "memento", "datetime": "Sat, 31 Aug 2019 11:08:57 GMT"}
+20190921162942 {"uri": "https://web.archive.org/web/20190921162942/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 21 Sep 2019 16:29:42 GMT"}
+20191019190640 {"uri": "https://web.archive.org/web/20191019190640/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 19 Oct 2019 19:06:40 GMT"}
+20191027051729 {"uri": "https://web.archive.org/web/20191027051729/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 27 Oct 2019 05:17:29 GMT"}
+20191119014650 {"uri": "https://web.archive.org/web/20191119014650/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 19 Nov 2019 01:46:50 GMT"}
+20191219071259 {"uri": "https://web.archive.org/web/20191219071259/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 19 Dec 2019 07:12:59 GMT"}
+20191226103327 {"uri": "https://web.archive.org/web/20191226103327/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 26 Dec 2019 10:33:27 GMT"}
+20200118130828 {"uri": "https://web.archive.org/web/20200118130828/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 18 Jan 2020 13:08:28 GMT"}
+20200217185440 {"uri": "https://web.archive.org/web/20200217185440/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 17 Feb 2020 18:54:40 GMT"}
+20200224214325 {"uri": "https://web.archive.org/web/20200224214325/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 24 Feb 2020 21:43:25 GMT"}
+20200304064542 {"uri": "https://web.archive.org/web/20200304064542/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 04 Mar 2020 06:45:42 GMT"}
+20200518051908 {"uri": "https://web.archive.org/web/20200518051908/http://architecture.set.hamptonu.edu/", "rel": "memento", "datetime": "Mon, 18 May 2020 05:19:08 GMT"}
+20200628173232 {"uri": "https://web.archive.org/web/20200628173232/http://architecture.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 28 Jun 2020 17:32:32 GMT"}
+20201020025414 {"uri": "https://web.archive.org/web/20201020025414/http://architecture.set.hamptonu.edu/", "rel": "memento", "datetime": "Tue, 20 Oct 2020 02:54:14 GMT"}
+20201201204518 {"uri": "https://web.archive.org/web/20201201204518/http://architecture.set.hamptonu.edu/", "rel": "memento", "datetime": "Tue, 01 Dec 2020 20:45:18 GMT"}
+20210124053614 {"uri": "https://web.archive.org/web/20210124053614/http://architecture.set.hamptonu.edu/", "rel": "memento", "datetime": "Sun, 24 Jan 2021 05:36:14 GMT"}
+20210129190717 {"uri": "https://web.archive.org/web/20210129190717/http://architecture.set.hamptonu.edu/", "rel": "memento", "datetime": "Fri, 29 Jan 2021 19:07:17 GMT"}
+20210225161317 {"uri": "https://web.archive.org/web/20210225161317/http://architecture.set.hamptonu.edu/", "rel": "memento", "datetime": "Thu, 25 Feb 2021 16:13:17 GMT"}
+20210818052052 {"uri": "https://web.archive.org/web/20210818052052/http://architecture.set.hamptonu.edu/", "rel": "last memento", "datetime": "Wed, 18 Aug 2021 05:20:52 GMT"}

@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/chemistry"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/chemistry"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/chemistry"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/chemistry", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/chemistry", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/chemistry"}}
+20090306161533 {"uri": "https://wayback.archive-it.org/all/20090306161533/https://www.nsu.edu/chemistry/", "rel": "first memento", "datetime": "Fri, 06 Mar 2009 16:15:33 GMT"}
+20090306161534 {"uri": "https://wayback.archive-it.org/all/20090306161534/https://www.nsu.edu/chemistry/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 16:15:34 GMT"}
+20090306173121 {"uri": "https://wayback.archive-it.org/all/20090306173121/http://www.nsu.edu/chemistry/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:31:21 GMT"}
+20090306173122 {"uri": "https://wayback.archive-it.org/all/20090306173122/http://www.nsu.edu/chemistry/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:31:22 GMT"}
+20090306214248 {"uri": "https://wayback.archive-it.org/all/20090306214248/http://www.nsu.edu/chemistry", "rel": "memento", "datetime": "Fri, 06 Mar 2009 21:42:48 GMT"}
+20090306214249 {"uri": "https://wayback.archive-it.org/all/20090306214249/http://www.nsu.edu/chemistry", "rel": "memento", "datetime": "Fri, 06 Mar 2009 21:42:49 GMT"}
+20090309191518 {"uri": "https://wayback.archive-it.org/all/20090309191518/http://www.nsu.edu/chemistry/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 19:15:18 GMT"}
+20090309192201 {"uri": "https://wayback.archive-it.org/all/20090309192201/https://www.nsu.edu/chemistry/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 19:22:01 GMT"}
+20090310013933 {"uri": "https://wayback.archive-it.org/all/20090310013933/http://www.nsu.edu/chemistry", "rel": "memento", "datetime": "Tue, 10 Mar 2009 01:39:33 GMT"}
+20090313154736 {"uri": "https://wayback.archive-it.org/all/20090313154736/http://www.nsu.edu/chemistry/", "rel": "memento", "datetime": "Fri, 13 Mar 2009 15:47:36 GMT"}
+20090317160023 {"uri": "https://wayback.archive-it.org/all/20090317160023/http://www.nsu.edu/chemistry/", "rel": "last memento", "datetime": "Tue, 17 Mar 2009 16:00:23 GMT"}

@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs"}}
+20200109005832 {"uri": "https://web.archive.org/web/20200109005832/http://www.nccu.edu:80/academics/undergraduate-programs/early-childhood-education-bs", "rel": "first memento", "datetime": "Thu, 09 Jan 2020 00:58:32 GMT"}
+20200810023209 {"uri": "https://web.archive.org/web/20200810023209/https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs", "rel": "memento", "datetime": "Mon, 10 Aug 2020 02:32:09 GMT"}
+20210124215230 {"uri": "https://web.archive.org/web/20210124215230/https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs", "rel": "memento", "datetime": "Sun, 24 Jan 2021 21:52:30 GMT"}
+20210926014537 {"uri": "https://arquivo.pt/wayback/20210926014537mp_/https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs", "rel": "memento", "datetime": "Sun, 26 Sep 2021 01:45:37 GMT"}
+20211020142453 {"uri": "https://web.archive.org/web/20211020142453/https://www.nccu.edu/academics/undergraduate-programs/early-childhood-education-bs", "rel": "last memento", "datetime": "Wed, 20 Oct 2021 14:24:53 GMT"}

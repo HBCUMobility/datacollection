@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/armyrotc"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/armyrotc"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/armyrotc"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/armyrotc", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/armyrotc", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/armyrotc"}}
+20090306161337 {"uri": "https://wayback.archive-it.org/all/20090306161337/https://www.nsu.edu/armyrotc/", "rel": "first memento", "datetime": "Fri, 06 Mar 2009 16:13:37 GMT"}
+20090306161338 {"uri": "https://wayback.archive-it.org/all/20090306161338/https://www.nsu.edu/armyrotc/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 16:13:38 GMT"}
+20090306163723 {"uri": "https://wayback.archive-it.org/all/20090306163723/http://www.nsu.edu/armyrotc/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 16:37:23 GMT"}
+20090306163724 {"uri": "https://wayback.archive-it.org/all/20090306163724/http://www.nsu.edu/armyrotc/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 16:37:24 GMT"}
+20090309175928 {"uri": "https://wayback.archive-it.org/all/20090309175928/https://www.nsu.edu/armyrotc/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 17:59:28 GMT"}
+20090309190719 {"uri": "https://wayback.archive-it.org/all/20090309190719/http://www.nsu.edu/armyrotc/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 19:07:19 GMT"}
+20090313154651 {"uri": "https://wayback.archive-it.org/all/20090313154651/http://www.nsu.edu/armyrotc/", "rel": "last memento", "datetime": "Fri, 13 Mar 2009 15:46:51 GMT"}

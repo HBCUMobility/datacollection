@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html"}}
+20200926092754 {"uri": "https://web.archive.org/web/20200926092754/https://www.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html", "rel": "first memento", "datetime": "Sat, 26 Sep 2020 09:27:54 GMT"}
+20201001065650 {"uri": "https://web.archive.org/web/20201001065650/https://www.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html", "rel": "memento", "datetime": "Thu, 01 Oct 2020 06:56:50 GMT"}
+20210125102353 {"uri": "https://web.archive.org/web/20210125102353/https://www.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html", "rel": "memento", "datetime": "Mon, 25 Jan 2021 10:23:53 GMT"}
+20210128030036 {"uri": "https://web.archive.org/web/20210128030036/https://morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html", "rel": "memento", "datetime": "Thu, 28 Jan 2021 03:00:36 GMT"}
+20210414053135 {"uri": "https://web.archive.org/web/20210414053135/https://morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html", "rel": "memento", "datetime": "Wed, 14 Apr 2021 05:31:35 GMT"}
+20210414131920 {"uri": "https://web.archive.org/web/20210414131920/https://www.morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html", "rel": "memento", "datetime": "Wed, 14 Apr 2021 13:19:20 GMT"}
+20210813103438 {"uri": "https://web.archive.org/web/20210813103438/https://morgan.edu/school_of_architecture__planning/academic_departments/construction_management.html", "rel": "last memento", "datetime": "Fri, 13 Aug 2021 10:34:38 GMT"}

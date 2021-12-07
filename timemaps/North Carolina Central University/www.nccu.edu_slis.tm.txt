@@ -1,0 +1,31 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/slis"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/slis"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/slis"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/slis", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/slis", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/slis"}}
+20201223091237 {"uri": "https://wayback.archive-it.org/all/20201223091237/https://www.nccu.edu/slis", "rel": "first memento", "datetime": "Wed, 23 Dec 2020 09:12:37 GMT"}
+20201225191821 {"uri": "https://wayback.archive-it.org/all/20201225191821/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Fri, 25 Dec 2020 19:18:21 GMT"}
+20201230133124 {"uri": "https://wayback.archive-it.org/all/20201230133124/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 30 Dec 2020 13:31:24 GMT"}
+20210106160912 {"uri": "https://wayback.archive-it.org/all/20210106160912/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 06 Jan 2021 16:09:12 GMT"}
+20210113200850 {"uri": "https://wayback.archive-it.org/all/20210113200850/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 13 Jan 2021 20:08:50 GMT"}
+20210120035536 {"uri": "https://wayback.archive-it.org/all/20210120035536/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 20 Jan 2021 03:55:36 GMT"}
+20210125123945 {"uri": "https://wayback.archive-it.org/all/20210125123945/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Mon, 25 Jan 2021 12:39:45 GMT"}
+20210127130901 {"uri": "https://wayback.archive-it.org/all/20210127130901/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 27 Jan 2021 13:09:01 GMT"}
+20210203103547 {"uri": "https://wayback.archive-it.org/all/20210203103547/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 03 Feb 2021 10:35:47 GMT"}
+20210210095816 {"uri": "https://wayback.archive-it.org/all/20210210095816/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 10 Feb 2021 09:58:16 GMT"}
+20210217075720 {"uri": "https://wayback.archive-it.org/all/20210217075720/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 17 Feb 2021 07:57:20 GMT"}
+20210224135513 {"uri": "https://wayback.archive-it.org/all/20210224135513/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 24 Feb 2021 13:55:13 GMT"}
+20210226095436 {"uri": "https://wayback.archive-it.org/all/20210226095436/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Fri, 26 Feb 2021 09:54:36 GMT"}
+20210303161426 {"uri": "https://wayback.archive-it.org/all/20210303161426/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 03 Mar 2021 16:14:26 GMT"}
+20210310073903 {"uri": "https://wayback.archive-it.org/all/20210310073903/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 10 Mar 2021 07:39:03 GMT"}
+20210317154042 {"uri": "https://wayback.archive-it.org/all/20210317154042/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 17 Mar 2021 15:40:42 GMT"}
+20210324082711 {"uri": "https://wayback.archive-it.org/all/20210324082711/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 24 Mar 2021 08:27:11 GMT"}
+20210326033823 {"uri": "https://wayback.archive-it.org/all/20210326033823/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Fri, 26 Mar 2021 03:38:23 GMT"}
+20210331035229 {"uri": "https://wayback.archive-it.org/all/20210331035229/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 31 Mar 2021 03:52:29 GMT"}
+20210407125037 {"uri": "https://wayback.archive-it.org/all/20210407125037/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 07 Apr 2021 12:50:37 GMT"}
+20210414061227 {"uri": "https://wayback.archive-it.org/all/20210414061227/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 14 Apr 2021 06:12:27 GMT"}
+20210421144238 {"uri": "https://wayback.archive-it.org/all/20210421144238/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Wed, 21 Apr 2021 14:42:38 GMT"}
+20210425110656 {"uri": "https://wayback.archive-it.org/all/20210425110656/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Sun, 25 Apr 2021 11:06:56 GMT"}
+20210527173234 {"uri": "https://wayback.archive-it.org/all/20210527173234/https://www.nccu.edu/slis", "rel": "memento", "datetime": "Thu, 27 May 2021 17:32:34 GMT"}
+20210628104049 {"uri": "https://wayback.archive-it.org/all/20210628104049/https://www.nccu.edu/slis", "rel": "last memento", "datetime": "Mon, 28 Jun 2021 10:40:49 GMT"}

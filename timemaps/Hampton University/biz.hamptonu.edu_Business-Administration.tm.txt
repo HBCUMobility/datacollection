@@ -1,0 +1,49 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://biz.hamptonu.edu/page/Business-Administration"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://biz.hamptonu.edu/page/Business-Administration"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://biz.hamptonu.edu/page/Business-Administration"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://biz.hamptonu.edu/page/Business-Administration", "json_format": "http://localhost:1208/timemap/json/http://biz.hamptonu.edu/page/Business-Administration", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://biz.hamptonu.edu/page/Business-Administration"}}
+20141013095131 {"uri": "https://web.archive.org/web/20141013095131/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "first memento", "datetime": "Mon, 13 Oct 2014 09:51:31 GMT"}
+20141215031145 {"uri": "https://web.archive.org/web/20141215031145/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Mon, 15 Dec 2014 03:11:45 GMT"}
+20150303002229 {"uri": "https://web.archive.org/web/20150303002229/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Tue, 03 Mar 2015 00:22:29 GMT"}
+20150319192654 {"uri": "https://web.archive.org/web/20150319192654/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Thu, 19 Mar 2015 19:26:54 GMT"}
+20150419131115 {"uri": "https://web.archive.org/web/20150419131115/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sun, 19 Apr 2015 13:11:15 GMT"}
+20150520194119 {"uri": "https://web.archive.org/web/20150520194119/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Wed, 20 May 2015 19:41:19 GMT"}
+20150625024602 {"uri": "https://web.archive.org/web/20150625024602/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Thu, 25 Jun 2015 02:46:02 GMT"}
+20160716100414 {"uri": "https://web.archive.org/web/20160716100414/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sat, 16 Jul 2016 10:04:14 GMT"}
+20160816190605 {"uri": "https://web.archive.org/web/20160816190605/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Tue, 16 Aug 2016 19:06:05 GMT"}
+20161104032602 {"uri": "https://web.archive.org/web/20161104032602/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Fri, 04 Nov 2016 03:26:02 GMT"}
+20161105104947 {"uri": "https://web.archive.org/web/20161105104947/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sat, 05 Nov 2016 10:49:47 GMT"}
+20161211160018 {"uri": "https://web.archive.org/web/20161211160018/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sun, 11 Dec 2016 16:00:18 GMT"}
+20171105020845 {"uri": "https://web.archive.org/web/20171105020845/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sun, 05 Nov 2017 02:08:45 GMT"}
+20171206001028 {"uri": "https://web.archive.org/web/20171206001028/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Wed, 06 Dec 2017 00:10:28 GMT"}
+20180108030305 {"uri": "https://web.archive.org/web/20180108030305/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Mon, 08 Jan 2018 03:03:05 GMT"}
+20180208171213 {"uri": "https://web.archive.org/web/20180208171213/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Thu, 08 Feb 2018 17:12:13 GMT"}
+20180311133619 {"uri": "https://web.archive.org/web/20180311133619/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sun, 11 Mar 2018 13:36:19 GMT"}
+20180411174311 {"uri": "https://web.archive.org/web/20180411174311/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Wed, 11 Apr 2018 17:43:11 GMT"}
+20180512143629 {"uri": "https://web.archive.org/web/20180512143629/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sat, 12 May 2018 14:36:29 GMT"}
+20180612235235 {"uri": "https://web.archive.org/web/20180612235235/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Tue, 12 Jun 2018 23:52:35 GMT"}
+20180714161655 {"uri": "https://web.archive.org/web/20180714161655/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sat, 14 Jul 2018 16:16:55 GMT"}
+20180814220137 {"uri": "https://web.archive.org/web/20180814220137/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Tue, 14 Aug 2018 22:01:37 GMT"}
+20180916005721 {"uri": "https://web.archive.org/web/20180916005721/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sun, 16 Sep 2018 00:57:21 GMT"}
+20181017034118 {"uri": "https://web.archive.org/web/20181017034118/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Wed, 17 Oct 2018 03:41:18 GMT"}
+20181117232650 {"uri": "https://web.archive.org/web/20181117232650/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sat, 17 Nov 2018 23:26:50 GMT"}
+20181218190228 {"uri": "https://web.archive.org/web/20181218190228/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Tue, 18 Dec 2018 19:02:28 GMT"}
+20190118225957 {"uri": "https://web.archive.org/web/20190118225957/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Fri, 18 Jan 2019 22:59:57 GMT"}
+20190218151103 {"uri": "https://web.archive.org/web/20190218151103/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Mon, 18 Feb 2019 15:11:03 GMT"}
+20190321170437 {"uri": "https://web.archive.org/web/20190321170437/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Thu, 21 Mar 2019 17:04:37 GMT"}
+20190422004912 {"uri": "https://web.archive.org/web/20190422004912/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Mon, 22 Apr 2019 00:49:12 GMT"}
+20190523035128 {"uri": "https://web.archive.org/web/20190523035128/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Thu, 23 May 2019 03:51:28 GMT"}
+20190623160930 {"uri": "https://web.archive.org/web/20190623160930/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sun, 23 Jun 2019 16:09:30 GMT"}
+20190724225605 {"uri": "https://web.archive.org/web/20190724225605/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Wed, 24 Jul 2019 22:56:05 GMT"}
+20190825095508 {"uri": "https://web.archive.org/web/20190825095508/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sun, 25 Aug 2019 09:55:08 GMT"}
+20190926002315 {"uri": "https://web.archive.org/web/20190926002315/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Thu, 26 Sep 2019 00:23:15 GMT"}
+20191021114154 {"uri": "https://web.archive.org/web/20191021114154/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Mon, 21 Oct 2019 11:41:54 GMT"}
+20191023181822 {"uri": "https://web.archive.org/web/20191023181822/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Wed, 23 Oct 2019 18:18:22 GMT"}
+20191123031705 {"uri": "https://web.archive.org/web/20191123031705/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Sat, 23 Nov 2019 03:17:05 GMT"}
+20191223110223 {"uri": "https://web.archive.org/web/20191223110223/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Mon, 23 Dec 2019 11:02:23 GMT"}
+20200122151728 {"uri": "https://web.archive.org/web/20200122151728/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Wed, 22 Jan 2020 15:17:28 GMT"}
+20200221203028 {"uri": "https://web.archive.org/web/20200221203028/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "memento", "datetime": "Fri, 21 Feb 2020 20:30:28 GMT"}
+20200616174235 {"uri": "https://web.archive.org/web/20200616174235/http://biz.hamptonu.edu/page/Business-Administration", "rel": "memento", "datetime": "Tue, 16 Jun 2020 17:42:35 GMT"}
+20200628170143 {"uri": "https://web.archive.org/web/20200628170143/http://biz.hamptonu.edu:80/page/Business-Administration", "rel": "last memento", "datetime": "Sun, 28 Jun 2020 17:01:43 GMT"}

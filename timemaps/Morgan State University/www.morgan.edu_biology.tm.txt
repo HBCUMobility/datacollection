@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/biology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.morgan.edu/biology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.morgan.edu/biology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.morgan.edu/biology", "json_format": "http://localhost:1208/timemap/json/https://www.morgan.edu/biology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/biology"}}
+20170316224257 {"uri": "https://wayback.archive-it.org/all/20170316224257/http://www.morgan.edu/biology", "rel": "first last memento", "datetime": "Thu, 16 Mar 2017 22:42:57 GMT"}

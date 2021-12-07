@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://profiles.howard.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://profiles.howard.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://profiles.howard.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://profiles.howard.edu/", "json_format": "http://localhost:1208/timemap/json/https://profiles.howard.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://profiles.howard.edu/"}}
+20210824182313 {"uri": "https://wayback.archive-it.org/all/20210824182313/https://profiles.howard.edu/", "rel": "first memento", "datetime": "Tue, 24 Aug 2021 18:23:13 GMT"}
+20211028185256 {"uri": "https://wayback.archive-it.org/all/20211028185256/https://profiles.howard.edu/", "rel": "last memento", "datetime": "Thu, 28 Oct 2021 18:52:56 GMT"}

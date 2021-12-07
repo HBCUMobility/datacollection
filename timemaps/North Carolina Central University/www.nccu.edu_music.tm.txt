@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/music"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/cash/music"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/cash/music"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/cash/music", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/cash/music", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/music"}}
+20201029222948 {"uri": "https://web.archive.org/web/20201029222948/https://www.nccu.edu/cash/music", "rel": "first memento", "datetime": "Thu, 29 Oct 2020 22:29:48 GMT"}
+20201116221206 {"uri": "https://web.archive.org/web/20201116221206/https://www.nccu.edu/cash/music", "rel": "memento", "datetime": "Mon, 16 Nov 2020 22:12:06 GMT"}
+20210115215423 {"uri": "https://web.archive.org/web/20210115215423/https://www.nccu.edu/cash/music", "rel": "memento", "datetime": "Fri, 15 Jan 2021 21:54:23 GMT"}
+20210301065456 {"uri": "https://web.archive.org/web/20210301065456/https://www.nccu.edu/cash/music", "rel": "last memento", "datetime": "Mon, 01 Mar 2021 06:54:56 GMT"}

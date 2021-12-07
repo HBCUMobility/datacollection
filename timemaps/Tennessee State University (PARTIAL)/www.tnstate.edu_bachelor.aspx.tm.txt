@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/criminaljustice/bachelor.aspx"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/criminaljustice/bachelor.aspx"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/criminaljustice/bachelor.aspx"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/criminaljustice/bachelor.aspx", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/criminaljustice/bachelor.aspx", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/criminaljustice/bachelor.aspx"}}
+20120821163526 {"uri": "https://web.archive.org/web/20120821163526/http://www.tnstate.edu:80/criminaljustice/bachelor.aspx", "rel": "first memento", "datetime": "Tue, 21 Aug 2012 16:35:26 GMT"}
+20150911225941 {"uri": "https://web.archive.org/web/20150911225941/http://www.tnstate.edu/criminaljustice/bachelor.aspx", "rel": "memento", "datetime": "Fri, 11 Sep 2015 22:59:41 GMT"}
+20160809110135 {"uri": "https://web.archive.org/web/20160809110135/http://www.tnstate.edu:80/criminaljustice/bachelor.aspx", "rel": "memento", "datetime": "Tue, 09 Aug 2016 11:01:35 GMT"}
+20160911230507 {"uri": "https://web.archive.org/web/20160911230507/http://www.tnstate.edu:80/criminaljustice/bachelor.aspx", "rel": "memento", "datetime": "Sun, 11 Sep 2016 23:05:07 GMT"}
+20161013083206 {"uri": "https://web.archive.org/web/20161013083206/http://www.tnstate.edu:80/criminaljustice/bachelor.aspx", "rel": "memento", "datetime": "Thu, 13 Oct 2016 08:32:06 GMT"}
+20171018084808 {"uri": "https://web.archive.org/web/20171018084808/http://www.tnstate.edu:80/criminaljustice/bachelor.aspx", "rel": "memento", "datetime": "Wed, 18 Oct 2017 08:48:08 GMT"}
+20191119050942 {"uri": "https://web.archive.org/web/20191119050942/http://www.tnstate.edu:80/criminaljustice/bachelor.aspx", "rel": "memento", "datetime": "Tue, 19 Nov 2019 05:09:42 GMT"}
+20200118085148 {"uri": "https://web.archive.org/web/20200118085148/http://www.tnstate.edu:80/criminaljustice/bachelor.aspx", "rel": "memento", "datetime": "Sat, 18 Jan 2020 08:51:48 GMT"}
+20200622130328 {"uri": "https://web.archive.org/web/20200622130328/http://www.tnstate.edu/criminaljustice/bachelor.aspx", "rel": "memento", "datetime": "Mon, 22 Jun 2020 13:03:28 GMT"}
+20200707213059 {"uri": "https://web.archive.org/web/20200707213059/http://www.tnstate.edu:80/criminaljustice/bachelor.aspx", "rel": "memento", "datetime": "Tue, 07 Jul 2020 21:30:59 GMT"}
+20210506132712 {"uri": "https://web.archive.org/web/20210506132712/https://www.tnstate.edu/criminaljustice/bachelor.aspx", "rel": "last memento", "datetime": "Thu, 06 May 2021 13:27:12 GMT"}

@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/nrotc"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/nrotc"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/nrotc"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/nrotc", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/nrotc", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/nrotc"}}
+20090306171641 {"uri": "https://wayback.archive-it.org/all/20090306171641/https://www.nsu.edu/nrotc/", "rel": "first memento", "datetime": "Fri, 06 Mar 2009 17:16:41 GMT"}
+20090306171642 {"uri": "https://wayback.archive-it.org/all/20090306171642/https://www.nsu.edu/nrotc/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:16:42 GMT"}
+20090306173019 {"uri": "https://wayback.archive-it.org/all/20090306173019/http://www.nsu.edu/nrotc/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:30:19 GMT"}
+20090306173020 {"uri": "https://wayback.archive-it.org/all/20090306173020/http://www.nsu.edu/nrotc/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:30:20 GMT"}
+20090309185701 {"uri": "https://wayback.archive-it.org/all/20090309185701/https://www.nsu.edu/nrotc/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 18:57:01 GMT"}
+20090309191444 {"uri": "https://wayback.archive-it.org/all/20090309191444/http://www.nsu.edu/nrotc/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 19:14:44 GMT"}
+20090313154803 {"uri": "https://wayback.archive-it.org/all/20090313154803/http://www.nsu.edu/nrotc/", "rel": "memento", "datetime": "Fri, 13 Mar 2009 15:48:03 GMT"}
+20090315170842 {"uri": "https://wayback.archive-it.org/all/20090315170842/https://www.nsu.edu/nrotc/", "rel": "last memento", "datetime": "Sun, 15 Mar 2009 17:08:42 GMT"}

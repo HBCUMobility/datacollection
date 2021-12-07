@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://home.hamptonu.edu/pharmacy/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://home.hamptonu.edu/pharmacy/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://home.hamptonu.edu/pharmacy/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://home.hamptonu.edu/pharmacy/", "json_format": "http://localhost:1208/timemap/json/https://home.hamptonu.edu/pharmacy/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://home.hamptonu.edu/pharmacy/"}}
+20210226190957 {"uri": "https://web.archive.org/web/20210226190957/https://home.hamptonu.edu/pharmacy/", "rel": "first memento", "datetime": "Fri, 26 Feb 2021 19:09:57 GMT"}
+20210228100037 {"uri": "https://web.archive.org/web/20210228100037/https://home.hamptonu.edu/pharmacy/", "rel": "memento", "datetime": "Sun, 28 Feb 2021 10:00:37 GMT"}
+20210408200603 {"uri": "https://web.archive.org/web/20210408200603/https://home.hamptonu.edu/pharmacy/", "rel": "memento", "datetime": "Thu, 08 Apr 2021 20:06:03 GMT"}
+20210506163443 {"uri": "https://web.archive.org/web/20210506163443/https://home.hamptonu.edu/pharmacy/", "rel": "last memento", "datetime": "Thu, 06 May 2021 16:34:43 GMT"}

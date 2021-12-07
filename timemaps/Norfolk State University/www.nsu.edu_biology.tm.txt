@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/biology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/biology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/biology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/biology", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/biology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/biology"}}
+20090306173056 {"uri": "https://wayback.archive-it.org/all/20090306173056/http://www.nsu.edu/biology/", "rel": "first memento", "datetime": "Fri, 06 Mar 2009 17:30:56 GMT"}
+20090306173057 {"uri": "https://wayback.archive-it.org/all/20090306173057/http://www.nsu.edu/biology/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:30:57 GMT"}
+20090306175401 {"uri": "https://wayback.archive-it.org/all/20090306175401/https://www.nsu.edu/biology/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:54:01 GMT"}
+20090306175402 {"uri": "https://wayback.archive-it.org/all/20090306175402/https://www.nsu.edu/biology/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:54:02 GMT"}
+20090306214329 {"uri": "https://wayback.archive-it.org/all/20090306214329/http://www.nsu.edu/biology", "rel": "memento", "datetime": "Fri, 06 Mar 2009 21:43:29 GMT"}
+20090306214330 {"uri": "https://wayback.archive-it.org/all/20090306214330/http://www.nsu.edu/biology", "rel": "memento", "datetime": "Fri, 06 Mar 2009 21:43:30 GMT"}
+20090309182130 {"uri": "https://wayback.archive-it.org/all/20090309182130/https://www.nsu.edu/biology/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 18:21:30 GMT"}
+20090309191554 {"uri": "https://wayback.archive-it.org/all/20090309191554/http://www.nsu.edu/biology/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 19:15:54 GMT"}
+20090310013933 {"uri": "https://wayback.archive-it.org/all/20090310013933/http://www.nsu.edu/biology", "rel": "memento", "datetime": "Tue, 10 Mar 2009 01:39:33 GMT"}
+20090313160421 {"uri": "https://wayback.archive-it.org/all/20090313160421/http://www.nsu.edu/biology/", "rel": "last memento", "datetime": "Fri, 13 Mar 2009 16:04:21 GMT"}

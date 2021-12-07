@@ -1,0 +1,18 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/engineering"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/engineering"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/engineering"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/engineering", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/engineering", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/engineering"}}
+20090306165553 {"uri": "https://wayback.archive-it.org/all/20090306165553/http://www.nsu.edu/engineering/", "rel": "first memento", "datetime": "Fri, 06 Mar 2009 16:55:53 GMT"}
+20090306165554 {"uri": "https://wayback.archive-it.org/all/20090306165554/http://www.nsu.edu/engineering/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 16:55:54 GMT"}
+20090306171536 {"uri": "https://wayback.archive-it.org/all/20090306171536/https://www.nsu.edu/engineering/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:15:36 GMT"}
+20090306171537 {"uri": "https://wayback.archive-it.org/all/20090306171537/https://www.nsu.edu/engineering/", "rel": "memento", "datetime": "Fri, 06 Mar 2009 17:15:37 GMT"}
+20090306181753 {"uri": "https://wayback.archive-it.org/all/20090306181753/http://www.nsu.edu/engineering", "rel": "memento", "datetime": "Fri, 06 Mar 2009 18:17:53 GMT"}
+20090306181754 {"uri": "https://wayback.archive-it.org/all/20090306181754/http://www.nsu.edu/engineering", "rel": "memento", "datetime": "Fri, 06 Mar 2009 18:17:54 GMT"}
+20090309175252 {"uri": "https://wayback.archive-it.org/all/20090309175252/https://www.nsu.edu/engineering/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 17:52:52 GMT"}
+20090309191715 {"uri": "https://wayback.archive-it.org/all/20090309191715/http://www.nsu.edu/engineering/", "rel": "memento", "datetime": "Mon, 09 Mar 2009 19:17:15 GMT"}
+20090309224859 {"uri": "https://wayback.archive-it.org/all/20090309224859/http://www.nsu.edu/engineering", "rel": "memento", "datetime": "Mon, 09 Mar 2009 22:48:59 GMT"}
+20090311193145 {"uri": "https://wayback.archive-it.org/all/20090311193145/http://www.nsu.edu/engineering", "rel": "memento", "datetime": "Wed, 11 Mar 2009 19:31:45 GMT"}
+20090313162439 {"uri": "https://wayback.archive-it.org/all/20090313162439/http://www.nsu.edu/engineering/", "rel": "memento", "datetime": "Fri, 13 Mar 2009 16:24:39 GMT"}
+20090313181733 {"uri": "https://wayback.archive-it.org/all/20090313181733/http://www.nsu.edu/engineering", "rel": "last memento", "datetime": "Fri, 13 Mar 2009 18:17:33 GMT"}

@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/physics"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/physics"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/physics"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/physics", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/physics", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/physics"}}
+20170316224342 {"uri": "https://wayback.archive-it.org/all/20170316224342/http://www.morgan.edu/physics", "rel": "first last memento", "datetime": "Thu, 16 Mar 2017 22:43:42 GMT"}

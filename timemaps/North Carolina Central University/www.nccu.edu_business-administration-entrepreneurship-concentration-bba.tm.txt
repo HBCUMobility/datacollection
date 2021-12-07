@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/business-administration-entrepreneurship-concentration-bba"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/academics/undergraduate-programs/business-administration-entrepreneurship-concentration-bba"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/academics/undergraduate-programs/business-administration-entrepreneurship-concentration-bba"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/academics/undergraduate-programs/business-administration-entrepreneurship-concentration-bba", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/academics/undergraduate-programs/business-administration-entrepreneurship-concentration-bba", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/business-administration-entrepreneurship-concentration-bba"}}
+20200109005618 {"uri": "https://web.archive.org/web/20200109005618/http://www.nccu.edu:80/academics/undergraduate-programs/business-administration-entrepreneurship-concentration-bba", "rel": "first memento", "datetime": "Thu, 09 Jan 2020 00:56:18 GMT"}
+20200810022907 {"uri": "https://web.archive.org/web/20200810022907/https://www.nccu.edu/academics/undergraduate-programs/business-administration-entrepreneurship-concentration-bba", "rel": "memento", "datetime": "Mon, 10 Aug 2020 02:29:07 GMT"}
+20210115211734 {"uri": "https://web.archive.org/web/20210115211734/https://www.nccu.edu/academics/undergraduate-programs/business-administration-entrepreneurship-concentration-bba", "rel": "last memento", "datetime": "Fri, 15 Jan 2021 21:17:34 GMT"}

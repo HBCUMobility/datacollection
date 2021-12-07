@@ -1,0 +1,27 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/history/polisci.aspx"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/history/polisci.aspx"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/history/polisci.aspx"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/history/polisci.aspx", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/history/polisci.aspx", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/history/polisci.aspx"}}
+20180214045406 {"uri": "https://web.archive.org/web/20180214045406/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "first memento", "datetime": "Wed, 14 Feb 2018 04:54:06 GMT"}
+20180317164401 {"uri": "https://web.archive.org/web/20180317164401/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Sat, 17 Mar 2018 16:44:01 GMT"}
+20180419053640 {"uri": "https://web.archive.org/web/20180419053640/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Thu, 19 Apr 2018 05:36:40 GMT"}
+20180523113236 {"uri": "https://web.archive.org/web/20180523113236/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Wed, 23 May 2018 11:32:36 GMT"}
+20180625185356 {"uri": "https://web.archive.org/web/20180625185356/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Mon, 25 Jun 2018 18:53:56 GMT"}
+20180801223800 {"uri": "https://web.archive.org/web/20180801223800/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Wed, 01 Aug 2018 22:38:00 GMT"}
+20180902185230 {"uri": "https://web.archive.org/web/20180902185230/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Sun, 02 Sep 2018 18:52:30 GMT"}
+20181009203829 {"uri": "https://web.archive.org/web/20181009203829/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Tue, 09 Oct 2018 20:38:29 GMT"}
+20190710195207 {"uri": "https://web.archive.org/web/20190710195207/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Wed, 10 Jul 2019 19:52:07 GMT"}
+20190817053705 {"uri": "https://web.archive.org/web/20190817053705/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Sat, 17 Aug 2019 05:37:05 GMT"}
+20190919141434 {"uri": "https://web.archive.org/web/20190919141434/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Thu, 19 Sep 2019 14:14:34 GMT"}
+20191117210151 {"uri": "https://web.archive.org/web/20191117210151/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Sun, 17 Nov 2019 21:01:51 GMT"}
+20191218021723 {"uri": "https://web.archive.org/web/20191218021723/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Wed, 18 Dec 2019 02:17:23 GMT"}
+20200117054856 {"uri": "https://web.archive.org/web/20200117054856/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Fri, 17 Jan 2020 05:48:56 GMT"}
+20200216083647 {"uri": "https://web.archive.org/web/20200216083647/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Sun, 16 Feb 2020 08:36:47 GMT"}
+20200301153033 {"uri": "https://web.archive.org/web/20200301153033/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Sun, 01 Mar 2020 15:30:33 GMT"}
+20200501081600 {"uri": "https://web.archive.org/web/20200501081600/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Fri, 01 May 2020 08:16:00 GMT"}
+20200630144444 {"uri": "https://web.archive.org/web/20200630144444/http://www.tnstate.edu:80/history/polisci.aspx", "rel": "memento", "datetime": "Tue, 30 Jun 2020 14:44:44 GMT"}
+20200919051120 {"uri": "https://web.archive.org/web/20200919051120/http://www.tnstate.edu/history/polisci.aspx", "rel": "memento", "datetime": "Sat, 19 Sep 2020 05:11:20 GMT"}
+20201113193429 {"uri": "https://web.archive.org/web/20201113193429/http://www.tnstate.edu/history/polisci.aspx", "rel": "memento", "datetime": "Fri, 13 Nov 2020 19:34:29 GMT"}
+20201121111940 {"uri": "https://web.archive.org/web/20201121111940/http://www.tnstate.edu/history/polisci.aspx", "rel": "last memento", "datetime": "Sat, 21 Nov 2020 11:19:40 GMT"}
