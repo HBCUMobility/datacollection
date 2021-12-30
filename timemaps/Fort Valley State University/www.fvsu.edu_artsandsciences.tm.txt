@@ -1,0 +1,56 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.fvsu.edu/artsandsciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.fvsu.edu/artsandsciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.fvsu.edu/artsandsciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.fvsu.edu/artsandsciences", "json_format": "http://localhost:1208/timemap/json/https://www.fvsu.edu/artsandsciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.fvsu.edu/artsandsciences"}}
+20171020073528 {"uri": "https://web.archive.org/web/20171020073528/http://www.fvsu.edu:80/artsandsciences", "rel": "first memento", "datetime": "Fri, 20 Oct 2017 07:35:28 GMT"}
+20171210112217 {"uri": "https://web.archive.org/web/20171210112217/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Sun, 10 Dec 2017 11:22:17 GMT"}
+20171213201011 {"uri": "https://web.archive.org/web/20171213201011/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Wed, 13 Dec 2017 20:10:11 GMT"}
+20180110115935 {"uri": "https://web.archive.org/web/20180110115935/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Wed, 10 Jan 2018 11:59:35 GMT"}
+20180210182037 {"uri": "https://web.archive.org/web/20180210182037/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Sat, 10 Feb 2018 18:20:37 GMT"}
+20180313202510 {"uri": "https://web.archive.org/web/20180313202510/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Tue, 13 Mar 2018 20:25:10 GMT"}
+20180413225104 {"uri": "https://web.archive.org/web/20180413225104/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Fri, 13 Apr 2018 22:51:04 GMT"}
+20180518013032 {"uri": "https://web.archive.org/web/20180518013032/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Fri, 18 May 2018 01:30:32 GMT"}
+20180618042047 {"uri": "https://web.archive.org/web/20180618042047/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Mon, 18 Jun 2018 04:20:47 GMT"}
+20180719055738 {"uri": "https://web.archive.org/web/20180719055738/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Thu, 19 Jul 2018 05:57:38 GMT"}
+20180819100138 {"uri": "https://web.archive.org/web/20180819100138/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Sun, 19 Aug 2018 10:01:38 GMT"}
+20180919174205 {"uri": "https://web.archive.org/web/20180919174205/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Wed, 19 Sep 2018 17:42:05 GMT"}
+20181021013725 {"uri": "https://web.archive.org/web/20181021013725/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Sun, 21 Oct 2018 01:37:25 GMT"}
+20181123083942 {"uri": "https://web.archive.org/web/20181123083942/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Fri, 23 Nov 2018 08:39:42 GMT"}
+20181225082043 {"uri": "https://web.archive.org/web/20181225082043/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Tue, 25 Dec 2018 08:20:43 GMT"}
+20190125135925 {"uri": "https://web.archive.org/web/20190125135925/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Fri, 25 Jan 2019 13:59:25 GMT"}
+20190226005828 {"uri": "https://web.archive.org/web/20190226005828/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Tue, 26 Feb 2019 00:58:28 GMT"}
+20190328201621 {"uri": "https://web.archive.org/web/20190328201621/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Thu, 28 Mar 2019 20:16:21 GMT"}
+20190405100153 {"uri": "https://web.archive.org/web/20190405100153/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Fri, 05 Apr 2019 10:01:53 GMT"}
+20190429171024 {"uri": "https://web.archive.org/web/20190429171024/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Mon, 29 Apr 2019 17:10:24 GMT"}
+20190519221421 {"uri": "https://web.archive.org/web/20190519221421/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Sun, 19 May 2019 22:14:21 GMT"}
+20190529184658 {"uri": "https://web.archive.org/web/20190529184658/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Wed, 29 May 2019 18:46:58 GMT"}
+20190530223545 {"uri": "https://web.archive.org/web/20190530223545/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Thu, 30 May 2019 22:35:45 GMT"}
+20190701041242 {"uri": "https://web.archive.org/web/20190701041242/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Mon, 01 Jul 2019 04:12:42 GMT"}
+20190802052924 {"uri": "https://web.archive.org/web/20190802052924/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Fri, 02 Aug 2019 05:29:24 GMT"}
+20190902223049 {"uri": "https://web.archive.org/web/20190902223049/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Mon, 02 Sep 2019 22:30:49 GMT"}
+20190907051231 {"uri": "https://web.archive.org/web/20190907051231/http://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Sat, 07 Sep 2019 05:12:31 GMT"}
+20191031033228 {"uri": "https://web.archive.org/web/20191031033228/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Thu, 31 Oct 2019 03:32:28 GMT"}
+20191031212306 {"uri": "https://web.archive.org/web/20191031212306/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Thu, 31 Oct 2019 21:23:06 GMT"}
+20191201061122 {"uri": "https://web.archive.org/web/20191201061122/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Sun, 01 Dec 2019 06:11:22 GMT"}
+20191231170937 {"uri": "https://web.archive.org/web/20191231170937/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Tue, 31 Dec 2019 17:09:37 GMT"}
+20200131044104 {"uri": "https://web.archive.org/web/20200131044104/http://www.fvsu.edu:80/artsandsciences", "rel": "memento", "datetime": "Fri, 31 Jan 2020 04:41:04 GMT"}
+20200412124753 {"uri": "https://web.archive.org/web/20200412124753/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Sun, 12 Apr 2020 12:47:53 GMT"}
+20200602085222 {"uri": "https://web.archive.org/web/20200602085222/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Tue, 02 Jun 2020 08:52:22 GMT"}
+20200815195909 {"uri": "https://web.archive.org/web/20200815195909/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Sat, 15 Aug 2020 19:59:09 GMT"}
+20200924083444 {"uri": "https://web.archive.org/web/20200924083444/http://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Thu, 24 Sep 2020 08:34:44 GMT"}
+20200925032804 {"uri": "https://web.archive.org/web/20200925032804/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Fri, 25 Sep 2020 03:28:04 GMT"}
+20201129200140 {"uri": "https://web.archive.org/web/20201129200140/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Sun, 29 Nov 2020 20:01:40 GMT"}
+20201129200229 {"uri": "https://web.archive.org/web/20201129200229/http://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Sun, 29 Nov 2020 20:02:29 GMT"}
+20210201200818 {"uri": "https://web.archive.org/web/20210201200818/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Mon, 01 Feb 2021 20:08:18 GMT"}
+20210224233315 {"uri": "https://web.archive.org/web/20210224233315/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Wed, 24 Feb 2021 23:33:15 GMT"}
+20210414052150 {"uri": "https://web.archive.org/web/20210414052150/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Wed, 14 Apr 2021 05:21:50 GMT"}
+20210416234443 {"uri": "https://web.archive.org/web/20210416234443/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Fri, 16 Apr 2021 23:44:43 GMT"}
+20210417190717 {"uri": "https://web.archive.org/web/20210417190717/https://www.fvsu.edu/artsandsciences/", "rel": "memento", "datetime": "Sat, 17 Apr 2021 19:07:17 GMT"}
+20210907212717 {"uri": "https://web.archive.org/web/20210907212717/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Tue, 07 Sep 2021 21:27:17 GMT"}
+20210907223235 {"uri": "https://web.archive.org/web/20210907223235/https://www.fvsu.edu/artsandsciences/", "rel": "memento", "datetime": "Tue, 07 Sep 2021 22:32:35 GMT"}
+20211030203537 {"uri": "https://web.archive.org/web/20211030203537/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Sat, 30 Oct 2021 20:35:37 GMT"}
+20211104082038 {"uri": "https://web.archive.org/web/20211104082038/https://www.fvsu.edu/artsandsciences/", "rel": "memento", "datetime": "Thu, 04 Nov 2021 08:20:38 GMT"}
+20211119162014 {"uri": "https://web.archive.org/web/20211119162014/https://www.fvsu.edu/artsandsciences", "rel": "memento", "datetime": "Fri, 19 Nov 2021 16:20:14 GMT"}
+20211119162019 {"uri": "https://web.archive.org/web/20211119162019/https://www.fvsu.edu/artsandsciences/", "rel": "last memento", "datetime": "Fri, 19 Nov 2021 16:20:19 GMT"}

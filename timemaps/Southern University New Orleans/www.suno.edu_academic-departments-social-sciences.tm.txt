@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/academic-departments-social-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/academic-departments-social-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/academic-departments-social-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/academic-departments-social-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/academic-departments-social-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/academic-departments-social-sciences"}}
+20180820022556 {"uri": "https://web.archive.org/web/20180820022556/http://www.suno.edu:80/page/academic-departments-social-sciences", "rel": "first memento", "datetime": "Mon, 20 Aug 2018 02:25:56 GMT"}
+20190213013421 {"uri": "https://web.archive.org/web/20190213013421/http://www.suno.edu:80/page/academic-departments-social-sciences", "rel": "memento", "datetime": "Wed, 13 Feb 2019 01:34:21 GMT"}
+20190717205727 {"uri": "https://web.archive.org/web/20190717205727/http://www.suno.edu:80/page/academic-departments-social-sciences", "rel": "memento", "datetime": "Wed, 17 Jul 2019 20:57:27 GMT"}
+20191107101957 {"uri": "https://web.archive.org/web/20191107101957/http://www.suno.edu:80/page/academic-departments-social-sciences", "rel": "memento", "datetime": "Thu, 07 Nov 2019 10:19:57 GMT"}
+20200107013409 {"uri": "https://web.archive.org/web/20200107013409/http://www.suno.edu:80/page/academic-departments-social-sciences", "rel": "memento", "datetime": "Tue, 07 Jan 2020 01:34:09 GMT"}
+20210119150711 {"uri": "https://web.archive.org/web/20210119150711/https://www.suno.edu/page/academic-departments-social-sciences", "rel": "last memento", "datetime": "Tue, 19 Jan 2021 15:07:11 GMT"}

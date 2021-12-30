@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://healthsciences.howard.edu/education/colleges/dentistry"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://healthsciences.howard.edu/education/colleges/dentistry"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://healthsciences.howard.edu/education/colleges/dentistry"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://healthsciences.howard.edu/education/colleges/dentistry", "json_format": "http://localhost:1208/timemap/json/http://healthsciences.howard.edu/education/colleges/dentistry", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://healthsciences.howard.edu/education/colleges/dentistry"}}
+20200217075616 {"uri": "https://arquivo.pt/noFrame/replay/20200217075616mp_/http://healthsciences.howard.edu/education/colleges/dentistry", "rel": "first last memento", "datetime": "Mon, 17 Feb 2020 07:56:16 GMT"}

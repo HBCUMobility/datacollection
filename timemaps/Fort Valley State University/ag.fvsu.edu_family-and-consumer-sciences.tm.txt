@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://ag.fvsu.edu/departments/family-and-consumer-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://ag.fvsu.edu/departments/family-and-consumer-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://ag.fvsu.edu/departments/family-and-consumer-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://ag.fvsu.edu/departments/family-and-consumer-sciences", "json_format": "http://localhost:1208/timemap/json/https://ag.fvsu.edu/departments/family-and-consumer-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ag.fvsu.edu/departments/family-and-consumer-sciences"}}
+20200927011831 {"uri": "https://web.archive.org/web/20200927011831/https://ag.fvsu.edu/departments/family-and-consumer-sciences", "rel": "first memento", "datetime": "Sun, 27 Sep 2020 01:18:31 GMT"}
+20210125212100 {"uri": "https://web.archive.org/web/20210125212100/https://ag.fvsu.edu/departments/family-and-consumer-sciences", "rel": "last memento", "datetime": "Mon, 25 Jan 2021 21:21:00 GMT"}

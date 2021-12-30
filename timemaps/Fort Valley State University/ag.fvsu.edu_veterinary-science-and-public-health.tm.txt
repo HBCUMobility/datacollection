@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://ag.fvsu.edu/departments/veterinary-science-and-public-health"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://ag.fvsu.edu/departments/veterinary-science-and-public-health"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://ag.fvsu.edu/departments/veterinary-science-and-public-health"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://ag.fvsu.edu/departments/veterinary-science-and-public-health", "json_format": "http://localhost:1208/timemap/json/https://ag.fvsu.edu/departments/veterinary-science-and-public-health", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ag.fvsu.edu/departments/veterinary-science-and-public-health"}}
+20200927001401 {"uri": "https://web.archive.org/web/20200927001401/https://ag.fvsu.edu/departments/veterinary-science-and-public-health", "rel": "first memento", "datetime": "Sun, 27 Sep 2020 00:14:01 GMT"}
+20210125203036 {"uri": "https://web.archive.org/web/20210125203036/https://ag.fvsu.edu/departments/veterinary-science-and-public-health", "rel": "memento", "datetime": "Mon, 25 Jan 2021 20:30:36 GMT"}
+20210416225828 {"uri": "https://web.archive.org/web/20210416225828/https://ag.fvsu.edu/departments/veterinary-science-and-public-health", "rel": "last memento", "datetime": "Fri, 16 Apr 2021 22:58:28 GMT"}

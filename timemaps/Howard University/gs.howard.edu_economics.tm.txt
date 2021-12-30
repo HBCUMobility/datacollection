@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/economics"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/economics"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/economics"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/economics", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/economics", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/economics"}}
+20170331235336 {"uri": "https://web.archive.org/web/20170331235336/http://gs.howard.edu/graduate-programs/economics", "rel": "first memento", "datetime": "Fri, 31 Mar 2017 23:53:36 GMT"}
+20170430135953 {"uri": "https://web.archive.org/web/20170430135953/http://gs.howard.edu:80/graduate-programs/economics", "rel": "memento", "datetime": "Sun, 30 Apr 2017 13:59:53 GMT"}
+20170505002926 {"uri": "https://web.archive.org/web/20170505002926/http://gs.howard.edu:80/graduate-programs/economics", "rel": "memento", "datetime": "Fri, 05 May 2017 00:29:26 GMT"}
+20170531064719 {"uri": "https://web.archive.org/web/20170531064719/http://gs.howard.edu:80/graduate-programs/economics", "rel": "memento", "datetime": "Wed, 31 May 2017 06:47:19 GMT"}
+20170708144339 {"uri": "https://web.archive.org/web/20170708144339/https://gs.howard.edu/graduate-programs/economics", "rel": "memento", "datetime": "Sat, 08 Jul 2017 14:43:39 GMT"}
+20171230123926 {"uri": "https://web.archive.org/web/20171230123926/http://gs.howard.edu:80/graduate-programs/economics", "rel": "memento", "datetime": "Sat, 30 Dec 2017 12:39:26 GMT"}
+20180418130052 {"uri": "https://web.archive.org/web/20180418130052/http://gs.howard.edu:80/graduate-programs/economics", "rel": "memento", "datetime": "Wed, 18 Apr 2018 13:00:52 GMT"}
+20180618170145 {"uri": "https://web.archive.org/web/20180618170145/http://gs.howard.edu:80/graduate-programs/economics", "rel": "memento", "datetime": "Mon, 18 Jun 2018 17:01:45 GMT"}
+20180805171140 {"uri": "https://web.archive.org/web/20180805171140/http://gs.howard.edu:80/graduate-programs/economics", "rel": "memento", "datetime": "Sun, 05 Aug 2018 17:11:40 GMT"}
+20200126054734 {"uri": "https://web.archive.org/web/20200126054734/https://gs.howard.edu/graduate-programs/economics", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:47:34 GMT"}
+20200126055801 {"uri": "https://web.archive.org/web/20200126055801/https://gs.howard.edu/graduate-programs/economics/", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:58:01 GMT"}
+20210416011655 {"uri": "https://web.archive.org/web/20210416011655/https://gs.howard.edu/graduate-programs/economics", "rel": "memento", "datetime": "Fri, 16 Apr 2021 01:16:55 GMT"}
+20211108170509 {"uri": "https://web.archive.org/web/20211108170509/https://gs.howard.edu/graduate-programs/economics", "rel": "memento", "datetime": "Mon, 08 Nov 2021 17:05:09 GMT"}
+20211108170954 {"uri": "https://web.archive.org/web/20211108170954/https://gs.howard.edu/graduate-programs/economics", "rel": "last memento", "datetime": "Mon, 08 Nov 2021 17:09:54 GMT"}

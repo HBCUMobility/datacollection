@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security", "json_format": "http://localhost:1208/timemap/json/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security"}}
+20191210075622 {"uri": "https://web.archive.org/web/20191210075622/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security", "rel": "first memento", "datetime": "Tue, 10 Dec 2019 07:56:22 GMT"}
+20200925131551 {"uri": "https://web.archive.org/web/20200925131551/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security", "rel": "memento", "datetime": "Fri, 25 Sep 2020 13:15:51 GMT"}
+20201025173720 {"uri": "https://web.archive.org/web/20201025173720/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security", "rel": "memento", "datetime": "Sun, 25 Oct 2020 17:37:20 GMT"}
+20210123051422 {"uri": "https://web.archive.org/web/20210123051422/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security", "rel": "memento", "datetime": "Sat, 23 Jan 2021 05:14:22 GMT"}
+20210417182706 {"uri": "https://web.archive.org/web/20210417182706/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security", "rel": "memento", "datetime": "Sat, 17 Apr 2021 18:27:06 GMT"}
+20211110200630 {"uri": "https://web.archive.org/web/20211110200630/https://www.uncfsu.edu/academics/colleges-schools-and-departments/center-for-defense-and-homeland-security", "rel": "last memento", "datetime": "Wed, 10 Nov 2021 20:06:30 GMT"}

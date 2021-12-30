@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/coe-programs/college-education-programs"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/coe/coe-programs/college-education-programs"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/coe/coe-programs/college-education-programs"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/coe/coe-programs/college-education-programs", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/coe/coe-programs/college-education-programs", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/coe-programs/college-education-programs"}}
+20181112212117 {"uri": "https://web.archive.org/web/20181112212117/http://www.alasu.edu:80/coe/coe-programs/college-education-programs", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:21:17 GMT"}
+20201026130511 {"uri": "https://web.archive.org/web/20201026130511/https://www.alasu.edu/coe/coe-programs/college-education-programs", "rel": "memento", "datetime": "Mon, 26 Oct 2020 13:05:11 GMT"}
+20210417052115 {"uri": "https://web.archive.org/web/20210417052115/https://www.alasu.edu/coe/coe-programs/college-education-programs", "rel": "memento", "datetime": "Sat, 17 Apr 2021 05:21:15 GMT"}
+20211020141212 {"uri": "https://web.archive.org/web/20211020141212/https://www.alasu.edu/coe/coe-programs/college-education-programs", "rel": "last memento", "datetime": "Wed, 20 Oct 2021 14:12:12 GMT"}

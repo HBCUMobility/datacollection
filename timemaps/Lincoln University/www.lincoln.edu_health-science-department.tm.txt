@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/health-science-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/health-science-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/health-science-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/health-science-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/health-science-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/health-science-department"}}
+20160226140444 {"uri": "https://web.archive.org/web/20160226140444/http://www.lincoln.edu:80/departments/health-science-department", "rel": "first memento", "datetime": "Fri, 26 Feb 2016 14:04:44 GMT"}
+20160322121956 {"uri": "https://web.archive.org/web/20160322121956/http://www.lincoln.edu/departments/health-science-department", "rel": "memento", "datetime": "Tue, 22 Mar 2016 12:19:56 GMT"}
+20160508194322 {"uri": "https://web.archive.org/web/20160508194322/http://www.lincoln.edu:80/departments/health-science-department", "rel": "memento", "datetime": "Sun, 08 May 2016 19:43:22 GMT"}
+20170628133008 {"uri": "https://web.archive.org/web/20170628133008/http://www.lincoln.edu/departments/health-science-department", "rel": "memento", "datetime": "Wed, 28 Jun 2017 13:30:08 GMT"}
+20201022005807 {"uri": "https://web.archive.org/web/20201022005807/https://www.lincoln.edu/departments/health-science-department", "rel": "memento", "datetime": "Thu, 22 Oct 2020 00:58:07 GMT"}
+20210122125121 {"uri": "https://web.archive.org/web/20210122125121/https://www.lincoln.edu/departments/health-science-department", "rel": "memento", "datetime": "Fri, 22 Jan 2021 12:51:21 GMT"}
+20210420210137 {"uri": "https://web.archive.org/web/20210420210137/https://www.lincoln.edu/departments/health-science-department", "rel": "memento", "datetime": "Tue, 20 Apr 2021 21:01:37 GMT"}
+20210422194827 {"uri": "https://web.archive.org/web/20210422194827/https://www.lincoln.edu/departments/health-science-department", "rel": "memento", "datetime": "Thu, 22 Apr 2021 19:48:27 GMT"}
+20210507192003 {"uri": "https://web.archive.org/web/20210507192003/https://www.lincoln.edu/departments/health-science-department", "rel": "last memento", "datetime": "Fri, 07 May 2021 19:20:03 GMT"}

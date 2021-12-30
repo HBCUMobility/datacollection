@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://divinity.howard.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://divinity.howard.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://divinity.howard.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://divinity.howard.edu/", "json_format": "http://localhost:1208/timemap/json/https://divinity.howard.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://divinity.howard.edu/"}}
+20170224065744 {"uri": "https://webarchive.loc.gov/all/20170224065744/http://divinity.howard.edu/", "rel": "first memento", "datetime": "Fri, 24 Feb 2017 06:57:44 GMT"}
+20170301203808 {"uri": "https://webarchive.loc.gov/all/20170301203808/http://divinity.howard.edu/", "rel": "memento", "datetime": "Wed, 01 Mar 2017 20:38:08 GMT"}
+20190213033733 {"uri": "https://arquivo.pt/noFrame/replay/20190213033733mp_/http://divinity.howard.edu/", "rel": "last memento", "datetime": "Wed, 13 Feb 2019 03:37:33 GMT"}

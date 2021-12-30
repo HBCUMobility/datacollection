@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/professional-science-masters-program"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/causes/professional-science-masters-program"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/causes/professional-science-masters-program"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/causes/professional-science-masters-program", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/causes/professional-science-masters-program", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/professional-science-masters-program"}}
+20210911025440 {"uri": "https://arquivo.pt/noFrame/replay/20210911025440mp_/https://www.udc.edu/causes/professional-science-masters-program", "rel": "first memento", "datetime": "Sat, 11 Sep 2021 02:54:40 GMT"}
+20210911025446 {"uri": "https://arquivo.pt/noFrame/replay/20210911025446mp_/https://www.udc.edu/causes/professional-science-masters-program/", "rel": "last memento", "datetime": "Sat, 11 Sep 2021 02:54:46 GMT"}

@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences"}}
+20200925143007 {"uri": "https://web.archive.org/web/20200925143007/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences", "rel": "first memento", "datetime": "Fri, 25 Sep 2020 14:30:07 GMT"}
+20201025170435 {"uri": "https://web.archive.org/web/20201025170435/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences", "rel": "memento", "datetime": "Sun, 25 Oct 2020 17:04:35 GMT"}
+20210116123713 {"uri": "https://web.archive.org/web/20210116123713/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences", "rel": "memento", "datetime": "Sat, 16 Jan 2021 12:37:13 GMT"}
+20210414110910 {"uri": "https://web.archive.org/web/20210414110910/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences", "rel": "memento", "datetime": "Wed, 14 Apr 2021 11:09:10 GMT"}
+20210510042014 {"uri": "https://web.archive.org/web/20210510042014/http://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences", "rel": "memento", "datetime": "Mon, 10 May 2021 04:20:14 GMT"}
+20211218125337 {"uri": "https://web.archive.org/web/20211218125337/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences", "rel": "memento", "datetime": "Sat, 18 Dec 2021 12:53:37 GMT"}
+20211218152238 {"uri": "https://web.archive.org/web/20211218152238/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-humanities-and-social-sciences", "rel": "last memento", "datetime": "Sat, 18 Dec 2021 15:22:38 GMT"}

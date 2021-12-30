@@ -1,0 +1,65 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://biology.tsu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://biology.tsu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://biology.tsu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://biology.tsu.edu/", "json_format": "http://localhost:1208/timemap/json/https://biology.tsu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://biology.tsu.edu/"}}
+20161117135545 {"uri": "https://web.archive.org/web/20161117135545/http://biology.tsu.edu:80/", "rel": "first memento", "datetime": "Thu, 17 Nov 2016 13:55:45 GMT"}
+20161213031718 {"uri": "https://web.archive.org/web/20161213031718/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 13 Dec 2016 03:17:18 GMT"}
+20170420201245 {"uri": "https://web.archive.org/web/20170420201245/http://biology.tsu.edu:80/?", "rel": "memento", "datetime": "Thu, 20 Apr 2017 20:12:45 GMT"}
+20170514034131 {"uri": "https://web.archive.org/web/20170514034131/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 14 May 2017 03:41:31 GMT"}
+20170522110339 {"uri": "https://web.archive.org/web/20170522110339/http://biology.tsu.edu:80/?", "rel": "memento", "datetime": "Mon, 22 May 2017 11:03:39 GMT"}
+20170523165332 {"uri": "https://web.archive.org/web/20170523165332/http://biology.tsu.edu:80/?", "rel": "memento", "datetime": "Tue, 23 May 2017 16:53:32 GMT"}
+20170614044049 {"uri": "https://web.archive.org/web/20170614044049/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 14 Jun 2017 04:40:49 GMT"}
+20170619162402 {"uri": "https://web.archive.org/web/20170619162402/http://biology.tsu.edu/", "rel": "memento", "datetime": "Mon, 19 Jun 2017 16:24:02 GMT"}
+20170623144902 {"uri": "https://web.archive.org/web/20170623144902/http://biology.tsu.edu:80/?", "rel": "memento", "datetime": "Fri, 23 Jun 2017 14:49:02 GMT"}
+20170715191509 {"uri": "https://web.archive.org/web/20170715191509/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 15 Jul 2017 19:15:09 GMT"}
+20170724153611 {"uri": "https://web.archive.org/web/20170724153611/http://biology.tsu.edu:80/?", "rel": "memento", "datetime": "Mon, 24 Jul 2017 15:36:11 GMT"}
+20170815180316 {"uri": "https://web.archive.org/web/20170815180316/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 15 Aug 2017 18:03:16 GMT"}
+20170916092839 {"uri": "https://web.archive.org/web/20170916092839/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 16 Sep 2017 09:28:39 GMT"}
+20170919060933 {"uri": "https://web.archive.org/web/20170919060933/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 19 Sep 2017 06:09:33 GMT"}
+20171019165619 {"uri": "https://web.archive.org/web/20171019165619/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 19 Oct 2017 16:56:19 GMT"}
+20171119090517 {"uri": "https://web.archive.org/web/20171119090517/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 19 Nov 2017 09:05:17 GMT"}
+20171224170701 {"uri": "https://web.archive.org/web/20171224170701/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 24 Dec 2017 17:07:01 GMT"}
+20180223164004 {"uri": "https://web.archive.org/web/20180223164004/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 23 Feb 2018 16:40:04 GMT"}
+20180320125628 {"uri": "https://web.archive.org/web/20180320125628/http://biology.tsu.edu/", "rel": "memento", "datetime": "Tue, 20 Mar 2018 12:56:28 GMT"}
+20180426022006 {"uri": "https://web.archive.org/web/20180426022006/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 26 Apr 2018 02:20:06 GMT"}
+20180523105328 {"uri": "https://web.archive.org/web/20180523105328/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 23 May 2018 10:53:28 GMT"}
+20180623115835 {"uri": "https://web.archive.org/web/20180623115835/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 23 Jun 2018 11:58:35 GMT"}
+20180725191021 {"uri": "https://web.archive.org/web/20180725191021/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 25 Jul 2018 19:10:21 GMT"}
+20180825223303 {"uri": "https://web.archive.org/web/20180825223303/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 25 Aug 2018 22:33:03 GMT"}
+20180926123707 {"uri": "https://web.archive.org/web/20180926123707/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 26 Sep 2018 12:37:07 GMT"}
+20181019221851 {"uri": "https://web.archive.org/web/20181019221851/http://biology.tsu.edu/", "rel": "memento", "datetime": "Fri, 19 Oct 2018 22:18:51 GMT"}
+20181027210118 {"uri": "https://web.archive.org/web/20181027210118/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 27 Oct 2018 21:01:18 GMT"}
+20181028223724 {"uri": "https://web.archive.org/web/20181028223724/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 28 Oct 2018 22:37:24 GMT"}
+20181201021557 {"uri": "https://web.archive.org/web/20181201021557/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 01 Dec 2018 02:15:57 GMT"}
+20181230152051 {"uri": "https://web.archive.org/web/20181230152051/http://biology.tsu.edu/", "rel": "memento", "datetime": "Sun, 30 Dec 2018 15:20:51 GMT"}
+20190101071412 {"uri": "https://web.archive.org/web/20190101071412/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 01 Jan 2019 07:14:12 GMT"}
+20190125220708 {"uri": "https://web.archive.org/web/20190125220708/http://biology.tsu.edu/", "rel": "memento", "datetime": "Fri, 25 Jan 2019 22:07:08 GMT"}
+20190201151256 {"uri": "https://web.archive.org/web/20190201151256/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 01 Feb 2019 15:12:56 GMT"}
+20190203020024 {"uri": "https://web.archive.org/web/20190203020024/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 03 Feb 2019 02:00:24 GMT"}
+20190306081318 {"uri": "https://web.archive.org/web/20190306081318/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 06 Mar 2019 08:13:18 GMT"}
+20190407224404 {"uri": "https://web.archive.org/web/20190407224404/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 07 Apr 2019 22:44:04 GMT"}
+20190509230832 {"uri": "https://web.archive.org/web/20190509230832/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 09 May 2019 23:08:32 GMT"}
+20190610062226 {"uri": "https://web.archive.org/web/20190610062226/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 10 Jun 2019 06:22:26 GMT"}
+20190708120634 {"uri": "https://web.archive.org/web/20190708120634/http://biology.tsu.edu/", "rel": "memento", "datetime": "Mon, 08 Jul 2019 12:06:34 GMT"}
+20190724160226 {"uri": "https://web.archive.org/web/20190724160226/http://biology.tsu.edu/", "rel": "memento", "datetime": "Wed, 24 Jul 2019 16:02:26 GMT"}
+20190730074029 {"uri": "https://web.archive.org/web/20190730074029/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 30 Jul 2019 07:40:29 GMT"}
+20190731175201 {"uri": "https://web.archive.org/web/20190731175201/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 31 Jul 2019 17:52:01 GMT"}
+20190831170632 {"uri": "https://web.archive.org/web/20190831170632/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 31 Aug 2019 17:06:32 GMT"}
+20191001145359 {"uri": "https://web.archive.org/web/20191001145359/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 01 Oct 2019 14:53:59 GMT"}
+20191012051431 {"uri": "https://web.archive.org/web/20191012051431/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 12 Oct 2019 05:14:31 GMT"}
+20191029172907 {"uri": "https://web.archive.org/web/20191029172907/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 29 Oct 2019 17:29:07 GMT"}
+20191128213900 {"uri": "https://web.archive.org/web/20191128213900/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 28 Nov 2019 21:39:00 GMT"}
+20191229033308 {"uri": "https://web.archive.org/web/20191229033308/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 29 Dec 2019 03:33:08 GMT"}
+20200128055406 {"uri": "https://web.archive.org/web/20200128055406/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 28 Jan 2020 05:54:06 GMT"}
+20200406014013 {"uri": "https://web.archive.org/web/20200406014013/http://biology.tsu.edu/", "rel": "memento", "datetime": "Mon, 06 Apr 2020 01:40:13 GMT"}
+20200430130002 {"uri": "https://web.archive.org/web/20200430130002/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 30 Apr 2020 13:00:02 GMT"}
+20200629142503 {"uri": "https://web.archive.org/web/20200629142503/http://biology.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 29 Jun 2020 14:25:03 GMT"}
+20200921125704 {"uri": "https://web.archive.org/web/20200921125704/https://biology.tsu.edu/", "rel": "memento", "datetime": "Mon, 21 Sep 2020 12:57:04 GMT"}
+20201025104238 {"uri": "https://web.archive.org/web/20201025104238/https://biology.tsu.edu/", "rel": "memento", "datetime": "Sun, 25 Oct 2020 10:42:38 GMT"}
+20201127200433 {"uri": "https://web.archive.org/web/20201127200433/https://biology.tsu.edu/", "rel": "memento", "datetime": "Fri, 27 Nov 2020 20:04:33 GMT"}
+20210122220529 {"uri": "https://web.archive.org/web/20210122220529/https://biology.tsu.edu/", "rel": "memento", "datetime": "Fri, 22 Jan 2021 22:05:29 GMT"}
+20210507161618 {"uri": "https://web.archive.org/web/20210507161618/https://biology.tsu.edu/", "rel": "memento", "datetime": "Fri, 07 May 2021 16:16:18 GMT"}
+20210805052321 {"uri": "https://web.archive.org/web/20210805052321/http://biology.tsu.edu/", "rel": "memento", "datetime": "Thu, 05 Aug 2021 05:23:21 GMT"}
+20210805052327 {"uri": "https://web.archive.org/web/20210805052327/https://biology.tsu.edu/", "rel": "last memento", "datetime": "Thu, 05 Aug 2021 05:23:27 GMT"}

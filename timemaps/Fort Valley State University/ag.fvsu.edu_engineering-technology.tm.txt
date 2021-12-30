@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://ag.fvsu.edu/departments/engineering-technology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://ag.fvsu.edu/departments/engineering-technology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://ag.fvsu.edu/departments/engineering-technology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://ag.fvsu.edu/departments/engineering-technology", "json_format": "http://localhost:1208/timemap/json/https://ag.fvsu.edu/departments/engineering-technology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ag.fvsu.edu/departments/engineering-technology"}}
+20200927001606 {"uri": "https://web.archive.org/web/20200927001606/https://ag.fvsu.edu/departments/engineering-technology", "rel": "first memento", "datetime": "Sun, 27 Sep 2020 00:16:06 GMT"}
+20210125203259 {"uri": "https://web.archive.org/web/20210125203259/https://ag.fvsu.edu/departments/engineering-technology", "rel": "last memento", "datetime": "Mon, 25 Jan 2021 20:32:59 GMT"}

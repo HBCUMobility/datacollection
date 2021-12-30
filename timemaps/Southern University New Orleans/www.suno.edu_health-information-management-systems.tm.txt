@@ -1,0 +1,19 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/health-information-management-systems"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/health-information-management-systems"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/health-information-management-systems"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/health-information-management-systems", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/health-information-management-systems", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/health-information-management-systems"}}
+20180803203143 {"uri": "https://web.archive.org/web/20180803203143/http://www.suno.edu:80/page/health-information-management-systems", "rel": "first memento", "datetime": "Fri, 03 Aug 2018 20:31:43 GMT"}
+20190816044603 {"uri": "https://web.archive.org/web/20190816044603/http://www.suno.edu/page/health-information-management-systems", "rel": "memento", "datetime": "Fri, 16 Aug 2019 04:46:03 GMT"}
+20191004065040 {"uri": "https://web.archive.org/web/20191004065040/http://www.suno.edu:80/page/health-information-management-systems", "rel": "memento", "datetime": "Fri, 04 Oct 2019 06:50:40 GMT"}
+20191203100825 {"uri": "https://web.archive.org/web/20191203100825/http://www.suno.edu:80/page/health-information-management-systems", "rel": "memento", "datetime": "Tue, 03 Dec 2019 10:08:25 GMT"}
+20200606074324 {"uri": "https://web.archive.org/web/20200606074324/http://www.suno.edu/page/health-information-management-systems", "rel": "memento", "datetime": "Sat, 06 Jun 2020 07:43:24 GMT"}
+20200622122417 {"uri": "https://web.archive.org/web/20200622122417/http://www.suno.edu/page/health-information-management-systems", "rel": "memento", "datetime": "Mon, 22 Jun 2020 12:24:17 GMT"}
+20200706122646 {"uri": "https://web.archive.org/web/20200706122646/http://www.suno.edu:80/page/health-information-management-systems", "rel": "memento", "datetime": "Mon, 06 Jul 2020 12:26:46 GMT"}
+20200929202313 {"uri": "https://web.archive.org/web/20200929202313/http://www.suno.edu/page/health-information-management-systems", "rel": "memento", "datetime": "Tue, 29 Sep 2020 20:23:13 GMT"}
+20201006085620 {"uri": "https://web.archive.org/web/20201006085620/http://www.suno.edu/page/health-information-management-systems", "rel": "memento", "datetime": "Tue, 06 Oct 2020 08:56:20 GMT"}
+20201011073042 {"uri": "https://web.archive.org/web/20201011073042/http://www.suno.edu/page/health-information-management-systems", "rel": "memento", "datetime": "Sun, 11 Oct 2020 07:30:42 GMT"}
+20210120143940 {"uri": "https://web.archive.org/web/20210120143940/https://www.suno.edu/page/health-information-management-systems", "rel": "memento", "datetime": "Wed, 20 Jan 2021 14:39:40 GMT"}
+20210916123842 {"uri": "https://web.archive.org/web/20210916123842/http://www.suno.edu/page/health-information-management-systems", "rel": "memento", "datetime": "Thu, 16 Sep 2021 12:38:42 GMT"}
+20210916171401 {"uri": "https://web.archive.org/web/20210916171401/https://www.suno.edu/page/health-information-management-systems", "rel": "last memento", "datetime": "Thu, 16 Sep 2021 17:14:01 GMT"}

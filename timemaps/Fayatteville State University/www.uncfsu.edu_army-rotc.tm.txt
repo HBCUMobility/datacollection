@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/army-rotc"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/army-rotc"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/army-rotc"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/army-rotc", "json_format": "http://localhost:1208/timemap/json/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/army-rotc", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/army-rotc"}}
+20200926175628 {"uri": "https://web.archive.org/web/20200926175628/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/army-rotc", "rel": "first memento", "datetime": "Sat, 26 Sep 2020 17:56:28 GMT"}
+20210123043154 {"uri": "https://web.archive.org/web/20210123043154/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/army-rotc", "rel": "memento", "datetime": "Sat, 23 Jan 2021 04:31:54 GMT"}
+20210417165649 {"uri": "https://web.archive.org/web/20210417165649/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/army-rotc", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 16:56:49 GMT"}

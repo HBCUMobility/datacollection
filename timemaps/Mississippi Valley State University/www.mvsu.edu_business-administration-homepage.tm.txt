@@ -1,0 +1,27 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.mvsu.edu/academics/academic-programs/business-administration-homepage"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "json_format": "http://localhost:1208/timemap/json/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage"}}
+20170706070009 {"uri": "https://web.archive.org/web/20170706070009/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "first memento", "datetime": "Thu, 06 Jul 2017 07:00:09 GMT"}
+20190803234527 {"uri": "https://web.archive.org/web/20190803234527/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Sat, 03 Aug 2019 23:45:27 GMT"}
+20190929082503 {"uri": "https://web.archive.org/web/20190929082503/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Sun, 29 Sep 2019 08:25:03 GMT"}
+20200513095903 {"uri": "https://web.archive.org/web/20200513095903/https://mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Wed, 13 May 2020 09:59:03 GMT"}
+20200526051116 {"uri": "https://web.archive.org/web/20200526051116/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Tue, 26 May 2020 05:11:16 GMT"}
+20200610200448 {"uri": "https://web.archive.org/web/20200610200448/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Wed, 10 Jun 2020 20:04:48 GMT"}
+20200621025420 {"uri": "https://web.archive.org/web/20200621025420/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Sun, 21 Jun 2020 02:54:20 GMT"}
+20200809170311 {"uri": "https://web.archive.org/web/20200809170311/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Sun, 09 Aug 2020 17:03:11 GMT"}
+20200826001607 {"uri": "https://web.archive.org/web/20200826001607/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Wed, 26 Aug 2020 00:16:07 GMT"}
+20200909231333 {"uri": "https://web.archive.org/web/20200909231333/https://mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Wed, 09 Sep 2020 23:13:33 GMT"}
+20201021134058 {"uri": "https://web.archive.org/web/20201021134058/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Wed, 21 Oct 2020 13:40:58 GMT"}
+20210127235551 {"uri": "https://web.archive.org/web/20210127235551/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Wed, 27 Jan 2021 23:55:51 GMT"}
+20210202181623 {"uri": "https://web.archive.org/web/20210202181623/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Tue, 02 Feb 2021 18:16:23 GMT"}
+20210414230135 {"uri": "https://web.archive.org/web/20210414230135/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Wed, 14 Apr 2021 23:01:35 GMT"}
+20210417181857 {"uri": "https://web.archive.org/web/20210417181857/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Sat, 17 Apr 2021 18:18:57 GMT"}
+20210509150830 {"uri": "https://web.archive.org/web/20210509150830/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Sun, 09 May 2021 15:08:30 GMT"}
+20210515201458 {"uri": "https://web.archive.org/web/20210515201458/https://mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Sat, 15 May 2021 20:14:58 GMT"}
+20210524200502 {"uri": "https://web.archive.org/web/20210524200502/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Mon, 24 May 2021 20:05:02 GMT"}
+20210525134223 {"uri": "https://web.archive.org/web/20210525134223/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Tue, 25 May 2021 13:42:23 GMT"}
+20210601235145 {"uri": "https://web.archive.org/web/20210601235145/https://www.mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "memento", "datetime": "Tue, 01 Jun 2021 23:51:45 GMT"}
+20210813102232 {"uri": "https://web.archive.org/web/20210813102232/https://mvsu.edu/academics/academic-programs/business-administration-homepage", "rel": "last memento", "datetime": "Fri, 13 Aug 2021 10:22:32 GMT"}

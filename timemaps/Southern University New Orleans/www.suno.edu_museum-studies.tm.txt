@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/museum-studies"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/museum-studies"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/museum-studies"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/museum-studies", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/museum-studies", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/museum-studies"}}
+20180702003530 {"uri": "https://web.archive.org/web/20180702003530/http://www.suno.edu:80/page/museum-studies", "rel": "first memento", "datetime": "Mon, 02 Jul 2018 00:35:30 GMT"}
+20180703014005 {"uri": "https://web.archive.org/web/20180703014005/http://www.suno.edu:80/page/museum-studies", "rel": "memento", "datetime": "Tue, 03 Jul 2018 01:40:05 GMT"}
+20180814203902 {"uri": "https://web.archive.org/web/20180814203902/http://www.suno.edu:80/page/museum-studies", "rel": "memento", "datetime": "Tue, 14 Aug 2018 20:39:02 GMT"}
+20190816044522 {"uri": "https://web.archive.org/web/20190816044522/http://www.suno.edu/page/museum-studies", "rel": "memento", "datetime": "Fri, 16 Aug 2019 04:45:22 GMT"}
+20191004065225 {"uri": "https://web.archive.org/web/20191004065225/http://www.suno.edu:80/page/museum-studies", "rel": "memento", "datetime": "Fri, 04 Oct 2019 06:52:25 GMT"}
+20191203100856 {"uri": "https://web.archive.org/web/20191203100856/http://www.suno.edu:80/page/museum-studies", "rel": "memento", "datetime": "Tue, 03 Dec 2019 10:08:56 GMT"}
+20200201130652 {"uri": "https://web.archive.org/web/20200201130652/http://www.suno.edu:80/page/museum-studies", "rel": "memento", "datetime": "Sat, 01 Feb 2020 13:06:52 GMT"}
+20200606074223 {"uri": "https://web.archive.org/web/20200606074223/http://www.suno.edu/page/museum-studies", "rel": "memento", "datetime": "Sat, 06 Jun 2020 07:42:23 GMT"}
+20200623081029 {"uri": "https://web.archive.org/web/20200623081029/http://www.suno.edu/page/museum-studies", "rel": "memento", "datetime": "Tue, 23 Jun 2020 08:10:29 GMT"}
+20200706122716 {"uri": "https://web.archive.org/web/20200706122716/http://www.suno.edu:80/page/museum-studies", "rel": "memento", "datetime": "Mon, 06 Jul 2020 12:27:16 GMT"}
+20201007013404 {"uri": "https://web.archive.org/web/20201007013404/http://www.suno.edu/page/museum-studies", "rel": "memento", "datetime": "Wed, 07 Oct 2020 01:34:04 GMT"}
+20201127103311 {"uri": "https://web.archive.org/web/20201127103311/http://www.suno.edu/page/museum-studies", "rel": "memento", "datetime": "Fri, 27 Nov 2020 10:33:11 GMT"}
+20210119155515 {"uri": "https://web.archive.org/web/20210119155515/https://www.suno.edu/page/museum-studies", "rel": "memento", "datetime": "Tue, 19 Jan 2021 15:55:15 GMT"}
+20210410150538 {"uri": "https://web.archive.org/web/20210410150538/http://www.suno.edu/page/museum-studies", "rel": "memento", "datetime": "Sat, 10 Apr 2021 15:05:38 GMT"}
+20210916123905 {"uri": "https://web.archive.org/web/20210916123905/http://www.suno.edu/page/museum-studies", "rel": "memento", "datetime": "Thu, 16 Sep 2021 12:39:05 GMT"}
+20210916170916 {"uri": "https://web.archive.org/web/20210916170916/https://www.suno.edu/page/museum-studies", "rel": "last memento", "datetime": "Thu, 16 Sep 2021 17:09:16 GMT"}

@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://medicine.howard.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://medicine.howard.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://medicine.howard.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://medicine.howard.edu/", "json_format": "http://localhost:1208/timemap/json/http://medicine.howard.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://medicine.howard.edu/"}}
+20120711170513 {"uri": "http://archive.md/20120711170513/http://medicine.howard.edu/", "rel": "first memento", "datetime": "Wed, 11 Jul 2012 17:05:13 GMT"}
+20191006064121 {"uri": "https://arquivo.pt/wayback/20191006064121mp_/https://medicine.howard.edu/", "rel": "memento", "datetime": "Sun, 06 Oct 2019 06:41:21 GMT"}
+20200904201630 {"uri": "https://arquivo.pt/wayback/20200904201630mp_/https://medicine.howard.edu/", "rel": "last memento", "datetime": "Fri, 04 Sep 2020 20:16:30 GMT"}

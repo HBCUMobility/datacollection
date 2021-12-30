@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/criminal-justice-sociology/department-criminal-justice-and-social-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/clas/criminal-justice-sociology/department-criminal-justice-and-social-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/clas/criminal-justice-sociology/department-criminal-justice-and-social-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/clas/criminal-justice-sociology/department-criminal-justice-and-social-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/clas/criminal-justice-sociology/department-criminal-justice-and-social-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/criminal-justice-sociology/department-criminal-justice-and-social-sciences"}}
+20210416171055 {"uri": "https://web.archive.org/web/20210416171055/https://www.alasu.edu/clas/criminal-justice-sociology/department-criminal-justice-and-social-sciences", "rel": "first last memento", "datetime": "Fri, 16 Apr 2021 17:10:55 GMT"}

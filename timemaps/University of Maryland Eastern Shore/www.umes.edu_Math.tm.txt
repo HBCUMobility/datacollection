@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.umes.edu/Math"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.umes.edu/Math"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.umes.edu/Math"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.umes.edu/Math", "json_format": "http://localhost:1208/timemap/json/https://www.umes.edu/Math", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.umes.edu/Math"}}
+20210414191457 {"uri": "https://web.archive.org/web/20210414191457/https://www.umes.edu/Math/", "rel": "first memento", "datetime": "Wed, 14 Apr 2021 19:14:57 GMT"}
+20210415064831 {"uri": "https://web.archive.org/web/20210415064831/https://umes.edu/Math", "rel": "memento", "datetime": "Thu, 15 Apr 2021 06:48:31 GMT"}
+20210426015306 {"uri": "https://web.archive.org/web/20210426015306/https://umes.edu/Math/", "rel": "last memento", "datetime": "Mon, 26 Apr 2021 01:53:06 GMT"}
