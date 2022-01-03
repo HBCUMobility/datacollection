@@ -1,0 +1,18 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/sbpa/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/sbpa/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/sbpa/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/sbpa/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/sbpa/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/sbpa/"}}
+20011101161124 {"uri": "http://web.archive.bibalex.org:80/web/20011101161124/http://www.udc.edu/sbpa/", "rel": "first memento", "datetime": "Thu, 01 Nov 2001 16:11:24 GMT"}
+20030220030747 {"uri": "http://web.archive.bibalex.org:80/web/20030220030747/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Thu, 20 Feb 2003 03:07:47 GMT"}
+20030807024248 {"uri": "http://web.archive.bibalex.org:80/web/20030807024248/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Thu, 07 Aug 2003 02:42:48 GMT"}
+20031124224638 {"uri": "http://web.archive.bibalex.org:80/web/20031124224638/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Mon, 24 Nov 2003 22:46:38 GMT"}
+20031210174433 {"uri": "http://web.archive.bibalex.org:80/web/20031210174433/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Wed, 10 Dec 2003 17:44:33 GMT"}
+20040205221432 {"uri": "http://web.archive.bibalex.org:80/web/20040205221432/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Thu, 05 Feb 2004 22:14:32 GMT"}
+20040417080957 {"uri": "http://web.archive.bibalex.org:80/web/20040417080957/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Sat, 17 Apr 2004 08:09:57 GMT"}
+20040620234116 {"uri": "http://web.archive.bibalex.org:80/web/20040620234116/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Sun, 20 Jun 2004 23:41:16 GMT"}
+20040905175958 {"uri": "http://web.archive.bibalex.org:80/web/20040905175958/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Sun, 05 Sep 2004 17:59:58 GMT"}
+20041015133341 {"uri": "http://web.archive.bibalex.org:80/web/20041015133341/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Fri, 15 Oct 2004 13:33:41 GMT"}
+20050119152712 {"uri": "http://web.archive.bibalex.org:80/web/20050119152712/http://www.udc.edu/sbpa/", "rel": "memento", "datetime": "Wed, 19 Jan 2005 15:27:12 GMT"}
+20210911024851 {"uri": "https://arquivo.pt/noFrame/replay/20210911024851mp_/https://www.udc.edu/sbpa/", "rel": "last memento", "datetime": "Sat, 11 Sep 2021 02:48:51 GMT"}

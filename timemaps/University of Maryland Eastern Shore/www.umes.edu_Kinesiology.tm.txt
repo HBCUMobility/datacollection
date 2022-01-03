@@ -1,0 +1,43 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.umes.edu/Kinesiology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.umes.edu/Kinesiology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.umes.edu/Kinesiology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.umes.edu/Kinesiology", "json_format": "http://localhost:1208/timemap/json/https://www.umes.edu/Kinesiology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.umes.edu/Kinesiology"}}
+20150226182154 {"uri": "https://web.archive.org/web/20150226182154/http://www.umes.edu:80/Kinesiology/", "rel": "first memento", "datetime": "Thu, 26 Feb 2015 18:21:54 GMT"}
+20150226182154 {"uri": "https://web.archive.org/web/20150226182154/http://www.umes.edu:80/Kinesiology", "rel": "memento", "datetime": "Thu, 26 Feb 2015 18:21:54 GMT"}
+20150312085137 {"uri": "https://web.archive.org/web/20150312085137/http://www.umes.edu:80/Kinesiology/", "rel": "memento", "datetime": "Thu, 12 Mar 2015 08:51:37 GMT"}
+20150312085137 {"uri": "https://web.archive.org/web/20150312085137/http://www.umes.edu:80/Kinesiology", "rel": "memento", "datetime": "Thu, 12 Mar 2015 08:51:37 GMT"}
+20150331170422 {"uri": "https://web.archive.org/web/20150331170422/http://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Tue, 31 Mar 2015 17:04:22 GMT"}
+20150511144246 {"uri": "https://web.archive.org/web/20150511144246/http://www.umes.edu:80/Kinesiology/", "rel": "memento", "datetime": "Mon, 11 May 2015 14:42:46 GMT"}
+20150511144246 {"uri": "https://web.archive.org/web/20150511144246/http://www.umes.edu:80/Kinesiology", "rel": "memento", "datetime": "Mon, 11 May 2015 14:42:46 GMT"}
+20150518055514 {"uri": "https://web.archive.org/web/20150518055514/http://www.umes.edu:80/Kinesiology/", "rel": "memento", "datetime": "Mon, 18 May 2015 05:55:14 GMT"}
+20150518055514 {"uri": "https://web.archive.org/web/20150518055514/http://www.umes.edu:80/Kinesiology", "rel": "memento", "datetime": "Mon, 18 May 2015 05:55:14 GMT"}
+20150523051118 {"uri": "https://web.archive.org/web/20150523051118/http://www.umes.edu:80/Kinesiology/", "rel": "memento", "datetime": "Sat, 23 May 2015 05:11:18 GMT"}
+20150523051118 {"uri": "https://web.archive.org/web/20150523051118/http://www.umes.edu:80/Kinesiology", "rel": "memento", "datetime": "Sat, 23 May 2015 05:11:18 GMT"}
+20151019051418 {"uri": "https://web.archive.org/web/20151019051418/http://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Mon, 19 Oct 2015 05:14:18 GMT"}
+20170316224250 {"uri": "https://wayback.archive-it.org/all/20170316224250/http://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:42:50 GMT"}
+20170316224250 {"uri": "https://web.archive.org/web/20170316224250/http://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:42:50 GMT"}
+20170316224300 {"uri": "https://wayback.archive-it.org/all/20170316224300/https://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:00 GMT"}
+20170316224300 {"uri": "https://web.archive.org/web/20170316224300/https://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:00 GMT"}
+20170316224302 {"uri": "https://wayback.archive-it.org/all/20170316224302/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:02 GMT"}
+20170316224302 {"uri": "https://web.archive.org/web/20170316224302/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:02 GMT"}
+20170707140328 {"uri": "https://web.archive.org/web/20170707140328/https://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Fri, 07 Jul 2017 14:03:28 GMT"}
+20180418160401 {"uri": "https://web.archive.org/web/20180418160401/https://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Wed, 18 Apr 2018 16:04:01 GMT"}
+20180502070844 {"uri": "https://web.archive.org/web/20180502070844/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Wed, 02 May 2018 07:08:44 GMT"}
+20200619030558 {"uri": "https://web.archive.org/web/20200619030558/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Fri, 19 Jun 2020 03:05:58 GMT"}
+20200622152756 {"uri": "https://web.archive.org/web/20200622152756/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Mon, 22 Jun 2020 15:27:56 GMT"}
+20200713144734 {"uri": "https://web.archive.org/web/20200713144734/https://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Mon, 13 Jul 2020 14:47:34 GMT"}
+20200718232229 {"uri": "https://web.archive.org/web/20200718232229/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Sat, 18 Jul 2020 23:22:29 GMT"}
+20200727172952 {"uri": "https://web.archive.org/web/20200727172952/http://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Mon, 27 Jul 2020 17:29:52 GMT"}
+20200804172035 {"uri": "https://web.archive.org/web/20200804172035/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Tue, 04 Aug 2020 17:20:35 GMT"}
+20201021014715 {"uri": "https://web.archive.org/web/20201021014715/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Wed, 21 Oct 2020 01:47:15 GMT"}
+20210128014750 {"uri": "https://web.archive.org/web/20210128014750/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Thu, 28 Jan 2021 01:47:50 GMT"}
+20210302211023 {"uri": "https://web.archive.org/web/20210302211023/https://umes.edu/Kinesiology/", "rel": "memento", "datetime": "Tue, 02 Mar 2021 21:10:23 GMT"}
+20210414130432 {"uri": "https://web.archive.org/web/20210414130432/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Wed, 14 Apr 2021 13:04:32 GMT"}
+20210414134651 {"uri": "https://web.archive.org/web/20210414134651/https://www.umes.edu/Kinesiology", "rel": "memento", "datetime": "Wed, 14 Apr 2021 13:46:51 GMT"}
+20210414174709 {"uri": "https://web.archive.org/web/20210414174709/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Wed, 14 Apr 2021 17:47:09 GMT"}
+20210415051203 {"uri": "https://web.archive.org/web/20210415051203/https://umes.edu/Kinesiology", "rel": "memento", "datetime": "Thu, 15 Apr 2021 05:12:03 GMT"}
+20210418020318 {"uri": "https://web.archive.org/web/20210418020318/https://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Sun, 18 Apr 2021 02:03:18 GMT"}
+20210420170108 {"uri": "https://web.archive.org/web/20210420170108/http://www.umes.edu/Kinesiology/", "rel": "memento", "datetime": "Tue, 20 Apr 2021 17:01:08 GMT"}
+20210425143408 {"uri": "https://web.archive.org/web/20210425143408/https://umes.edu/Kinesiology/", "rel": "last memento", "datetime": "Sun, 25 Apr 2021 14:34:08 GMT"}

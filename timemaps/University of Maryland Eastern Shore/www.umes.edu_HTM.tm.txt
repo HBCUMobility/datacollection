@@ -1,0 +1,37 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.umes.edu/HTM"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.umes.edu/HTM"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.umes.edu/HTM"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.umes.edu/HTM", "json_format": "http://localhost:1208/timemap/json/https://www.umes.edu/HTM", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.umes.edu/HTM"}}
+20170316223848 {"uri": "https://web.archive.org/web/20170316223848/https://www.umes.edu/htm", "rel": "first memento", "datetime": "Thu, 16 Mar 2017 22:38:48 GMT"}
+20170316223915 {"uri": "https://web.archive.org/web/20170316223915/https://www.umes.edu/htm/", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:39:15 GMT"}
+20170915032143 {"uri": "https://web.archive.org/web/20170915032143/https://www.umes.edu/htm/", "rel": "memento", "datetime": "Fri, 15 Sep 2017 03:21:43 GMT"}
+20180418160352 {"uri": "https://web.archive.org/web/20180418160352/https://www.umes.edu/HTM", "rel": "memento", "datetime": "Wed, 18 Apr 2018 16:03:52 GMT"}
+20180504145654 {"uri": "https://web.archive.org/web/20180504145654/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Fri, 04 May 2018 14:56:54 GMT"}
+20181221042641 {"uri": "https://web.archive.org/web/20181221042641/https://www.umes.edu/HTM", "rel": "memento", "datetime": "Fri, 21 Dec 2018 04:26:41 GMT"}
+20181221042905 {"uri": "https://web.archive.org/web/20181221042905/https://www.umes.edu/htm/", "rel": "memento", "datetime": "Fri, 21 Dec 2018 04:29:05 GMT"}
+20181221054133 {"uri": "https://web.archive.org/web/20181221054133/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Fri, 21 Dec 2018 05:41:33 GMT"}
+20191030131235 {"uri": "https://web.archive.org/web/20191030131235/https://www.umes.edu/htm", "rel": "memento", "datetime": "Wed, 30 Oct 2019 13:12:35 GMT"}
+20191030131242 {"uri": "https://web.archive.org/web/20191030131242/https://www.umes.edu/htm/", "rel": "memento", "datetime": "Wed, 30 Oct 2019 13:12:42 GMT"}
+20200622185653 {"uri": "https://web.archive.org/web/20200622185653/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Mon, 22 Jun 2020 18:56:53 GMT"}
+20200624141228 {"uri": "https://web.archive.org/web/20200624141228/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Wed, 24 Jun 2020 14:12:28 GMT"}
+20200713134929 {"uri": "https://web.archive.org/web/20200713134929/https://www.umes.edu/HTM", "rel": "memento", "datetime": "Mon, 13 Jul 2020 13:49:29 GMT"}
+20200718231908 {"uri": "https://web.archive.org/web/20200718231908/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Sat, 18 Jul 2020 23:19:08 GMT"}
+20200729114028 {"uri": "https://web.archive.org/web/20200729114028/http://www.umes.edu/HTM/", "rel": "memento", "datetime": "Wed, 29 Jul 2020 11:40:28 GMT"}
+20200804162205 {"uri": "https://web.archive.org/web/20200804162205/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Tue, 04 Aug 2020 16:22:05 GMT"}
+20200804175227 {"uri": "https://web.archive.org/web/20200804175227/https://www.umes.edu/htm/", "rel": "memento", "datetime": "Tue, 04 Aug 2020 17:52:27 GMT"}
+20200922165358 {"uri": "https://web.archive.org/web/20200922165358/https://umes.edu/htm/", "rel": "memento", "datetime": "Tue, 22 Sep 2020 16:53:58 GMT"}
+20201021023031 {"uri": "https://web.archive.org/web/20201021023031/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Wed, 21 Oct 2020 02:30:31 GMT"}
+20201022042856 {"uri": "https://web.archive.org/web/20201022042856/https://www.umes.edu/htm/", "rel": "memento", "datetime": "Thu, 22 Oct 2020 04:28:56 GMT"}
+20201119014704 {"uri": "https://web.archive.org/web/20201119014704/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Thu, 19 Nov 2020 01:47:04 GMT"}
+20201124063411 {"uri": "https://web.archive.org/web/20201124063411/https://umes.edu/htm/", "rel": "memento", "datetime": "Tue, 24 Nov 2020 06:34:11 GMT"}
+20210126144200 {"uri": "https://web.archive.org/web/20210126144200/https://www.umes.edu/htm/", "rel": "memento", "datetime": "Tue, 26 Jan 2021 14:42:00 GMT"}
+20210128023713 {"uri": "https://web.archive.org/web/20210128023713/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Thu, 28 Jan 2021 02:37:13 GMT"}
+20210227004138 {"uri": "https://web.archive.org/web/20210227004138/https://umes.edu/htm/", "rel": "memento", "datetime": "Sat, 27 Feb 2021 00:41:38 GMT"}
+20210302195304 {"uri": "https://web.archive.org/web/20210302195304/https://umes.edu/HTM/", "rel": "memento", "datetime": "Tue, 02 Mar 2021 19:53:04 GMT"}
+20210414174712 {"uri": "https://web.archive.org/web/20210414174712/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Wed, 14 Apr 2021 17:47:12 GMT"}
+20210415050128 {"uri": "https://web.archive.org/web/20210415050128/https://umes.edu/HTM", "rel": "memento", "datetime": "Thu, 15 Apr 2021 05:01:28 GMT"}
+20210418030058 {"uri": "https://web.archive.org/web/20210418030058/https://www.umes.edu/HTM/", "rel": "memento", "datetime": "Sun, 18 Apr 2021 03:00:58 GMT"}
+20210423183506 {"uri": "https://web.archive.org/web/20210423183506/https://umes.edu/HTM/", "rel": "memento", "datetime": "Fri, 23 Apr 2021 18:35:06 GMT"}
+20210425155918 {"uri": "https://web.archive.org/web/20210425155918/https://umes.edu/HTM/", "rel": "last memento", "datetime": "Sun, 25 Apr 2021 15:59:18 GMT"}

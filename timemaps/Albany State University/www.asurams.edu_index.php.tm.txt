@@ -1,0 +1,51 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php"}}
+20190314032544 {"uri": "https://web.archive.org/web/20190314032544/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "first memento", "datetime": "Thu, 14 Mar 2019 03:25:44 GMT"}
+20190314074544 {"uri": "https://web.archive.org/web/20190314074544/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Thu, 14 Mar 2019 07:45:44 GMT"}
+20190509214152 {"uri": "https://web.archive.org/web/20190509214152/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Thu, 09 May 2019 21:41:52 GMT"}
+20190514052447 {"uri": "https://web.archive.org/web/20190514052447/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Tue, 14 May 2019 05:24:47 GMT"}
+20190610001849 {"uri": "https://web.archive.org/web/20190610001849/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Mon, 10 Jun 2019 00:18:49 GMT"}
+20190715030301 {"uri": "https://web.archive.org/web/20190715030301/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Mon, 15 Jul 2019 03:03:01 GMT"}
+20190719062207 {"uri": "https://web.archive.org/web/20190719062207/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Fri, 19 Jul 2019 06:22:07 GMT"}
+20190721161148 {"uri": "https://web.archive.org/web/20190721161148/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sun, 21 Jul 2019 16:11:48 GMT"}
+20190819213201 {"uri": "https://web.archive.org/web/20190819213201/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Mon, 19 Aug 2019 21:32:01 GMT"}
+20190915010835 {"uri": "https://web.archive.org/web/20190915010835/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sun, 15 Sep 2019 01:08:35 GMT"}
+20190920082509 {"uri": "https://web.archive.org/web/20190920082509/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Fri, 20 Sep 2019 08:25:09 GMT"}
+20191012042726 {"uri": "https://web.archive.org/web/20191012042726/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sat, 12 Oct 2019 04:27:26 GMT"}
+20191019075723 {"uri": "https://web.archive.org/web/20191019075723/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sat, 19 Oct 2019 07:57:23 GMT"}
+20191022073856 {"uri": "https://web.archive.org/web/20191022073856/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Tue, 22 Oct 2019 07:38:56 GMT"}
+20191118143714 {"uri": "https://web.archive.org/web/20191118143714/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Mon, 18 Nov 2019 14:37:14 GMT"}
+20191218220333 {"uri": "https://web.archive.org/web/20191218220333/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Wed, 18 Dec 2019 22:03:33 GMT"}
+20191221133448 {"uri": "https://web.archive.org/web/20191221133448/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sat, 21 Dec 2019 13:34:48 GMT"}
+20200118080309 {"uri": "https://web.archive.org/web/20200118080309/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sat, 18 Jan 2020 08:03:09 GMT"}
+20200119095651 {"uri": "https://web.archive.org/web/20200119095651/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sun, 19 Jan 2020 09:56:51 GMT"}
+20200217135428 {"uri": "https://web.archive.org/web/20200217135428/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Mon, 17 Feb 2020 13:54:28 GMT"}
+20200218152056 {"uri": "https://web.archive.org/web/20200218152056/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Tue, 18 Feb 2020 15:20:56 GMT"}
+20200228041655 {"uri": "https://web.archive.org/web/20200228041655/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Fri, 28 Feb 2020 04:16:55 GMT"}
+20200408131725 {"uri": "https://web.archive.org/web/20200408131725/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Wed, 08 Apr 2020 13:17:25 GMT"}
+20200428193239 {"uri": "https://web.archive.org/web/20200428193239/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Tue, 28 Apr 2020 19:32:39 GMT"}
+20200505012315 {"uri": "https://web.archive.org/web/20200505012315/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Tue, 05 May 2020 01:23:15 GMT"}
+20200511135253 {"uri": "https://web.archive.org/web/20200511135253/https://asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Mon, 11 May 2020 13:52:53 GMT"}
+20200511213907 {"uri": "https://web.archive.org/web/20200511213907/http://asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Mon, 11 May 2020 21:39:07 GMT"}
+20200524202025 {"uri": "https://web.archive.org/web/20200524202025/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sun, 24 May 2020 20:20:25 GMT"}
+20200628040140 {"uri": "https://web.archive.org/web/20200628040140/http://asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sun, 28 Jun 2020 04:01:40 GMT"}
+20200708081352 {"uri": "https://web.archive.org/web/20200708081352/http://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Wed, 08 Jul 2020 08:13:52 GMT"}
+20200728041717 {"uri": "https://web.archive.org/web/20200728041717/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Tue, 28 Jul 2020 04:17:17 GMT"}
+20200807044541 {"uri": "https://web.archive.org/web/20200807044541/http://www.asurams.edu:80/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Fri, 07 Aug 2020 04:45:41 GMT"}
+20200923145749 {"uri": "https://web.archive.org/web/20200923145749/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Wed, 23 Sep 2020 14:57:49 GMT"}
+20201102011902 {"uri": "https://web.archive.org/web/20201102011902/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Mon, 02 Nov 2020 01:19:02 GMT"}
+20201117154116 {"uri": "https://web.archive.org/web/20201117154116/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Tue, 17 Nov 2020 15:41:16 GMT"}
+20201127195102 {"uri": "https://web.archive.org/web/20201127195102/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Fri, 27 Nov 2020 19:51:02 GMT"}
+20210313081648 {"uri": "https://web.archive.org/web/20210313081648/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Sat, 13 Mar 2021 08:16:48 GMT"}
+20210414002010 {"uri": "https://web.archive.org/web/20210414002010/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Wed, 14 Apr 2021 00:20:10 GMT"}
+20210414004702 {"uri": "https://web.archive.org/web/20210414004702/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Wed, 14 Apr 2021 00:47:02 GMT"}
+20210415232148 {"uri": "https://web.archive.org/web/20210415232148/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Thu, 15 Apr 2021 23:21:48 GMT"}
+20210423001653 {"uri": "https://web.archive.org/web/20210423001653/http://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Fri, 23 Apr 2021 00:16:53 GMT"}
+20210811222002 {"uri": "https://web.archive.org/web/20210811222002/https://asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:20:02 GMT"}
+20210817184412 {"uri": "https://web.archive.org/web/20210817184412/https://asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 18:44:12 GMT"}
+20210818192730 {"uri": "https://web.archive.org/web/20210818192730/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "memento", "datetime": "Wed, 18 Aug 2021 19:27:30 GMT"}
+20211115033740 {"uri": "https://web.archive.org/web/20211115033740/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/index.php", "rel": "last memento", "datetime": "Mon, 15 Nov 2021 03:37:40 GMT"}

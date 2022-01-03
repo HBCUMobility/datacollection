@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/museum-Studies-faculty"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/museum-Studies-faculty"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/museum-Studies-faculty"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/museum-Studies-faculty", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/museum-Studies-faculty", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/museum-Studies-faculty"}}
+20180715043956 {"uri": "https://web.archive.org/web/20180715043956/http://www.suno.edu:80/page/museum-studies-faculty", "rel": "first last memento", "datetime": "Sun, 15 Jul 2018 04:39:56 GMT"}

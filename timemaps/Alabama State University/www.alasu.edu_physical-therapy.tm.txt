@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/physical-therapy/physical-therapy"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/chs/physical-therapy/physical-therapy"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/chs/physical-therapy/physical-therapy"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/chs/physical-therapy/physical-therapy", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/chs/physical-therapy/physical-therapy", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/physical-therapy/physical-therapy"}}
+20181112185359 {"uri": "https://web.archive.org/web/20181112185359/http://www.alasu.edu:80/chs/physical-therapy/physical-therapy", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 18:53:59 GMT"}
+20200812235840 {"uri": "https://web.archive.org/web/20200812235840/https://www.alasu.edu/chs/physical-therapy/physical-therapy", "rel": "memento", "datetime": "Wed, 12 Aug 2020 23:58:40 GMT"}
+20210417082618 {"uri": "https://web.archive.org/web/20210417082618/https://www.alasu.edu/chs/physical-therapy/physical-therapy", "rel": "memento", "datetime": "Sat, 17 Apr 2021 08:26:18 GMT"}
+20210817222315 {"uri": "https://web.archive.org/web/20210817222315/https://www.alasu.edu/chs/physical-therapy/physical-therapy", "rel": "last memento", "datetime": "Tue, 17 Aug 2021 22:23:15 GMT"}

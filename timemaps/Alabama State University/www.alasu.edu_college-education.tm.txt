@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/college-education"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/coe/college-education"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/coe/college-education"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/coe/college-education", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/coe/college-education", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/college-education"}}
+20181112185431 {"uri": "https://web.archive.org/web/20181112185431/http://www.alasu.edu:80/coe/college-education", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 18:54:31 GMT"}
+20200807185912 {"uri": "https://web.archive.org/web/20200807185912/https://www.alasu.edu/coe/college-education", "rel": "memento", "datetime": "Fri, 07 Aug 2020 18:59:12 GMT"}
+20200924101625 {"uri": "https://web.archive.org/web/20200924101625/https://www.alasu.edu/coe/college-education", "rel": "memento", "datetime": "Thu, 24 Sep 2020 10:16:25 GMT"}
+20201028150855 {"uri": "https://web.archive.org/web/20201028150855/https://www.alasu.edu/coe/college-education", "rel": "memento", "datetime": "Wed, 28 Oct 2020 15:08:55 GMT"}
+20210414103857 {"uri": "https://web.archive.org/web/20210414103857/https://www.alasu.edu/coe/college-education", "rel": "memento", "datetime": "Wed, 14 Apr 2021 10:38:57 GMT"}
+20210417070714 {"uri": "https://web.archive.org/web/20210417070714/https://www.alasu.edu/coe/college-education", "rel": "memento", "datetime": "Sat, 17 Apr 2021 07:07:14 GMT"}
+20211020115530 {"uri": "https://web.archive.org/web/20211020115530/https://www.alasu.edu/coe/college-education", "rel": "last memento", "datetime": "Wed, 20 Oct 2021 11:55:30 GMT"}

@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/atmospheric-science"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/atmospheric-science"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/atmospheric-science"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/atmospheric-science", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/atmospheric-science", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/atmospheric-science"}}
+20180925001506 {"uri": "https://wayback.archive-it.org/all/20180925001506/https://gs.howard.edu/graduate-programs/atmospheric-science", "rel": "first memento", "datetime": "Tue, 25 Sep 2018 00:15:06 GMT"}
+20181226224649 {"uri": "https://wayback.archive-it.org/all/20181226224649/https://gs.howard.edu/graduate-programs/atmospheric-science", "rel": "memento", "datetime": "Wed, 26 Dec 2018 22:46:49 GMT"}
+20190318234646 {"uri": "https://wayback.archive-it.org/all/20190318234646/https://gs.howard.edu/graduate-programs/atmospheric-science", "rel": "memento", "datetime": "Mon, 18 Mar 2019 23:46:46 GMT"}
+20190702013727 {"uri": "https://wayback.archive-it.org/all/20190702013727/https://gs.howard.edu/graduate-programs/atmospheric-science", "rel": "memento", "datetime": "Tue, 02 Jul 2019 01:37:27 GMT"}
+20190919232622 {"uri": "https://wayback.archive-it.org/all/20190919232622/https://gs.howard.edu/graduate-programs/atmospheric-science", "rel": "memento", "datetime": "Thu, 19 Sep 2019 23:26:22 GMT"}
+20191219205112 {"uri": "https://wayback.archive-it.org/all/20191219205112/https://gs.howard.edu/graduate-programs/atmospheric-science", "rel": "memento", "datetime": "Thu, 19 Dec 2019 20:51:12 GMT"}
+20200408232445 {"uri": "https://wayback.archive-it.org/all/20200408232445/https://gs.howard.edu/graduate-programs/atmospheric-science", "rel": "last memento", "datetime": "Wed, 08 Apr 2020 23:24:45 GMT"}

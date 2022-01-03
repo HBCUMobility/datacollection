@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/psychology-and-human-services-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/psychology-and-human-services-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/psychology-and-human-services-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/psychology-and-human-services-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/psychology-and-human-services-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/psychology-and-human-services-department"}}
+20170630173445 {"uri": "https://web.archive.org/web/20170630173445/http://www.lincoln.edu/departments/psychology-and-human-services-department", "rel": "first memento", "datetime": "Fri, 30 Jun 2017 17:34:45 GMT"}
+20201022003821 {"uri": "https://web.archive.org/web/20201022003821/https://www.lincoln.edu/departments/psychology-and-human-services-department", "rel": "memento", "datetime": "Thu, 22 Oct 2020 00:38:21 GMT"}
+20210122122919 {"uri": "https://web.archive.org/web/20210122122919/https://www.lincoln.edu/departments/psychology-and-human-services-department", "rel": "memento", "datetime": "Fri, 22 Jan 2021 12:29:19 GMT"}
+20210420211907 {"uri": "https://web.archive.org/web/20210420211907/https://www.lincoln.edu/departments/psychology-and-human-services-department", "rel": "memento", "datetime": "Tue, 20 Apr 2021 21:19:07 GMT"}
+20210422193329 {"uri": "https://web.archive.org/web/20210422193329/https://www.lincoln.edu/departments/psychology-and-human-services-department", "rel": "memento", "datetime": "Thu, 22 Apr 2021 19:33:29 GMT"}
+20210507200433 {"uri": "https://web.archive.org/web/20210507200433/https://www.lincoln.edu/departments/psychology-and-human-services-department", "rel": "last memento", "datetime": "Fri, 07 May 2021 20:04:33 GMT"}

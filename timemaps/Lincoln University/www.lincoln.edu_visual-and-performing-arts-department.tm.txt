@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/visual-and-performing-arts-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/visual-and-performing-arts-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/visual-and-performing-arts-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/visual-and-performing-arts-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/visual-and-performing-arts-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/visual-and-performing-arts-department"}}
+20170615171156 {"uri": "https://web.archive.org/web/20170615171156/http://www.lincoln.edu/departments/visual-and-performing-arts-department", "rel": "first memento", "datetime": "Thu, 15 Jun 2017 17:11:56 GMT"}
+20200812005518 {"uri": "https://web.archive.org/web/20200812005518/https://www.lincoln.edu/departments/visual-and-performing-arts-department", "rel": "memento", "datetime": "Wed, 12 Aug 2020 00:55:18 GMT"}
+20201027182356 {"uri": "https://web.archive.org/web/20201027182356/https://www.lincoln.edu/departments/visual-and-performing-arts-department", "rel": "memento", "datetime": "Tue, 27 Oct 2020 18:23:56 GMT"}
+20210122133222 {"uri": "https://web.archive.org/web/20210122133222/https://www.lincoln.edu/departments/visual-and-performing-arts-department", "rel": "memento", "datetime": "Fri, 22 Jan 2021 13:32:22 GMT"}
+20210420151956 {"uri": "https://web.archive.org/web/20210420151956/https://www.lincoln.edu/departments/visual-and-performing-arts-department", "rel": "memento", "datetime": "Tue, 20 Apr 2021 15:19:56 GMT"}
+20210422204727 {"uri": "https://web.archive.org/web/20210422204727/https://www.lincoln.edu/departments/visual-and-performing-arts-department", "rel": "last memento", "datetime": "Thu, 22 Apr 2021 20:47:27 GMT"}

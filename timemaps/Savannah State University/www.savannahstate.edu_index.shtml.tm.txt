@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/class/departments/mass-communications/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml"}}
+20200923132537 {"uri": "https://web.archive.org/web/20200923132537/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml", "rel": "first memento", "datetime": "Wed, 23 Sep 2020 13:25:37 GMT"}
+20201030020252 {"uri": "https://web.archive.org/web/20201030020252/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml", "rel": "memento", "datetime": "Fri, 30 Oct 2020 02:02:52 GMT"}
+20201126050844 {"uri": "https://web.archive.org/web/20201126050844/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml", "rel": "memento", "datetime": "Thu, 26 Nov 2020 05:08:44 GMT"}
+20210214173257 {"uri": "https://web.archive.org/web/20210214173257/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml", "rel": "memento", "datetime": "Sun, 14 Feb 2021 17:32:57 GMT"}
+20210226221241 {"uri": "https://web.archive.org/web/20210226221241/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml", "rel": "memento", "datetime": "Fri, 26 Feb 2021 22:12:41 GMT"}
+20210422090953 {"uri": "https://web.archive.org/web/20210422090953/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml", "rel": "memento", "datetime": "Thu, 22 Apr 2021 09:09:53 GMT"}
+20210514173005 {"uri": "https://web.archive.org/web/20210514173005/https://www.savannahstate.edu/class/departments/mass-communications/index.shtml", "rel": "last memento", "datetime": "Fri, 14 May 2021 17:30:05 GMT"}

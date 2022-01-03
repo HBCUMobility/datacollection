@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/mathematical-sciences-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/mathematical-sciences-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/mathematical-sciences-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/mathematical-sciences-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/mathematical-sciences-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/mathematical-sciences-department"}}
+20170628123534 {"uri": "https://web.archive.org/web/20170628123534/http://www.lincoln.edu/departments/mathematical-sciences-department", "rel": "first memento", "datetime": "Wed, 28 Jun 2017 12:35:34 GMT"}
+20200806155949 {"uri": "https://web.archive.org/web/20200806155949/https://www.lincoln.edu/departments/mathematical-sciences-department", "rel": "memento", "datetime": "Thu, 06 Aug 2020 15:59:49 GMT"}
+20200923113115 {"uri": "https://web.archive.org/web/20200923113115/https://www.lincoln.edu/departments/mathematical-sciences-department", "rel": "memento", "datetime": "Wed, 23 Sep 2020 11:31:15 GMT"}
+20201201060122 {"uri": "https://web.archive.org/web/20201201060122/https://www.lincoln.edu/departments/mathematical-sciences-department", "rel": "memento", "datetime": "Tue, 01 Dec 2020 06:01:22 GMT"}
+20210418144529 {"uri": "https://web.archive.org/web/20210418144529/https://www.lincoln.edu/departments/mathematical-sciences-department", "rel": "memento", "datetime": "Sun, 18 Apr 2021 14:45:29 GMT"}
+20210418174034 {"uri": "https://web.archive.org/web/20210418174034/https://www.lincoln.edu/departments/mathematical-sciences-department", "rel": "last memento", "datetime": "Sun, 18 Apr 2021 17:40:34 GMT"}

@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems"}}
+20181112212008 {"uri": "https://web.archive.org/web/20181112212008/http://www.alasu.edu:80/cba/computer-information-systems/department-computer-information-systems", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:20:08 GMT"}
+20200522193051 {"uri": "https://web.archive.org/web/20200522193051/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems", "rel": "memento", "datetime": "Fri, 22 May 2020 19:30:51 GMT"}
+20200605142155 {"uri": "https://web.archive.org/web/20200605142155/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems", "rel": "memento", "datetime": "Fri, 05 Jun 2020 14:21:55 GMT"}
+20200812235102 {"uri": "https://web.archive.org/web/20200812235102/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems", "rel": "memento", "datetime": "Wed, 12 Aug 2020 23:51:02 GMT"}
+20201031012454 {"uri": "https://web.archive.org/web/20201031012454/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems", "rel": "memento", "datetime": "Sat, 31 Oct 2020 01:24:54 GMT"}
+20210414015721 {"uri": "https://web.archive.org/web/20210414015721/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems", "rel": "memento", "datetime": "Wed, 14 Apr 2021 01:57:21 GMT"}
+20210416004658 {"uri": "https://web.archive.org/web/20210416004658/https://www.alasu.edu/cba/computer-information-systems/department-computer-information-systems", "rel": "last memento", "datetime": "Fri, 16 Apr 2021 00:46:58 GMT"}

@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/languages-and-literature-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/languages-and-literature-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/languages-and-literature-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/languages-and-literature-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/languages-and-literature-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/languages-and-literature-department"}}
+20170615223751 {"uri": "https://web.archive.org/web/20170615223751/http://www.lincoln.edu/departments/languages-and-literature-department", "rel": "first memento", "datetime": "Thu, 15 Jun 2017 22:37:51 GMT"}
+20200921120423 {"uri": "https://web.archive.org/web/20200921120423/https://www.lincoln.edu/departments/languages-and-literature-department", "rel": "memento", "datetime": "Mon, 21 Sep 2020 12:04:23 GMT"}
+20210420151934 {"uri": "https://web.archive.org/web/20210420151934/https://www.lincoln.edu/departments/languages-and-literature-department", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 15:19:34 GMT"}

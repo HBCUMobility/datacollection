@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/architecture"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/causes/architecture"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/causes/architecture"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/causes/architecture", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/causes/architecture", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/architecture"}}
+20191211000129 {"uri": "https://arquivo.pt/noFrame/replay/20191211000129mp_/https://www.udc.edu/causes/architecture/", "rel": "first memento", "datetime": "Wed, 11 Dec 2019 00:01:29 GMT"}
+20200309031636 {"uri": "https://arquivo.pt/noFrame/replay/20200309031636mp_/https://www.udc.edu/causes/architecture/", "rel": "last memento", "datetime": "Mon, 09 Mar 2020 03:16:36 GMT"}

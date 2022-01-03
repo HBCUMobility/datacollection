@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769", "json_format": "http://localhost:1208/timemap/json/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769"}}
+20200926192155 {"uri": "https://web.archive.org/web/20200926192155/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769", "rel": "first memento", "datetime": "Sat, 26 Sep 2020 19:21:55 GMT"}
+20210123055952 {"uri": "https://web.archive.org/web/20210123055952/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769", "rel": "memento", "datetime": "Sat, 23 Jan 2021 05:59:52 GMT"}
+20210417182438 {"uri": "https://web.archive.org/web/20210417182438/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769", "rel": "memento", "datetime": "Sat, 17 Apr 2021 18:24:38 GMT"}
+20210420132425 {"uri": "https://web.archive.org/web/20210420132425/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769", "rel": "memento", "datetime": "Tue, 20 Apr 2021 13:24:25 GMT"}
+20211102184608 {"uri": "https://web.archive.org/web/20211102184608/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769", "rel": "memento", "datetime": "Tue, 02 Nov 2021 18:46:08 GMT"}
+20211127121854 {"uri": "https://web.archive.org/web/20211127121854/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college/air-force-rotc-x769", "rel": "last memento", "datetime": "Sat, 27 Nov 2021 12:18:54 GMT"}

@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/academic-departments-natural-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/academic-departments-natural-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/academic-departments-natural-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/academic-departments-natural-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/academic-departments-natural-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/academic-departments-natural-sciences"}}
+20180825235451 {"uri": "https://web.archive.org/web/20180825235451/http://www.suno.edu/page/academic-departments-natural-sciences", "rel": "first memento", "datetime": "Sat, 25 Aug 2018 23:54:51 GMT"}
+20181019051555 {"uri": "https://web.archive.org/web/20181019051555/http://www.suno.edu:80/page/academic-departments-natural-sciences", "rel": "memento", "datetime": "Fri, 19 Oct 2018 05:15:55 GMT"}
+20191030124210 {"uri": "https://web.archive.org/web/20191030124210/http://www.suno.edu:80/page/academic-departments-natural-sciences", "rel": "memento", "datetime": "Wed, 30 Oct 2019 12:42:10 GMT"}
+20191229233911 {"uri": "https://web.archive.org/web/20191229233911/http://www.suno.edu:80/page/academic-departments-natural-sciences", "rel": "memento", "datetime": "Sun, 29 Dec 2019 23:39:11 GMT"}
+20200929214028 {"uri": "https://web.archive.org/web/20200929214028/http://www.suno.edu/page/academic-departments-natural-sciences", "rel": "memento", "datetime": "Tue, 29 Sep 2020 21:40:28 GMT"}
+20210120143726 {"uri": "https://web.archive.org/web/20210120143726/https://www.suno.edu/page/academic-departments-natural-sciences", "rel": "memento", "datetime": "Wed, 20 Jan 2021 14:37:26 GMT"}
+20210328065435 {"uri": "https://web.archive.org/web/20210328065435/http://www.suno.edu/page/academic-departments-natural-sciences", "rel": "last memento", "datetime": "Sun, 28 Mar 2021 06:54:35 GMT"}

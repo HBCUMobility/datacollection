@@ -1,0 +1,58 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://law.udc.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://law.udc.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://law.udc.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://law.udc.edu/", "json_format": "http://localhost:1208/timemap/json/https://law.udc.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://law.udc.edu/"}}
+20070213202502 {"uri": "https://webarchive.loc.gov/all/20070213202502/http://www.law.udc.edu/", "rel": "first memento", "datetime": "Tue, 13 Feb 2007 20:25:02 GMT"}
+20070315115902 {"uri": "https://webarchive.loc.gov/all/20070315115902/http://www.law.udc.edu/", "rel": "memento", "datetime": "Thu, 15 Mar 2007 11:59:02 GMT"}
+20070411130354 {"uri": "https://webarchive.loc.gov/all/20070411130354/http://www.law.udc.edu/", "rel": "memento", "datetime": "Wed, 11 Apr 2007 13:03:54 GMT"}
+20070510113625 {"uri": "https://webarchive.loc.gov/all/20070510113625/http://www.law.udc.edu/", "rel": "memento", "datetime": "Thu, 10 May 2007 11:36:25 GMT"}
+20070617231347 {"uri": "https://webarchive.loc.gov/all/20070617231347/http://www.law.udc.edu/", "rel": "memento", "datetime": "Sun, 17 Jun 2007 23:13:47 GMT"}
+20080317003155 {"uri": "https://webarchive.loc.gov/all/20080317003155/http://www.law.udc.edu/", "rel": "memento", "datetime": "Mon, 17 Mar 2008 00:31:55 GMT"}
+20081018011941 {"uri": "https://webarchive.loc.gov/all/20081018011941/http://www.law.udc.edu/", "rel": "memento", "datetime": "Sat, 18 Oct 2008 01:19:41 GMT"}
+20081212215731 {"uri": "https://webarchive.loc.gov/all/20081212215731/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 12 Dec 2008 21:57:31 GMT"}
+20090116054241 {"uri": "https://webarchive.loc.gov/all/20090116054241/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 16 Jan 2009 05:42:41 GMT"}
+20090305154758 {"uri": "https://webarchive.loc.gov/all/20090305154758/http://www.law.udc.edu/", "rel": "memento", "datetime": "Thu, 05 Mar 2009 15:47:58 GMT"}
+20090320110600 {"uri": "https://wayback.archive-it.org/all/20090320110600/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 20 Mar 2009 11:06:00 GMT"}
+20090402173108 {"uri": "https://webarchive.loc.gov/all/20090402173108/http://www.law.udc.edu/", "rel": "memento", "datetime": "Thu, 02 Apr 2009 17:31:08 GMT"}
+20090507234327 {"uri": "https://webarchive.loc.gov/all/20090507234327/http://www.law.udc.edu/", "rel": "memento", "datetime": "Thu, 07 May 2009 23:43:27 GMT"}
+20090605224125 {"uri": "https://webarchive.loc.gov/all/20090605224125/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 05 Jun 2009 22:41:25 GMT"}
+20090703002753 {"uri": "https://webarchive.loc.gov/all/20090703002753/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 03 Jul 2009 00:27:53 GMT"}
+20090716175551 {"uri": "https://swap.stanford.edu/20090716175551/http://www.law.udc.edu/", "rel": "memento", "datetime": "Thu, 16 Jul 2009 17:55:51 GMT"}
+20090717034848 {"uri": "https://swap.stanford.edu/20090717034848/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 17 Jul 2009 03:48:48 GMT"}
+20090724052640 {"uri": "https://swap.stanford.edu/20090724052640/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 24 Jul 2009 05:26:40 GMT"}
+20090731071310 {"uri": "https://swap.stanford.edu/20090731071310/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 31 Jul 2009 07:13:10 GMT"}
+20090805010555 {"uri": "https://webarchive.loc.gov/all/20090805010555/http://www.law.udc.edu/", "rel": "memento", "datetime": "Wed, 05 Aug 2009 01:05:55 GMT"}
+20090807042207 {"uri": "https://swap.stanford.edu/20090807042207/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 07 Aug 2009 04:22:07 GMT"}
+20090814163547 {"uri": "https://swap.stanford.edu/20090814163547/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 14 Aug 2009 16:35:47 GMT"}
+20090821031618 {"uri": "https://swap.stanford.edu/20090821031618/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 21 Aug 2009 03:16:18 GMT"}
+20090825162856 {"uri": "https://swap.stanford.edu/20090825162856/http://www.law.udc.edu/", "rel": "memento", "datetime": "Tue, 25 Aug 2009 16:28:56 GMT"}
+20090826051042 {"uri": "https://wayback.archive-it.org/all/20090826051042/http://www.law.udc.edu/", "rel": "memento", "datetime": "Wed, 26 Aug 2009 05:10:42 GMT"}
+20090828043301 {"uri": "https://swap.stanford.edu/20090828043301/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 28 Aug 2009 04:33:01 GMT"}
+20090902104729 {"uri": "https://webarchive.loc.gov/all/20090902104729/http://www.law.udc.edu/", "rel": "memento", "datetime": "Wed, 02 Sep 2009 10:47:29 GMT"}
+20090903235332 {"uri": "https://swap.stanford.edu/20090903235332/http://www.law.udc.edu/", "rel": "memento", "datetime": "Thu, 03 Sep 2009 23:53:32 GMT"}
+20090911092656 {"uri": "https://swap.stanford.edu/20090911092656/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 11 Sep 2009 09:26:56 GMT"}
+20090918191446 {"uri": "https://swap.stanford.edu/20090918191446/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 18 Sep 2009 19:14:46 GMT"}
+20090925101727 {"uri": "https://swap.stanford.edu/20090925101727/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 25 Sep 2009 10:17:27 GMT"}
+20091002143153 {"uri": "https://swap.stanford.edu/20091002143153/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 02 Oct 2009 14:31:53 GMT"}
+20091009073934 {"uri": "https://swap.stanford.edu/20091009073934/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 09 Oct 2009 07:39:34 GMT"}
+20091016025855 {"uri": "https://swap.stanford.edu/20091016025855/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 16 Oct 2009 02:58:55 GMT"}
+20091023074748 {"uri": "https://web.archive.org.au/awa/20091023074748mp_/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 23 Oct 2009 07:47:48 GMT"}
+20091030190428 {"uri": "https://swap.stanford.edu/20091030190428/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 30 Oct 2009 19:04:28 GMT"}
+20091106070156 {"uri": "https://swap.stanford.edu/20091106070156/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 06 Nov 2009 07:01:56 GMT"}
+20091113061040 {"uri": "https://swap.stanford.edu/20091113061040/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 13 Nov 2009 06:10:40 GMT"}
+20091204211449 {"uri": "https://webarchive.loc.gov/all/20091204211449/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 04 Dec 2009 21:14:49 GMT"}
+20141016155953 {"uri": "https://wayback.archive-it.org/all/20141016155953/http://www.law.udc.edu/", "rel": "memento", "datetime": "Thu, 16 Oct 2014 15:59:53 GMT"}
+20141107233659 {"uri": "https://wayback.archive-it.org/all/20141107233659/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 07 Nov 2014 23:36:59 GMT"}
+20150703062532 {"uri": "https://wayback.archive-it.org/all/20150703062532/http://www.law.udc.edu/", "rel": "memento", "datetime": "Fri, 03 Jul 2015 06:25:32 GMT"}
+20151003061320 {"uri": "https://wayback.archive-it.org/all/20151003061320/http://www.law.udc.edu/", "rel": "memento", "datetime": "Sat, 03 Oct 2015 06:13:20 GMT"}
+20160105044733 {"uri": "https://wayback.archive-it.org/all/20160105044733/http://www.law.udc.edu/", "rel": "memento", "datetime": "Tue, 05 Jan 2016 04:47:33 GMT"}
+20160404223810 {"uri": "https://wayback.archive-it.org/all/20160404223810/http://www.law.udc.edu/", "rel": "memento", "datetime": "Mon, 04 Apr 2016 22:38:10 GMT"}
+20160630045053 {"uri": "https://wayback.archive-it.org/all/20160630045053/http://www.law.udc.edu/", "rel": "memento", "datetime": "Thu, 30 Jun 2016 04:50:53 GMT"}
+20161207133212 {"uri": "https://webarchive.loc.gov/all/20161207133212/http://www.law.udc.edu/", "rel": "memento", "datetime": "Wed, 07 Dec 2016 13:32:12 GMT"}
+20161214072750 {"uri": "https://webarchive.loc.gov/all/20161214072750/http://www.law.udc.edu/", "rel": "memento", "datetime": "Wed, 14 Dec 2016 07:27:50 GMT"}
+20161221133239 {"uri": "https://webarchive.loc.gov/all/20161221133239/http://www.law.udc.edu/", "rel": "memento", "datetime": "Wed, 21 Dec 2016 13:32:39 GMT"}
+20161228220310 {"uri": "https://webarchive.loc.gov/all/20161228220310/http://www.law.udc.edu/", "rel": "memento", "datetime": "Wed, 28 Dec 2016 22:03:10 GMT"}
+20170104125859 {"uri": "https://webarchive.loc.gov/all/20170104125859/http://www.law.udc.edu/", "rel": "memento", "datetime": "Wed, 04 Jan 2017 12:58:59 GMT"}
+20170701015913 {"uri": "https://wayback.archive-it.org/all/20170701015913/http://www.law.udc.edu/", "rel": "last memento", "datetime": "Sat, 01 Jul 2017 01:59:13 GMT"}

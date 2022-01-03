@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college", "json_format": "http://localhost:1208/timemap/json/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college"}}
+20200925131921 {"uri": "https://web.archive.org/web/20200925131921/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college", "rel": "first memento", "datetime": "Fri, 25 Sep 2020 13:19:21 GMT"}
+20201124203617 {"uri": "https://web.archive.org/web/20201124203617/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college", "rel": "memento", "datetime": "Tue, 24 Nov 2020 20:36:17 GMT"}
+20210414102053 {"uri": "https://web.archive.org/web/20210414102053/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college", "rel": "memento", "datetime": "Wed, 14 Apr 2021 10:20:53 GMT"}
+20210510055702 {"uri": "https://web.archive.org/web/20210510055702/http://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college", "rel": "memento", "datetime": "Mon, 10 May 2021 05:57:02 GMT"}
+20210902063258 {"uri": "https://web.archive.org/web/20210902063258/http://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college", "rel": "memento", "datetime": "Thu, 02 Sep 2021 06:32:58 GMT"}
+20210902063259 {"uri": "https://web.archive.org/web/20210902063259/https://www.uncfsu.edu/academics/colleges-schools-and-departments/university-college", "rel": "last memento", "datetime": "Thu, 02 Sep 2021 06:32:59 GMT"}

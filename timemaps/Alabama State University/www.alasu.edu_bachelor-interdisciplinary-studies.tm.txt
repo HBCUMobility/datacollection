@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/universitycollege/bachelor-interdisciplinary-studies/bachelor-interdisciplinary-studies"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/universitycollege/bachelor-interdisciplinary-studies/bachelor-interdisciplinary-studies"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/universitycollege/bachelor-interdisciplinary-studies/bachelor-interdisciplinary-studies"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/universitycollege/bachelor-interdisciplinary-studies/bachelor-interdisciplinary-studies", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/universitycollege/bachelor-interdisciplinary-studies/bachelor-interdisciplinary-studies", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/universitycollege/bachelor-interdisciplinary-studies/bachelor-interdisciplinary-studies"}}
+20181112213838 {"uri": "https://web.archive.org/web/20181112213838/http://www.alasu.edu:80/universitycollege/bachelor-interdisciplinary-studies/bachelor-interdisciplinary-studies", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:38:38 GMT"}
+20201026123709 {"uri": "https://web.archive.org/web/20201026123709/https://www.alasu.edu/universitycollege/bachelor-interdisciplinary-studies/bachelor-interdisciplinary-studies", "rel": "memento", "datetime": "Mon, 26 Oct 2020 12:37:09 GMT"}
+20210417055753 {"uri": "https://web.archive.org/web/20210417055753/https://www.alasu.edu/universitycollege/bachelor-interdisciplinary-studies/bachelor-interdisciplinary-studies", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 05:57:53 GMT"}

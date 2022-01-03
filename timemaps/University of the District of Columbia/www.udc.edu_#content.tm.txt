@@ -1,0 +1,32 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/cas/arts-humanities/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/cas/arts-humanities/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/cas/arts-humanities/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/cas/arts-humanities/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/cas/arts-humanities/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/cas/arts-humanities/"}}
+20170422162928 {"uri": "https://web.archive.org/web/20170422162928/http://www.udc.edu:80/cas/arts-humanities", "rel": "first memento", "datetime": "Sat, 22 Apr 2017 16:29:28 GMT"}
+20170524074625 {"uri": "https://web.archive.org/web/20170524074625/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Wed, 24 May 2017 07:46:25 GMT"}
+20170624135943 {"uri": "https://web.archive.org/web/20170624135943/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Sat, 24 Jun 2017 13:59:43 GMT"}
+20170625172541 {"uri": "https://web.archive.org/web/20170625172541/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Sun, 25 Jun 2017 17:25:41 GMT"}
+20170726160357 {"uri": "https://web.archive.org/web/20170726160357/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Wed, 26 Jul 2017 16:03:57 GMT"}
+20170902051231 {"uri": "https://web.archive.org/web/20170902051231/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Sat, 02 Sep 2017 05:12:31 GMT"}
+20171006005106 {"uri": "https://web.archive.org/web/20171006005106/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Fri, 06 Oct 2017 00:51:06 GMT"}
+20171109011115 {"uri": "https://web.archive.org/web/20171109011115/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Thu, 09 Nov 2017 01:11:15 GMT"}
+20171210134821 {"uri": "https://web.archive.org/web/20171210134821/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Sun, 10 Dec 2017 13:48:21 GMT"}
+20180116133334 {"uri": "https://web.archive.org/web/20180116133334/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Tue, 16 Jan 2018 13:33:34 GMT"}
+20180117133617 {"uri": "https://web.archive.org/web/20180117133617/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Wed, 17 Jan 2018 13:36:17 GMT"}
+20180218081511 {"uri": "https://web.archive.org/web/20180218081511/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Sun, 18 Feb 2018 08:15:11 GMT"}
+20180328150402 {"uri": "https://web.archive.org/web/20180328150402/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Wed, 28 Mar 2018 15:04:02 GMT"}
+20180503212543 {"uri": "https://web.archive.org/web/20180503212543/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Thu, 03 May 2018 21:25:43 GMT"}
+20180603211847 {"uri": "https://web.archive.org/web/20180603211847/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Sun, 03 Jun 2018 21:18:47 GMT"}
+20180705162200 {"uri": "https://web.archive.org/web/20180705162200/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Thu, 05 Jul 2018 16:22:00 GMT"}
+20180806033538 {"uri": "https://web.archive.org/web/20180806033538/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Mon, 06 Aug 2018 03:35:38 GMT"}
+20180909025107 {"uri": "https://web.archive.org/web/20180909025107/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Sun, 09 Sep 2018 02:51:07 GMT"}
+20181010035838 {"uri": "https://web.archive.org/web/20181010035838/http://www.udc.edu:80/cas/arts-humanities", "rel": "memento", "datetime": "Wed, 10 Oct 2018 03:58:38 GMT"}
+20190904033925 {"uri": "https://web.archive.org/web/20190904033925/https://www.udc.edu/cas/arts-humanities/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:25 GMT"}
+20190904033930 {"uri": "https://web.archive.org/web/20190904033930/http://www.udc.edu/cas/arts-humanities/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:30 GMT"}
+20190904033931 {"uri": "https://web.archive.org/web/20190904033931/https://www.udc.edu/cas/arts-humanities/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:31 GMT"}
+20190904035818 {"uri": "https://web.archive.org/web/20190904035818/https://www.udc.edu/cas/arts-humanities/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:58:18 GMT"}
+20200921184147 {"uri": "https://web.archive.org/web/20200921184147/https://www.udc.edu/cas/arts-humanities/", "rel": "memento", "datetime": "Mon, 21 Sep 2020 18:41:47 GMT"}
+20201129102853 {"uri": "https://web.archive.org/web/20201129102853/https://www.udc.edu/cas/arts-humanities/", "rel": "memento", "datetime": "Sun, 29 Nov 2020 10:28:53 GMT"}
+20210421010049 {"uri": "https://web.archive.org/web/20210421010049/https://www.udc.edu/cas/arts-humanities/", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 01:00:49 GMT"}

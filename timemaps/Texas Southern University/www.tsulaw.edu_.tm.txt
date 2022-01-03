@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsulaw.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsulaw.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsulaw.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsulaw.edu/", "json_format": "http://localhost:1208/timemap/json/http://www.tsulaw.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsulaw.edu/"}}
+20130915141723 {"uri": "https://wayback.archive-it.org/all/20130915141723/http://www.tsulaw.edu/", "rel": "first memento", "datetime": "Sun, 15 Sep 2013 14:17:23 GMT"}
+20140115134010 {"uri": "https://wayback.archive-it.org/all/20140115134010/http://www.tsulaw.edu/", "rel": "memento", "datetime": "Wed, 15 Jan 2014 13:40:10 GMT"}
+20140509145130 {"uri": "https://wayback.archive-it.org/all/20140509145130/http://www.tsulaw.edu/", "rel": "memento", "datetime": "Fri, 09 May 2014 14:51:30 GMT"}
+20140509153932 {"uri": "https://wayback.archive-it.org/all/20140509153932/http://www.tsulaw.edu/", "rel": "memento", "datetime": "Fri, 09 May 2014 15:39:32 GMT"}
+20170701170959 {"uri": "https://wayback.archive-it.org/all/20170701170959/http://www.tsulaw.edu/", "rel": "memento", "datetime": "Sat, 01 Jul 2017 17:09:59 GMT"}
+20180530150032 {"uri": "https://wayback.archive-it.org/all/20180530150032/http://www.tsulaw.edu/", "rel": "last memento", "datetime": "Wed, 30 May 2018 15:00:32 GMT"}

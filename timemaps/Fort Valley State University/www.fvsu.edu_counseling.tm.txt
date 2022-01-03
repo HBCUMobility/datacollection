@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.fvsu.edu/counseling"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.fvsu.edu/counseling"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.fvsu.edu/counseling"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.fvsu.edu/counseling", "json_format": "http://localhost:1208/timemap/json/https://www.fvsu.edu/counseling", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.fvsu.edu/counseling"}}
+20171212060351 {"uri": "https://web.archive.org/web/20171212060351/http://www.fvsu.edu:80/counseling", "rel": "first memento", "datetime": "Tue, 12 Dec 2017 06:03:51 GMT"}
+20180417001134 {"uri": "https://web.archive.org/web/20180417001134/http://www.fvsu.edu:80/counseling", "rel": "memento", "datetime": "Tue, 17 Apr 2018 00:11:34 GMT"}
+20180620195610 {"uri": "https://web.archive.org/web/20180620195610/http://www.fvsu.edu:80/counseling", "rel": "memento", "datetime": "Wed, 20 Jun 2018 19:56:10 GMT"}
+20180824192852 {"uri": "https://web.archive.org/web/20180824192852/http://www.fvsu.edu:80/counseling", "rel": "memento", "datetime": "Fri, 24 Aug 2018 19:28:52 GMT"}
+20181025183906 {"uri": "https://web.archive.org/web/20181025183906/http://www.fvsu.edu:80/counseling", "rel": "memento", "datetime": "Thu, 25 Oct 2018 18:39:06 GMT"}
+20181227061253 {"uri": "https://web.archive.org/web/20181227061253/http://www.fvsu.edu:80/counseling", "rel": "memento", "datetime": "Thu, 27 Dec 2018 06:12:53 GMT"}
+20190227154946 {"uri": "https://web.archive.org/web/20190227154946/http://www.fvsu.edu:80/counseling", "rel": "memento", "datetime": "Wed, 27 Feb 2019 15:49:46 GMT"}
+20200925031335 {"uri": "https://web.archive.org/web/20200925031335/https://www.fvsu.edu/counseling", "rel": "memento", "datetime": "Fri, 25 Sep 2020 03:13:35 GMT"}
+20210417235055 {"uri": "https://web.archive.org/web/20210417235055/https://www.fvsu.edu/counseling", "rel": "memento", "datetime": "Sat, 17 Apr 2021 23:50:55 GMT"}
+20210501051205 {"uri": "https://web.archive.org/web/20210501051205/https://www.fvsu.edu/counseling/", "rel": "last memento", "datetime": "Sat, 01 May 2021 05:12:05 GMT"}

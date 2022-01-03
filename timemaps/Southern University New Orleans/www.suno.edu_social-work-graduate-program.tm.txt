@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/social-work-graduate-program"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/social-work-graduate-program"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/social-work-graduate-program"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/social-work-graduate-program", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/social-work-graduate-program", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/social-work-graduate-program"}}
+20180906022356 {"uri": "https://web.archive.org/web/20180906022356/http://www.suno.edu:80/page/social-work-graduate-program", "rel": "first memento", "datetime": "Thu, 06 Sep 2018 02:23:56 GMT"}
+20191114000402 {"uri": "https://web.archive.org/web/20191114000402/http://www.suno.edu:80/page/social-work-graduate-program", "rel": "memento", "datetime": "Thu, 14 Nov 2019 00:04:02 GMT"}
+20200208061607 {"uri": "https://web.archive.org/web/20200208061607/http://www.suno.edu:80/page/social-work-graduate-program", "rel": "memento", "datetime": "Sat, 08 Feb 2020 06:16:07 GMT"}
+20200411072821 {"uri": "https://web.archive.org/web/20200411072821/http://www.suno.edu:80/page/social-work-graduate-program", "rel": "memento", "datetime": "Sat, 11 Apr 2020 07:28:21 GMT"}
+20200511161908 {"uri": "https://web.archive.org/web/20200511161908/http://www.suno.edu:80/page/social-work-graduate-program", "rel": "memento", "datetime": "Mon, 11 May 2020 16:19:08 GMT"}
+20200610202750 {"uri": "https://web.archive.org/web/20200610202750/http://www.suno.edu:80/page/social-work-graduate-program", "rel": "memento", "datetime": "Wed, 10 Jun 2020 20:27:50 GMT"}
+20200711010028 {"uri": "https://web.archive.org/web/20200711010028/http://www.suno.edu:80/page/social-work-graduate-program", "rel": "memento", "datetime": "Sat, 11 Jul 2020 01:00:28 GMT"}
+20200810023524 {"uri": "https://web.archive.org/web/20200810023524/http://www.suno.edu:80/page/social-work-graduate-program", "rel": "memento", "datetime": "Mon, 10 Aug 2020 02:35:24 GMT"}
+20200810185353 {"uri": "https://web.archive.org/web/20200810185353/http://www.suno.edu/page/social-work-graduate-program", "rel": "memento", "datetime": "Mon, 10 Aug 2020 18:53:53 GMT"}
+20210119154500 {"uri": "https://web.archive.org/web/20210119154500/https://www.suno.edu/page/social-work-graduate-program", "rel": "last memento", "datetime": "Tue, 19 Jan 2021 15:45:00 GMT"}

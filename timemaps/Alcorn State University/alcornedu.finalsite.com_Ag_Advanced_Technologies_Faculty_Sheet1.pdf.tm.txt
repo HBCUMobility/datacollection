@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://alcornedu.finalsite.com/uploaded/files/oaa/schools/agappliedsci/adtech/Ag_Advanced_Technologies_Faculty_Sheet1.pdf"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://alcornedu.finalsite.com/uploaded/files/oaa/schools/agappliedsci/adtech/Ag_Advanced_Technologies_Faculty_Sheet1.pdf"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://alcornedu.finalsite.com/uploaded/files/oaa/schools/agappliedsci/adtech/Ag_Advanced_Technologies_Faculty_Sheet1.pdf"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://alcornedu.finalsite.com/uploaded/files/oaa/schools/agappliedsci/adtech/Ag_Advanced_Technologies_Faculty_Sheet1.pdf", "json_format": "http://localhost:1208/timemap/json/https://alcornedu.finalsite.com/uploaded/files/oaa/schools/agappliedsci/adtech/Ag_Advanced_Technologies_Faculty_Sheet1.pdf", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://alcornedu.finalsite.com/uploaded/files/oaa/schools/agappliedsci/adtech/Ag_Advanced_Technologies_Faculty_Sheet1.pdf"}}
+20190906034126 {"uri": "https://wayback.archive-it.org/all/20190906034126/https://alcornedu.finalsite.com/uploaded/files/oaa/schools/agappliedsci/adtech/Ag_Advanced_Technologies_Faculty_Sheet1.pdf", "rel": "first last memento", "datetime": "Fri, 06 Sep 2019 03:41:26 GMT"}
