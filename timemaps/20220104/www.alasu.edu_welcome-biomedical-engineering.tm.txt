@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering"}}
+20181112185531 {"uri": "https://web.archive.org/web/20181112185531/http://www.alasu.edu:80/cstem/biomedical-engineering/welcome-biomedical-engineering", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 18:55:31 GMT"}
+20200505054500 {"uri": "https://web.archive.org/web/20200505054500/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "rel": "memento", "datetime": "Tue, 05 May 2020 05:45:00 GMT"}
+20200505081255 {"uri": "https://web.archive.org/web/20200505081255/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "rel": "memento", "datetime": "Tue, 05 May 2020 08:12:55 GMT"}
+20200507204853 {"uri": "https://web.archive.org/web/20200507204853/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "rel": "memento", "datetime": "Thu, 07 May 2020 20:48:53 GMT"}
+20200513105000 {"uri": "https://web.archive.org/web/20200513105000/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "rel": "memento", "datetime": "Wed, 13 May 2020 10:50:00 GMT"}
+20200526101835 {"uri": "https://web.archive.org/web/20200526101835/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "rel": "memento", "datetime": "Tue, 26 May 2020 10:18:35 GMT"}
+20201026135943 {"uri": "https://web.archive.org/web/20201026135943/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "rel": "memento", "datetime": "Mon, 26 Oct 2020 13:59:43 GMT"}
+20210415054558 {"uri": "https://web.archive.org/web/20210415054558/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "rel": "memento", "datetime": "Thu, 15 Apr 2021 05:45:58 GMT"}
+20210417040055 {"uri": "https://web.archive.org/web/20210417040055/https://www.alasu.edu/cstem/biomedical-engineering/welcome-biomedical-engineering", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 04:00:55 GMT"}

@@ -1,0 +1,41 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://education.howard.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://education.howard.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://education.howard.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://education.howard.edu/", "json_format": "http://localhost:1208/timemap/json/https://education.howard.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://education.howard.edu/"}}
+20170623003040 {"uri": "https://web.archive.org/web/20170623003040/https://education.howard.edu/", "rel": "first memento", "datetime": "Fri, 23 Jun 2017 00:30:40 GMT"}
+20170702144743 {"uri": "https://web.archive.org/web/20170702144743/https://education.howard.edu/", "rel": "memento", "datetime": "Sun, 02 Jul 2017 14:47:43 GMT"}
+20180317170700 {"uri": "https://web.archive.org/web/20180317170700/http://education.howard.edu/", "rel": "memento", "datetime": "Sat, 17 Mar 2018 17:07:00 GMT"}
+20180427223237 {"uri": "https://web.archive.org/web/20180427223237/https://education.howard.edu/", "rel": "memento", "datetime": "Fri, 27 Apr 2018 22:32:37 GMT"}
+20181215172031 {"uri": "https://web.archive.org/web/20181215172031/https://education.howard.edu/", "rel": "memento", "datetime": "Sat, 15 Dec 2018 17:20:31 GMT"}
+20190102205019 {"uri": "https://web.archive.org/web/20190102205019/http://education.howard.edu/", "rel": "memento", "datetime": "Wed, 02 Jan 2019 20:50:19 GMT"}
+20190122225956 {"uri": "https://web.archive.org/web/20190122225956/https://education.howard.edu/", "rel": "memento", "datetime": "Tue, 22 Jan 2019 22:59:56 GMT"}
+20190402104011 {"uri": "https://web.archive.org/web/20190402104011/https://education.howard.edu/", "rel": "memento", "datetime": "Tue, 02 Apr 2019 10:40:11 GMT"}
+20190816073033 {"uri": "https://web.archive.org/web/20190816073033/https://education.howard.edu/", "rel": "memento", "datetime": "Fri, 16 Aug 2019 07:30:33 GMT"}
+20190816160022 {"uri": "https://web.archive.org/web/20190816160022/https://education.howard.edu/", "rel": "memento", "datetime": "Fri, 16 Aug 2019 16:00:22 GMT"}
+20190820063547 {"uri": "https://web.archive.org/web/20190820063547/http://education.howard.edu/", "rel": "memento", "datetime": "Tue, 20 Aug 2019 06:35:47 GMT"}
+20191001101718 {"uri": "https://web.archive.org/web/20191001101718/https://education.howard.edu/", "rel": "memento", "datetime": "Tue, 01 Oct 2019 10:17:18 GMT"}
+20200502113434 {"uri": "https://web.archive.org/web/20200502113434/https://education.howard.edu/", "rel": "memento", "datetime": "Sat, 02 May 2020 11:34:34 GMT"}
+20200628073415 {"uri": "https://web.archive.org/web/20200628073415/https://education.howard.edu/", "rel": "memento", "datetime": "Sun, 28 Jun 2020 07:34:15 GMT"}
+20200806220904 {"uri": "https://web.archive.org/web/20200806220904/https://education.howard.edu/", "rel": "memento", "datetime": "Thu, 06 Aug 2020 22:09:04 GMT"}
+20200810161228 {"uri": "https://web.archive.org/web/20200810161228/https://education.howard.edu/", "rel": "memento", "datetime": "Mon, 10 Aug 2020 16:12:28 GMT"}
+20200822124536 {"uri": "https://web.archive.org/web/20200822124536/https://education.howard.edu/", "rel": "memento", "datetime": "Sat, 22 Aug 2020 12:45:36 GMT"}
+20200918174820 {"uri": "https://web.archive.org/web/20200918174820/https://education.howard.edu/", "rel": "memento", "datetime": "Fri, 18 Sep 2020 17:48:20 GMT"}
+20201002084128 {"uri": "https://web.archive.org/web/20201002084128/https://education.howard.edu/", "rel": "memento", "datetime": "Fri, 02 Oct 2020 08:41:28 GMT"}
+20201003094132 {"uri": "https://web.archive.org/web/20201003094132/https://education.howard.edu/", "rel": "memento", "datetime": "Sat, 03 Oct 2020 09:41:32 GMT"}
+20201003145618 {"uri": "https://web.archive.org/web/20201003145618/https://education.howard.edu/", "rel": "memento", "datetime": "Sat, 03 Oct 2020 14:56:18 GMT"}
+20201004191918 {"uri": "https://web.archive.org/web/20201004191918/https://education.howard.edu/", "rel": "memento", "datetime": "Sun, 04 Oct 2020 19:19:18 GMT"}
+20201026073933 {"uri": "https://web.archive.org/web/20201026073933/https://education.howard.edu/", "rel": "memento", "datetime": "Mon, 26 Oct 2020 07:39:33 GMT"}
+20201030003408 {"uri": "https://web.archive.org/web/20201030003408/https://education.howard.edu/", "rel": "memento", "datetime": "Fri, 30 Oct 2020 00:34:08 GMT"}
+20201101064740 {"uri": "https://web.archive.org/web/20201101064740/http://education.howard.edu/", "rel": "memento", "datetime": "Sun, 01 Nov 2020 06:47:40 GMT"}
+20201101064741 {"uri": "https://web.archive.org/web/20201101064741/https://education.howard.edu/", "rel": "memento", "datetime": "Sun, 01 Nov 2020 06:47:41 GMT"}
+20201101140544 {"uri": "https://web.archive.org/web/20201101140544/https://education.howard.edu/", "rel": "memento", "datetime": "Sun, 01 Nov 2020 14:05:44 GMT"}
+20201119024541 {"uri": "https://web.archive.org/web/20201119024541/http://www.education.howard.edu/", "rel": "memento", "datetime": "Thu, 19 Nov 2020 02:45:41 GMT"}
+20210125234911 {"uri": "https://web.archive.org/web/20210125234911/https://education.howard.edu/", "rel": "memento", "datetime": "Mon, 25 Jan 2021 23:49:11 GMT"}
+20210227052740 {"uri": "https://web.archive.org/web/20210227052740/https://education.howard.edu/", "rel": "memento", "datetime": "Sat, 27 Feb 2021 05:27:40 GMT"}
+20210411040413 {"uri": "https://web.archive.org/web/20210411040413/https://education.howard.edu/", "rel": "memento", "datetime": "Sun, 11 Apr 2021 04:04:13 GMT"}
+20210413103104 {"uri": "https://web.archive.org/web/20210413103104/https://education.howard.edu/", "rel": "memento", "datetime": "Tue, 13 Apr 2021 10:31:04 GMT"}
+20210609044750 {"uri": "https://web.archive.org/web/20210609044750/https://education.howard.edu/", "rel": "memento", "datetime": "Wed, 09 Jun 2021 04:47:50 GMT"}
+20211020230344 {"uri": "https://web.archive.org/web/20211020230344/https://education.howard.edu/", "rel": "memento", "datetime": "Wed, 20 Oct 2021 23:03:44 GMT"}
+20211210075746 {"uri": "https://web.archive.org/web/20211210075746/https://education.howard.edu/", "rel": "last memento", "datetime": "Fri, 10 Dec 2021 07:57:46 GMT"}

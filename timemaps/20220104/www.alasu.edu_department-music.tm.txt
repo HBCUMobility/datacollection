@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cvpa/music/department-music"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cvpa/music/department-music"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cvpa/music/department-music"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cvpa/music/department-music", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cvpa/music/department-music", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cvpa/music/department-music"}}
+20181112214749 {"uri": "https://web.archive.org/web/20181112214749/http://www.alasu.edu:80/cvpa/music/department-music", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:47:49 GMT"}
+20200518111906 {"uri": "https://web.archive.org/web/20200518111906/https://www.alasu.edu/cvpa/music/department-music", "rel": "memento", "datetime": "Mon, 18 May 2020 11:19:06 GMT"}
+20200527002413 {"uri": "https://web.archive.org/web/20200527002413/https://www.alasu.edu/cvpa/music/department-music", "rel": "memento", "datetime": "Wed, 27 May 2020 00:24:13 GMT"}
+20200619170736 {"uri": "https://web.archive.org/web/20200619170736/https://www.alasu.edu/cvpa/music/department-music", "rel": "memento", "datetime": "Fri, 19 Jun 2020 17:07:36 GMT"}
+20200807173647 {"uri": "https://web.archive.org/web/20200807173647/https://www.alasu.edu/cvpa/music/department-music", "rel": "memento", "datetime": "Fri, 07 Aug 2020 17:36:47 GMT"}
+20201028152419 {"uri": "https://web.archive.org/web/20201028152419/https://www.alasu.edu/cvpa/music/department-music", "rel": "memento", "datetime": "Wed, 28 Oct 2020 15:24:19 GMT"}
+20210120172813 {"uri": "https://web.archive.org/web/20210120172813/https://www.alasu.edu/cvpa/music/department-music", "rel": "memento", "datetime": "Wed, 20 Jan 2021 17:28:13 GMT"}
+20210124194529 {"uri": "https://web.archive.org/web/20210124194529/https://www.alasu.edu/cvpa/music/department-music", "rel": "memento", "datetime": "Sun, 24 Jan 2021 19:45:29 GMT"}
+20210414113137 {"uri": "https://web.archive.org/web/20210414113137/https://www.alasu.edu/cvpa/music/department-music", "rel": "memento", "datetime": "Wed, 14 Apr 2021 11:31:37 GMT"}
+20210417055754 {"uri": "https://web.archive.org/web/20210417055754/https://www.alasu.edu/cvpa/music/department-music", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 05:57:54 GMT"}

@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/med-biology-secondary-education"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/coe/curriculum-instruction-program-available-online/med-biology-secondary-education"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/med-biology-secondary-education"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/med-biology-secondary-education", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/med-biology-secondary-education", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/med-biology-secondary-education"}}
+20201026140103 {"uri": "https://web.archive.org/web/20201026140103/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/med-biology-secondary-education", "rel": "first memento", "datetime": "Mon, 26 Oct 2020 14:01:03 GMT"}
+20210417084138 {"uri": "https://web.archive.org/web/20210417084138/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/med-biology-secondary-education", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 08:41:38 GMT"}

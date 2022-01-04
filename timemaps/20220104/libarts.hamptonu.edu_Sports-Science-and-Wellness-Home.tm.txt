@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Sports-Science-and-Wellness-Home"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://libarts.hamptonu.edu/page/Sports-Science-and-Wellness-Home"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://libarts.hamptonu.edu/page/Sports-Science-and-Wellness-Home"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://libarts.hamptonu.edu/page/Sports-Science-and-Wellness-Home", "json_format": "http://localhost:1208/timemap/json/http://libarts.hamptonu.edu/page/Sports-Science-and-Wellness-Home", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Sports-Science-and-Wellness-Home"}}
+20210510074148 {"uri": "https://web.archive.org/web/20210510074148/http://libarts.hamptonu.edu/page/Sports-Science-and-Wellness-Home", "rel": "first last memento", "datetime": "Mon, 10 May 2021 07:41:48 GMT"}

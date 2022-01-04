@@ -1,0 +1,39 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/soe/ece"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/soe/ece"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/soe/ece"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/soe/ece", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/soe/ece", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/soe/ece"}}
+20171103191820 {"uri": "https://web.archive.org/web/20171103191820/http://morgan.edu:80/soe/ece", "rel": "first memento", "datetime": "Fri, 03 Nov 2017 19:18:20 GMT"}
+20171106045416 {"uri": "https://web.archive.org/web/20171106045416/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Mon, 06 Nov 2017 04:54:16 GMT"}
+20171129194922 {"uri": "https://web.archive.org/web/20171129194922/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Wed, 29 Nov 2017 19:49:22 GMT"}
+20171207091934 {"uri": "https://web.archive.org/web/20171207091934/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Thu, 07 Dec 2017 09:19:34 GMT"}
+20180112081951 {"uri": "https://web.archive.org/web/20180112081951/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Fri, 12 Jan 2018 08:19:51 GMT"}
+20180214122800 {"uri": "https://web.archive.org/web/20180214122800/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Wed, 14 Feb 2018 12:28:00 GMT"}
+20180215132014 {"uri": "https://web.archive.org/web/20180215132014/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Thu, 15 Feb 2018 13:20:14 GMT"}
+20180319050756 {"uri": "https://web.archive.org/web/20180319050756/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Mon, 19 Mar 2018 05:07:56 GMT"}
+20180320062815 {"uri": "https://web.archive.org/web/20180320062815/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Tue, 20 Mar 2018 06:28:15 GMT"}
+20180421155217 {"uri": "https://web.archive.org/web/20180421155217/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Sat, 21 Apr 2018 15:52:17 GMT"}
+20180529025715 {"uri": "https://web.archive.org/web/20180529025715/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Tue, 29 May 2018 02:57:15 GMT"}
+20180530111056 {"uri": "https://web.archive.org/web/20180530111056/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Wed, 30 May 2018 11:10:56 GMT"}
+20180701033205 {"uri": "https://web.archive.org/web/20180701033205/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Sun, 01 Jul 2018 03:32:05 GMT"}
+20180802025524 {"uri": "https://web.archive.org/web/20180802025524/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Thu, 02 Aug 2018 02:55:24 GMT"}
+20180803112345 {"uri": "https://web.archive.org/web/20180803112345/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Fri, 03 Aug 2018 11:23:45 GMT"}
+20180904040133 {"uri": "https://web.archive.org/web/20180904040133/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Tue, 04 Sep 2018 04:01:33 GMT"}
+20180905195011 {"uri": "https://web.archive.org/web/20180905195011/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Wed, 05 Sep 2018 19:50:11 GMT"}
+20181023063559 {"uri": "https://web.archive.org/web/20181023063559/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Tue, 23 Oct 2018 06:35:59 GMT"}
+20190813065831 {"uri": "https://web.archive.org/web/20190813065831/https://www.morgan.edu/soe/ece", "rel": "memento", "datetime": "Tue, 13 Aug 2019 06:58:31 GMT"}
+20190913175731 {"uri": "https://web.archive.org/web/20190913175731/http://www.morgan.edu:80/soe/ece", "rel": "memento", "datetime": "Fri, 13 Sep 2019 17:57:31 GMT"}
+20200812150805 {"uri": "https://web.archive.org/web/20200812150805/https://morgan.edu/soe/ece", "rel": "memento", "datetime": "Wed, 12 Aug 2020 15:08:05 GMT"}
+20200814083629 {"uri": "https://web.archive.org/web/20200814083629/https://www.morgan.edu/soe/ece", "rel": "memento", "datetime": "Fri, 14 Aug 2020 08:36:29 GMT"}
+20200923090142 {"uri": "https://web.archive.org/web/20200923090142/https://www.morgan.edu/soe/ece", "rel": "memento", "datetime": "Wed, 23 Sep 2020 09:01:42 GMT"}
+20200926091855 {"uri": "https://web.archive.org/web/20200926091855/https://www.morgan.edu/soe/ece/", "rel": "memento", "datetime": "Sat, 26 Sep 2020 09:18:55 GMT"}
+20201028173556 {"uri": "https://web.archive.org/web/20201028173556/https://morgan.edu/soe/ece", "rel": "memento", "datetime": "Wed, 28 Oct 2020 17:35:56 GMT"}
+20201126072212 {"uri": "https://web.archive.org/web/20201126072212/https://www.morgan.edu/soe/ece", "rel": "memento", "datetime": "Thu, 26 Nov 2020 07:22:12 GMT"}
+20210125235733 {"uri": "https://web.archive.org/web/20210125235733/https://morgan.edu/soe/ece", "rel": "memento", "datetime": "Mon, 25 Jan 2021 23:57:33 GMT"}
+20210301040622 {"uri": "https://web.archive.org/web/20210301040622/https://www.morgan.edu/soe/ece", "rel": "memento", "datetime": "Mon, 01 Mar 2021 04:06:22 GMT"}
+20210414054157 {"uri": "https://web.archive.org/web/20210414054157/https://morgan.edu/soe/ece", "rel": "memento", "datetime": "Wed, 14 Apr 2021 05:41:57 GMT"}
+20210418144615 {"uri": "https://web.archive.org/web/20210418144615/https://morgan.edu/soe/ece", "rel": "memento", "datetime": "Sun, 18 Apr 2021 14:46:15 GMT"}
+20210506192032 {"uri": "https://web.archive.org/web/20210506192032/https://www.morgan.edu/soe/ece", "rel": "memento", "datetime": "Thu, 06 May 2021 19:20:32 GMT"}
+20210511011318 {"uri": "https://web.archive.org/web/20210511011318/https://www.morgan.edu/soe/ece", "rel": "memento", "datetime": "Tue, 11 May 2021 01:13:18 GMT"}
+20210816054643 {"uri": "https://web.archive.org/web/20210816054643/https://morgan.edu/soe/ece", "rel": "last memento", "datetime": "Mon, 16 Aug 2021 05:46:43 GMT"}

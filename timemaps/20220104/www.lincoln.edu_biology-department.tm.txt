@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/biology-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/biology-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/biology-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/biology-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/biology-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/biology-department"}}
+20160225191208 {"uri": "https://web.archive.org/web/20160225191208/http://www.lincoln.edu:80/departments/biology-department", "rel": "first memento", "datetime": "Thu, 25 Feb 2016 19:12:08 GMT"}
+20160322123603 {"uri": "https://web.archive.org/web/20160322123603/http://www.lincoln.edu/departments/biology-department", "rel": "memento", "datetime": "Tue, 22 Mar 2016 12:36:03 GMT"}
+20170628120446 {"uri": "https://web.archive.org/web/20170628120446/http://www.lincoln.edu/departments/biology-department", "rel": "memento", "datetime": "Wed, 28 Jun 2017 12:04:46 GMT"}
+20201022011013 {"uri": "https://web.archive.org/web/20201022011013/https://www.lincoln.edu/departments/biology-department", "rel": "memento", "datetime": "Thu, 22 Oct 2020 01:10:13 GMT"}
+20210122130207 {"uri": "https://web.archive.org/web/20210122130207/https://www.lincoln.edu/departments/biology-department", "rel": "memento", "datetime": "Fri, 22 Jan 2021 13:02:07 GMT"}
+20210418171914 {"uri": "https://web.archive.org/web/20210418171914/https://www.lincoln.edu/departments/biology-department", "rel": "memento", "datetime": "Sun, 18 Apr 2021 17:19:14 GMT"}
+20210422200452 {"uri": "https://web.archive.org/web/20210422200452/https://www.lincoln.edu/departments/biology-department", "rel": "memento", "datetime": "Thu, 22 Apr 2021 20:04:52 GMT"}
+20210507192446 {"uri": "https://web.archive.org/web/20210507192446/https://www.lincoln.edu/departments/biology-department", "rel": "last memento", "datetime": "Fri, 07 May 2021 19:24:46 GMT"}

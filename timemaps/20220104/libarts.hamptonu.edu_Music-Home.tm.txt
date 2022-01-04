@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Music-Home"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://libarts.hamptonu.edu/page/Music-Home"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://libarts.hamptonu.edu/page/Music-Home"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://libarts.hamptonu.edu/page/Music-Home", "json_format": "http://localhost:1208/timemap/json/http://libarts.hamptonu.edu/page/Music-Home", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Music-Home"}}
+20190328111312 {"uri": "https://web.archive.org/web/20190328111312/http://libarts.hamptonu.edu:80/page/Music-Home", "rel": "first memento", "datetime": "Thu, 28 Mar 2019 11:13:12 GMT"}
+20190329175622 {"uri": "https://web.archive.org/web/20190329175622/http://libarts.hamptonu.edu:80/page/Music-Home", "rel": "memento", "datetime": "Fri, 29 Mar 2019 17:56:22 GMT"}
+20190528220706 {"uri": "https://web.archive.org/web/20190528220706/http://libarts.hamptonu.edu:80/page/Music-Home", "rel": "memento", "datetime": "Tue, 28 May 2019 22:07:06 GMT"}
+20190712020941 {"uri": "https://web.archive.org/web/20190712020941/http://libarts.hamptonu.edu/page/Music-Home", "rel": "memento", "datetime": "Fri, 12 Jul 2019 02:09:41 GMT"}
+20190728105409 {"uri": "https://web.archive.org/web/20190728105409/http://libarts.hamptonu.edu:80/page/Music-Home", "rel": "memento", "datetime": "Sun, 28 Jul 2019 10:54:09 GMT"}
+20190927073458 {"uri": "https://web.archive.org/web/20190927073458/http://libarts.hamptonu.edu:80/page/Music-Home", "rel": "memento", "datetime": "Fri, 27 Sep 2019 07:34:58 GMT"}
+20191022110027 {"uri": "https://web.archive.org/web/20191022110027/http://libarts.hamptonu.edu:80/page/Music-Home", "rel": "memento", "datetime": "Tue, 22 Oct 2019 11:00:27 GMT"}
+20191101064300 {"uri": "https://web.archive.org/web/20191101064300/http://libarts.hamptonu.edu:80/page/Music-Home", "rel": "memento", "datetime": "Fri, 01 Nov 2019 06:43:00 GMT"}
+20191231141157 {"uri": "https://web.archive.org/web/20191231141157/http://libarts.hamptonu.edu:80/page/Music-Home", "rel": "memento", "datetime": "Tue, 31 Dec 2019 14:11:57 GMT"}
+20200628182418 {"uri": "https://web.archive.org/web/20200628182418/http://libarts.hamptonu.edu:80/page/Music-Home", "rel": "memento", "datetime": "Sun, 28 Jun 2020 18:24:18 GMT"}
+20210510084438 {"uri": "https://web.archive.org/web/20210510084438/http://libarts.hamptonu.edu/page/Music-Home", "rel": "last memento", "datetime": "Mon, 10 May 2021 08:44:38 GMT"}

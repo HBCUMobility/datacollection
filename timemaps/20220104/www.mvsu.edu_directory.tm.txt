@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory", "json_format": "http://localhost:1208/timemap/json/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory"}}
+20171115005125 {"uri": "https://web.archive.org/web/20171115005125/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory", "rel": "first memento", "datetime": "Wed, 15 Nov 2017 00:51:25 GMT"}
+20200622020636 {"uri": "https://web.archive.org/web/20200622020636/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory", "rel": "memento", "datetime": "Mon, 22 Jun 2020 02:06:36 GMT"}
+20200921114837 {"uri": "https://web.archive.org/web/20200921114837/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory", "rel": "memento", "datetime": "Mon, 21 Sep 2020 11:48:37 GMT"}
+20201203223631 {"uri": "https://web.archive.org/web/20201203223631/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory", "rel": "memento", "datetime": "Thu, 03 Dec 2020 22:36:31 GMT"}
+20210415011735 {"uri": "https://web.archive.org/web/20210415011735/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory", "rel": "memento", "datetime": "Thu, 15 Apr 2021 01:17:35 GMT"}
+20210417161400 {"uri": "https://web.archive.org/web/20210417161400/https://www.mvsu.edu/academics/academic-programs/professional-studies/departments/social-work/about/directory", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 16:14:00 GMT"}

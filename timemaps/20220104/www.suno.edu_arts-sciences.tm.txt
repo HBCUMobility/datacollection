@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/arts-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/arts-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/arts-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/arts-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/arts-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/arts-sciences"}}
+20180715023336 {"uri": "https://web.archive.org/web/20180715023336/http://www.suno.edu:80/page/arts-sciences", "rel": "first memento", "datetime": "Sun, 15 Jul 2018 02:33:36 GMT"}
+20180913120842 {"uri": "https://web.archive.org/web/20180913120842/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Thu, 13 Sep 2018 12:08:42 GMT"}
+20190113141828 {"uri": "https://web.archive.org/web/20190113141828/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Sun, 13 Jan 2019 14:18:28 GMT"}
+20190315034219 {"uri": "https://web.archive.org/web/20190315034219/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Fri, 15 Mar 2019 03:42:19 GMT"}
+20190514185009 {"uri": "https://web.archive.org/web/20190514185009/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Tue, 14 May 2019 18:50:09 GMT"}
+20190927085344 {"uri": "https://web.archive.org/web/20190927085344/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Fri, 27 Sep 2019 08:53:44 GMT"}
+20191027015441 {"uri": "https://web.archive.org/web/20191027015441/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Sun, 27 Oct 2019 01:54:41 GMT"}
+20191124233924 {"uri": "https://web.archive.org/web/20191124233924/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Sun, 24 Nov 2019 23:39:24 GMT"}
+20191225033947 {"uri": "https://web.archive.org/web/20191225033947/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Wed, 25 Dec 2019 03:39:47 GMT"}
+20200124060233 {"uri": "https://web.archive.org/web/20200124060233/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Fri, 24 Jan 2020 06:02:33 GMT"}
+20200223111410 {"uri": "https://web.archive.org/web/20200223111410/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Sun, 23 Feb 2020 11:14:10 GMT"}
+20200411121556 {"uri": "https://web.archive.org/web/20200411121556/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Sat, 11 Apr 2020 12:15:56 GMT"}
+20200610152001 {"uri": "https://web.archive.org/web/20200610152001/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Wed, 10 Jun 2020 15:20:01 GMT"}
+20200810214925 {"uri": "https://web.archive.org/web/20200810214925/http://www.suno.edu:80/page/arts-sciences", "rel": "memento", "datetime": "Mon, 10 Aug 2020 21:49:25 GMT"}
+20210119155526 {"uri": "https://web.archive.org/web/20210119155526/https://www.suno.edu/page/arts-sciences", "rel": "memento", "datetime": "Tue, 19 Jan 2021 15:55:26 GMT"}
+20210512053559 {"uri": "https://web.archive.org/web/20210512053559/https://www.suno.edu/page/arts-sciences", "rel": "last memento", "datetime": "Wed, 12 May 2021 05:35:59 GMT"}

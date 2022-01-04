@@ -1,0 +1,19 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/swbps/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.pvamu.edu/bcas/departments/swbps/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.pvamu.edu/bcas/departments/swbps/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.pvamu.edu/bcas/departments/swbps/", "json_format": "http://localhost:1208/timemap/json/https://www.pvamu.edu/bcas/departments/swbps/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/swbps/"}}
+20150705164255 {"uri": "https://web.archive.org/web/20150705164255/http://www.pvamu.edu:80/bcas/departments/swbps/", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 16:42:55 GMT"}
+20150905123920 {"uri": "https://web.archive.org/web/20150905123920/http://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 12:39:20 GMT"}
+20171006014806 {"uri": "https://web.archive.org/web/20171006014806/http://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Fri, 06 Oct 2017 01:48:06 GMT"}
+20190402185317 {"uri": "https://web.archive.org/web/20190402185317/http://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Tue, 02 Apr 2019 18:53:17 GMT"}
+20200723021014 {"uri": "https://web.archive.org/web/20200723021014/https://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Thu, 23 Jul 2020 02:10:14 GMT"}
+20200826172800 {"uri": "https://web.archive.org/web/20200826172800/http://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Wed, 26 Aug 2020 17:28:00 GMT"}
+20200919132251 {"uri": "https://web.archive.org/web/20200919132251/https://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Sat, 19 Sep 2020 13:22:51 GMT"}
+20200927074049 {"uri": "https://web.archive.org/web/20200927074049/https://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Sun, 27 Sep 2020 07:40:49 GMT"}
+20201031054850 {"uri": "https://web.archive.org/web/20201031054850/https://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Sat, 31 Oct 2020 05:48:50 GMT"}
+20201103050555 {"uri": "https://web.archive.org/web/20201103050555/https://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Tue, 03 Nov 2020 05:05:55 GMT"}
+20201124034737 {"uri": "https://web.archive.org/web/20201124034737/https://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Tue, 24 Nov 2020 03:47:37 GMT"}
+20210126123442 {"uri": "https://web.archive.org/web/20210126123442/https://www.pvamu.edu/bcas/departments/swbps/", "rel": "memento", "datetime": "Tue, 26 Jan 2021 12:34:42 GMT"}
+20210419072917 {"uri": "https://web.archive.org/web/20210419072917/https://www.pvamu.edu/bcas/departments/swbps/", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 07:29:17 GMT"}

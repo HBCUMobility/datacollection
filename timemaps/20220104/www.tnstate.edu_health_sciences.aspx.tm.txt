@@ -1,0 +1,51 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/phas/health_sciences.aspx"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/phas/health_sciences.aspx"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/phas/health_sciences.aspx"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/phas/health_sciences.aspx", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/phas/health_sciences.aspx", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/phas/health_sciences.aspx"}}
+20110523123700 {"uri": "https://web.archive.org/web/20110523123700/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "first memento", "datetime": "Mon, 23 May 2011 12:37:00 GMT"}
+20110824034607 {"uri": "https://web.archive.org/web/20110824034607/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 24 Aug 2011 03:46:07 GMT"}
+20120208201427 {"uri": "https://web.archive.org/web/20120208201427/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 08 Feb 2012 20:14:27 GMT"}
+20141011202020 {"uri": "https://web.archive.org/web/20141011202020/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sat, 11 Oct 2014 20:20:20 GMT"}
+20141218164910 {"uri": "https://web.archive.org/web/20141218164910/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Thu, 18 Dec 2014 16:49:10 GMT"}
+20150123053729 {"uri": "https://web.archive.org/web/20150123053729/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Fri, 23 Jan 2015 05:37:29 GMT"}
+20150227052231 {"uri": "https://web.archive.org/web/20150227052231/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Fri, 27 Feb 2015 05:22:31 GMT"}
+20150404142048 {"uri": "https://web.archive.org/web/20150404142048/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sat, 04 Apr 2015 14:20:48 GMT"}
+20150506075950 {"uri": "https://web.archive.org/web/20150506075950/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 06 May 2015 07:59:50 GMT"}
+20150906050054 {"uri": "https://web.archive.org/web/20150906050054/http://www.tnstate.edu/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sun, 06 Sep 2015 05:00:54 GMT"}
+20151107073449 {"uri": "https://web.archive.org/web/20151107073449/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sat, 07 Nov 2015 07:34:49 GMT"}
+20151208154050 {"uri": "https://web.archive.org/web/20151208154050/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Tue, 08 Dec 2015 15:40:50 GMT"}
+20160116225543 {"uri": "https://web.archive.org/web/20160116225543/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sat, 16 Jan 2016 22:55:43 GMT"}
+20160302032132 {"uri": "https://web.archive.org/web/20160302032132/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 02 Mar 2016 03:21:32 GMT"}
+20160430155354 {"uri": "https://web.archive.org/web/20160430155354/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sat, 30 Apr 2016 15:53:54 GMT"}
+20160531235520 {"uri": "https://web.archive.org/web/20160531235520/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Tue, 31 May 2016 23:55:20 GMT"}
+20160628091454 {"uri": "https://web.archive.org/web/20160628091454/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Tue, 28 Jun 2016 09:14:54 GMT"}
+20160729163207 {"uri": "https://web.archive.org/web/20160729163207/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Fri, 29 Jul 2016 16:32:07 GMT"}
+20160830081943 {"uri": "https://web.archive.org/web/20160830081943/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Tue, 30 Aug 2016 08:19:43 GMT"}
+20160831174535 {"uri": "https://web.archive.org/web/20160831174535/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 31 Aug 2016 17:45:35 GMT"}
+20161003092050 {"uri": "https://web.archive.org/web/20161003092050/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Mon, 03 Oct 2016 09:20:50 GMT"}
+20170216174327 {"uri": "https://web.archive.org/web/20170216174327/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Thu, 16 Feb 2017 17:43:27 GMT"}
+20171110024007 {"uri": "https://web.archive.org/web/20171110024007/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Fri, 10 Nov 2017 02:40:07 GMT"}
+20171211052446 {"uri": "https://web.archive.org/web/20171211052446/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Mon, 11 Dec 2017 05:24:46 GMT"}
+20180112095311 {"uri": "https://web.archive.org/web/20180112095311/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Fri, 12 Jan 2018 09:53:11 GMT"}
+20180213020930 {"uri": "https://web.archive.org/web/20180213020930/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Tue, 13 Feb 2018 02:09:30 GMT"}
+20180317154613 {"uri": "https://web.archive.org/web/20180317154613/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sat, 17 Mar 2018 15:46:13 GMT"}
+20180419072506 {"uri": "https://web.archive.org/web/20180419072506/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Thu, 19 Apr 2018 07:25:06 GMT"}
+20180523121844 {"uri": "https://web.archive.org/web/20180523121844/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 23 May 2018 12:18:44 GMT"}
+20180625215819 {"uri": "https://web.archive.org/web/20180625215819/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Mon, 25 Jun 2018 21:58:19 GMT"}
+20180627103426 {"uri": "https://web.archive.org/web/20180627103426/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 27 Jun 2018 10:34:26 GMT"}
+20180801231231 {"uri": "https://web.archive.org/web/20180801231231/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 01 Aug 2018 23:12:31 GMT"}
+20180902173142 {"uri": "https://web.archive.org/web/20180902173142/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sun, 02 Sep 2018 17:31:42 GMT"}
+20181009220820 {"uri": "https://web.archive.org/web/20181009220820/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Tue, 09 Oct 2018 22:08:20 GMT"}
+20190710155358 {"uri": "https://web.archive.org/web/20190710155358/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 10 Jul 2019 15:53:58 GMT"}
+20190817071743 {"uri": "https://web.archive.org/web/20190817071743/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sat, 17 Aug 2019 07:17:43 GMT"}
+20190919171133 {"uri": "https://web.archive.org/web/20190919171133/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Thu, 19 Sep 2019 17:11:33 GMT"}
+20191017153044 {"uri": "https://web.archive.org/web/20191017153044/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Thu, 17 Oct 2019 15:30:44 GMT"}
+20191117205045 {"uri": "https://web.archive.org/web/20191117205045/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sun, 17 Nov 2019 20:50:45 GMT"}
+20191218024102 {"uri": "https://web.archive.org/web/20191218024102/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Wed, 18 Dec 2019 02:41:02 GMT"}
+20200117053401 {"uri": "https://web.archive.org/web/20200117053401/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Fri, 17 Jan 2020 05:34:01 GMT"}
+20200216083140 {"uri": "https://web.archive.org/web/20200216083140/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sun, 16 Feb 2020 08:31:40 GMT"}
+20200702234908 {"uri": "https://web.archive.org/web/20200702234908/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Thu, 02 Jul 2020 23:49:08 GMT"}
+20200802013340 {"uri": "https://web.archive.org/web/20200802013340/http://www.tnstate.edu:80/phas/health_sciences.aspx", "rel": "memento", "datetime": "Sun, 02 Aug 2020 01:33:40 GMT"}
+20211116175454 {"uri": "https://web.archive.org/web/20211116175454/https://www.tnstate.edu/phas/health_sciences.aspx", "rel": "last memento", "datetime": "Tue, 16 Nov 2021 17:54:54 GMT"}

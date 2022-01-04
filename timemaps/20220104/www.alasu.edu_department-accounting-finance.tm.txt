@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cba/accounting-finance/department-accounting-finance"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance"}}
+20181112214021 {"uri": "https://web.archive.org/web/20181112214021/http://www.alasu.edu:80/cba/accounting-finance/department-accounting-finance", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:40:21 GMT"}
+20200523105004 {"uri": "https://web.archive.org/web/20200523105004/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance", "rel": "memento", "datetime": "Sat, 23 May 2020 10:50:04 GMT"}
+20200606190124 {"uri": "https://web.archive.org/web/20200606190124/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance", "rel": "memento", "datetime": "Sat, 06 Jun 2020 19:01:24 GMT"}
+20200812230556 {"uri": "https://web.archive.org/web/20200812230556/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance", "rel": "memento", "datetime": "Wed, 12 Aug 2020 23:05:56 GMT"}
+20201031003808 {"uri": "https://web.archive.org/web/20201031003808/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance", "rel": "memento", "datetime": "Sat, 31 Oct 2020 00:38:08 GMT"}
+20210414042958 {"uri": "https://web.archive.org/web/20210414042958/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance", "rel": "memento", "datetime": "Wed, 14 Apr 2021 04:29:58 GMT"}
+20210416014844 {"uri": "https://web.archive.org/web/20210416014844/https://www.alasu.edu/cba/accounting-finance/department-accounting-finance", "rel": "last memento", "datetime": "Fri, 16 Apr 2021 01:48:44 GMT"}

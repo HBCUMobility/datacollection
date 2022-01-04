@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Counseling-Home"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://libarts.hamptonu.edu/page/Counseling-Home"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://libarts.hamptonu.edu/page/Counseling-Home"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://libarts.hamptonu.edu/page/Counseling-Home", "json_format": "http://localhost:1208/timemap/json/http://libarts.hamptonu.edu/page/Counseling-Home", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Counseling-Home"}}
+20190329175602 {"uri": "https://web.archive.org/web/20190329175602/http://libarts.hamptonu.edu:80/page/Counseling-Home", "rel": "first memento", "datetime": "Fri, 29 Mar 2019 17:56:02 GMT"}
+20190529165749 {"uri": "https://web.archive.org/web/20190529165749/http://libarts.hamptonu.edu:80/page/Counseling-Home", "rel": "memento", "datetime": "Wed, 29 May 2019 16:57:49 GMT"}
+20190730094903 {"uri": "https://web.archive.org/web/20190730094903/http://libarts.hamptonu.edu:80/page/Counseling-Home", "rel": "memento", "datetime": "Tue, 30 Jul 2019 09:49:03 GMT"}
+20190929022153 {"uri": "https://web.archive.org/web/20190929022153/http://libarts.hamptonu.edu:80/page/Counseling-Home", "rel": "memento", "datetime": "Sun, 29 Sep 2019 02:21:53 GMT"}
+20191022105618 {"uri": "https://web.archive.org/web/20191022105618/http://libarts.hamptonu.edu:80/page/Counseling-Home", "rel": "memento", "datetime": "Tue, 22 Oct 2019 10:56:18 GMT"}
+20191222005659 {"uri": "https://web.archive.org/web/20191222005659/http://libarts.hamptonu.edu:80/page/Counseling-Home", "rel": "memento", "datetime": "Sun, 22 Dec 2019 00:56:59 GMT"}
+20200220055451 {"uri": "https://web.archive.org/web/20200220055451/http://libarts.hamptonu.edu:80/page/Counseling-Home", "rel": "memento", "datetime": "Thu, 20 Feb 2020 05:54:51 GMT"}
+20200704094100 {"uri": "https://web.archive.org/web/20200704094100/http://libarts.hamptonu.edu:80/page/Counseling-Home", "rel": "memento", "datetime": "Sat, 04 Jul 2020 09:41:00 GMT"}
+20210510074342 {"uri": "https://web.archive.org/web/20210510074342/http://libarts.hamptonu.edu/page/Counseling-Home", "rel": "last memento", "datetime": "Mon, 10 May 2021 07:43:42 GMT"}

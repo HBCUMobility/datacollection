@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/universitycollege/writing-center/writing-center"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/universitycollege/writing-center/writing-center"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/universitycollege/writing-center/writing-center"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/universitycollege/writing-center/writing-center", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/universitycollege/writing-center/writing-center", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/universitycollege/writing-center/writing-center"}}
+20181112213844 {"uri": "https://web.archive.org/web/20181112213844/http://www.alasu.edu:80/universitycollege/writing-center/writing-center", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:38:44 GMT"}
+20201026140319 {"uri": "https://web.archive.org/web/20201026140319/https://www.alasu.edu/universitycollege/writing-center/writing-center", "rel": "memento", "datetime": "Mon, 26 Oct 2020 14:03:19 GMT"}
+20210417073234 {"uri": "https://web.archive.org/web/20210417073234/https://www.alasu.edu/universitycollege/writing-center/writing-center", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 07:32:34 GMT"}

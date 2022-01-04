@@ -1,0 +1,61 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/computerscience"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/computerscience"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/computerscience"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/computerscience", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/computerscience", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/computerscience"}}
+20150705025753 {"uri": "https://web.archive.org/web/20150705025753/http://www.morgan.edu:80/computerscience", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 02:57:53 GMT"}
+20150826234531 {"uri": "https://web.archive.org/web/20150826234531/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Wed, 26 Aug 2015 23:45:31 GMT"}
+20150905171104 {"uri": "https://web.archive.org/web/20150905171104/http://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Sat, 05 Sep 2015 17:11:04 GMT"}
+20151020061851 {"uri": "https://web.archive.org/web/20151020061851/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Tue, 20 Oct 2015 06:18:51 GMT"}
+20151120011456 {"uri": "https://web.archive.org/web/20151120011456/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Fri, 20 Nov 2015 01:14:56 GMT"}
+20151224030715 {"uri": "https://web.archive.org/web/20151224030715/http://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Thu, 24 Dec 2015 03:07:15 GMT"}
+20151226203402 {"uri": "https://web.archive.org/web/20151226203402/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Sat, 26 Dec 2015 20:34:02 GMT"}
+20160126212047 {"uri": "https://web.archive.org/web/20160126212047/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Tue, 26 Jan 2016 21:20:47 GMT"}
+20160314114359 {"uri": "https://web.archive.org/web/20160314114359/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Mon, 14 Mar 2016 11:43:59 GMT"}
+20160322065956 {"uri": "https://web.archive.org/web/20160322065956/http://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Tue, 22 Mar 2016 06:59:56 GMT"}
+20160414073023 {"uri": "https://web.archive.org/web/20160414073023/http://morgan.edu/computerscience", "rel": "memento", "datetime": "Thu, 14 Apr 2016 07:30:23 GMT"}
+20160415013720 {"uri": "https://web.archive.org/web/20160415013720/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Fri, 15 Apr 2016 01:37:20 GMT"}
+20160430160449 {"uri": "https://web.archive.org/web/20160430160449/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Sat, 30 Apr 2016 16:04:49 GMT"}
+20160514110950 {"uri": "https://web.archive.org/web/20160514110950/http://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Sat, 14 May 2016 11:09:50 GMT"}
+20160518071635 {"uri": "https://web.archive.org/web/20160518071635/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Wed, 18 May 2016 07:16:35 GMT"}
+20160616222350 {"uri": "https://web.archive.org/web/20160616222350/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Thu, 16 Jun 2016 22:23:50 GMT"}
+20160718165728 {"uri": "https://web.archive.org/web/20160718165728/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Mon, 18 Jul 2016 16:57:28 GMT"}
+20160729135729 {"uri": "https://web.archive.org/web/20160729135729/http://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Fri, 29 Jul 2016 13:57:29 GMT"}
+20160820191902 {"uri": "https://web.archive.org/web/20160820191902/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Sat, 20 Aug 2016 19:19:02 GMT"}
+20160921010140 {"uri": "https://web.archive.org/web/20160921010140/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Wed, 21 Sep 2016 01:01:40 GMT"}
+20161025183538 {"uri": "https://web.archive.org/web/20161025183538/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Tue, 25 Oct 2016 18:35:38 GMT"}
+20161222161444 {"uri": "https://web.archive.org/web/20161222161444/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Thu, 22 Dec 2016 16:14:44 GMT"}
+20170316224336 {"uri": "https://wayback.archive-it.org/all/20170316224336/http://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:36 GMT"}
+20170316224336 {"uri": "https://web.archive.org/web/20170316224336/http://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:36 GMT"}
+20170503113422 {"uri": "https://web.archive.org/web/20170503113422/http://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Wed, 03 May 2017 11:34:22 GMT"}
+20170523065247 {"uri": "https://web.archive.org/web/20170523065247/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Tue, 23 May 2017 06:52:47 GMT"}
+20170613214324 {"uri": "https://web.archive.org/web/20170613214324/http://morgan.edu/computerscience", "rel": "memento", "datetime": "Tue, 13 Jun 2017 21:43:24 GMT"}
+20170626122451 {"uri": "https://web.archive.org/web/20170626122451/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Mon, 26 Jun 2017 12:24:51 GMT"}
+20170702061728 {"uri": "https://web.archive.org/web/20170702061728/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Sun, 02 Jul 2017 06:17:28 GMT"}
+20170804194259 {"uri": "https://web.archive.org/web/20170804194259/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Fri, 04 Aug 2017 19:42:59 GMT"}
+20170904182847 {"uri": "https://web.archive.org/web/20170904182847/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Mon, 04 Sep 2017 18:28:47 GMT"}
+20171006062120 {"uri": "https://web.archive.org/web/20171006062120/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Fri, 06 Oct 2017 06:21:20 GMT"}
+20171103192047 {"uri": "https://web.archive.org/web/20171103192047/http://morgan.edu:80/computerscience", "rel": "memento", "datetime": "Fri, 03 Nov 2017 19:20:47 GMT"}
+20171106051500 {"uri": "https://web.archive.org/web/20171106051500/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Mon, 06 Nov 2017 05:15:00 GMT"}
+20171207080134 {"uri": "https://web.archive.org/web/20171207080134/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Thu, 07 Dec 2017 08:01:34 GMT"}
+20180112074821 {"uri": "https://web.archive.org/web/20180112074821/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Fri, 12 Jan 2018 07:48:21 GMT"}
+20180214105129 {"uri": "https://web.archive.org/web/20180214105129/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Wed, 14 Feb 2018 10:51:29 GMT"}
+20180215144749 {"uri": "https://web.archive.org/web/20180215144749/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Thu, 15 Feb 2018 14:47:49 GMT"}
+20180319073832 {"uri": "https://web.archive.org/web/20180319073832/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Mon, 19 Mar 2018 07:38:32 GMT"}
+20180320063954 {"uri": "https://web.archive.org/web/20180320063954/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Tue, 20 Mar 2018 06:39:54 GMT"}
+20180421190739 {"uri": "https://web.archive.org/web/20180421190739/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Sat, 21 Apr 2018 19:07:39 GMT"}
+20180527080558 {"uri": "https://web.archive.org/web/20180527080558/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Sun, 27 May 2018 08:05:58 GMT"}
+20180630073744 {"uri": "https://web.archive.org/web/20180630073744/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Sat, 30 Jun 2018 07:37:44 GMT"}
+20180802040610 {"uri": "https://web.archive.org/web/20180802040610/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Thu, 02 Aug 2018 04:06:10 GMT"}
+20180803072336 {"uri": "https://web.archive.org/web/20180803072336/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Fri, 03 Aug 2018 07:23:36 GMT"}
+20180903215504 {"uri": "https://web.archive.org/web/20180903215504/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Mon, 03 Sep 2018 21:55:04 GMT"}
+20181023052827 {"uri": "https://web.archive.org/web/20181023052827/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Tue, 23 Oct 2018 05:28:27 GMT"}
+20190908225531 {"uri": "https://web.archive.org/web/20190908225531/http://www.morgan.edu:80/computerscience", "rel": "memento", "datetime": "Sun, 08 Sep 2019 22:55:31 GMT"}
+20200724143017 {"uri": "https://web.archive.org/web/20200724143017/https://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Fri, 24 Jul 2020 14:30:17 GMT"}
+20200807094012 {"uri": "https://web.archive.org/web/20200807094012/https://morgan.edu/computerscience", "rel": "memento", "datetime": "Fri, 07 Aug 2020 09:40:12 GMT"}
+20200807183310 {"uri": "https://web.archive.org/web/20200807183310/https://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Fri, 07 Aug 2020 18:33:10 GMT"}
+20210221201534 {"uri": "https://web.archive.org/web/20210221201534/https://www.morgan.edu/computerscience", "rel": "memento", "datetime": "Sun, 21 Feb 2021 20:15:34 GMT"}
+20210414013932 {"uri": "https://web.archive.org/web/20210414013932/https://morgan.edu/computerscience", "rel": "memento", "datetime": "Wed, 14 Apr 2021 01:39:32 GMT"}
+20210814082019 {"uri": "https://web.archive.org/web/20210814082019/https://morgan.edu/computerscience", "rel": "memento", "datetime": "Sat, 14 Aug 2021 08:20:19 GMT"}
+20210814082048 {"uri": "https://web.archive.org/web/20210814082048/https://morgan.edu/computerscience", "rel": "last memento", "datetime": "Sat, 14 Aug 2021 08:20:48 GMT"}

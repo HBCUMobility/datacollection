@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-therapeutic-recreation.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-therapeutic-recreation.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-therapeutic-recreation.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-therapeutic-recreation.html", "json_format": "http://localhost:1208/timemap/json/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-therapeutic-recreation.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-therapeutic-recreation.html"}}
+20201026124702 {"uri": "https://web.archive.org/web/20201026124702/https://wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-therapeutic-recreation.html", "rel": "first memento", "datetime": "Mon, 26 Oct 2020 12:47:02 GMT"}
+20210124021133 {"uri": "https://web.archive.org/web/20210124021133/https://wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-therapeutic-recreation.html", "rel": "last memento", "datetime": "Sun, 24 Jan 2021 02:11:33 GMT"}

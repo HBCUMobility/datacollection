@@ -1,0 +1,43 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/nursing"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/causes/nursing"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/causes/nursing"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/causes/nursing", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/causes/nursing", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/nursing"}}
+20170422231349 {"uri": "https://web.archive.org/web/20170422231349/http://www.udc.edu:80/causes/nursing", "rel": "first memento", "datetime": "Sat, 22 Apr 2017 23:13:49 GMT"}
+20170524082430 {"uri": "https://web.archive.org/web/20170524082430/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Wed, 24 May 2017 08:24:30 GMT"}
+20170624140144 {"uri": "https://web.archive.org/web/20170624140144/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Sat, 24 Jun 2017 14:01:44 GMT"}
+20170625174509 {"uri": "https://web.archive.org/web/20170625174509/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Sun, 25 Jun 2017 17:45:09 GMT"}
+20170726161411 {"uri": "https://web.archive.org/web/20170726161411/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Wed, 26 Jul 2017 16:14:11 GMT"}
+20170902044603 {"uri": "https://web.archive.org/web/20170902044603/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Sat, 02 Sep 2017 04:46:03 GMT"}
+20170911234902 {"uri": "https://web.archive.org/web/20170911234902/http://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Mon, 11 Sep 2017 23:49:02 GMT"}
+20170912033221 {"uri": "https://web.archive.org/web/20170912033221/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Tue, 12 Sep 2017 03:32:21 GMT"}
+20171004061246 {"uri": "https://web.archive.org/web/20171004061246/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Wed, 04 Oct 2017 06:12:46 GMT"}
+20171107150028 {"uri": "https://web.archive.org/web/20171107150028/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Tue, 07 Nov 2017 15:00:28 GMT"}
+20171208204309 {"uri": "https://web.archive.org/web/20171208204309/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Fri, 08 Dec 2017 20:43:09 GMT"}
+20180116104839 {"uri": "https://web.archive.org/web/20180116104839/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Tue, 16 Jan 2018 10:48:39 GMT"}
+20180117130722 {"uri": "https://web.archive.org/web/20180117130722/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Wed, 17 Jan 2018 13:07:22 GMT"}
+20180218060203 {"uri": "https://web.archive.org/web/20180218060203/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Sun, 18 Feb 2018 06:02:03 GMT"}
+20180330064642 {"uri": "https://web.archive.org/web/20180330064642/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Fri, 30 Mar 2018 06:46:42 GMT"}
+20180502194154 {"uri": "https://web.archive.org/web/20180502194154/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Wed, 02 May 2018 19:41:54 GMT"}
+20180504062816 {"uri": "https://web.archive.org/web/20180504062816/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Fri, 04 May 2018 06:28:16 GMT"}
+20180605080533 {"uri": "https://web.archive.org/web/20180605080533/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Tue, 05 Jun 2018 08:05:33 GMT"}
+20180606135201 {"uri": "https://web.archive.org/web/20180606135201/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Wed, 06 Jun 2018 13:52:01 GMT"}
+20180707162834 {"uri": "https://web.archive.org/web/20180707162834/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Sat, 07 Jul 2018 16:28:34 GMT"}
+20180808033121 {"uri": "https://web.archive.org/web/20180808033121/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Wed, 08 Aug 2018 03:31:21 GMT"}
+20180909031618 {"uri": "https://web.archive.org/web/20180909031618/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Sun, 09 Sep 2018 03:16:18 GMT"}
+20181010044444 {"uri": "https://web.archive.org/web/20181010044444/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Wed, 10 Oct 2018 04:44:44 GMT"}
+20181118204541 {"uri": "https://web.archive.org/web/20181118204541/http://www.udc.edu:80/causes/nursing", "rel": "memento", "datetime": "Sun, 18 Nov 2018 20:45:41 GMT"}
+20190904033724 {"uri": "https://web.archive.org/web/20190904033724/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:37:24 GMT"}
+20190904033933 {"uri": "https://web.archive.org/web/20190904033933/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:33 GMT"}
+20190904033933 {"uri": "https://web.archive.org/web/20190904033933/https://www.udc.edu/causes/nursing", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:33 GMT"}
+20190904035223 {"uri": "https://web.archive.org/web/20190904035223/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:52:23 GMT"}
+20190904035932 {"uri": "https://web.archive.org/web/20190904035932/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:59:32 GMT"}
+20190904035932 {"uri": "https://web.archive.org/web/20190904035932/http://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:59:32 GMT"}
+20200925105249 {"uri": "https://web.archive.org/web/20200925105249/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Fri, 25 Sep 2020 10:52:49 GMT"}
+20201024125147 {"uri": "https://web.archive.org/web/20201024125147/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Sat, 24 Oct 2020 12:51:47 GMT"}
+20201202151442 {"uri": "https://web.archive.org/web/20201202151442/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Wed, 02 Dec 2020 15:14:42 GMT"}
+20201202151442 {"uri": "https://web.archive.org/web/20201202151442/http://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Wed, 02 Dec 2020 15:14:42 GMT"}
+20210120204229 {"uri": "https://web.archive.org/web/20210120204229/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Wed, 20 Jan 2021 20:42:29 GMT"}
+20210408170835 {"uri": "https://web.archive.org/web/20210408170835/https://www.udc.edu/causes/nursing/", "rel": "memento", "datetime": "Thu, 08 Apr 2021 17:08:35 GMT"}
+20210423152543 {"uri": "https://web.archive.org/web/20210423152543/https://www.udc.edu/causes/nursing/", "rel": "last memento", "datetime": "Fri, 23 Apr 2021 15:25:43 GMT"}

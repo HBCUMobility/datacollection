@@ -1,0 +1,27 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/cs"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/cs"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/cs"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/cs", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/cs", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/cs"}}
+20180817123533 {"uri": "https://web.archive.org/web/20180817123533/http://www.nsu.edu:80/cs", "rel": "first memento", "datetime": "Fri, 17 Aug 2018 12:35:33 GMT"}
+20181018001956 {"uri": "https://web.archive.org/web/20181018001956/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Thu, 18 Oct 2018 00:19:56 GMT"}
+20181019202506 {"uri": "https://web.archive.org/web/20181019202506/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Fri, 19 Oct 2018 20:25:06 GMT"}
+20181220064024 {"uri": "https://web.archive.org/web/20181220064024/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Thu, 20 Dec 2018 06:40:24 GMT"}
+20190219085232 {"uri": "https://web.archive.org/web/20190219085232/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Tue, 19 Feb 2019 08:52:32 GMT"}
+20190421081840 {"uri": "https://web.archive.org/web/20190421081840/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Sun, 21 Apr 2019 08:18:40 GMT"}
+20190621053039 {"uri": "https://web.archive.org/web/20190621053039/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Fri, 21 Jun 2019 05:30:39 GMT"}
+20190821042339 {"uri": "https://web.archive.org/web/20190821042339/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Wed, 21 Aug 2019 04:23:39 GMT"}
+20191005074259 {"uri": "https://web.archive.org/web/20191005074259/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Sat, 05 Oct 2019 07:42:59 GMT"}
+20191204162048 {"uri": "https://web.archive.org/web/20191204162048/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Wed, 04 Dec 2019 16:20:48 GMT"}
+20200202230604 {"uri": "https://web.archive.org/web/20200202230604/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Sun, 02 Feb 2020 23:06:04 GMT"}
+20200505200427 {"uri": "https://web.archive.org/web/20200505200427/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Tue, 05 May 2020 20:04:27 GMT"}
+20200705001327 {"uri": "https://web.archive.org/web/20200705001327/http://www.nsu.edu:80/cs", "rel": "memento", "datetime": "Sun, 05 Jul 2020 00:13:27 GMT"}
+20200807114205 {"uri": "https://web.archive.org/web/20200807114205/https://www.nsu.edu/cs", "rel": "memento", "datetime": "Fri, 07 Aug 2020 11:42:05 GMT"}
+20200815173020 {"uri": "https://web.archive.org/web/20200815173020/http://www.nsu.edu/cs", "rel": "memento", "datetime": "Sat, 15 Aug 2020 17:30:20 GMT"}
+20201025025627 {"uri": "https://web.archive.org/web/20201025025627/http://www.nsu.edu/cs", "rel": "memento", "datetime": "Sun, 25 Oct 2020 02:56:27 GMT"}
+20201025102654 {"uri": "https://web.archive.org/web/20201025102654/https://www.nsu.edu/cs", "rel": "memento", "datetime": "Sun, 25 Oct 2020 10:26:54 GMT"}
+20210123131608 {"uri": "https://web.archive.org/web/20210123131608/https://www.nsu.edu/cs", "rel": "memento", "datetime": "Sat, 23 Jan 2021 13:16:08 GMT"}
+20210123150929 {"uri": "https://web.archive.org/web/20210123150929/http://www.nsu.edu/cs", "rel": "memento", "datetime": "Sat, 23 Jan 2021 15:09:29 GMT"}
+20210415070314 {"uri": "https://web.archive.org/web/20210415070314/https://www.nsu.edu/cs", "rel": "memento", "datetime": "Thu, 15 Apr 2021 07:03:14 GMT"}
+20210421082540 {"uri": "https://web.archive.org/web/20210421082540/http://www.nsu.edu/cs", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 08:25:40 GMT"}

@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science"}}
+20200813001259 {"uri": "https://web.archive.org/web/20200813001259/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:12:59 GMT"}
+20201029052552 {"uri": "https://web.archive.org/web/20201029052552/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:25:52 GMT"}
+20210125044429 {"uri": "https://web.archive.org/web/20210125044429/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:44:29 GMT"}
+20210410144417 {"uri": "https://web.archive.org/web/20210410144417/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:44:17 GMT"}
+20210420141617 {"uri": "https://web.archive.org/web/20210420141617/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science", "rel": "memento", "datetime": "Tue, 20 Apr 2021 14:16:17 GMT"}
+20211211215329 {"uri": "https://web.archive.org/web/20211211215329/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-construction-science", "rel": "last memento", "datetime": "Sat, 11 Dec 2021 21:53:29 GMT"}

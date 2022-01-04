@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/biological-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://cast.desu.edu/departments/biological-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://cast.desu.edu/departments/biological-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://cast.desu.edu/departments/biological-sciences", "json_format": "http://localhost:1208/timemap/json/https://cast.desu.edu/departments/biological-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/biological-sciences"}}
+20200920235945 {"uri": "https://web.archive.org/web/20200920235945/https://cast.desu.edu/departments/biological-sciences", "rel": "first memento", "datetime": "Sun, 20 Sep 2020 23:59:45 GMT"}
+20201202162823 {"uri": "https://web.archive.org/web/20201202162823/https://cast.desu.edu/departments/biological-sciences", "rel": "memento", "datetime": "Wed, 02 Dec 2020 16:28:23 GMT"}
+20210306045102 {"uri": "https://web.archive.org/web/20210306045102/https://cast.desu.edu/departments/biological-sciences", "rel": "memento", "datetime": "Sat, 06 Mar 2021 04:51:02 GMT"}
+20210414173007 {"uri": "https://web.archive.org/web/20210414173007/https://cast.desu.edu/departments/biological-sciences", "rel": "memento", "datetime": "Wed, 14 Apr 2021 17:30:07 GMT"}
+20210416170845 {"uri": "https://web.archive.org/web/20210416170845/https://cast.desu.edu/departments/biological-sciences", "rel": "memento", "datetime": "Fri, 16 Apr 2021 17:08:45 GMT"}
+20210510042935 {"uri": "https://web.archive.org/web/20210510042935/https://cast.desu.edu/departments/biological-sciences", "rel": "last memento", "datetime": "Mon, 10 May 2021 04:29:35 GMT"}

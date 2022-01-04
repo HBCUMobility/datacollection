@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/coba/programs/fin-tech.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/coba/programs/fin-tech.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/coba/programs/fin-tech.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/coba/programs/fin-tech.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/coba/programs/fin-tech.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/coba/programs/fin-tech.shtml"}}
+20210410085053 {"uri": "https://web.archive.org/web/20210410085053/https://www.savannahstate.edu/coba/programs/fin-tech.shtml", "rel": "first memento", "datetime": "Sat, 10 Apr 2021 08:50:53 GMT"}
+20210412021657 {"uri": "https://web.archive.org/web/20210412021657/https://www.savannahstate.edu/coba/programs/fin-tech.shtml", "rel": "memento", "datetime": "Mon, 12 Apr 2021 02:16:57 GMT"}
+20210429153253 {"uri": "https://web.archive.org/web/20210429153253/https://www.savannahstate.edu/coba/programs/fin-tech.shtml", "rel": "memento", "datetime": "Thu, 29 Apr 2021 15:32:53 GMT"}
+20210531173102 {"uri": "https://web.archive.org/web/20210531173102/https://www.savannahstate.edu/coba/programs/fin-tech.shtml", "rel": "last memento", "datetime": "Mon, 31 May 2021 17:31:02 GMT"}

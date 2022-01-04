@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cstem/physical-sciences/department-physical-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cstem/physical-sciences/department-physical-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cstem/physical-sciences/department-physical-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cstem/physical-sciences/department-physical-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cstem/physical-sciences/department-physical-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cstem/physical-sciences/department-physical-sciences"}}
+20181112185500 {"uri": "https://web.archive.org/web/20181112185500/http://www.alasu.edu:80/cstem/physical-sciences/department-physical-sciences", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 18:55:00 GMT"}
+20200518093124 {"uri": "https://web.archive.org/web/20200518093124/https://www.alasu.edu/cstem/physical-sciences/department-physical-sciences", "rel": "memento", "datetime": "Mon, 18 May 2020 09:31:24 GMT"}
+20210417052203 {"uri": "https://web.archive.org/web/20210417052203/https://www.alasu.edu/cstem/physical-sciences/department-physical-sciences", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 05:22:03 GMT"}

@@ -1,0 +1,91 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://cs.tsu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://cs.tsu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://cs.tsu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://cs.tsu.edu/", "json_format": "http://localhost:1208/timemap/json/http://cs.tsu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://cs.tsu.edu/"}}
+20130403200443 {"uri": "https://web.archive.org/web/20130403200443/http://cs.tsu.edu", "rel": "first memento", "datetime": "Wed, 03 Apr 2013 20:04:43 GMT"}
+20130718114329 {"uri": "https://web.archive.org/web/20130718114329/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 18 Jul 2013 11:43:29 GMT"}
+20131106165018 {"uri": "https://web.archive.org/web/20131106165018/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 06 Nov 2013 16:50:18 GMT"}
+20140610072847 {"uri": "https://web.archive.org/web/20140610072847/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 10 Jun 2014 07:28:47 GMT"}
+20140805192628 {"uri": "https://web.archive.org/web/20140805192628/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 05 Aug 2014 19:26:28 GMT"}
+20150101033028 {"uri": "https://web.archive.org/web/20150101033028/http://cs.tsu.edu:80/?", "rel": "memento", "datetime": "Thu, 01 Jan 2015 03:30:28 GMT"}
+20150101104438 {"uri": "https://web.archive.org/web/20150101104438/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 01 Jan 2015 10:44:38 GMT"}
+20150219234518 {"uri": "https://web.archive.org/web/20150219234518/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 19 Feb 2015 23:45:18 GMT"}
+20150221080824 {"uri": "https://web.archive.org/web/20150221080824/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 21 Feb 2015 08:08:24 GMT"}
+20150324051615 {"uri": "https://web.archive.org/web/20150324051615/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 24 Mar 2015 05:16:15 GMT"}
+20150424043531 {"uri": "https://web.archive.org/web/20150424043531/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 24 Apr 2015 04:35:31 GMT"}
+20150904051333 {"uri": "https://web.archive.org/web/20150904051333/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 04 Sep 2015 05:13:33 GMT"}
+20150907032037 {"uri": "https://web.archive.org/web/20150907032037/http://cs.tsu.edu/", "rel": "memento", "datetime": "Mon, 07 Sep 2015 03:20:37 GMT"}
+20151005163446 {"uri": "https://web.archive.org/web/20151005163446/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 05 Oct 2015 16:34:46 GMT"}
+20151105051747 {"uri": "https://web.archive.org/web/20151105051747/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 05 Nov 2015 05:17:47 GMT"}
+20151206125148 {"uri": "https://web.archive.org/web/20151206125148/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 06 Dec 2015 12:51:48 GMT"}
+20160106203611 {"uri": "https://web.archive.org/web/20160106203611/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 06 Jan 2016 20:36:11 GMT"}
+20160207003857 {"uri": "https://web.archive.org/web/20160207003857/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 07 Feb 2016 00:38:57 GMT"}
+20160308210721 {"uri": "https://web.archive.org/web/20160308210721/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 08 Mar 2016 21:07:21 GMT"}
+20160331033000 {"uri": "https://web.archive.org/web/20160331033000/http://cs.tsu.edu/", "rel": "memento", "datetime": "Thu, 31 Mar 2016 03:30:00 GMT"}
+20160408193816 {"uri": "https://web.archive.org/web/20160408193816/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 08 Apr 2016 19:38:16 GMT"}
+20160510103245 {"uri": "https://web.archive.org/web/20160510103245/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 10 May 2016 10:32:45 GMT"}
+20160610090540 {"uri": "https://web.archive.org/web/20160610090540/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 10 Jun 2016 09:05:40 GMT"}
+20160611173322 {"uri": "https://web.archive.org/web/20160611173322/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 11 Jun 2016 17:33:22 GMT"}
+20160712143736 {"uri": "https://web.archive.org/web/20160712143736/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 12 Jul 2016 14:37:36 GMT"}
+20160809195044 {"uri": "https://web.archive.org/web/20160809195044/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 09 Aug 2016 19:50:44 GMT"}
+20160911233318 {"uri": "https://web.archive.org/web/20160911233318/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 11 Sep 2016 23:33:18 GMT"}
+20161013113648 {"uri": "https://web.archive.org/web/20161013113648/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 13 Oct 2016 11:36:48 GMT"}
+20161113121429 {"uri": "https://web.archive.org/web/20161113121429/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 13 Nov 2016 12:14:29 GMT"}
+20161215022642 {"uri": "https://web.archive.org/web/20161215022642/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 15 Dec 2016 02:26:42 GMT"}
+20170422061945 {"uri": "https://web.archive.org/web/20170422061945/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 22 Apr 2017 06:19:45 GMT"}
+20170526234647 {"uri": "https://web.archive.org/web/20170526234647/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 26 May 2017 23:46:47 GMT"}
+20170619115526 {"uri": "https://web.archive.org/web/20170619115526/http://cs.tsu.edu/", "rel": "memento", "datetime": "Mon, 19 Jun 2017 11:55:26 GMT"}
+20170626223217 {"uri": "https://web.archive.org/web/20170626223217/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 26 Jun 2017 22:32:17 GMT"}
+20170728020803 {"uri": "https://web.archive.org/web/20170728020803/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 28 Jul 2017 02:08:03 GMT"}
+20170828154641 {"uri": "https://web.archive.org/web/20170828154641/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 28 Aug 2017 15:46:41 GMT"}
+20170929055459 {"uri": "https://web.archive.org/web/20170929055459/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 29 Sep 2017 05:54:59 GMT"}
+20171030222612 {"uri": "https://web.archive.org/web/20171030222612/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 30 Oct 2017 22:26:12 GMT"}
+20171201141640 {"uri": "https://web.archive.org/web/20171201141640/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 01 Dec 2017 14:16:40 GMT"}
+20180101090825 {"uri": "https://web.archive.org/web/20180101090825/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 01 Jan 2018 09:08:25 GMT"}
+20180207095257 {"uri": "https://web.archive.org/web/20180207095257/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 07 Feb 2018 09:52:57 GMT"}
+20180311234109 {"uri": "https://web.archive.org/web/20180311234109/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 11 Mar 2018 23:41:09 GMT"}
+20180313013641 {"uri": "https://web.archive.org/web/20180313013641/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 13 Mar 2018 01:36:41 GMT"}
+20180321013251 {"uri": "https://web.archive.org/web/20180321013251/http://cs.tsu.edu/", "rel": "memento", "datetime": "Wed, 21 Mar 2018 01:32:51 GMT"}
+20180412204651 {"uri": "https://web.archive.org/web/20180412204651/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 12 Apr 2018 20:46:51 GMT"}
+20180425055440 {"uri": "https://web.archive.org/web/20180425055440/http://cs.tsu.edu", "rel": "memento", "datetime": "Wed, 25 Apr 2018 05:54:40 GMT"}
+20180515203738 {"uri": "https://web.archive.org/web/20180515203738/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 15 May 2018 20:37:38 GMT"}
+20180616141353 {"uri": "https://web.archive.org/web/20180616141353/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 16 Jun 2018 14:13:53 GMT"}
+20180617212547 {"uri": "https://web.archive.org/web/20180617212547/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 17 Jun 2018 21:25:47 GMT"}
+20180720004315 {"uri": "https://web.archive.org/web/20180720004315/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 20 Jul 2018 00:43:15 GMT"}
+20180819185359 {"uri": "https://web.archive.org/web/20180819185359/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 19 Aug 2018 18:53:59 GMT"}
+20180920011314 {"uri": "https://web.archive.org/web/20180920011314/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 20 Sep 2018 01:13:14 GMT"}
+20181019214745 {"uri": "https://web.archive.org/web/20181019214745/http://cs.tsu.edu/", "rel": "memento", "datetime": "Fri, 19 Oct 2018 21:47:45 GMT"}
+20181021090051 {"uri": "https://web.archive.org/web/20181021090051/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 21 Oct 2018 09:00:51 GMT"}
+20181122140148 {"uri": "https://web.archive.org/web/20181122140148/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 22 Nov 2018 14:01:48 GMT"}
+20181227033222 {"uri": "https://web.archive.org/web/20181227033222/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 27 Dec 2018 03:32:22 GMT"}
+20190101142324 {"uri": "https://web.archive.org/web/20190101142324/http://cs.tsu.edu/", "rel": "memento", "datetime": "Tue, 01 Jan 2019 14:23:24 GMT"}
+20190118044940 {"uri": "https://web.archive.org/web/20190118044940/http://cs.tsu.edu/", "rel": "memento", "datetime": "Fri, 18 Jan 2019 04:49:40 GMT"}
+20190127105953 {"uri": "https://web.archive.org/web/20190127105953/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 27 Jan 2019 10:59:53 GMT"}
+20190227224447 {"uri": "https://web.archive.org/web/20190227224447/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 27 Feb 2019 22:44:47 GMT"}
+20190330232946 {"uri": "https://web.archive.org/web/20190330232946/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 30 Mar 2019 23:29:46 GMT"}
+20190401024925 {"uri": "https://web.archive.org/web/20190401024925/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 01 Apr 2019 02:49:25 GMT"}
+20190502170746 {"uri": "https://web.archive.org/web/20190502170746/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 02 May 2019 17:07:46 GMT"}
+20190604220458 {"uri": "https://web.archive.org/web/20190604220458/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 04 Jun 2019 22:04:58 GMT"}
+20190605220849 {"uri": "https://web.archive.org/web/20190605220849/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 05 Jun 2019 22:08:49 GMT"}
+20190707141206 {"uri": "https://web.archive.org/web/20190707141206/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 07 Jul 2019 14:12:06 GMT"}
+20190708120634 {"uri": "https://web.archive.org/web/20190708120634/http://cs.tsu.edu/", "rel": "memento", "datetime": "Mon, 08 Jul 2019 12:06:34 GMT"}
+20190807213608 {"uri": "https://web.archive.org/web/20190807213608/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 07 Aug 2019 21:36:08 GMT"}
+20190813075134 {"uri": "https://web.archive.org/web/20190813075134/http://cs.tsu.edu/", "rel": "memento", "datetime": "Tue, 13 Aug 2019 07:51:34 GMT"}
+20190907204526 {"uri": "https://web.archive.org/web/20190907204526/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 07 Sep 2019 20:45:26 GMT"}
+20191022032752 {"uri": "https://web.archive.org/web/20191022032752/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 22 Oct 2019 03:27:52 GMT"}
+20191221065258 {"uri": "https://web.archive.org/web/20191221065258/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 21 Dec 2019 06:52:58 GMT"}
+20200219102128 {"uri": "https://web.archive.org/web/20200219102128/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 19 Feb 2020 10:21:28 GMT"}
+20200406014013 {"uri": "https://web.archive.org/web/20200406014013/http://cs.tsu.edu/", "rel": "memento", "datetime": "Mon, 06 Apr 2020 01:40:13 GMT"}
+20200430132044 {"uri": "https://web.archive.org/web/20200430132044/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 30 Apr 2020 13:20:44 GMT"}
+20200629183634 {"uri": "https://web.archive.org/web/20200629183634/http://cs.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 29 Jun 2020 18:36:34 GMT"}
+20200811150603 {"uri": "https://web.archive.org/web/20200811150603/http://cs.tsu.edu/", "rel": "memento", "datetime": "Tue, 11 Aug 2020 15:06:03 GMT"}
+20200921050835 {"uri": "https://web.archive.org/web/20200921050835/http://cs.tsu.edu/", "rel": "memento", "datetime": "Mon, 21 Sep 2020 05:08:35 GMT"}
+20201029065835 {"uri": "https://web.archive.org/web/20201029065835/http://cs.tsu.edu/", "rel": "memento", "datetime": "Thu, 29 Oct 2020 06:58:35 GMT"}
+20201202052529 {"uri": "https://web.archive.org/web/20201202052529/http://cs.tsu.edu/", "rel": "memento", "datetime": "Wed, 02 Dec 2020 05:25:29 GMT"}
+20210411030139 {"uri": "https://web.archive.org/web/20210411030139/http://cs.tsu.edu/", "rel": "memento", "datetime": "Sun, 11 Apr 2021 03:01:39 GMT"}
+20210413211705 {"uri": "https://web.archive.org/web/20210413211705/http://cs.tsu.edu/", "rel": "memento", "datetime": "Tue, 13 Apr 2021 21:17:05 GMT"}
+20210508091608 {"uri": "https://web.archive.org/web/20210508091608/http://cs.tsu.edu/", "rel": "memento", "datetime": "Sat, 08 May 2021 09:16:08 GMT"}
+20210528090604 {"uri": "https://web.archive.org/web/20210528090604/http://cs.tsu.edu/", "rel": "memento", "datetime": "Fri, 28 May 2021 09:06:04 GMT"}
+20210805052250 {"uri": "https://web.archive.org/web/20210805052250/http://cs.tsu.edu/", "rel": "last memento", "datetime": "Thu, 05 Aug 2021 05:22:50 GMT"}

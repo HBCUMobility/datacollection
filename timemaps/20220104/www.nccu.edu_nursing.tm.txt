@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/nursing"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/chs/nursing"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/chs/nursing"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/chs/nursing", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/chs/nursing", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/nursing"}}
+20210115214206 {"uri": "https://web.archive.org/web/20210115214206/https://www.nccu.edu/chs/nursing", "rel": "first memento", "datetime": "Fri, 15 Jan 2021 21:42:06 GMT"}
+20210116235726 {"uri": "https://web.archive.org/web/20210116235726/https://www.nccu.edu/chs/nursing", "rel": "memento", "datetime": "Sat, 16 Jan 2021 23:57:26 GMT"}
+20210304132816 {"uri": "https://web.archive.org/web/20210304132816/https://www.nccu.edu/chs/nursing", "rel": "memento", "datetime": "Thu, 04 Mar 2021 13:28:16 GMT"}
+20210508220202 {"uri": "https://web.archive.org/web/20210508220202/https://www.nccu.edu/chs/nursing", "rel": "last memento", "datetime": "Sat, 08 May 2021 22:02:02 GMT"}

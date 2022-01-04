@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/college-health-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/chs/college-health-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/chs/college-health-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/chs/college-health-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/chs/college-health-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/college-health-sciences"}}
+20181112214522 {"uri": "https://web.archive.org/web/20181112214522/http://www.alasu.edu:80/chs/college-health-sciences", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:45:22 GMT"}
+20200813000013 {"uri": "https://web.archive.org/web/20200813000013/https://www.alasu.edu/chs/college-health-sciences", "rel": "memento", "datetime": "Thu, 13 Aug 2020 00:00:13 GMT"}
+20201031013035 {"uri": "https://web.archive.org/web/20201031013035/https://www.alasu.edu/chs/college-health-sciences", "rel": "memento", "datetime": "Sat, 31 Oct 2020 01:30:35 GMT"}
+20210228131803 {"uri": "https://web.archive.org/web/20210228131803/https://www.alasu.edu/chs/college-health-sciences", "rel": "memento", "datetime": "Sun, 28 Feb 2021 13:18:03 GMT"}
+20210417032753 {"uri": "https://web.archive.org/web/20210417032753/https://www.alasu.edu/chs/college-health-sciences", "rel": "memento", "datetime": "Sat, 17 Apr 2021 03:27:53 GMT"}
+20210506064933 {"uri": "https://web.archive.org/web/20210506064933/https://www.alasu.edu/chs/college-health-sciences", "rel": "last memento", "datetime": "Thu, 06 May 2021 06:49:33 GMT"}

@@ -1,0 +1,51 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.fvsu.edu/military-science-rotc"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.fvsu.edu/military-science-rotc"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.fvsu.edu/military-science-rotc"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.fvsu.edu/military-science-rotc", "json_format": "http://localhost:1208/timemap/json/https://www.fvsu.edu/military-science-rotc", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.fvsu.edu/military-science-rotc"}}
+20171020074833 {"uri": "https://web.archive.org/web/20171020074833/http://www.fvsu.edu:80/military-science-rotc", "rel": "first memento", "datetime": "Fri, 20 Oct 2017 07:48:33 GMT"}
+20171220151935 {"uri": "https://web.archive.org/web/20171220151935/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Wed, 20 Dec 2017 15:19:35 GMT"}
+20180219081743 {"uri": "https://web.archive.org/web/20180219081743/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 19 Feb 2018 08:17:43 GMT"}
+20180421050851 {"uri": "https://web.archive.org/web/20180421050851/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Sat, 21 Apr 2018 05:08:51 GMT"}
+20180510224944 {"uri": "https://web.archive.org/web/20180510224944/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Thu, 10 May 2018 22:49:44 GMT"}
+20180611082827 {"uri": "https://web.archive.org/web/20180611082827/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 11 Jun 2018 08:28:27 GMT"}
+20180712142343 {"uri": "https://web.archive.org/web/20180712142343/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Thu, 12 Jul 2018 14:23:43 GMT"}
+20180714000631 {"uri": "https://web.archive.org/web/20180714000631/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Sat, 14 Jul 2018 00:06:31 GMT"}
+20180813234155 {"uri": "https://web.archive.org/web/20180813234155/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 13 Aug 2018 23:41:55 GMT"}
+20180914072107 {"uri": "https://web.archive.org/web/20180914072107/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Fri, 14 Sep 2018 07:21:07 GMT"}
+20181015194507 {"uri": "https://web.archive.org/web/20181015194507/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 15 Oct 2018 19:45:07 GMT"}
+20181116061153 {"uri": "https://web.archive.org/web/20181116061153/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Fri, 16 Nov 2018 06:11:53 GMT"}
+20181217062733 {"uri": "https://web.archive.org/web/20181217062733/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 17 Dec 2018 06:27:33 GMT"}
+20190117065211 {"uri": "https://web.archive.org/web/20190117065211/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Thu, 17 Jan 2019 06:52:11 GMT"}
+20190218044341 {"uri": "https://web.archive.org/web/20190218044341/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 18 Feb 2019 04:43:41 GMT"}
+20190321123343 {"uri": "https://web.archive.org/web/20190321123343/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Thu, 21 Mar 2019 12:33:43 GMT"}
+20190405101323 {"uri": "https://web.archive.org/web/20190405101323/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Fri, 05 Apr 2019 10:13:23 GMT"}
+20190422010623 {"uri": "https://web.archive.org/web/20190422010623/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 22 Apr 2019 01:06:23 GMT"}
+20190519221435 {"uri": "https://web.archive.org/web/20190519221435/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Sun, 19 May 2019 22:14:35 GMT"}
+20190524211019 {"uri": "https://web.archive.org/web/20190524211019/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Fri, 24 May 2019 21:10:19 GMT"}
+20190529185138 {"uri": "https://web.archive.org/web/20190529185138/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Wed, 29 May 2019 18:51:38 GMT"}
+20190624200434 {"uri": "https://web.archive.org/web/20190624200434/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 24 Jun 2019 20:04:34 GMT"}
+20190727104554 {"uri": "https://web.archive.org/web/20190727104554/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Sat, 27 Jul 2019 10:45:54 GMT"}
+20190828141810 {"uri": "https://web.archive.org/web/20190828141810/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Wed, 28 Aug 2019 14:18:10 GMT"}
+20190907050236 {"uri": "https://web.archive.org/web/20190907050236/http://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Sat, 07 Sep 2019 05:02:36 GMT"}
+20190930044247 {"uri": "https://web.archive.org/web/20190930044247/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 30 Sep 2019 04:42:47 GMT"}
+20191026180108 {"uri": "https://web.archive.org/web/20191026180108/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Sat, 26 Oct 2019 18:01:08 GMT"}
+20191126051950 {"uri": "https://web.archive.org/web/20191126051950/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Tue, 26 Nov 2019 05:19:50 GMT"}
+20191226100648 {"uri": "https://web.archive.org/web/20191226100648/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Thu, 26 Dec 2019 10:06:48 GMT"}
+20200125175543 {"uri": "https://web.archive.org/web/20200125175543/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Sat, 25 Jan 2020 17:55:43 GMT"}
+20200224215349 {"uri": "https://web.archive.org/web/20200224215349/http://www.fvsu.edu:80/military-science-rotc", "rel": "memento", "datetime": "Mon, 24 Feb 2020 21:53:49 GMT"}
+20200412131228 {"uri": "https://web.archive.org/web/20200412131228/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Sun, 12 Apr 2020 13:12:28 GMT"}
+20200602090120 {"uri": "https://web.archive.org/web/20200602090120/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Tue, 02 Jun 2020 09:01:20 GMT"}
+20200815191749 {"uri": "https://web.archive.org/web/20200815191749/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Sat, 15 Aug 2020 19:17:49 GMT"}
+20201031222057 {"uri": "https://web.archive.org/web/20201031222057/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Sat, 31 Oct 2020 22:20:57 GMT"}
+20210126045450 {"uri": "https://web.archive.org/web/20210126045450/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Tue, 26 Jan 2021 04:54:50 GMT"}
+20210127133038 {"uri": "https://web.archive.org/web/20210127133038/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Wed, 27 Jan 2021 13:30:38 GMT"}
+20210228150959 {"uri": "https://web.archive.org/web/20210228150959/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Sun, 28 Feb 2021 15:09:59 GMT"}
+20210414045727 {"uri": "https://web.archive.org/web/20210414045727/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Wed, 14 Apr 2021 04:57:27 GMT"}
+20210416220814 {"uri": "https://web.archive.org/web/20210416220814/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Fri, 16 Apr 2021 22:08:14 GMT"}
+20210417192008 {"uri": "https://web.archive.org/web/20210417192008/https://www.fvsu.edu/military-science-rotc/", "rel": "memento", "datetime": "Sat, 17 Apr 2021 19:20:08 GMT"}
+20210907211900 {"uri": "https://web.archive.org/web/20210907211900/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Tue, 07 Sep 2021 21:19:00 GMT"}
+20210907221441 {"uri": "https://web.archive.org/web/20210907221441/https://www.fvsu.edu/military-science-rotc/", "rel": "memento", "datetime": "Tue, 07 Sep 2021 22:14:41 GMT"}
+20211101061449 {"uri": "https://web.archive.org/web/20211101061449/https://www.fvsu.edu/military-science-rotc", "rel": "memento", "datetime": "Mon, 01 Nov 2021 06:14:49 GMT"}
+20211106184835 {"uri": "https://web.archive.org/web/20211106184835/https://www.fvsu.edu/military-science-rotc/", "rel": "last memento", "datetime": "Sat, 06 Nov 2021 18:48:35 GMT"}

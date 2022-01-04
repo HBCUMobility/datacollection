@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/criminal-justice-graduate-program"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/criminal-justice-graduate-program"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/criminal-justice-graduate-program"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/criminal-justice-graduate-program", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/criminal-justice-graduate-program", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/criminal-justice-graduate-program"}}
+20181207123604 {"uri": "https://web.archive.org/web/20181207123604/http://www.suno.edu:80/page/criminal-justice-graduate-program", "rel": "first memento", "datetime": "Fri, 07 Dec 2018 12:36:04 GMT"}
+20190717120655 {"uri": "https://web.archive.org/web/20190717120655/http://www.suno.edu:80/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Wed, 17 Jul 2019 12:06:55 GMT"}
+20190816044526 {"uri": "https://web.archive.org/web/20190816044526/http://www.suno.edu/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Fri, 16 Aug 2019 04:45:26 GMT"}
+20191004064928 {"uri": "https://web.archive.org/web/20191004064928/http://www.suno.edu:80/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Fri, 04 Oct 2019 06:49:28 GMT"}
+20191203100729 {"uri": "https://web.archive.org/web/20191203100729/http://www.suno.edu:80/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Tue, 03 Dec 2019 10:07:29 GMT"}
+20200201130516 {"uri": "https://web.archive.org/web/20200201130516/http://www.suno.edu:80/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Sat, 01 Feb 2020 13:05:16 GMT"}
+20200606111732 {"uri": "https://web.archive.org/web/20200606111732/http://www.suno.edu/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Sat, 06 Jun 2020 11:17:32 GMT"}
+20200623003835 {"uri": "https://web.archive.org/web/20200623003835/http://www.suno.edu/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Tue, 23 Jun 2020 00:38:35 GMT"}
+20200706122545 {"uri": "https://web.archive.org/web/20200706122545/http://www.suno.edu:80/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Mon, 06 Jul 2020 12:25:45 GMT"}
+20201005081648 {"uri": "https://web.archive.org/web/20201005081648/http://www.suno.edu/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Mon, 05 Oct 2020 08:16:48 GMT"}
+20201127044615 {"uri": "https://web.archive.org/web/20201127044615/http://www.suno.edu/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Fri, 27 Nov 2020 04:46:15 GMT"}
+20210120141348 {"uri": "https://web.archive.org/web/20210120141348/https://www.suno.edu/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Wed, 20 Jan 2021 14:13:48 GMT"}
+20210410150502 {"uri": "https://web.archive.org/web/20210410150502/http://www.suno.edu/page/criminal-justice-graduate-program", "rel": "memento", "datetime": "Sat, 10 Apr 2021 15:05:02 GMT"}
+20210916112021 {"uri": "https://web.archive.org/web/20210916112021/http://www.suno.edu/page/criminal-justice-graduate-program", "rel": "last memento", "datetime": "Thu, 16 Sep 2021 11:20:21 GMT"}

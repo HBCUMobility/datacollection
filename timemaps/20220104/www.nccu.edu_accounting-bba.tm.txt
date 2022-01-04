@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/accounting-bba"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/academics/undergraduate-programs/accounting-bba"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/academics/undergraduate-programs/accounting-bba"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/academics/undergraduate-programs/accounting-bba", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/academics/undergraduate-programs/accounting-bba", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/accounting-bba"}}
+20200109005527 {"uri": "https://web.archive.org/web/20200109005527/http://www.nccu.edu:80/academics/undergraduate-programs/accounting-bba", "rel": "first memento", "datetime": "Thu, 09 Jan 2020 00:55:27 GMT"}
+20200810023409 {"uri": "https://web.archive.org/web/20200810023409/https://www.nccu.edu/academics/undergraduate-programs/accounting-bba", "rel": "memento", "datetime": "Mon, 10 Aug 2020 02:34:09 GMT"}
+20210115212432 {"uri": "https://web.archive.org/web/20210115212432/https://www.nccu.edu/academics/undergraduate-programs/accounting-bba", "rel": "last memento", "datetime": "Fri, 15 Jan 2021 21:24:32 GMT"}

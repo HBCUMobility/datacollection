@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://ag.fvsu.edu/departments/graduate-studies"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://ag.fvsu.edu/departments/graduate-studies"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://ag.fvsu.edu/departments/graduate-studies"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://ag.fvsu.edu/departments/graduate-studies", "json_format": "http://localhost:1208/timemap/json/https://ag.fvsu.edu/departments/graduate-studies", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ag.fvsu.edu/departments/graduate-studies"}}
+20200925210027 {"uri": "https://web.archive.org/web/20200925210027/https://ag.fvsu.edu/departments/graduate-studies", "rel": "first memento", "datetime": "Fri, 25 Sep 2020 21:00:27 GMT"}
+20210125212341 {"uri": "https://web.archive.org/web/20210125212341/https://ag.fvsu.edu/departments/graduate-studies", "rel": "last memento", "datetime": "Mon, 25 Jan 2021 21:23:41 GMT"}

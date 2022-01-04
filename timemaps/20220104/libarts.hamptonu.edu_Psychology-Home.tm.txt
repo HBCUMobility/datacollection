@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Psychology-Home"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://libarts.hamptonu.edu/page/Psychology-Home"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://libarts.hamptonu.edu/page/Psychology-Home"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://libarts.hamptonu.edu/page/Psychology-Home", "json_format": "http://localhost:1208/timemap/json/http://libarts.hamptonu.edu/page/Psychology-Home", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Psychology-Home"}}
+20190329175632 {"uri": "https://web.archive.org/web/20190329175632/http://libarts.hamptonu.edu:80/page/Psychology-Home", "rel": "first memento", "datetime": "Fri, 29 Mar 2019 17:56:32 GMT"}
+20191022110102 {"uri": "https://web.archive.org/web/20191022110102/http://libarts.hamptonu.edu:80/page/Psychology-Home", "rel": "memento", "datetime": "Tue, 22 Oct 2019 11:01:02 GMT"}
+20191222005709 {"uri": "https://web.archive.org/web/20191222005709/http://libarts.hamptonu.edu:80/page/Psychology-Home", "rel": "memento", "datetime": "Sun, 22 Dec 2019 00:57:09 GMT"}
+20200220055501 {"uri": "https://web.archive.org/web/20200220055501/http://libarts.hamptonu.edu:80/page/Psychology-Home", "rel": "memento", "datetime": "Thu, 20 Feb 2020 05:55:01 GMT"}
+20200704102644 {"uri": "https://web.archive.org/web/20200704102644/http://libarts.hamptonu.edu:80/page/Psychology-Home", "rel": "memento", "datetime": "Sat, 04 Jul 2020 10:26:44 GMT"}
+20201101093835 {"uri": "https://web.archive.org/web/20201101093835/http://libarts.hamptonu.edu/page/Psychology-Home", "rel": "memento", "datetime": "Sun, 01 Nov 2020 09:38:35 GMT"}
+20210510085839 {"uri": "https://web.archive.org/web/20210510085839/http://libarts.hamptonu.edu/page/Psychology-Home", "rel": "last memento", "datetime": "Mon, 10 May 2021 08:58:39 GMT"}

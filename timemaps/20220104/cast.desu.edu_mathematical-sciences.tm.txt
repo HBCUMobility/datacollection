@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/mathematical-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://cast.desu.edu/departments/mathematical-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://cast.desu.edu/departments/mathematical-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://cast.desu.edu/departments/mathematical-sciences", "json_format": "http://localhost:1208/timemap/json/https://cast.desu.edu/departments/mathematical-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/mathematical-sciences"}}
+20181126180028 {"uri": "https://web.archive.org/web/20181126180028/https://cast.desu.edu/departments/mathematical-sciences", "rel": "first memento", "datetime": "Mon, 26 Nov 2018 18:00:28 GMT"}
+20200809001309 {"uri": "https://web.archive.org/web/20200809001309/https://cast.desu.edu/departments/mathematical-sciences", "rel": "memento", "datetime": "Sun, 09 Aug 2020 00:13:09 GMT"}
+20201020180839 {"uri": "https://web.archive.org/web/20201020180839/https://cast.desu.edu/departments/mathematical-sciences", "rel": "memento", "datetime": "Tue, 20 Oct 2020 18:08:39 GMT"}
+20201024212256 {"uri": "https://web.archive.org/web/20201024212256/https://cast.desu.edu/departments/mathematical-sciences", "rel": "memento", "datetime": "Sat, 24 Oct 2020 21:22:56 GMT"}
+20210118145552 {"uri": "https://web.archive.org/web/20210118145552/https://cast.desu.edu/departments/mathematical-sciences", "rel": "memento", "datetime": "Mon, 18 Jan 2021 14:55:52 GMT"}
+20210420015726 {"uri": "https://web.archive.org/web/20210420015726/https://cast.desu.edu/departments/mathematical-sciences", "rel": "memento", "datetime": "Tue, 20 Apr 2021 01:57:26 GMT"}
+20210420020751 {"uri": "https://web.archive.org/web/20210420020751/http://cast.desu.edu/departments/mathematical-sciences", "rel": "memento", "datetime": "Tue, 20 Apr 2021 02:07:51 GMT"}
+20210514163205 {"uri": "https://web.archive.org/web/20210514163205/https://cast.desu.edu/departments/mathematical-sciences", "rel": "last memento", "datetime": "Fri, 14 May 2021 16:32:05 GMT"}

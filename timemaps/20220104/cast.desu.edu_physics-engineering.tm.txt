@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/physics-engineering"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://cast.desu.edu/departments/physics-engineering"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://cast.desu.edu/departments/physics-engineering"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://cast.desu.edu/departments/physics-engineering", "json_format": "http://localhost:1208/timemap/json/https://cast.desu.edu/departments/physics-engineering", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/physics-engineering"}}
+20200920234620 {"uri": "https://web.archive.org/web/20200920234620/https://cast.desu.edu/departments/physics-engineering", "rel": "first memento", "datetime": "Sun, 20 Sep 2020 23:46:20 GMT"}
+20201202161442 {"uri": "https://web.archive.org/web/20201202161442/https://cast.desu.edu/departments/physics-engineering", "rel": "memento", "datetime": "Wed, 02 Dec 2020 16:14:42 GMT"}
+20210306043237 {"uri": "https://web.archive.org/web/20210306043237/https://cast.desu.edu/departments/physics-engineering", "rel": "last memento", "datetime": "Sat, 06 Mar 2021 04:32:37 GMT"}

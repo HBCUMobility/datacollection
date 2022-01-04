@@ -1,0 +1,27 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "json_format": "http://localhost:1208/timemap/json/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage"}}
+20170706072351 {"uri": "https://web.archive.org/web/20170706072351/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "first memento", "datetime": "Thu, 06 Jul 2017 07:23:51 GMT"}
+20190803231048 {"uri": "https://web.archive.org/web/20190803231048/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Sat, 03 Aug 2019 23:10:48 GMT"}
+20190929085945 {"uri": "https://web.archive.org/web/20190929085945/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Sun, 29 Sep 2019 08:59:45 GMT"}
+20200513085226 {"uri": "https://web.archive.org/web/20200513085226/https://mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Wed, 13 May 2020 08:52:26 GMT"}
+20200526054917 {"uri": "https://web.archive.org/web/20200526054917/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Tue, 26 May 2020 05:49:17 GMT"}
+20200611061445 {"uri": "https://web.archive.org/web/20200611061445/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Thu, 11 Jun 2020 06:14:45 GMT"}
+20200621170255 {"uri": "https://web.archive.org/web/20200621170255/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Sun, 21 Jun 2020 17:02:55 GMT"}
+20200819180347 {"uri": "https://web.archive.org/web/20200819180347/https://mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Wed, 19 Aug 2020 18:03:47 GMT"}
+20200902045207 {"uri": "https://web.archive.org/web/20200902045207/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Wed, 02 Sep 2020 04:52:07 GMT"}
+20200915212422 {"uri": "https://web.archive.org/web/20200915212422/https://mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Tue, 15 Sep 2020 21:24:22 GMT"}
+20200923154107 {"uri": "https://web.archive.org/web/20200923154107/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Wed, 23 Sep 2020 15:41:07 GMT"}
+20201203231257 {"uri": "https://web.archive.org/web/20201203231257/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Thu, 03 Dec 2020 23:12:57 GMT"}
+20210113074649 {"uri": "https://web.archive.org/web/20210113074649/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Wed, 13 Jan 2021 07:46:49 GMT"}
+20210224201148 {"uri": "https://web.archive.org/web/20210224201148/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Wed, 24 Feb 2021 20:11:48 GMT"}
+20210417213538 {"uri": "https://web.archive.org/web/20210417213538/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Sat, 17 Apr 2021 21:35:38 GMT"}
+20210516174933 {"uri": "https://web.archive.org/web/20210516174933/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Sun, 16 May 2021 17:49:33 GMT"}
+20210516181347 {"uri": "https://web.archive.org/web/20210516181347/https://mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Sun, 16 May 2021 18:13:47 GMT"}
+20210529082732 {"uri": "https://web.archive.org/web/20210529082732/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Sat, 29 May 2021 08:27:32 GMT"}
+20210601193136 {"uri": "https://web.archive.org/web/20210601193136/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Tue, 01 Jun 2021 19:31:36 GMT"}
+20210812020100 {"uri": "https://web.archive.org/web/20210812020100/https://mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "memento", "datetime": "Thu, 12 Aug 2021 02:01:00 GMT"}
+20210821151136 {"uri": "https://web.archive.org/web/20210821151136/https://www.mvsu.edu/academics/academic-programs/criminal-justice-homepage", "rel": "last memento", "datetime": "Sat, 21 Aug 2021 15:11:36 GMT"}

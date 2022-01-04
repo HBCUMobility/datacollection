@@ -1,0 +1,25 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/nursing"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/nursing"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/nursing"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/nursing", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/nursing", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/nursing"}}
+20200715015523 {"uri": "https://web.archive.org/web/20200715015523/https://www.morgan.edu/nursing", "rel": "first memento", "datetime": "Wed, 15 Jul 2020 01:55:23 GMT"}
+20200715023506 {"uri": "https://web.archive.org/web/20200715023506/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Wed, 15 Jul 2020 02:35:06 GMT"}
+20200715181446 {"uri": "https://web.archive.org/web/20200715181446/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Wed, 15 Jul 2020 18:14:46 GMT"}
+20200716003135 {"uri": "https://web.archive.org/web/20200716003135/http://www.morgan.edu/nursing", "rel": "memento", "datetime": "Thu, 16 Jul 2020 00:31:35 GMT"}
+20200716122326 {"uri": "https://web.archive.org/web/20200716122326/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Thu, 16 Jul 2020 12:23:26 GMT"}
+20200814073331 {"uri": "https://web.archive.org/web/20200814073331/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Fri, 14 Aug 2020 07:33:31 GMT"}
+20201001062848 {"uri": "https://web.archive.org/web/20201001062848/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Thu, 01 Oct 2020 06:28:48 GMT"}
+20201101024340 {"uri": "https://web.archive.org/web/20201101024340/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Sun, 01 Nov 2020 02:43:40 GMT"}
+20210125111744 {"uri": "https://web.archive.org/web/20210125111744/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Mon, 25 Jan 2021 11:17:44 GMT"}
+20210414033904 {"uri": "https://web.archive.org/web/20210414033904/https://morgan.edu/nursing", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:39:04 GMT"}
+20210414140820 {"uri": "https://web.archive.org/web/20210414140820/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Wed, 14 Apr 2021 14:08:20 GMT"}
+20210415091140 {"uri": "https://web.archive.org/web/20210415091140/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Thu, 15 Apr 2021 09:11:40 GMT"}
+20210417083827 {"uri": "https://web.archive.org/web/20210417083827/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Sat, 17 Apr 2021 08:38:27 GMT"}
+20210513113311 {"uri": "https://web.archive.org/web/20210513113311/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Thu, 13 May 2021 11:33:11 GMT"}
+20210802000452 {"uri": "https://web.archive.org/web/20210802000452/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Mon, 02 Aug 2021 00:04:52 GMT"}
+20210802101642 {"uri": "https://web.archive.org/web/20210802101642/https://www.morgan.edu/nursing", "rel": "memento", "datetime": "Mon, 02 Aug 2021 10:16:42 GMT"}
+20210814140427 {"uri": "https://web.archive.org/web/20210814140427/https://morgan.edu/nursing", "rel": "memento", "datetime": "Sat, 14 Aug 2021 14:04:27 GMT"}
+20211103170725 {"uri": "https://web.archive.org/web/20211103170725/https://www2.morgan.edu/nursing", "rel": "memento", "datetime": "Wed, 03 Nov 2021 17:07:25 GMT"}
+20211106203434 {"uri": "https://web.archive.org/web/20211106203434/https://www2.morgan.edu/nursing", "rel": "last memento", "datetime": "Sat, 06 Nov 2021 20:34:34 GMT"}

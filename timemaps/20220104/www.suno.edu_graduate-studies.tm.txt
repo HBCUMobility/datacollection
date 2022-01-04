@@ -1,0 +1,27 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/graduate-studies"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/graduate-studies"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/graduate-studies"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/graduate-studies", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/graduate-studies", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/graduate-studies"}}
+20180629041730 {"uri": "https://web.archive.org/web/20180629041730/http://www.suno.edu:80/page/graduate-studies", "rel": "first memento", "datetime": "Fri, 29 Jun 2018 04:17:30 GMT"}
+20180813045654 {"uri": "https://web.archive.org/web/20180813045654/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Mon, 13 Aug 2018 04:56:54 GMT"}
+20190203200359 {"uri": "https://web.archive.org/web/20190203200359/http://www.suno.edu/page/graduate-studies", "rel": "memento", "datetime": "Sun, 03 Feb 2019 20:03:59 GMT"}
+20190717120953 {"uri": "https://web.archive.org/web/20190717120953/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Wed, 17 Jul 2019 12:09:53 GMT"}
+20190816044557 {"uri": "https://web.archive.org/web/20190816044557/http://www.suno.edu/page/graduate-studies", "rel": "memento", "datetime": "Fri, 16 Aug 2019 04:45:57 GMT"}
+20191004052906 {"uri": "https://web.archive.org/web/20191004052906/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Fri, 04 Oct 2019 05:29:06 GMT"}
+20191203093954 {"uri": "https://web.archive.org/web/20191203093954/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Tue, 03 Dec 2019 09:39:54 GMT"}
+20200201130606 {"uri": "https://web.archive.org/web/20200201130606/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Sat, 01 Feb 2020 13:06:06 GMT"}
+20200411072826 {"uri": "https://web.archive.org/web/20200411072826/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Sat, 11 Apr 2020 07:28:26 GMT"}
+20200511161832 {"uri": "https://web.archive.org/web/20200511161832/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Mon, 11 May 2020 16:18:32 GMT"}
+20200606170437 {"uri": "https://web.archive.org/web/20200606170437/http://www.suno.edu/page/graduate-studies", "rel": "memento", "datetime": "Sat, 06 Jun 2020 17:04:37 GMT"}
+20200610202723 {"uri": "https://web.archive.org/web/20200610202723/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Wed, 10 Jun 2020 20:27:23 GMT"}
+20200711005939 {"uri": "https://web.archive.org/web/20200711005939/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Sat, 11 Jul 2020 00:59:39 GMT"}
+20200810023340 {"uri": "https://web.archive.org/web/20200810023340/http://www.suno.edu:80/page/graduate-studies", "rel": "memento", "datetime": "Mon, 10 Aug 2020 02:33:40 GMT"}
+20201011231643 {"uri": "https://web.archive.org/web/20201011231643/http://www.suno.edu/page/graduate-studies", "rel": "memento", "datetime": "Sun, 11 Oct 2020 23:16:43 GMT"}
+20201127054605 {"uri": "https://web.archive.org/web/20201127054605/https://www.suno.edu/page/graduate-studies", "rel": "memento", "datetime": "Fri, 27 Nov 2020 05:46:05 GMT"}
+20201127195237 {"uri": "https://web.archive.org/web/20201127195237/https://www.suno.edu/page/graduate-studies", "rel": "memento", "datetime": "Fri, 27 Nov 2020 19:52:37 GMT"}
+20210120131015 {"uri": "https://web.archive.org/web/20210120131015/https://www.suno.edu/page/graduate-studies", "rel": "memento", "datetime": "Wed, 20 Jan 2021 13:10:15 GMT"}
+20210126173918 {"uri": "https://web.archive.org/web/20210126173918/https://www.suno.edu/page/graduate-studies", "rel": "memento", "datetime": "Tue, 26 Jan 2021 17:39:18 GMT"}
+20210410150526 {"uri": "https://web.archive.org/web/20210410150526/https://www.suno.edu/page/graduate-studies", "rel": "memento", "datetime": "Sat, 10 Apr 2021 15:05:26 GMT"}
+20210916124214 {"uri": "https://web.archive.org/web/20210916124214/https://www.suno.edu/page/graduate-studies", "rel": "last memento", "datetime": "Thu, 16 Sep 2021 12:42:14 GMT"}

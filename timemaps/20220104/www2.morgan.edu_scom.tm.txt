@@ -1,0 +1,19 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/sgjc/scom"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/sgjc/scom"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/sgjc/scom"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/sgjc/scom", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/sgjc/scom", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/sgjc/scom"}}
+20180329201204 {"uri": "https://web.archive.org/web/20180329201204/http://www.morgan.edu:80/sgjc/scom", "rel": "first memento", "datetime": "Thu, 29 Mar 2018 20:12:04 GMT"}
+20180413233002 {"uri": "https://web.archive.org/web/20180413233002/http://www.morgan.edu:80/sgjc/scom", "rel": "memento", "datetime": "Fri, 13 Apr 2018 23:30:02 GMT"}
+20200510141910 {"uri": "https://web.archive.org/web/20200510141910/https://www.morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Sun, 10 May 2020 14:19:10 GMT"}
+20200812143730 {"uri": "https://web.archive.org/web/20200812143730/https://morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Wed, 12 Aug 2020 14:37:30 GMT"}
+20201001071208 {"uri": "https://web.archive.org/web/20201001071208/https://www.morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Thu, 01 Oct 2020 07:12:08 GMT"}
+20201028171357 {"uri": "https://web.archive.org/web/20201028171357/https://morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Wed, 28 Oct 2020 17:13:57 GMT"}
+20210123210710 {"uri": "https://web.archive.org/web/20210123210710/https://www.morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Sat, 23 Jan 2021 21:07:10 GMT"}
+20210125232252 {"uri": "https://web.archive.org/web/20210125232252/https://morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Mon, 25 Jan 2021 23:22:52 GMT"}
+20210414035543 {"uri": "https://web.archive.org/web/20210414035543/https://morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:55:43 GMT"}
+20210414134137 {"uri": "https://web.archive.org/web/20210414134137/https://www.morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Wed, 14 Apr 2021 13:41:37 GMT"}
+20210415135105 {"uri": "https://web.archive.org/web/20210415135105/https://morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Thu, 15 Apr 2021 13:51:05 GMT"}
+20210817085351 {"uri": "https://web.archive.org/web/20210817085351/https://morgan.edu/sgjc/scom", "rel": "memento", "datetime": "Tue, 17 Aug 2021 08:53:51 GMT"}
+20210817085425 {"uri": "https://web.archive.org/web/20210817085425/https://morgan.edu/sgjc/scom", "rel": "last memento", "datetime": "Tue, 17 Aug 2021 08:54:25 GMT"}

@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home"}}
+20200813001439 {"uri": "https://web.archive.org/web/20200813001439/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:14:39 GMT"}
+20201029052813 {"uri": "https://web.archive.org/web/20201029052813/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:28:13 GMT"}
+20210125044708 {"uri": "https://web.archive.org/web/20210125044708/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:47:08 GMT"}
+20210410144827 {"uri": "https://web.archive.org/web/20210410144827/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:48:27 GMT"}
+20210425140148 {"uri": "https://web.archive.org/web/20210425140148/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/materials-science-and-engineering-home", "rel": "last memento", "datetime": "Sun, 25 Apr 2021 14:01:48 GMT"}

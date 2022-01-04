@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/sesl"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/sesl"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/sesl"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/sesl", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/sesl", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/sesl"}}
+20200919063126 {"uri": "https://web.archive.org/web/20200919063126/http://www.nsu.edu/sesl", "rel": "first memento", "datetime": "Sat, 19 Sep 2020 06:31:26 GMT"}
+20201024062441 {"uri": "https://web.archive.org/web/20201024062441/https://www.nsu.edu/sesl", "rel": "memento", "datetime": "Sat, 24 Oct 2020 06:24:41 GMT"}
+20201205185427 {"uri": "https://web.archive.org/web/20201205185427/http://www.nsu.edu/sesl", "rel": "memento", "datetime": "Sat, 05 Dec 2020 18:54:27 GMT"}
+20210415135353 {"uri": "https://web.archive.org/web/20210415135353/https://www.nsu.edu/sesl", "rel": "last memento", "datetime": "Thu, 15 Apr 2021 13:53:53 GMT"}

@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health"}}
+20200813003401 {"uri": "https://web.archive.org/web/20200813003401/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:34:01 GMT"}
+20201029055439 {"uri": "https://web.archive.org/web/20201029055439/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:54:39 GMT"}
+20210125050727 {"uri": "https://web.archive.org/web/20210125050727/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health", "rel": "memento", "datetime": "Mon, 25 Jan 2021 05:07:27 GMT"}
+20210410151040 {"uri": "https://web.archive.org/web/20210410151040/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health", "rel": "memento", "datetime": "Sat, 10 Apr 2021 15:10:40 GMT"}
+20210420093147 {"uri": "https://web.archive.org/web/20210420093147/https://www.tuskegee.edu/programs-courses/colleges-schools/sonah/allied-health", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 09:31:47 GMT"}

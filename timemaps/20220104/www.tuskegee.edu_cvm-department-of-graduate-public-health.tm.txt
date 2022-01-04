@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health"}}
+20200813000322 {"uri": "https://web.archive.org/web/20200813000322/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:03:22 GMT"}
+20201029051244 {"uri": "https://web.archive.org/web/20201029051244/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:12:44 GMT"}
+20210125042728 {"uri": "https://web.archive.org/web/20210125042728/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:27:28 GMT"}
+20210410142901 {"uri": "https://web.archive.org/web/20210410142901/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:29:01 GMT"}
+20210420144711 {"uri": "https://web.archive.org/web/20210420144711/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-graduate-public-health", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 14:47:11 GMT"}

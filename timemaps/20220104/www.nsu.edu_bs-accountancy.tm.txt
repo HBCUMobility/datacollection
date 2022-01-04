@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/business/bs-accountancy"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/business/bs-accountancy"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/business/bs-accountancy"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/business/bs-accountancy", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/business/bs-accountancy", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/business/bs-accountancy"}}
+20190609162007 {"uri": "https://web.archive.org/web/20190609162007/http://www.nsu.edu:80/business/bs-accountancy", "rel": "first memento", "datetime": "Sun, 09 Jun 2019 16:20:07 GMT"}
+20190811052121 {"uri": "https://web.archive.org/web/20190811052121/http://www.nsu.edu:80/business/bs-accountancy", "rel": "memento", "datetime": "Sun, 11 Aug 2019 05:21:21 GMT"}
+20191115130903 {"uri": "https://web.archive.org/web/20191115130903/http://www.nsu.edu:80/business/bs-accountancy", "rel": "memento", "datetime": "Fri, 15 Nov 2019 13:09:03 GMT"}
+20200116132728 {"uri": "https://web.archive.org/web/20200116132728/http://www.nsu.edu:80/business/bs-accountancy", "rel": "memento", "datetime": "Thu, 16 Jan 2020 13:27:28 GMT"}
+20200811013017 {"uri": "https://web.archive.org/web/20200811013017/https://www.nsu.edu/business/bs-accountancy", "rel": "memento", "datetime": "Tue, 11 Aug 2020 01:30:17 GMT"}
+20200919064932 {"uri": "https://web.archive.org/web/20200919064932/http://www.nsu.edu/business/bs-accountancy", "rel": "memento", "datetime": "Sat, 19 Sep 2020 06:49:32 GMT"}
+20201029181450 {"uri": "https://web.archive.org/web/20201029181450/https://www.nsu.edu/business/bs-accountancy", "rel": "memento", "datetime": "Thu, 29 Oct 2020 18:14:50 GMT"}
+20201205185926 {"uri": "https://web.archive.org/web/20201205185926/http://www.nsu.edu/business/bs-accountancy", "rel": "memento", "datetime": "Sat, 05 Dec 2020 18:59:26 GMT"}
+20210125150024 {"uri": "https://web.archive.org/web/20210125150024/https://www.nsu.edu/business/bs-accountancy", "rel": "memento", "datetime": "Mon, 25 Jan 2021 15:00:24 GMT"}
+20210226132828 {"uri": "https://web.archive.org/web/20210226132828/http://www.nsu.edu/business/bs-accountancy", "rel": "memento", "datetime": "Fri, 26 Feb 2021 13:28:28 GMT"}
+20210508201624 {"uri": "https://web.archive.org/web/20210508201624/https://www.nsu.edu/business/bs-accountancy", "rel": "last memento", "datetime": "Sat, 08 May 2021 20:16:24 GMT"}

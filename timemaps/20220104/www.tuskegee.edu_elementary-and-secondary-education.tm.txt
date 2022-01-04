@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education"}}
+20200813001108 {"uri": "https://web.archive.org/web/20200813001108/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:11:08 GMT"}
+20201029052157 {"uri": "https://web.archive.org/web/20201029052157/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:21:57 GMT"}
+20210125043911 {"uri": "https://web.archive.org/web/20210125043911/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:39:11 GMT"}
+20210410143840 {"uri": "https://web.archive.org/web/20210410143840/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:38:40 GMT"}
+20210420063032 {"uri": "https://web.archive.org/web/20210420063032/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/elementary-and-secondary-education", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 06:30:32 GMT"}

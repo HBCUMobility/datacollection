@@ -1,0 +1,27 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/page/3082"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.subr.edu/page/3082"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.subr.edu/page/3082"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.subr.edu/page/3082", "json_format": "http://localhost:1208/timemap/json/https://www.subr.edu/page/3082", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/page/3082"}}
+20180604163531 {"uri": "https://web.archive.org/web/20180604163531/http://www.subr.edu:80/page/3082", "rel": "first memento", "datetime": "Mon, 04 Jun 2018 16:35:31 GMT"}
+20181004063700 {"uri": "https://web.archive.org/web/20181004063700/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Thu, 04 Oct 2018 06:37:00 GMT"}
+20181204133823 {"uri": "https://web.archive.org/web/20181204133823/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Tue, 04 Dec 2018 13:38:23 GMT"}
+20190203111920 {"uri": "https://web.archive.org/web/20190203111920/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Sun, 03 Feb 2019 11:19:20 GMT"}
+20190326101621 {"uri": "https://web.archive.org/web/20190326101621/http://www.subr.edu/page/3082", "rel": "memento", "datetime": "Tue, 26 Mar 2019 10:16:21 GMT"}
+20190405110834 {"uri": "https://web.archive.org/web/20190405110834/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Fri, 05 Apr 2019 11:08:34 GMT"}
+20190604175507 {"uri": "https://web.archive.org/web/20190604175507/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Tue, 04 Jun 2019 17:55:07 GMT"}
+20190705092318 {"uri": "https://web.archive.org/web/20190705092318/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Fri, 05 Jul 2019 09:23:18 GMT"}
+20190805043409 {"uri": "https://web.archive.org/web/20190805043409/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Mon, 05 Aug 2019 04:34:09 GMT"}
+20190904202509 {"uri": "https://web.archive.org/web/20190904202509/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Wed, 04 Sep 2019 20:25:09 GMT"}
+20190905203313 {"uri": "https://web.archive.org/web/20190905203313/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Thu, 05 Sep 2019 20:33:13 GMT"}
+20191021051600 {"uri": "https://web.archive.org/web/20191021051600/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Mon, 21 Oct 2019 05:16:00 GMT"}
+20191220113803 {"uri": "https://web.archive.org/web/20191220113803/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Fri, 20 Dec 2019 11:38:03 GMT"}
+20200218145030 {"uri": "https://web.archive.org/web/20200218145030/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Tue, 18 Feb 2020 14:50:30 GMT"}
+20200501223822 {"uri": "https://web.archive.org/web/20200501223822/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Fri, 01 May 2020 22:38:22 GMT"}
+20200701032740 {"uri": "https://web.archive.org/web/20200701032740/http://www.subr.edu:80/page/3082", "rel": "memento", "datetime": "Wed, 01 Jul 2020 03:27:40 GMT"}
+20201027004216 {"uri": "https://web.archive.org/web/20201027004216/https://www.subr.edu/page/3082", "rel": "memento", "datetime": "Tue, 27 Oct 2020 00:42:16 GMT"}
+20210126214318 {"uri": "https://web.archive.org/web/20210126214318/https://www.subr.edu/page/3082", "rel": "memento", "datetime": "Tue, 26 Jan 2021 21:43:18 GMT"}
+20210411211519 {"uri": "https://web.archive.org/web/20210411211519/https://www.subr.edu/page/3082", "rel": "memento", "datetime": "Sun, 11 Apr 2021 21:15:19 GMT"}
+20210420035653 {"uri": "https://web.archive.org/web/20210420035653/http://www.subr.edu/page/3082", "rel": "memento", "datetime": "Tue, 20 Apr 2021 03:56:53 GMT"}
+20211026121749 {"uri": "https://web.archive.org/web/20211026121749/https://www.subr.edu/page/3082", "rel": "last memento", "datetime": "Tue, 26 Oct 2021 12:17:49 GMT"}

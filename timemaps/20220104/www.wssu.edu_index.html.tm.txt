@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-social-work/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-social-work/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-social-work/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-social-work/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-social-work/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-social-work/index.html"}}
+20201026125900 {"uri": "https://web.archive.org/web/20201026125900/https://wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-social-work/index.html", "rel": "first memento", "datetime": "Mon, 26 Oct 2020 12:59:00 GMT"}
+20210124022337 {"uri": "https://web.archive.org/web/20210124022337/https://wssu.edu/academics/colleges-and-departments/school-of-health-sciences/department-of-social-work/index.html", "rel": "last memento", "datetime": "Sun, 24 Jan 2021 02:23:37 GMT"}

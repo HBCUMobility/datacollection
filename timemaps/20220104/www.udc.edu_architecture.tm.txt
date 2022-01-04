@@ -1,0 +1,36 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/architecture"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/causes/architecture"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/causes/architecture"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/causes/architecture", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/causes/architecture", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/architecture"}}
+20170912003814 {"uri": "https://web.archive.org/web/20170912003814/https://www.udc.edu/causes/architecture/", "rel": "first memento", "datetime": "Tue, 12 Sep 2017 00:38:14 GMT"}
+20170912005056 {"uri": "https://web.archive.org/web/20170912005056/http://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Tue, 12 Sep 2017 00:50:56 GMT"}
+20190904033723 {"uri": "https://web.archive.org/web/20190904033723/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:37:23 GMT"}
+20190904033936 {"uri": "https://web.archive.org/web/20190904033936/https://www.udc.edu/causes/architecture", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:36 GMT"}
+20190904033937 {"uri": "https://web.archive.org/web/20190904033937/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:37 GMT"}
+20190904034006 {"uri": "https://web.archive.org/web/20190904034006/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:40:06 GMT"}
+20190904034006 {"uri": "https://web.archive.org/web/20190904034006/http://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:40:06 GMT"}
+20190904035221 {"uri": "https://web.archive.org/web/20190904035221/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:52:21 GMT"}
+20191211000129 {"uri": "https://arquivo.pt/noFrame/replay/20191211000129mp_/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Wed, 11 Dec 2019 00:01:29 GMT"}
+20191213163442 {"uri": "https://wayback.archive-it.org/all/20191213163442/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Fri, 13 Dec 2019 16:34:42 GMT"}
+20191213163442 {"uri": "https://web.archive.org/web/20191213163442/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Fri, 13 Dec 2019 16:34:42 GMT"}
+20200106215813 {"uri": "https://wayback.archive-it.org/all/20200106215813/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Mon, 06 Jan 2020 21:58:13 GMT"}
+20200106215813 {"uri": "https://web.archive.org/web/20200106215813/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Mon, 06 Jan 2020 21:58:13 GMT"}
+20200113163434 {"uri": "https://wayback.archive-it.org/all/20200113163434/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Mon, 13 Jan 2020 16:34:34 GMT"}
+20200113163434 {"uri": "https://web.archive.org/web/20200113163434/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Mon, 13 Jan 2020 16:34:34 GMT"}
+20200118004054 {"uri": "https://wayback.archive-it.org/all/20200118004054/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Sat, 18 Jan 2020 00:40:54 GMT"}
+20200118004054 {"uri": "https://web.archive.org/web/20200118004054/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Sat, 18 Jan 2020 00:40:54 GMT"}
+20200128013745 {"uri": "https://web.archive.org/web/20200128013745/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Tue, 28 Jan 2020 01:37:45 GMT"}
+20200207074510 {"uri": "https://wayback.archive-it.org/all/20200207074510/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Fri, 07 Feb 2020 07:45:10 GMT"}
+20200207074510 {"uri": "https://web.archive.org/web/20200207074510/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Fri, 07 Feb 2020 07:45:10 GMT"}
+20200213163558 {"uri": "https://wayback.archive-it.org/all/20200213163558/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Thu, 13 Feb 2020 16:35:58 GMT"}
+20200213163558 {"uri": "https://web.archive.org/web/20200213163558/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Thu, 13 Feb 2020 16:35:58 GMT"}
+20200307005225 {"uri": "https://wayback.archive-it.org/all/20200307005225/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Sat, 07 Mar 2020 00:52:25 GMT"}
+20200307005225 {"uri": "https://web.archive.org/web/20200307005225/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Sat, 07 Mar 2020 00:52:25 GMT"}
+20200309031636 {"uri": "https://arquivo.pt/noFrame/replay/20200309031636mp_/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Mon, 09 Mar 2020 03:16:36 GMT"}
+20201024124659 {"uri": "https://web.archive.org/web/20201024124659/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Sat, 24 Oct 2020 12:46:59 GMT"}
+20210127084052 {"uri": "https://web.archive.org/web/20210127084052/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Wed, 27 Jan 2021 08:40:52 GMT"}
+20210408170833 {"uri": "https://web.archive.org/web/20210408170833/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Thu, 08 Apr 2021 17:08:33 GMT"}
+20210418001648 {"uri": "https://web.archive.org/web/20210418001648/https://www.udc.edu/causes/architecture/", "rel": "memento", "datetime": "Sun, 18 Apr 2021 00:16:48 GMT"}
+20210420082010 {"uri": "https://web.archive.org/web/20210420082010/https://www.udc.edu/causes/architecture/", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 08:20:10 GMT"}

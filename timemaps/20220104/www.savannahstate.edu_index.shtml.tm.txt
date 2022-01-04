@@ -1,0 +1,33 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/nrotc/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/cost/nrotc/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/cost/nrotc/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/cost/nrotc/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/cost/nrotc/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/nrotc/index.shtml"}}
+20100527233259 {"uri": "https://web.archive.org/web/20100527233259/http://www.savannahstate.edu/cost/nrotc/index.shtml", "rel": "first memento", "datetime": "Thu, 27 May 2010 23:32:59 GMT"}
+20110122081422 {"uri": "https://web.archive.org/web/20110122081422/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Sat, 22 Jan 2011 08:14:22 GMT"}
+20110324200625 {"uri": "https://web.archive.org/web/20110324200625/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Thu, 24 Mar 2011 20:06:25 GMT"}
+20111004013304 {"uri": "https://web.archive.org/web/20111004013304/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Tue, 04 Oct 2011 01:33:04 GMT"}
+20111203165747 {"uri": "https://web.archive.org/web/20111203165747/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Sat, 03 Dec 2011 16:57:47 GMT"}
+20121027020753 {"uri": "https://web.archive.org/web/20121027020753/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Sat, 27 Oct 2012 02:07:53 GMT"}
+20121208052807 {"uri": "https://web.archive.org/web/20121208052807/http://www.savannahstate.edu/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Sat, 08 Dec 2012 05:28:07 GMT"}
+20130129190619 {"uri": "https://web.archive.org/web/20130129190619/http://savannahstate.edu/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Tue, 29 Jan 2013 19:06:19 GMT"}
+20130615041209 {"uri": "https://web.archive.org/web/20130615041209/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Sat, 15 Jun 2013 04:12:09 GMT"}
+20130904004857 {"uri": "https://web.archive.org/web/20130904004857/http://www.savannahstate.edu/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Wed, 04 Sep 2013 00:48:57 GMT"}
+20131213211239 {"uri": "https://web.archive.org/web/20131213211239/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Fri, 13 Dec 2013 21:12:39 GMT"}
+20140719023322 {"uri": "https://web.archive.org/web/20140719023322/http://savannahstate.edu/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Sat, 19 Jul 2014 02:33:22 GMT"}
+20141013093155 {"uri": "https://web.archive.org/web/20141013093155/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Mon, 13 Oct 2014 09:31:55 GMT"}
+20150312052949 {"uri": "https://web.archive.org/web/20150312052949/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Thu, 12 Mar 2015 05:29:49 GMT"}
+20150512221515 {"uri": "https://web.archive.org/web/20150512221515/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Tue, 12 May 2015 22:15:15 GMT"}
+20150705012707 {"uri": "https://web.archive.org/web/20150705012707/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Sun, 05 Jul 2015 01:27:07 GMT"}
+20150907183407 {"uri": "https://web.archive.org/web/20150907183407/http://www.savannahstate.edu/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Mon, 07 Sep 2015 18:34:07 GMT"}
+20151010221913 {"uri": "https://web.archive.org/web/20151010221913/https://www.savannahstate.edu/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Sat, 10 Oct 2015 22:19:13 GMT"}
+20160902055021 {"uri": "https://web.archive.org/web/20160902055021/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Fri, 02 Sep 2016 05:50:21 GMT"}
+20161003122014 {"uri": "https://web.archive.org/web/20161003122014/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Mon, 03 Oct 2016 12:20:14 GMT"}
+20161104161928 {"uri": "https://web.archive.org/web/20161104161928/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Fri, 04 Nov 2016 16:19:28 GMT"}
+20161111215145 {"uri": "https://web.archive.org/web/20161111215145/http://savannahstate.edu/cost/nrotc/index.shtml/", "rel": "memento", "datetime": "Fri, 11 Nov 2016 21:51:45 GMT"}
+20170503103337 {"uri": "https://web.archive.org/web/20170503103337/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Wed, 03 May 2017 10:33:37 GMT"}
+20170830025427 {"uri": "https://web.archive.org/web/20170830025427/http://www.savannahstate.edu:80/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Wed, 30 Aug 2017 02:54:27 GMT"}
+20201017110447 {"uri": "https://web.archive.org/web/20201017110447/http://www.savannahstate.edu/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Sat, 17 Oct 2020 11:04:47 GMT"}
+20201019214510 {"uri": "https://web.archive.org/web/20201019214510/https://www.savannahstate.edu/cost/nrotc/index.shtml", "rel": "memento", "datetime": "Mon, 19 Oct 2020 21:45:10 GMT"}
+20210414093259 {"uri": "https://web.archive.org/web/20210414093259/https://savannahstate.edu/cost/nrotc/index.shtml", "rel": "last memento", "datetime": "Wed, 14 Apr 2021 09:32:59 GMT"}

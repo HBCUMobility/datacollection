@@ -1,0 +1,18 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/subhome/master-of-business-administration"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.subr.edu/subhome/master-of-business-administration"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.subr.edu/subhome/master-of-business-administration"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.subr.edu/subhome/master-of-business-administration", "json_format": "http://localhost:1208/timemap/json/https://www.subr.edu/subhome/master-of-business-administration", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/subhome/master-of-business-administration"}}
+20180807185026 {"uri": "https://web.archive.org/web/20180807185026/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "first memento", "datetime": "Tue, 07 Aug 2018 18:50:26 GMT"}
+20181007154316 {"uri": "https://web.archive.org/web/20181007154316/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "memento", "datetime": "Sun, 07 Oct 2018 15:43:16 GMT"}
+20181207071739 {"uri": "https://web.archive.org/web/20181207071739/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "memento", "datetime": "Fri, 07 Dec 2018 07:17:39 GMT"}
+20190206014945 {"uri": "https://web.archive.org/web/20190206014945/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "memento", "datetime": "Wed, 06 Feb 2019 01:49:45 GMT"}
+20190407134337 {"uri": "https://web.archive.org/web/20190407134337/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "memento", "datetime": "Sun, 07 Apr 2019 13:43:37 GMT"}
+20190607100457 {"uri": "https://web.archive.org/web/20190607100457/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "memento", "datetime": "Fri, 07 Jun 2019 10:04:57 GMT"}
+20190807144048 {"uri": "https://web.archive.org/web/20190807144048/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "memento", "datetime": "Wed, 07 Aug 2019 14:40:48 GMT"}
+20191020215246 {"uri": "https://web.archive.org/web/20191020215246/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "memento", "datetime": "Sun, 20 Oct 2019 21:52:46 GMT"}
+20191220021428 {"uri": "https://web.archive.org/web/20191220021428/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "memento", "datetime": "Fri, 20 Dec 2019 02:14:28 GMT"}
+20200627064010 {"uri": "https://web.archive.org/web/20200627064010/http://www.subr.edu:80/subhome/master-of-business-administration", "rel": "memento", "datetime": "Sat, 27 Jun 2020 06:40:10 GMT"}
+20200805164354 {"uri": "https://web.archive.org/web/20200805164354/http://www.subr.edu/subhome/master-of-business-administration", "rel": "memento", "datetime": "Wed, 05 Aug 2020 16:43:54 GMT"}
+20210504080540 {"uri": "https://web.archive.org/web/20210504080540/http://www.subr.edu/subhome/master-of-business-administration", "rel": "last memento", "datetime": "Tue, 04 May 2021 08:05:40 GMT"}

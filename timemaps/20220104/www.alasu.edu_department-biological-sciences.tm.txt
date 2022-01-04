@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences"}}
+20181112185425 {"uri": "https://web.archive.org/web/20181112185425/http://www.alasu.edu:80/cstem/biological-sciences/department-biological-sciences", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 18:54:25 GMT"}
+20181113191846 {"uri": "https://web.archive.org/web/20181113191846/http://www.alasu.edu:80/cstem/biological-sciences/department-biological-sciences", "rel": "memento", "datetime": "Tue, 13 Nov 2018 19:18:46 GMT"}
+20200518071537 {"uri": "https://web.archive.org/web/20200518071537/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences", "rel": "memento", "datetime": "Mon, 18 May 2020 07:15:37 GMT"}
+20200526074859 {"uri": "https://web.archive.org/web/20200526074859/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences", "rel": "memento", "datetime": "Tue, 26 May 2020 07:48:59 GMT"}
+20201026130625 {"uri": "https://web.archive.org/web/20201026130625/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences", "rel": "memento", "datetime": "Mon, 26 Oct 2020 13:06:25 GMT"}
+20210228130314 {"uri": "https://web.archive.org/web/20210228130314/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences", "rel": "memento", "datetime": "Sun, 28 Feb 2021 13:03:14 GMT"}
+20210416171048 {"uri": "https://web.archive.org/web/20210416171048/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences", "rel": "memento", "datetime": "Fri, 16 Apr 2021 17:10:48 GMT"}
+20210509040524 {"uri": "https://web.archive.org/web/20210509040524/https://www.alasu.edu/cstem/biological-sciences/department-biological-sciences", "rel": "last memento", "datetime": "Sun, 09 May 2021 04:05:24 GMT"}

@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/allied-health"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/allied-health"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/allied-health"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/allied-health", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/allied-health", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/allied-health"}}
+20200807235804 {"uri": "https://web.archive.org/web/20200807235804/http://www.nsu.edu/allied-health", "rel": "first memento", "datetime": "Fri, 07 Aug 2020 23:58:04 GMT"}
+20200921035957 {"uri": "https://web.archive.org/web/20200921035957/https://www.nsu.edu/allied-health", "rel": "memento", "datetime": "Mon, 21 Sep 2020 03:59:57 GMT"}
+20201124233237 {"uri": "https://web.archive.org/web/20201124233237/http://www.nsu.edu/allied-health", "rel": "memento", "datetime": "Tue, 24 Nov 2020 23:32:37 GMT"}
+20201204094038 {"uri": "https://web.archive.org/web/20201204094038/https://www.nsu.edu/allied-health", "rel": "memento", "datetime": "Fri, 04 Dec 2020 09:40:38 GMT"}
+20210226043629 {"uri": "https://web.archive.org/web/20210226043629/https://www.nsu.edu/allied-health", "rel": "memento", "datetime": "Fri, 26 Feb 2021 04:36:29 GMT"}
+20210302011642 {"uri": "https://web.archive.org/web/20210302011642/http://www.nsu.edu/allied-health", "rel": "memento", "datetime": "Tue, 02 Mar 2021 01:16:42 GMT"}
+20210514015034 {"uri": "https://web.archive.org/web/20210514015034/https://www.nsu.edu/allied-health", "rel": "last memento", "datetime": "Fri, 14 May 2021 01:50:34 GMT"}

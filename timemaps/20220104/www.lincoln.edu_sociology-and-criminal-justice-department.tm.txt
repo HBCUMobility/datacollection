@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/sociology-and-criminal-justice-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department"}}
+20170615213218 {"uri": "https://web.archive.org/web/20170615213218/http://www.lincoln.edu/departments/sociology-and-criminal-justice-department", "rel": "first memento", "datetime": "Thu, 15 Jun 2017 21:32:18 GMT"}
+20201022005926 {"uri": "https://web.archive.org/web/20201022005926/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department", "rel": "memento", "datetime": "Thu, 22 Oct 2020 00:59:26 GMT"}
+20210122125317 {"uri": "https://web.archive.org/web/20210122125317/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department", "rel": "memento", "datetime": "Fri, 22 Jan 2021 12:53:17 GMT"}
+20210420211814 {"uri": "https://web.archive.org/web/20210420211814/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department", "rel": "memento", "datetime": "Tue, 20 Apr 2021 21:18:14 GMT"}
+20210422195128 {"uri": "https://web.archive.org/web/20210422195128/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department", "rel": "memento", "datetime": "Thu, 22 Apr 2021 19:51:28 GMT"}
+20210507195631 {"uri": "https://web.archive.org/web/20210507195631/https://www.lincoln.edu/departments/sociology-and-criminal-justice-department", "rel": "last memento", "datetime": "Fri, 07 May 2021 19:56:31 GMT"}

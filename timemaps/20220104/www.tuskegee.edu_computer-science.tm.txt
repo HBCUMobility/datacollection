@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science"}}
+20200925194359 {"uri": "https://web.archive.org/web/20200925194359/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science", "rel": "first memento", "datetime": "Fri, 25 Sep 2020 19:43:59 GMT"}
+20210121060219 {"uri": "https://web.archive.org/web/20210121060219/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science", "rel": "memento", "datetime": "Thu, 21 Jan 2021 06:02:19 GMT"}
+20210414123546 {"uri": "https://web.archive.org/web/20210414123546/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science", "rel": "memento", "datetime": "Wed, 14 Apr 2021 12:35:46 GMT"}
+20210420093124 {"uri": "https://web.archive.org/web/20210420093124/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science", "rel": "memento", "datetime": "Tue, 20 Apr 2021 09:31:24 GMT"}
+20210421051344 {"uri": "https://web.archive.org/web/20210421051344/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 05:13:44 GMT"}

@@ -1,0 +1,30 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://chemical.set.hamptonu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://chemical.set.hamptonu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://chemical.set.hamptonu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://chemical.set.hamptonu.edu/", "json_format": "http://localhost:1208/timemap/json/http://chemical.set.hamptonu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://chemical.set.hamptonu.edu/"}}
+20150403023040 {"uri": "https://web.archive.org/web/20150403023040/http://chemical.set.hamptonu.edu:80/", "rel": "first memento", "datetime": "Fri, 03 Apr 2015 02:30:40 GMT"}
+20150504003140 {"uri": "https://web.archive.org/web/20150504003140/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 04 May 2015 00:31:40 GMT"}
+20150705230728 {"uri": "https://web.archive.org/web/20150705230728/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 05 Jul 2015 23:07:28 GMT"}
+20151117023403 {"uri": "https://web.archive.org/web/20151117023403/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 17 Nov 2015 02:34:03 GMT"}
+20151218100503 {"uri": "https://web.archive.org/web/20151218100503/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 18 Dec 2015 10:05:03 GMT"}
+20160118175148 {"uri": "https://web.archive.org/web/20160118175148/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 18 Jan 2016 17:51:48 GMT"}
+20160329104349 {"uri": "https://web.archive.org/web/20160329104349/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 29 Mar 2016 10:43:49 GMT"}
+20181015014723 {"uri": "https://web.archive.org/web/20181015014723/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 15 Oct 2018 01:47:23 GMT"}
+20181215085722 {"uri": "https://web.archive.org/web/20181215085722/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 15 Dec 2018 08:57:22 GMT"}
+20190214070352 {"uri": "https://web.archive.org/web/20190214070352/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 14 Feb 2019 07:03:52 GMT"}
+20190308211430 {"uri": "https://web.archive.org/web/20190308211430/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 08 Mar 2019 21:14:30 GMT"}
+20190504211953 {"uri": "https://web.archive.org/web/20190504211953/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 04 May 2019 21:19:53 GMT"}
+20190508195124 {"uri": "https://web.archive.org/web/20190508195124/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 08 May 2019 19:51:24 GMT"}
+20190605094155 {"uri": "https://web.archive.org/web/20190605094155/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 05 Jun 2019 09:41:55 GMT"}
+20190707135121 {"uri": "https://web.archive.org/web/20190707135121/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 07 Jul 2019 13:51:21 GMT"}
+20190807215139 {"uri": "https://web.archive.org/web/20190807215139/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 07 Aug 2019 21:51:39 GMT"}
+20190907161935 {"uri": "https://web.archive.org/web/20190907161935/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 07 Sep 2019 16:19:35 GMT"}
+20190907230404 {"uri": "https://web.archive.org/web/20190907230404/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 07 Sep 2019 23:04:04 GMT"}
+20191020214538 {"uri": "https://web.archive.org/web/20191020214538/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 20 Oct 2019 21:45:38 GMT"}
+20191220064741 {"uri": "https://web.archive.org/web/20191220064741/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 20 Dec 2019 06:47:41 GMT"}
+20191226102733 {"uri": "https://web.archive.org/web/20191226102733/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 26 Dec 2019 10:27:33 GMT"}
+20200223110335 {"uri": "https://web.archive.org/web/20200223110335/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 23 Feb 2020 11:03:35 GMT"}
+20200224214340 {"uri": "https://web.archive.org/web/20200224214340/http://chemical.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 24 Feb 2020 21:43:40 GMT"}
+20200628180604 {"uri": "https://web.archive.org/web/20200628180604/http://chemical.set.hamptonu.edu:80/", "rel": "last memento", "datetime": "Sun, 28 Jun 2020 18:06:04 GMT"}

@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/chemistry"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://cast.desu.edu/departments/chemistry"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://cast.desu.edu/departments/chemistry"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://cast.desu.edu/departments/chemistry", "json_format": "http://localhost:1208/timemap/json/https://cast.desu.edu/departments/chemistry", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/chemistry"}}
+20200809000913 {"uri": "https://web.archive.org/web/20200809000913/https://cast.desu.edu/departments/chemistry", "rel": "first memento", "datetime": "Sun, 09 Aug 2020 00:09:13 GMT"}
+20201020180418 {"uri": "https://web.archive.org/web/20201020180418/https://cast.desu.edu/departments/chemistry", "rel": "memento", "datetime": "Tue, 20 Oct 2020 18:04:18 GMT"}
+20210118145008 {"uri": "https://web.archive.org/web/20210118145008/https://cast.desu.edu/departments/chemistry", "rel": "memento", "datetime": "Mon, 18 Jan 2021 14:50:08 GMT"}
+20210122161349 {"uri": "https://web.archive.org/web/20210122161349/https://cast.desu.edu/departments/chemistry", "rel": "memento", "datetime": "Fri, 22 Jan 2021 16:13:49 GMT"}
+20210420015300 {"uri": "https://web.archive.org/web/20210420015300/https://cast.desu.edu/departments/chemistry", "rel": "memento", "datetime": "Tue, 20 Apr 2021 01:53:00 GMT"}
+20210510050830 {"uri": "https://web.archive.org/web/20210510050830/https://cast.desu.edu/departments/chemistry", "rel": "last memento", "datetime": "Mon, 10 May 2021 05:08:30 GMT"}

@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://catalog.famu.edu/preview_entity.php?catoid=10&ent_oid=876&returnto=800"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://catalog.famu.edu/preview_entity.php?catoid=10&ent_oid=876&returnto=800"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://catalog.famu.edu/preview_entity.php?catoid=10&ent_oid=876&returnto=800"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://catalog.famu.edu/preview_entity.php?catoid=10&ent_oid=876&returnto=800", "json_format": "http://localhost:1208/timemap/json/http://catalog.famu.edu/preview_entity.php?catoid=10&ent_oid=876&returnto=800", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://catalog.famu.edu/preview_entity.php?catoid=10&ent_oid=876&returnto=800"}}
+20210414030930 {"uri": "https://web.archive.org/web/20210414030930/http://catalog.famu.edu/preview_entity.php?catoid=10&ent_oid=876&returnto=800", "rel": "first last memento", "datetime": "Wed, 14 Apr 2021 03:09:30 GMT"}

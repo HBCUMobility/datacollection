@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/hpeexs"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/hpeexs"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/hpeexs"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/hpeexs", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/hpeexs", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/hpeexs"}}
+20200806011529 {"uri": "https://web.archive.org/web/20200806011529/http://www.nsu.edu/hpeexs", "rel": "first memento", "datetime": "Thu, 06 Aug 2020 01:15:29 GMT"}
+20200814013334 {"uri": "https://web.archive.org/web/20200814013334/https://www.nsu.edu/hpeexs", "rel": "memento", "datetime": "Fri, 14 Aug 2020 01:33:34 GMT"}
+20201024142159 {"uri": "https://web.archive.org/web/20201024142159/https://www.nsu.edu/hpeexs", "rel": "memento", "datetime": "Sat, 24 Oct 2020 14:21:59 GMT"}
+20201125000149 {"uri": "https://web.archive.org/web/20201125000149/http://www.nsu.edu/hpeexs", "rel": "memento", "datetime": "Wed, 25 Nov 2020 00:01:49 GMT"}
+20210306011144 {"uri": "https://web.archive.org/web/20210306011144/https://www.nsu.edu/hpeexs", "rel": "memento", "datetime": "Sat, 06 Mar 2021 01:11:44 GMT"}
+20210418143556 {"uri": "https://web.archive.org/web/20210418143556/http://www.nsu.edu/hpeexs", "rel": "memento", "datetime": "Sun, 18 Apr 2021 14:35:56 GMT"}
+20211202012952 {"uri": "https://web.archive.org/web/20211202012952/https://www.nsu.edu/hpeexs", "rel": "last memento", "datetime": "Thu, 02 Dec 2021 01:29:52 GMT"}

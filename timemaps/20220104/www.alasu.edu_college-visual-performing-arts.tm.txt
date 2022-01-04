@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cvpa/college-visual-performing-arts"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cvpa/college-visual-performing-arts"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cvpa/college-visual-performing-arts"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cvpa/college-visual-performing-arts", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cvpa/college-visual-performing-arts", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cvpa/college-visual-performing-arts"}}
+20181112212207 {"uri": "https://web.archive.org/web/20181112212207/http://www.alasu.edu:80/cvpa/college-visual-performing-arts", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:22:07 GMT"}
+20200505082005 {"uri": "https://web.archive.org/web/20200505082005/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Tue, 05 May 2020 08:20:05 GMT"}
+20200505122620 {"uri": "https://web.archive.org/web/20200505122620/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Tue, 05 May 2020 12:26:20 GMT"}
+20200507084040 {"uri": "https://web.archive.org/web/20200507084040/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Thu, 07 May 2020 08:40:40 GMT"}
+20200513110648 {"uri": "https://web.archive.org/web/20200513110648/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Wed, 13 May 2020 11:06:48 GMT"}
+20200527044739 {"uri": "https://web.archive.org/web/20200527044739/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Wed, 27 May 2020 04:47:39 GMT"}
+20200620020105 {"uri": "https://web.archive.org/web/20200620020105/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Sat, 20 Jun 2020 02:01:05 GMT"}
+20200812011519 {"uri": "https://web.archive.org/web/20200812011519/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Wed, 12 Aug 2020 01:15:19 GMT"}
+20201031014646 {"uri": "https://web.archive.org/web/20201031014646/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Sat, 31 Oct 2020 01:46:46 GMT"}
+20210205010545 {"uri": "https://web.archive.org/web/20210205010545/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Fri, 05 Feb 2021 01:05:45 GMT"}
+20210216223354 {"uri": "https://web.archive.org/web/20210216223354/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Tue, 16 Feb 2021 22:33:54 GMT"}
+20210228132727 {"uri": "https://web.archive.org/web/20210228132727/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Sun, 28 Feb 2021 13:27:27 GMT"}
+20210416171056 {"uri": "https://web.archive.org/web/20210416171056/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "memento", "datetime": "Fri, 16 Apr 2021 17:10:56 GMT"}
+20210506070702 {"uri": "https://web.archive.org/web/20210506070702/https://www.alasu.edu/cvpa/college-visual-performing-arts", "rel": "last memento", "datetime": "Thu, 06 May 2021 07:07:02 GMT"}

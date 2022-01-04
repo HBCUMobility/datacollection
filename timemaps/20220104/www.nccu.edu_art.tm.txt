@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/art"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/cash/art"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/cash/art"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/cash/art", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/cash/art", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/art"}}
+20201029225107 {"uri": "https://web.archive.org/web/20201029225107/https://www.nccu.edu/cash/art", "rel": "first memento", "datetime": "Thu, 29 Oct 2020 22:51:07 GMT"}
+20201126122027 {"uri": "https://web.archive.org/web/20201126122027/https://www.nccu.edu/cash/art", "rel": "memento", "datetime": "Thu, 26 Nov 2020 12:20:27 GMT"}
+20210411003840 {"uri": "https://web.archive.org/web/20210411003840/https://www.nccu.edu/cash/art", "rel": "memento", "datetime": "Sun, 11 Apr 2021 00:38:40 GMT"}
+20210418052752 {"uri": "https://web.archive.org/web/20210418052752/https://www.nccu.edu/cash/art", "rel": "memento", "datetime": "Sun, 18 Apr 2021 05:27:52 GMT"}
+20210505032513 {"uri": "https://web.archive.org/web/20210505032513/https://www.nccu.edu/cash/art", "rel": "memento", "datetime": "Wed, 05 May 2021 03:25:13 GMT"}
+20210506102908 {"uri": "https://web.archive.org/web/20210506102908/https://www.nccu.edu/cash/art", "rel": "memento", "datetime": "Thu, 06 May 2021 10:29:08 GMT"}
+20210508232109 {"uri": "https://web.archive.org/web/20210508232109/https://www.nccu.edu/cash/art", "rel": "last memento", "datetime": "Sat, 08 May 2021 23:21:09 GMT"}

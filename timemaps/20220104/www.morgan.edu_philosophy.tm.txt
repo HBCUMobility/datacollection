@@ -1,0 +1,28 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/cla/philosophy"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.morgan.edu/cla/philosophy"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.morgan.edu/cla/philosophy"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.morgan.edu/cla/philosophy", "json_format": "http://localhost:1208/timemap/json/https://www.morgan.edu/cla/philosophy", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/cla/philosophy"}}
+20171103192151 {"uri": "https://web.archive.org/web/20171103192151/http://morgan.edu:80/cla/philosophy", "rel": "first memento", "datetime": "Fri, 03 Nov 2017 19:21:51 GMT"}
+20171106042541 {"uri": "https://web.archive.org/web/20171106042541/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Mon, 06 Nov 2017 04:25:41 GMT"}
+20171111194456 {"uri": "https://web.archive.org/web/20171111194456/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Sat, 11 Nov 2017 19:44:56 GMT"}
+20171207081620 {"uri": "https://web.archive.org/web/20171207081620/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Thu, 07 Dec 2017 08:16:20 GMT"}
+20180112055615 {"uri": "https://web.archive.org/web/20180112055615/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Fri, 12 Jan 2018 05:56:15 GMT"}
+20180214104716 {"uri": "https://web.archive.org/web/20180214104716/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Wed, 14 Feb 2018 10:47:16 GMT"}
+20180215123923 {"uri": "https://web.archive.org/web/20180215123923/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Thu, 15 Feb 2018 12:39:23 GMT"}
+20180313181040 {"uri": "https://web.archive.org/web/20180313181040/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Tue, 13 Mar 2018 18:10:40 GMT"}
+20180314184228 {"uri": "https://web.archive.org/web/20180314184228/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Wed, 14 Mar 2018 18:42:28 GMT"}
+20180319083105 {"uri": "https://web.archive.org/web/20180319083105/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Mon, 19 Mar 2018 08:31:05 GMT"}
+20180320053405 {"uri": "https://web.archive.org/web/20180320053405/http://www.morgan.edu:80/cla/philosophy", "rel": "memento", "datetime": "Tue, 20 Mar 2018 05:34:05 GMT"}
+20200812152325 {"uri": "https://web.archive.org/web/20200812152325/https://morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Wed, 12 Aug 2020 15:23:25 GMT"}
+20200814102042 {"uri": "https://web.archive.org/web/20200814102042/https://www.morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Fri, 14 Aug 2020 10:20:42 GMT"}
+20200926031028 {"uri": "https://web.archive.org/web/20200926031028/https://www.morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Sat, 26 Sep 2020 03:10:28 GMT"}
+20201028174344 {"uri": "https://web.archive.org/web/20201028174344/https://morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Wed, 28 Oct 2020 17:43:44 GMT"}
+20201031233354 {"uri": "https://web.archive.org/web/20201031233354/https://www.morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Sat, 31 Oct 2020 23:33:54 GMT"}
+20210125100613 {"uri": "https://web.archive.org/web/20210125100613/https://www.morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Mon, 25 Jan 2021 10:06:13 GMT"}
+20210126001323 {"uri": "https://web.archive.org/web/20210126001323/https://morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Tue, 26 Jan 2021 00:13:23 GMT"}
+20210414051523 {"uri": "https://web.archive.org/web/20210414051523/https://morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Wed, 14 Apr 2021 05:15:23 GMT"}
+20210414130736 {"uri": "https://web.archive.org/web/20210414130736/https://www.morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Wed, 14 Apr 2021 13:07:36 GMT"}
+20210418150132 {"uri": "https://web.archive.org/web/20210418150132/https://morgan.edu/cla/philosophy", "rel": "memento", "datetime": "Sun, 18 Apr 2021 15:01:32 GMT"}
+20210814115508 {"uri": "https://web.archive.org/web/20210814115508/https://morgan.edu/cla/philosophy", "rel": "last memento", "datetime": "Sat, 14 Aug 2021 11:55:08 GMT"}

@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/biology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/biology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/biology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/biology", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/biology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/biology"}}
+20170508170259 {"uri": "https://web.archive.org/web/20170508170259/http://gs.howard.edu:80/graduate-programs/biology", "rel": "first memento", "datetime": "Mon, 08 May 2017 17:02:59 GMT"}
+20170609090556 {"uri": "https://web.archive.org/web/20170609090556/http://gs.howard.edu:80/graduate-programs/biology", "rel": "memento", "datetime": "Fri, 09 Jun 2017 09:05:56 GMT"}
+20170708154430 {"uri": "https://web.archive.org/web/20170708154430/https://gs.howard.edu/graduate-programs/biology", "rel": "memento", "datetime": "Sat, 08 Jul 2017 15:44:30 GMT"}
+20170710100241 {"uri": "https://web.archive.org/web/20170710100241/http://gs.howard.edu:80/graduate-programs/biology", "rel": "memento", "datetime": "Mon, 10 Jul 2017 10:02:41 GMT"}
+20180805171115 {"uri": "https://web.archive.org/web/20180805171115/http://gs.howard.edu:80/graduate-programs/biology", "rel": "memento", "datetime": "Sun, 05 Aug 2018 17:11:15 GMT"}
+20200126055051 {"uri": "https://web.archive.org/web/20200126055051/https://gs.howard.edu/graduate-programs/biology", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:50:51 GMT"}
+20201101050845 {"uri": "https://web.archive.org/web/20201101050845/https://gs.howard.edu/graduate-programs/biology", "rel": "memento", "datetime": "Sun, 01 Nov 2020 05:08:45 GMT"}
+20210416011711 {"uri": "https://web.archive.org/web/20210416011711/https://gs.howard.edu/graduate-programs/biology", "rel": "memento", "datetime": "Fri, 16 Apr 2021 01:17:11 GMT"}
+20211123193413 {"uri": "https://web.archive.org/web/20211123193413/https://gs.howard.edu/graduate-programs/biology", "rel": "last memento", "datetime": "Tue, 23 Nov 2021 19:34:13 GMT"}

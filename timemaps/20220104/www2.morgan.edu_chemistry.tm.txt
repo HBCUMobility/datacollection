@@ -1,0 +1,63 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/chemistry"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/chemistry"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/chemistry"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/chemistry", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/chemistry", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/chemistry"}}
+20150705030205 {"uri": "https://web.archive.org/web/20150705030205/http://www.morgan.edu:80/chemistry", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 03:02:05 GMT"}
+20150820022928 {"uri": "https://web.archive.org/web/20150820022928/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Thu, 20 Aug 2015 02:29:28 GMT"}
+20150905151803 {"uri": "https://web.archive.org/web/20150905151803/http://www.morgan.edu/chemistry", "rel": "memento", "datetime": "Sat, 05 Sep 2015 15:18:03 GMT"}
+20151206194535 {"uri": "https://web.archive.org/web/20151206194535/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sun, 06 Dec 2015 19:45:35 GMT"}
+20151224030701 {"uri": "https://web.archive.org/web/20151224030701/http://www.morgan.edu/chemistry", "rel": "memento", "datetime": "Thu, 24 Dec 2015 03:07:01 GMT"}
+20160106170123 {"uri": "https://web.archive.org/web/20160106170123/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Wed, 06 Jan 2016 17:01:23 GMT"}
+20160322065923 {"uri": "https://web.archive.org/web/20160322065923/http://www.morgan.edu/chemistry", "rel": "memento", "datetime": "Tue, 22 Mar 2016 06:59:23 GMT"}
+20160331102648 {"uri": "https://web.archive.org/web/20160331102648/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Thu, 31 Mar 2016 10:26:48 GMT"}
+20160414101948 {"uri": "https://web.archive.org/web/20160414101948/http://morgan.edu/chemistry", "rel": "memento", "datetime": "Thu, 14 Apr 2016 10:19:48 GMT"}
+20160501011253 {"uri": "https://web.archive.org/web/20160501011253/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sun, 01 May 2016 01:12:53 GMT"}
+20160502072749 {"uri": "https://web.archive.org/web/20160502072749/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Mon, 02 May 2016 07:27:49 GMT"}
+20160512232339 {"uri": "https://web.archive.org/web/20160512232339/http://www.morgan.edu/chemistry", "rel": "memento", "datetime": "Thu, 12 May 2016 23:23:39 GMT"}
+20160515153657 {"uri": "https://arquivo.pt/noFrame/replay/20160515153657mp_/http://www.morgan.edu/chemistry", "rel": "memento", "datetime": "Sun, 15 May 2016 15:36:57 GMT"}
+20160604182733 {"uri": "https://web.archive.org/web/20160604182733/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sat, 04 Jun 2016 18:27:33 GMT"}
+20160707183039 {"uri": "https://web.archive.org/web/20160707183039/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Thu, 07 Jul 2016 18:30:39 GMT"}
+20160729135715 {"uri": "https://web.archive.org/web/20160729135715/http://www.morgan.edu/chemistry", "rel": "memento", "datetime": "Fri, 29 Jul 2016 13:57:15 GMT"}
+20160816054459 {"uri": "https://web.archive.org/web/20160816054459/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Tue, 16 Aug 2016 05:44:59 GMT"}
+20160817152752 {"uri": "https://web.archive.org/web/20160817152752/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Wed, 17 Aug 2016 15:27:52 GMT"}
+20160917222655 {"uri": "https://web.archive.org/web/20160917222655/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sat, 17 Sep 2016 22:26:55 GMT"}
+20161025172206 {"uri": "https://web.archive.org/web/20161025172206/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Tue, 25 Oct 2016 17:22:06 GMT"}
+20170310210155 {"uri": "https://web.archive.org/web/20170310210155/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Fri, 10 Mar 2017 21:01:55 GMT"}
+20170316224315 {"uri": "https://wayback.archive-it.org/all/20170316224315/http://www.morgan.edu/chemistry", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:15 GMT"}
+20170316224315 {"uri": "https://web.archive.org/web/20170316224315/http://www.morgan.edu/chemistry", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:15 GMT"}
+20170505010611 {"uri": "https://web.archive.org/web/20170505010611/http://morgan.edu/chemistry", "rel": "memento", "datetime": "Fri, 05 May 2017 01:06:11 GMT"}
+20170523065242 {"uri": "https://web.archive.org/web/20170523065242/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Tue, 23 May 2017 06:52:42 GMT"}
+20170613170853 {"uri": "https://web.archive.org/web/20170613170853/http://morgan.edu/chemistry", "rel": "memento", "datetime": "Tue, 13 Jun 2017 17:08:53 GMT"}
+20170718085958 {"uri": "https://web.archive.org/web/20170718085958/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Tue, 18 Jul 2017 08:59:58 GMT"}
+20170820131724 {"uri": "https://web.archive.org/web/20170820131724/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sun, 20 Aug 2017 13:17:24 GMT"}
+20170821143649 {"uri": "https://web.archive.org/web/20170821143649/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Mon, 21 Aug 2017 14:36:49 GMT"}
+20170923001248 {"uri": "https://web.archive.org/web/20170923001248/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sat, 23 Sep 2017 00:12:48 GMT"}
+20171024223310 {"uri": "https://web.archive.org/web/20171024223310/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Tue, 24 Oct 2017 22:33:10 GMT"}
+20171103201956 {"uri": "https://web.archive.org/web/20171103201956/http://morgan.edu:80/chemistry", "rel": "memento", "datetime": "Fri, 03 Nov 2017 20:19:56 GMT"}
+20171129184649 {"uri": "https://web.archive.org/web/20171129184649/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Wed, 29 Nov 2017 18:46:49 GMT"}
+20171230162531 {"uri": "https://web.archive.org/web/20171230162531/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sat, 30 Dec 2017 16:25:31 GMT"}
+20180131052642 {"uri": "https://web.archive.org/web/20180131052642/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Wed, 31 Jan 2018 05:26:42 GMT"}
+20180319073359 {"uri": "https://web.archive.org/web/20180319073359/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Mon, 19 Mar 2018 07:33:59 GMT"}
+20180320041315 {"uri": "https://web.archive.org/web/20180320041315/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Tue, 20 Mar 2018 04:13:15 GMT"}
+20180421152031 {"uri": "https://web.archive.org/web/20180421152031/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sat, 21 Apr 2018 15:20:31 GMT"}
+20180530110651 {"uri": "https://web.archive.org/web/20180530110651/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Wed, 30 May 2018 11:06:51 GMT"}
+20180701015450 {"uri": "https://web.archive.org/web/20180701015450/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sun, 01 Jul 2018 01:54:50 GMT"}
+20180802042816 {"uri": "https://web.archive.org/web/20180802042816/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Thu, 02 Aug 2018 04:28:16 GMT"}
+20180803095617 {"uri": "https://web.archive.org/web/20180803095617/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Fri, 03 Aug 2018 09:56:17 GMT"}
+20180904012029 {"uri": "https://web.archive.org/web/20180904012029/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Tue, 04 Sep 2018 01:20:29 GMT"}
+20181022163809 {"uri": "https://web.archive.org/web/20181022163809/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Mon, 22 Oct 2018 16:38:09 GMT"}
+20190908231324 {"uri": "https://web.archive.org/web/20190908231324/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sun, 08 Sep 2019 23:13:24 GMT"}
+20191207100510 {"uri": "https://web.archive.org/web/20191207100510/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Sat, 07 Dec 2019 10:05:10 GMT"}
+20200205135116 {"uri": "https://web.archive.org/web/20200205135116/http://www.morgan.edu:80/chemistry", "rel": "memento", "datetime": "Wed, 05 Feb 2020 13:51:16 GMT"}
+20200807182908 {"uri": "https://web.archive.org/web/20200807182908/https://www.morgan.edu/chemistry", "rel": "memento", "datetime": "Fri, 07 Aug 2020 18:29:08 GMT"}
+20200812144013 {"uri": "https://web.archive.org/web/20200812144013/https://morgan.edu/chemistry", "rel": "memento", "datetime": "Wed, 12 Aug 2020 14:40:13 GMT"}
+20201028171825 {"uri": "https://web.archive.org/web/20201028171825/https://morgan.edu/chemistry", "rel": "memento", "datetime": "Wed, 28 Oct 2020 17:18:25 GMT"}
+20210125232808 {"uri": "https://web.archive.org/web/20210125232808/https://morgan.edu/chemistry", "rel": "memento", "datetime": "Mon, 25 Jan 2021 23:28:08 GMT"}
+20210414041800 {"uri": "https://web.archive.org/web/20210414041800/https://morgan.edu/chemistry", "rel": "memento", "datetime": "Wed, 14 Apr 2021 04:18:00 GMT"}
+20210415135625 {"uri": "https://web.archive.org/web/20210415135625/https://morgan.edu/chemistry", "rel": "memento", "datetime": "Thu, 15 Apr 2021 13:56:25 GMT"}
+20210817085350 {"uri": "https://web.archive.org/web/20210817085350/https://morgan.edu/chemistry", "rel": "memento", "datetime": "Tue, 17 Aug 2021 08:53:50 GMT"}
+20210817085425 {"uri": "https://web.archive.org/web/20210817085425/https://morgan.edu/chemistry", "rel": "memento", "datetime": "Tue, 17 Aug 2021 08:54:25 GMT"}
+20211008185903 {"uri": "https://web.archive.org/web/20211008185903/https://www2.morgan.edu/chemistry", "rel": "memento", "datetime": "Fri, 08 Oct 2021 18:59:03 GMT"}
+20211008191413 {"uri": "https://web.archive.org/web/20211008191413/https://www2.morgan.edu/chemistry", "rel": "last memento", "datetime": "Fri, 08 Oct 2021 19:14:13 GMT"}

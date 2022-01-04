@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/computer-information-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://cast.desu.edu/departments/computer-information-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://cast.desu.edu/departments/computer-information-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://cast.desu.edu/departments/computer-information-sciences", "json_format": "http://localhost:1208/timemap/json/https://cast.desu.edu/departments/computer-information-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/computer-information-sciences"}}
+20200921000400 {"uri": "https://web.archive.org/web/20200921000400/https://cast.desu.edu/departments/computer-information-sciences", "rel": "first memento", "datetime": "Mon, 21 Sep 2020 00:04:00 GMT"}
+20201202163334 {"uri": "https://web.archive.org/web/20201202163334/https://cast.desu.edu/departments/computer-information-sciences", "rel": "memento", "datetime": "Wed, 02 Dec 2020 16:33:34 GMT"}
+20210306045557 {"uri": "https://web.archive.org/web/20210306045557/https://cast.desu.edu/departments/computer-information-sciences", "rel": "memento", "datetime": "Sat, 06 Mar 2021 04:55:57 GMT"}
+20210914181715 {"uri": "https://arquivo.pt/noFrame/replay/20210914181715mp_/https://cast.desu.edu/departments/computer-information-sciences", "rel": "last memento", "datetime": "Tue, 14 Sep 2021 18:17:15 GMT"}

@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture"}}
+20200812231408 {"uri": "https://web.archive.org/web/20200812231408/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 23:14:08 GMT"}
+20201029042101 {"uri": "https://web.archive.org/web/20201029042101/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "memento", "datetime": "Thu, 29 Oct 2020 04:21:01 GMT"}
+20210125032715 {"uri": "https://web.archive.org/web/20210125032715/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "memento", "datetime": "Mon, 25 Jan 2021 03:27:15 GMT"}
+20210226034005 {"uri": "https://web.archive.org/web/20210226034005/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "memento", "datetime": "Fri, 26 Feb 2021 03:40:05 GMT"}
+20210420093116 {"uri": "https://web.archive.org/web/20210420093116/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "memento", "datetime": "Tue, 20 Apr 2021 09:31:16 GMT"}
+20210425173355 {"uri": "https://web.archive.org/web/20210425173355/http://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "memento", "datetime": "Sun, 25 Apr 2021 17:33:55 GMT"}
+20210513143038 {"uri": "https://web.archive.org/web/20210513143038/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "memento", "datetime": "Thu, 13 May 2021 14:30:38 GMT"}
+20210525200526 {"uri": "https://web.archive.org/web/20210525200526/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "memento", "datetime": "Tue, 25 May 2021 20:05:26 GMT"}
+20210531014159 {"uri": "https://web.archive.org/web/20210531014159/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "memento", "datetime": "Mon, 31 May 2021 01:41:59 GMT"}
+20211211223329 {"uri": "https://web.archive.org/web/20211211223329/http://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "memento", "datetime": "Sat, 11 Dec 2021 22:33:29 GMT"}
+20211211223330 {"uri": "https://web.archive.org/web/20211211223330/https://www.tuskegee.edu/programs-courses/colleges-schools/tsacs/department-of-architecture", "rel": "last memento", "datetime": "Sat, 11 Dec 2021 22:33:30 GMT"}

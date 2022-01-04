@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital"}}
+20200812235519 {"uri": "https://web.archive.org/web/20200812235519/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 23:55:19 GMT"}
+20201029050513 {"uri": "https://web.archive.org/web/20201029050513/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:05:13 GMT"}
+20210125041905 {"uri": "https://web.archive.org/web/20210125041905/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:19:05 GMT"}
+20210303180746 {"uri": "https://web.archive.org/web/20210303180746/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital", "rel": "memento", "datetime": "Wed, 03 Mar 2021 18:07:46 GMT"}
+20210420084349 {"uri": "https://web.archive.org/web/20210420084349/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/veterinary-medical-teaching-hospital", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 08:43:49 GMT"}

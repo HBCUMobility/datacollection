@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/English--Foreign-Languages-Home"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://libarts.hamptonu.edu/page/English--Foreign-Languages-Home"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://libarts.hamptonu.edu/page/English--Foreign-Languages-Home"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://libarts.hamptonu.edu/page/English--Foreign-Languages-Home", "json_format": "http://localhost:1208/timemap/json/http://libarts.hamptonu.edu/page/English--Foreign-Languages-Home", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/English--Foreign-Languages-Home"}}
+20190329175612 {"uri": "https://web.archive.org/web/20190329175612/http://libarts.hamptonu.edu:80/page/English--Foreign-Languages-Home", "rel": "first memento", "datetime": "Fri, 29 Mar 2019 17:56:12 GMT"}
+20191208140520 {"uri": "https://web.archive.org/web/20191208140520/http://libarts.hamptonu.edu:80/page/English--Foreign-Languages-Home", "rel": "memento", "datetime": "Sun, 08 Dec 2019 14:05:20 GMT"}
+20200206200754 {"uri": "https://web.archive.org/web/20200206200754/http://libarts.hamptonu.edu:80/page/English--Foreign-Languages-Home", "rel": "memento", "datetime": "Thu, 06 Feb 2020 20:07:54 GMT"}
+20200321105516 {"uri": "https://web.archive.org/web/20200321105516/http://libarts.hamptonu.edu:80/page/English--Foreign-Languages-Home", "rel": "memento", "datetime": "Sat, 21 Mar 2020 10:55:16 GMT"}
+20200720060031 {"uri": "https://web.archive.org/web/20200720060031/http://libarts.hamptonu.edu:80/page/English--Foreign-Languages-Home", "rel": "memento", "datetime": "Mon, 20 Jul 2020 06:00:31 GMT"}
+20210510075919 {"uri": "https://web.archive.org/web/20210510075919/http://libarts.hamptonu.edu/page/English--Foreign-Languages-Home", "rel": "last memento", "datetime": "Mon, 10 May 2021 07:59:19 GMT"}

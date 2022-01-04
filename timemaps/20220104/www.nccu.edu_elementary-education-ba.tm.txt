@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/elementary-education-ba"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/academics/undergraduate-programs/elementary-education-ba"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/academics/undergraduate-programs/elementary-education-ba"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/academics/undergraduate-programs/elementary-education-ba", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/academics/undergraduate-programs/elementary-education-ba", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/elementary-education-ba"}}
+20200109005847 {"uri": "https://web.archive.org/web/20200109005847/http://www.nccu.edu:80/academics/undergraduate-programs/elementary-education-ba", "rel": "first memento", "datetime": "Thu, 09 Jan 2020 00:58:47 GMT"}
+20200810022434 {"uri": "https://web.archive.org/web/20200810022434/https://www.nccu.edu/academics/undergraduate-programs/elementary-education-ba", "rel": "memento", "datetime": "Mon, 10 Aug 2020 02:24:34 GMT"}
+20210124213303 {"uri": "https://web.archive.org/web/20210124213303/https://www.nccu.edu/academics/undergraduate-programs/elementary-education-ba", "rel": "last memento", "datetime": "Sun, 24 Jan 2021 21:33:03 GMT"}

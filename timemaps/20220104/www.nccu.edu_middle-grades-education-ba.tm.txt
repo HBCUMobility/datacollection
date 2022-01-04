@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/middle-grades-education-ba"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/academics/undergraduate-programs/middle-grades-education-ba"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/academics/undergraduate-programs/middle-grades-education-ba"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/academics/undergraduate-programs/middle-grades-education-ba", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/academics/undergraduate-programs/middle-grades-education-ba", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/undergraduate-programs/middle-grades-education-ba"}}
+20200109010208 {"uri": "https://web.archive.org/web/20200109010208/http://www.nccu.edu:80/academics/undergraduate-programs/middle-grades-education-ba", "rel": "first memento", "datetime": "Thu, 09 Jan 2020 01:02:08 GMT"}
+20200805054308 {"uri": "https://web.archive.org/web/20200805054308/https://www.nccu.edu/academics/undergraduate-programs/middle-grades-education-ba", "rel": "memento", "datetime": "Wed, 05 Aug 2020 05:43:08 GMT"}
+20201205004639 {"uri": "https://web.archive.org/web/20201205004639/https://www.nccu.edu/academics/undergraduate-programs/middle-grades-education-ba", "rel": "last memento", "datetime": "Sat, 05 Dec 2020 00:46:39 GMT"}

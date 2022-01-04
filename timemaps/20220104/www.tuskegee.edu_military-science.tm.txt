@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/military-science"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science"}}
+20200814140333 {"uri": "https://web.archive.org/web/20200814140333/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science", "rel": "first memento", "datetime": "Fri, 14 Aug 2020 14:03:33 GMT"}
+20201021023541 {"uri": "https://web.archive.org/web/20201021023541/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science", "rel": "memento", "datetime": "Wed, 21 Oct 2020 02:35:41 GMT"}
+20210121060332 {"uri": "https://web.archive.org/web/20210121060332/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science", "rel": "memento", "datetime": "Thu, 21 Jan 2021 06:03:32 GMT"}
+20210420091527 {"uri": "https://web.archive.org/web/20210420091527/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science", "rel": "memento", "datetime": "Tue, 20 Apr 2021 09:15:27 GMT"}
+20210421051905 {"uri": "https://web.archive.org/web/20210421051905/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science", "rel": "memento", "datetime": "Wed, 21 Apr 2021 05:19:05 GMT"}
+20211127075629 {"uri": "https://web.archive.org/web/20211127075629/https://www.tuskegee.edu/programs-courses/colleges-schools/military-science", "rel": "last memento", "datetime": "Sat, 27 Nov 2021 07:56:29 GMT"}

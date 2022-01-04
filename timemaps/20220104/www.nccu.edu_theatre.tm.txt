@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/theatre"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/cash/theatre"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/cash/theatre"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/cash/theatre", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/cash/theatre", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/theatre"}}
+20201101015513 {"uri": "https://web.archive.org/web/20201101015513/https://www.nccu.edu/cash/theatre", "rel": "first memento", "datetime": "Sun, 01 Nov 2020 01:55:13 GMT"}
+20210222140155 {"uri": "https://web.archive.org/web/20210222140155/https://www.nccu.edu/cash/theatre", "rel": "last memento", "datetime": "Mon, 22 Feb 2021 14:01:55 GMT"}

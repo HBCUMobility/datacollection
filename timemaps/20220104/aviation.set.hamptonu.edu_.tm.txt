@@ -1,0 +1,55 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://aviation.set.hamptonu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://aviation.set.hamptonu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://aviation.set.hamptonu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://aviation.set.hamptonu.edu/", "json_format": "http://localhost:1208/timemap/json/http://aviation.set.hamptonu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://aviation.set.hamptonu.edu/"}}
+20150529070641 {"uri": "https://web.archive.org/web/20150529070641/http://aviation.set.hamptonu.edu:80/", "rel": "first memento", "datetime": "Fri, 29 May 2015 07:06:41 GMT"}
+20150629121046 {"uri": "https://web.archive.org/web/20150629121046/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 29 Jun 2015 12:10:46 GMT"}
+20151213123520 {"uri": "https://web.archive.org/web/20151213123520/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 13 Dec 2015 12:35:20 GMT"}
+20160113134434 {"uri": "https://web.archive.org/web/20160113134434/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 13 Jan 2016 13:44:34 GMT"}
+20160305051045 {"uri": "https://web.archive.org/web/20160305051045/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 05 Mar 2016 05:10:45 GMT"}
+20160404195039 {"uri": "https://web.archive.org/web/20160404195039/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 04 Apr 2016 19:50:39 GMT"}
+20160507005910 {"uri": "https://web.archive.org/web/20160507005910/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 07 May 2016 00:59:10 GMT"}
+20160607175721 {"uri": "https://web.archive.org/web/20160607175721/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 07 Jun 2016 17:57:21 GMT"}
+20170418181123 {"uri": "https://web.archive.org/web/20170418181123/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 18 Apr 2017 18:11:23 GMT"}
+20170523094014 {"uri": "https://web.archive.org/web/20170523094014/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 23 May 2017 09:40:14 GMT"}
+20170623071143 {"uri": "https://web.archive.org/web/20170623071143/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 23 Jun 2017 07:11:43 GMT"}
+20170723223731 {"uri": "https://web.archive.org/web/20170723223731/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 23 Jul 2017 22:37:31 GMT"}
+20170823171612 {"uri": "https://web.archive.org/web/20170823171612/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 23 Aug 2017 17:16:12 GMT"}
+20170923173545 {"uri": "https://web.archive.org/web/20170923173545/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 23 Sep 2017 17:35:45 GMT"}
+20180427184305 {"uri": "https://web.archive.org/web/20180427184305/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 27 Apr 2018 18:43:05 GMT"}
+20180429064400 {"uri": "https://web.archive.org/web/20180429064400/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 29 Apr 2018 06:44:00 GMT"}
+20180614144403 {"uri": "https://web.archive.org/web/20180614144403/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 14 Jun 2018 14:44:03 GMT"}
+20180620092758 {"uri": "https://web.archive.org/web/20180620092758/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 20 Jun 2018 09:27:58 GMT"}
+20180716042221 {"uri": "https://web.archive.org/web/20180716042221/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 16 Jul 2018 04:22:21 GMT"}
+20180816014746 {"uri": "https://web.archive.org/web/20180816014746/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 16 Aug 2018 01:47:46 GMT"}
+20180821053023 {"uri": "https://web.archive.org/web/20180821053023/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 21 Aug 2018 05:30:23 GMT"}
+20180916075323 {"uri": "https://web.archive.org/web/20180916075323/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 16 Sep 2018 07:53:23 GMT"}
+20181022002712 {"uri": "https://web.archive.org/web/20181022002712/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 22 Oct 2018 00:27:12 GMT"}
+20181109185226 {"uri": "https://web.archive.org/web/20181109185226/http://aviation.set.hamptonu.edu/", "rel": "memento", "datetime": "Fri, 09 Nov 2018 18:52:26 GMT"}
+20181224093908 {"uri": "https://web.archive.org/web/20181224093908/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 24 Dec 2018 09:39:08 GMT"}
+20181226054343 {"uri": "https://web.archive.org/web/20181226054343/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 26 Dec 2018 05:43:43 GMT"}
+20181231040423 {"uri": "https://web.archive.org/web/20181231040423/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 31 Dec 2018 04:04:23 GMT"}
+20190201031232 {"uri": "https://web.archive.org/web/20190201031232/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 01 Feb 2019 03:12:32 GMT"}
+20190225072008 {"uri": "https://web.archive.org/web/20190225072008/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 25 Feb 2019 07:20:08 GMT"}
+20190304072254 {"uri": "https://web.archive.org/web/20190304072254/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 04 Mar 2019 07:22:54 GMT"}
+20190404163233 {"uri": "https://web.archive.org/web/20190404163233/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 04 Apr 2019 16:32:33 GMT"}
+20190427153820 {"uri": "https://web.archive.org/web/20190427153820/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 27 Apr 2019 15:38:20 GMT"}
+20190505170407 {"uri": "https://web.archive.org/web/20190505170407/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 05 May 2019 17:04:07 GMT"}
+20190605223913 {"uri": "https://web.archive.org/web/20190605223913/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 05 Jun 2019 22:39:13 GMT"}
+20190627103229 {"uri": "https://web.archive.org/web/20190627103229/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 27 Jun 2019 10:32:29 GMT"}
+20190707134747 {"uri": "https://web.archive.org/web/20190707134747/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 07 Jul 2019 13:47:47 GMT"}
+20190805210731 {"uri": "https://web.archive.org/web/20190805210731/http://aviation.set.hamptonu.edu/", "rel": "memento", "datetime": "Mon, 05 Aug 2019 21:07:31 GMT"}
+20190807214713 {"uri": "https://web.archive.org/web/20190807214713/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 07 Aug 2019 21:47:13 GMT"}
+20190827043152 {"uri": "https://web.archive.org/web/20190827043152/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 27 Aug 2019 04:31:52 GMT"}
+20190907231132 {"uri": "https://web.archive.org/web/20190907231132/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 07 Sep 2019 23:11:32 GMT"}
+20191021022135 {"uri": "https://web.archive.org/web/20191021022135/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 21 Oct 2019 02:21:35 GMT"}
+20191027051739 {"uri": "https://web.archive.org/web/20191027051739/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 27 Oct 2019 05:17:39 GMT"}
+20191226103155 {"uri": "https://web.archive.org/web/20191226103155/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Thu, 26 Dec 2019 10:31:55 GMT"}
+20200224194009 {"uri": "https://web.archive.org/web/20200224194009/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 24 Feb 2020 19:40:09 GMT"}
+20200628180544 {"uri": "https://web.archive.org/web/20200628180544/http://aviation.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 28 Jun 2020 18:05:44 GMT"}
+20201023050046 {"uri": "https://web.archive.org/web/20201023050046/http://aviation.set.hamptonu.edu/", "rel": "memento", "datetime": "Fri, 23 Oct 2020 05:00:46 GMT"}
+20210309200248 {"uri": "https://web.archive.org/web/20210309200248/http://aviation.set.hamptonu.edu/", "rel": "memento", "datetime": "Tue, 09 Mar 2021 20:02:48 GMT"}
+20210825050841 {"uri": "https://web.archive.org/web/20210825050841/http://aviation.set.hamptonu.edu/", "rel": "memento", "datetime": "Wed, 25 Aug 2021 05:08:41 GMT"}
+20210923041609 {"uri": "https://arquivo.pt/noFrame/replay/20210923041609mp_/http://aviation.set.hamptonu.edu/", "rel": "last memento", "datetime": "Thu, 23 Sep 2021 04:16:09 GMT"}

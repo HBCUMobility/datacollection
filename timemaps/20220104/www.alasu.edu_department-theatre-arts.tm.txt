@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts"}}
+20181112213829 {"uri": "https://web.archive.org/web/20181112213829/http://www.alasu.edu:80/cvpa/theatre-arts/department-theatre-arts", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:38:29 GMT"}
+20200518122052 {"uri": "https://web.archive.org/web/20200518122052/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "rel": "memento", "datetime": "Mon, 18 May 2020 12:20:52 GMT"}
+20200526235834 {"uri": "https://web.archive.org/web/20200526235834/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "rel": "memento", "datetime": "Tue, 26 May 2020 23:58:34 GMT"}
+20200620025325 {"uri": "https://web.archive.org/web/20200620025325/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "rel": "memento", "datetime": "Sat, 20 Jun 2020 02:53:25 GMT"}
+20200921185405 {"uri": "https://web.archive.org/web/20200921185405/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "rel": "memento", "datetime": "Mon, 21 Sep 2020 18:54:05 GMT"}
+20210205160754 {"uri": "https://web.archive.org/web/20210205160754/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "rel": "memento", "datetime": "Fri, 05 Feb 2021 16:07:54 GMT"}
+20210216104053 {"uri": "https://web.archive.org/web/20210216104053/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "rel": "memento", "datetime": "Tue, 16 Feb 2021 10:40:53 GMT"}
+20210228131519 {"uri": "https://web.archive.org/web/20210228131519/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "rel": "memento", "datetime": "Sun, 28 Feb 2021 13:15:19 GMT"}
+20210417034420 {"uri": "https://web.archive.org/web/20210417034420/https://www.alasu.edu/cvpa/theatre-arts/department-theatre-arts", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 03:44:20 GMT"}

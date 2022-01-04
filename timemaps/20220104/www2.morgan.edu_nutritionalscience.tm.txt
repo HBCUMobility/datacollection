@@ -1,0 +1,29 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/schp/nutritionalscience"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/schp/nutritionalscience"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/schp/nutritionalscience"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/schp/nutritionalscience", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/schp/nutritionalscience", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/schp/nutritionalscience"}}
+20171103191653 {"uri": "https://web.archive.org/web/20171103191653/http://morgan.edu:80/schp/nutritionalscience", "rel": "first memento", "datetime": "Fri, 03 Nov 2017 19:16:53 GMT"}
+20180116143249 {"uri": "https://web.archive.org/web/20180116143249/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Tue, 16 Jan 2018 14:32:49 GMT"}
+20180221171537 {"uri": "https://web.archive.org/web/20180221171537/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Wed, 21 Feb 2018 17:15:37 GMT"}
+20180329200328 {"uri": "https://web.archive.org/web/20180329200328/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Thu, 29 Mar 2018 20:03:28 GMT"}
+20180505151056 {"uri": "https://web.archive.org/web/20180505151056/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Sat, 05 May 2018 15:10:56 GMT"}
+20180606032602 {"uri": "https://web.archive.org/web/20180606032602/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Wed, 06 Jun 2018 03:26:02 GMT"}
+20180709120451 {"uri": "https://web.archive.org/web/20180709120451/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Mon, 09 Jul 2018 12:04:51 GMT"}
+20180813220006 {"uri": "https://web.archive.org/web/20180813220006/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Mon, 13 Aug 2018 22:00:06 GMT"}
+20180815063247 {"uri": "https://web.archive.org/web/20180815063247/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Wed, 15 Aug 2018 06:32:47 GMT"}
+20180912000518 {"uri": "https://web.archive.org/web/20180912000518/https://www.morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Wed, 12 Sep 2018 00:05:18 GMT"}
+20180914133954 {"uri": "https://web.archive.org/web/20180914133954/https://www.morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Fri, 14 Sep 2018 13:39:54 GMT"}
+20180916135250 {"uri": "https://web.archive.org/web/20180916135250/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Sun, 16 Sep 2018 13:52:50 GMT"}
+20181019030703 {"uri": "https://web.archive.org/web/20181019030703/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Fri, 19 Oct 2018 03:07:03 GMT"}
+20190407160821 {"uri": "https://web.archive.org/web/20190407160821/https://www.morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Sun, 07 Apr 2019 16:08:21 GMT"}
+20190908213228 {"uri": "https://web.archive.org/web/20190908213228/http://www.morgan.edu:80/schp/nutritionalscience", "rel": "memento", "datetime": "Sun, 08 Sep 2019 21:32:28 GMT"}
+20200716024734 {"uri": "https://web.archive.org/web/20200716024734/https://www.morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Thu, 16 Jul 2020 02:47:34 GMT"}
+20200806151948 {"uri": "https://web.archive.org/web/20200806151948/https://www.morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Thu, 06 Aug 2020 15:19:48 GMT"}
+20201001081209 {"uri": "https://web.archive.org/web/20201001081209/https://www.morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Thu, 01 Oct 2020 08:12:09 GMT"}
+20210123202650 {"uri": "https://web.archive.org/web/20210123202650/https://www.morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Sat, 23 Jan 2021 20:26:50 GMT"}
+20210414041805 {"uri": "https://web.archive.org/web/20210414041805/https://morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Wed, 14 Apr 2021 04:18:05 GMT"}
+20210414132221 {"uri": "https://web.archive.org/web/20210414132221/https://www.morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Wed, 14 Apr 2021 13:22:21 GMT"}
+20210415083001 {"uri": "https://web.archive.org/web/20210415083001/https://www.morgan.edu/schp/nutritionalscience", "rel": "memento", "datetime": "Thu, 15 Apr 2021 08:30:01 GMT"}
+20210816045213 {"uri": "https://web.archive.org/web/20210816045213/https://morgan.edu/schp/nutritionalscience", "rel": "last memento", "datetime": "Mon, 16 Aug 2021 04:52:13 GMT"}

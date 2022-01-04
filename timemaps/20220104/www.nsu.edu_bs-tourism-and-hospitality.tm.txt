@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/business/bs-tourism-and-hospitality"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/business/bs-tourism-and-hospitality"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/business/bs-tourism-and-hospitality"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/business/bs-tourism-and-hospitality", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/business/bs-tourism-and-hospitality", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/business/bs-tourism-and-hospitality"}}
+20190604123018 {"uri": "https://web.archive.org/web/20190604123018/http://www.nsu.edu:80/business/bs-tourism-and-hospitality", "rel": "first memento", "datetime": "Tue, 04 Jun 2019 12:30:18 GMT"}
+20190804190952 {"uri": "https://web.archive.org/web/20190804190952/http://www.nsu.edu:80/business/bs-tourism-and-hospitality", "rel": "memento", "datetime": "Sun, 04 Aug 2019 19:09:52 GMT"}
+20191116000839 {"uri": "https://web.archive.org/web/20191116000839/http://www.nsu.edu:80/business/bs-tourism-and-hospitality", "rel": "memento", "datetime": "Sat, 16 Nov 2019 00:08:39 GMT"}
+20200116132703 {"uri": "https://web.archive.org/web/20200116132703/http://www.nsu.edu:80/business/bs-tourism-and-hospitality", "rel": "memento", "datetime": "Thu, 16 Jan 2020 13:27:03 GMT"}
+20200928080216 {"uri": "https://web.archive.org/web/20200928080216/https://www.nsu.edu/business/bs-tourism-and-hospitality", "rel": "memento", "datetime": "Mon, 28 Sep 2020 08:02:16 GMT"}
+20201030093823 {"uri": "https://web.archive.org/web/20201030093823/http://www.nsu.edu/business/bs-tourism-and-hospitality", "rel": "memento", "datetime": "Fri, 30 Oct 2020 09:38:23 GMT"}
+20210121142640 {"uri": "https://web.archive.org/web/20210121142640/https://www.nsu.edu/business/bs-tourism-and-hospitality", "rel": "memento", "datetime": "Thu, 21 Jan 2021 14:26:40 GMT"}
+20210306005420 {"uri": "https://web.archive.org/web/20210306005420/http://www.nsu.edu/business/bs-tourism-and-hospitality", "rel": "memento", "datetime": "Sat, 06 Mar 2021 00:54:20 GMT"}
+20210508185523 {"uri": "https://web.archive.org/web/20210508185523/https://www.nsu.edu/business/bs-tourism-and-hospitality", "rel": "last memento", "datetime": "Sat, 08 May 2021 18:55:23 GMT"}

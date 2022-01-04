@@ -1,0 +1,52 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://mathematics.tsu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://mathematics.tsu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://mathematics.tsu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://mathematics.tsu.edu/", "json_format": "http://localhost:1208/timemap/json/http://mathematics.tsu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://mathematics.tsu.edu/"}}
+20161117135628 {"uri": "https://web.archive.org/web/20161117135628/http://mathematics.tsu.edu:80/", "rel": "first memento", "datetime": "Thu, 17 Nov 2016 13:56:28 GMT"}
+20161215102236 {"uri": "https://web.archive.org/web/20161215102236/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 15 Dec 2016 10:22:36 GMT"}
+20161216140957 {"uri": "https://web.archive.org/web/20161216140957/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 16 Dec 2016 14:09:57 GMT"}
+20170518103732 {"uri": "https://web.archive.org/web/20170518103732/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 18 May 2017 10:37:32 GMT"}
+20170619140055 {"uri": "https://web.archive.org/web/20170619140055/http://mathematics.tsu.edu/", "rel": "memento", "datetime": "Mon, 19 Jun 2017 14:00:55 GMT"}
+20170718004521 {"uri": "https://web.archive.org/web/20170718004521/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 18 Jul 2017 00:45:21 GMT"}
+20170916221938 {"uri": "https://web.archive.org/web/20170916221938/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 16 Sep 2017 22:19:38 GMT"}
+20170919060420 {"uri": "https://web.archive.org/web/20170919060420/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 19 Sep 2017 06:04:20 GMT"}
+20171019171453 {"uri": "https://web.archive.org/web/20171019171453/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 19 Oct 2017 17:14:53 GMT"}
+20171119092359 {"uri": "https://web.archive.org/web/20171119092359/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 19 Nov 2017 09:23:59 GMT"}
+20171224170734 {"uri": "https://web.archive.org/web/20171224170734/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 24 Dec 2017 17:07:34 GMT"}
+20180324120612 {"uri": "https://web.archive.org/web/20180324120612/http://mathematics.tsu.edu/", "rel": "memento", "datetime": "Sat, 24 Mar 2018 12:06:12 GMT"}
+20180425233210 {"uri": "https://web.archive.org/web/20180425233210/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 25 Apr 2018 23:32:10 GMT"}
+20180825085529 {"uri": "https://web.archive.org/web/20180825085529/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 25 Aug 2018 08:55:29 GMT"}
+20181007175609 {"uri": "https://web.archive.org/web/20181007175609/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 07 Oct 2018 17:56:09 GMT"}
+20181019224441 {"uri": "https://web.archive.org/web/20181019224441/http://mathematics.tsu.edu/", "rel": "memento", "datetime": "Fri, 19 Oct 2018 22:44:41 GMT"}
+20181107171410 {"uri": "https://web.archive.org/web/20181107171410/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 07 Nov 2018 17:14:10 GMT"}
+20181209153309 {"uri": "https://web.archive.org/web/20181209153309/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 09 Dec 2018 15:33:09 GMT"}
+20181228103116 {"uri": "https://web.archive.org/web/20181228103116/http://mathematics.tsu.edu/", "rel": "memento", "datetime": "Fri, 28 Dec 2018 10:31:16 GMT"}
+20190109061414 {"uri": "https://web.archive.org/web/20190109061414/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 09 Jan 2019 06:14:14 GMT"}
+20190125151956 {"uri": "https://web.archive.org/web/20190125151956/http://mathematics.tsu.edu/", "rel": "memento", "datetime": "Fri, 25 Jan 2019 15:19:56 GMT"}
+20190209085057 {"uri": "https://web.archive.org/web/20190209085057/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 09 Feb 2019 08:50:57 GMT"}
+20190312203438 {"uri": "https://web.archive.org/web/20190312203438/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 12 Mar 2019 20:34:38 GMT"}
+20190412215342 {"uri": "https://web.archive.org/web/20190412215342/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 12 Apr 2019 21:53:42 GMT"}
+20190513203038 {"uri": "https://web.archive.org/web/20190513203038/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 13 May 2019 20:30:38 GMT"}
+20190614013702 {"uri": "https://web.archive.org/web/20190614013702/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 14 Jun 2019 01:37:02 GMT"}
+20190615024034 {"uri": "https://web.archive.org/web/20190615024034/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 15 Jun 2019 02:40:34 GMT"}
+20190708120634 {"uri": "https://web.archive.org/web/20190708120634/http://mathematics.tsu.edu/", "rel": "memento", "datetime": "Mon, 08 Jul 2019 12:06:34 GMT"}
+20190730101540 {"uri": "https://web.archive.org/web/20190730101540/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 30 Jul 2019 10:15:40 GMT"}
+20190731144547 {"uri": "https://web.archive.org/web/20190731144547/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 31 Jul 2019 14:45:47 GMT"}
+20190831170802 {"uri": "https://web.archive.org/web/20190831170802/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 31 Aug 2019 17:08:02 GMT"}
+20191001150256 {"uri": "https://web.archive.org/web/20191001150256/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 01 Oct 2019 15:02:56 GMT"}
+20191022105413 {"uri": "https://web.archive.org/web/20191022105413/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 22 Oct 2019 10:54:13 GMT"}
+20191029171259 {"uri": "https://web.archive.org/web/20191029171259/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 29 Oct 2019 17:12:59 GMT"}
+20191128213117 {"uri": "https://web.archive.org/web/20191128213117/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 28 Nov 2019 21:31:17 GMT"}
+20191229032811 {"uri": "https://web.archive.org/web/20191229032811/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 29 Dec 2019 03:28:11 GMT"}
+20200128055922 {"uri": "https://web.archive.org/web/20200128055922/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 28 Jan 2020 05:59:22 GMT"}
+20200406014013 {"uri": "https://web.archive.org/web/20200406014013/http://mathematics.tsu.edu/", "rel": "memento", "datetime": "Mon, 06 Apr 2020 01:40:13 GMT"}
+20200430132111 {"uri": "https://web.archive.org/web/20200430132111/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 30 Apr 2020 13:21:11 GMT"}
+20200629183720 {"uri": "https://web.archive.org/web/20200629183720/http://mathematics.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 29 Jun 2020 18:37:20 GMT"}
+20200814145535 {"uri": "https://web.archive.org/web/20200814145535/http://mathematics.tsu.edu/", "rel": "memento", "datetime": "Fri, 14 Aug 2020 14:55:35 GMT"}
+20201025221300 {"uri": "https://web.archive.org/web/20201025221300/https://mathematics.tsu.edu/", "rel": "memento", "datetime": "Sun, 25 Oct 2020 22:13:00 GMT"}
+20210126211701 {"uri": "https://web.archive.org/web/20210126211701/https://mathematics.tsu.edu/", "rel": "memento", "datetime": "Tue, 26 Jan 2021 21:17:01 GMT"}
+20210418203915 {"uri": "https://web.archive.org/web/20210418203915/https://mathematics.tsu.edu/", "rel": "memento", "datetime": "Sun, 18 Apr 2021 20:39:15 GMT"}
+20210805052830 {"uri": "https://web.archive.org/web/20210805052830/http://mathematics.tsu.edu/", "rel": "memento", "datetime": "Thu, 05 Aug 2021 05:28:30 GMT"}
+20210805052832 {"uri": "https://web.archive.org/web/20210805052832/https://mathematics.tsu.edu/", "rel": "last memento", "datetime": "Thu, 05 Aug 2021 05:28:32 GMT"}

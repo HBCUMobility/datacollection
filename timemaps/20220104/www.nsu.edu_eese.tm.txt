@@ -1,0 +1,57 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/eese"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/eese"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/eese"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/eese", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/eese", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/eese"}}
+20110624041451 {"uri": "https://web.archive.org/web/20110624041451/http://www.nsu.edu:80/eese/", "rel": "first memento", "datetime": "Fri, 24 Jun 2011 04:14:51 GMT"}
+20110624041451 {"uri": "https://web.archive.org/web/20110624041451/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Fri, 24 Jun 2011 04:14:51 GMT"}
+20110726142221 {"uri": "https://web.archive.org/web/20110726142221/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Tue, 26 Jul 2011 14:22:21 GMT"}
+20110726142221 {"uri": "https://web.archive.org/web/20110726142221/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Tue, 26 Jul 2011 14:22:21 GMT"}
+20110802233334 {"uri": "https://web.archive.org/web/20110802233334/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Tue, 02 Aug 2011 23:33:34 GMT"}
+20110809071648 {"uri": "https://web.archive.org/web/20110809071648/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Tue, 09 Aug 2011 07:16:48 GMT"}
+20110810104215 {"uri": "https://web.archive.org/web/20110810104215/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Wed, 10 Aug 2011 10:42:15 GMT"}
+20110827002931 {"uri": "https://web.archive.org/web/20110827002931/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Sat, 27 Aug 2011 00:29:31 GMT"}
+20110827002931 {"uri": "https://web.archive.org/web/20110827002931/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Sat, 27 Aug 2011 00:29:31 GMT"}
+20111014082438 {"uri": "https://web.archive.org/web/20111014082438/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Fri, 14 Oct 2011 08:24:38 GMT"}
+20111016002357 {"uri": "https://web.archive.org/web/20111016002357/http://nsu.edu/eese/", "rel": "memento", "datetime": "Sun, 16 Oct 2011 00:23:57 GMT"}
+20111211234848 {"uri": "https://web.archive.org/web/20111211234848/http://www.nsu.edu/eese/", "rel": "memento", "datetime": "Sun, 11 Dec 2011 23:48:48 GMT"}
+20111214030803 {"uri": "https://web.archive.org/web/20111214030803/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Wed, 14 Dec 2011 03:08:03 GMT"}
+20120203063904 {"uri": "https://web.archive.org/web/20120203063904/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Fri, 03 Feb 2012 06:39:04 GMT"}
+20120203063904 {"uri": "https://web.archive.org/web/20120203063904/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Fri, 03 Feb 2012 06:39:04 GMT"}
+20120304155808 {"uri": "https://web.archive.org/web/20120304155808/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Sun, 04 Mar 2012 15:58:08 GMT"}
+20120304155808 {"uri": "https://web.archive.org/web/20120304155808/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Sun, 04 Mar 2012 15:58:08 GMT"}
+20120321105025 {"uri": "https://web.archive.org/web/20120321105025/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Wed, 21 Mar 2012 10:50:25 GMT"}
+20120424024239 {"uri": "https://web.archive.org/web/20120424024239/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Tue, 24 Apr 2012 02:42:39 GMT"}
+20120424024239 {"uri": "https://web.archive.org/web/20120424024239/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Tue, 24 Apr 2012 02:42:39 GMT"}
+20120502000645 {"uri": "https://web.archive.org/web/20120502000645/http://www.nsu.edu/eese/", "rel": "memento", "datetime": "Wed, 02 May 2012 00:06:45 GMT"}
+20120502082456 {"uri": "https://web.archive.org/web/20120502082456/http://www.nsu.edu/eese/", "rel": "memento", "datetime": "Wed, 02 May 2012 08:24:56 GMT"}
+20120629172825 {"uri": "https://web.archive.org/web/20120629172825/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Fri, 29 Jun 2012 17:28:25 GMT"}
+20120712110650 {"uri": "https://web.archive.org/web/20120712110650/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Thu, 12 Jul 2012 11:06:50 GMT"}
+20120712110650 {"uri": "https://web.archive.org/web/20120712110650/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Thu, 12 Jul 2012 11:06:50 GMT"}
+20120924131955 {"uri": "https://web.archive.org/web/20120924131955/http://www.nsu.edu/eese/", "rel": "memento", "datetime": "Mon, 24 Sep 2012 13:19:55 GMT"}
+20121009155337 {"uri": "https://web.archive.org/web/20121009155337/http://www.nsu.edu/eese/", "rel": "memento", "datetime": "Tue, 09 Oct 2012 15:53:37 GMT"}
+20121010104651 {"uri": "https://web.archive.org/web/20121010104651/http://www.nsu.edu/eese/", "rel": "memento", "datetime": "Wed, 10 Oct 2012 10:46:51 GMT"}
+20121012093525 {"uri": "https://web.archive.org/web/20121012093525/http://www.nsu.edu/eese/", "rel": "memento", "datetime": "Fri, 12 Oct 2012 09:35:25 GMT"}
+20121014051023 {"uri": "https://web.archive.org/web/20121014051023/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Sun, 14 Oct 2012 05:10:23 GMT"}
+20121014051023 {"uri": "https://web.archive.org/web/20121014051023/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Sun, 14 Oct 2012 05:10:23 GMT"}
+20121030074802 {"uri": "https://web.archive.org/web/20121030074802/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Tue, 30 Oct 2012 07:48:02 GMT"}
+20121114001611 {"uri": "https://web.archive.org/web/20121114001611/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Wed, 14 Nov 2012 00:16:11 GMT"}
+20121114001611 {"uri": "https://web.archive.org/web/20121114001611/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Wed, 14 Nov 2012 00:16:11 GMT"}
+20121214122803 {"uri": "https://web.archive.org/web/20121214122803/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Fri, 14 Dec 2012 12:28:03 GMT"}
+20121214122803 {"uri": "https://web.archive.org/web/20121214122803/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Fri, 14 Dec 2012 12:28:03 GMT"}
+20121230070242 {"uri": "https://web.archive.org/web/20121230070242/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Sun, 30 Dec 2012 07:02:42 GMT"}
+20130108210038 {"uri": "https://web.archive.org/web/20130108210038/http://www.nsu.edu:80/eese/", "rel": "memento", "datetime": "Tue, 08 Jan 2013 21:00:38 GMT"}
+20130129123902 {"uri": "https://web.archive.org/web/20130129123902/http://www.nsu.edu/eese/", "rel": "memento", "datetime": "Tue, 29 Jan 2013 12:39:02 GMT"}
+20150908182511 {"uri": "https://web.archive.org/web/20150908182511/http://www.nsu.edu/eese/", "rel": "memento", "datetime": "Tue, 08 Sep 2015 18:25:11 GMT"}
+20150909213706 {"uri": "https://web.archive.org/web/20150909213706/https://www.nsu.edu/eese/", "rel": "memento", "datetime": "Wed, 09 Sep 2015 21:37:06 GMT"}
+20190615012648 {"uri": "https://web.archive.org/web/20190615012648/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Sat, 15 Jun 2019 01:26:48 GMT"}
+20190820024955 {"uri": "https://web.archive.org/web/20190820024955/http://www.nsu.edu:80/eese", "rel": "memento", "datetime": "Tue, 20 Aug 2019 02:49:55 GMT"}
+20200814011617 {"uri": "https://web.archive.org/web/20200814011617/http://www.nsu.edu/eese", "rel": "memento", "datetime": "Fri, 14 Aug 2020 01:16:17 GMT"}
+20200815173226 {"uri": "https://web.archive.org/web/20200815173226/https://www.nsu.edu/eese", "rel": "memento", "datetime": "Sat, 15 Aug 2020 17:32:26 GMT"}
+20201024140148 {"uri": "https://web.archive.org/web/20201024140148/http://www.nsu.edu/eese", "rel": "memento", "datetime": "Sat, 24 Oct 2020 14:01:48 GMT"}
+20201025030142 {"uri": "https://web.archive.org/web/20201025030142/https://www.nsu.edu/eese", "rel": "memento", "datetime": "Sun, 25 Oct 2020 03:01:42 GMT"}
+20210119202821 {"uri": "https://web.archive.org/web/20210119202821/http://www.nsu.edu/eese", "rel": "memento", "datetime": "Tue, 19 Jan 2021 20:28:21 GMT"}
+20210119223214 {"uri": "https://web.archive.org/web/20210119223214/https://www.nsu.edu/eese", "rel": "memento", "datetime": "Tue, 19 Jan 2021 22:32:14 GMT"}
+20210423162255 {"uri": "https://web.archive.org/web/20210423162255/http://www.nsu.edu/eese", "rel": "memento", "datetime": "Fri, 23 Apr 2021 16:22:55 GMT"}
+20210423180417 {"uri": "https://web.archive.org/web/20210423180417/https://www.nsu.edu/eese", "rel": "last memento", "datetime": "Fri, 23 Apr 2021 18:04:17 GMT"}

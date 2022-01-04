@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/college-liberal-arts-social-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/clas/college-liberal-arts-social-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/clas/college-liberal-arts-social-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/clas/college-liberal-arts-social-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/clas/college-liberal-arts-social-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/college-liberal-arts-social-sciences"}}
+20181112185407 {"uri": "https://web.archive.org/web/20181112185407/http://www.alasu.edu:80/clas/college-liberal-arts-social-sciences", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 18:54:07 GMT"}
+20200813003622 {"uri": "https://web.archive.org/web/20200813003622/https://www.alasu.edu/clas/college-liberal-arts-social-sciences", "rel": "memento", "datetime": "Thu, 13 Aug 2020 00:36:22 GMT"}
+20201031021657 {"uri": "https://web.archive.org/web/20201031021657/https://www.alasu.edu/clas/college-liberal-arts-social-sciences", "rel": "memento", "datetime": "Sat, 31 Oct 2020 02:16:57 GMT"}
+20210417055755 {"uri": "https://web.archive.org/web/20210417055755/https://www.alasu.edu/clas/college-liberal-arts-social-sciences", "rel": "memento", "datetime": "Sat, 17 Apr 2021 05:57:55 GMT"}
+20210509052837 {"uri": "https://web.archive.org/web/20210509052837/https://www.alasu.edu/clas/college-liberal-arts-social-sciences", "rel": "last memento", "datetime": "Sun, 09 May 2021 05:28:37 GMT"}

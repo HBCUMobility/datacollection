@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/chemistry-physics-engineering-science-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/chemistry-physics-engineering-science-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/chemistry-physics-engineering-science-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/chemistry-physics-engineering-science-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/chemistry-physics-engineering-science-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/chemistry-physics-engineering-science-department"}}
+20210420221145 {"uri": "https://web.archive.org/web/20210420221145/https://www.lincoln.edu/departments/chemistry-physics-engineering-science-department", "rel": "first last memento", "datetime": "Tue, 20 Apr 2021 22:11:45 GMT"}

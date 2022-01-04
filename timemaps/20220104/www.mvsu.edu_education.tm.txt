@@ -1,0 +1,32 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/education"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.mvsu.edu/academics/academic-programs/education"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.mvsu.edu/academics/academic-programs/education"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.mvsu.edu/academics/academic-programs/education", "json_format": "http://localhost:1208/timemap/json/https://www.mvsu.edu/academics/academic-programs/education", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/education"}}
+20170526143826 {"uri": "https://web.archive.org/web/20170526143826/http://www.mvsu.edu:80/academics/academic-programs/education", "rel": "first memento", "datetime": "Fri, 26 May 2017 14:38:26 GMT"}
+20170706061813 {"uri": "https://web.archive.org/web/20170706061813/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Thu, 06 Jul 2017 06:18:13 GMT"}
+20171024032901 {"uri": "https://web.archive.org/web/20171024032901/http://www.mvsu.edu:80/academics/academic-programs/education", "rel": "memento", "datetime": "Tue, 24 Oct 2017 03:29:01 GMT"}
+20190804000216 {"uri": "https://web.archive.org/web/20190804000216/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Sun, 04 Aug 2019 00:02:16 GMT"}
+20190929083944 {"uri": "https://web.archive.org/web/20190929083944/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Sun, 29 Sep 2019 08:39:44 GMT"}
+20200513085550 {"uri": "https://web.archive.org/web/20200513085550/https://mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Wed, 13 May 2020 08:55:50 GMT"}
+20200526055031 {"uri": "https://web.archive.org/web/20200526055031/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Tue, 26 May 2020 05:50:31 GMT"}
+20200610200253 {"uri": "https://web.archive.org/web/20200610200253/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Wed, 10 Jun 2020 20:02:53 GMT"}
+20200621031217 {"uri": "https://web.archive.org/web/20200621031217/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Sun, 21 Jun 2020 03:12:17 GMT"}
+20200723022558 {"uri": "https://web.archive.org/web/20200723022558/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Thu, 23 Jul 2020 02:25:58 GMT"}
+20200723022611 {"uri": "https://web.archive.org/web/20200723022611/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Thu, 23 Jul 2020 02:26:11 GMT"}
+20200811101246 {"uri": "https://web.archive.org/web/20200811101246/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Tue, 11 Aug 2020 10:12:46 GMT"}
+20200815035639 {"uri": "https://web.archive.org/web/20200815035639/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Sat, 15 Aug 2020 03:56:39 GMT"}
+20200904095345 {"uri": "https://web.archive.org/web/20200904095345/https://mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Fri, 04 Sep 2020 09:53:45 GMT"}
+20200926052130 {"uri": "https://web.archive.org/web/20200926052130/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Sat, 26 Sep 2020 05:21:30 GMT"}
+20201023104014 {"uri": "https://web.archive.org/web/20201023104014/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Fri, 23 Oct 2020 10:40:14 GMT"}
+20210127223702 {"uri": "https://web.archive.org/web/20210127223702/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Wed, 27 Jan 2021 22:37:02 GMT"}
+20210415011311 {"uri": "https://web.archive.org/web/20210415011311/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Thu, 15 Apr 2021 01:13:11 GMT"}
+20210417222224 {"uri": "https://web.archive.org/web/20210417222224/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Sat, 17 Apr 2021 22:22:24 GMT"}
+20210515201028 {"uri": "https://web.archive.org/web/20210515201028/https://mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Sat, 15 May 2021 20:10:28 GMT"}
+20210522094926 {"uri": "https://web.archive.org/web/20210522094926/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Sat, 22 May 2021 09:49:26 GMT"}
+20210601190047 {"uri": "https://web.archive.org/web/20210601190047/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Tue, 01 Jun 2021 19:00:47 GMT"}
+20210627012101 {"uri": "https://web.archive.org/web/20210627012101/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Sun, 27 Jun 2021 01:21:01 GMT"}
+20210812024523 {"uri": "https://web.archive.org/web/20210812024523/https://mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Thu, 12 Aug 2021 02:45:23 GMT"}
+20211221235117 {"uri": "https://web.archive.org/web/20211221235117/https://www.mvsu.edu/academics/academic-programs/education", "rel": "memento", "datetime": "Tue, 21 Dec 2021 23:51:17 GMT"}
+20211222004544 {"uri": "https://web.archive.org/web/20211222004544/https://www.mvsu.edu/academics/academic-programs/education", "rel": "last memento", "datetime": "Wed, 22 Dec 2021 00:45:44 GMT"}

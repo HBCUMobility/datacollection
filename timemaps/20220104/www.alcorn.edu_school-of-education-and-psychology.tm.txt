@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "json_format": "http://localhost:1208/timemap/json/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology"}}
+20190507104646 {"uri": "https://web.archive.org/web/20190507104646/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "first memento", "datetime": "Tue, 07 May 2019 10:46:46 GMT"}
+20190512183555 {"uri": "https://web.archive.org/web/20190512183555/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Sun, 12 May 2019 18:35:55 GMT"}
+20200414071035 {"uri": "https://web.archive.org/web/20200414071035/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Tue, 14 Apr 2020 07:10:35 GMT"}
+20200531054954 {"uri": "https://web.archive.org/web/20200531054954/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Sun, 31 May 2020 05:49:54 GMT"}
+20200618131923 {"uri": "https://web.archive.org/web/20200618131923/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Thu, 18 Jun 2020 13:19:23 GMT"}
+20200722110721 {"uri": "https://web.archive.org/web/20200722110721/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:07:21 GMT"}
+20200722110726 {"uri": "https://web.archive.org/web/20200722110726/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:07:26 GMT"}
+20200929171420 {"uri": "https://web.archive.org/web/20200929171420/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Tue, 29 Sep 2020 17:14:20 GMT"}
+20201009054116 {"uri": "https://web.archive.org/web/20201009054116/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Fri, 09 Oct 2020 05:41:16 GMT"}
+20210125105434 {"uri": "https://web.archive.org/web/20210125105434/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Mon, 25 Jan 2021 10:54:34 GMT"}
+20210416053302 {"uri": "https://web.archive.org/web/20210416053302/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Fri, 16 Apr 2021 05:33:02 GMT"}
+20210420133140 {"uri": "https://web.archive.org/web/20210420133140/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Tue, 20 Apr 2021 13:31:40 GMT"}
+20210925115306 {"uri": "https://web.archive.org/web/20210925115306/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "memento", "datetime": "Sat, 25 Sep 2021 11:53:06 GMT"}
+20211210102218 {"uri": "https://web.archive.org/web/20211210102218/https://www.alcorn.edu/academics/schools-and-departments/school-of-education-and-psychology", "rel": "last memento", "datetime": "Fri, 10 Dec 2021 10:22:18 GMT"}

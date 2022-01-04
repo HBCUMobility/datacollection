@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology"}}
+20200813000613 {"uri": "https://web.archive.org/web/20200813000613/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:06:13 GMT"}
+20201029051605 {"uri": "https://web.archive.org/web/20201029051605/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:16:05 GMT"}
+20210125043147 {"uri": "https://web.archive.org/web/20210125043147/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:31:47 GMT"}
+20210410143256 {"uri": "https://web.archive.org/web/20210410143256/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:32:56 GMT"}
+20210420011539 {"uri": "https://web.archive.org/web/20210420011539/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology", "rel": "memento", "datetime": "Tue, 20 Apr 2021 01:15:39 GMT"}
+20210420085957 {"uri": "https://web.archive.org/web/20210420085957/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/biology", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 08:59:57 GMT"}

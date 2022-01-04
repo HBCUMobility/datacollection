@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm"}}
+20200813000541 {"uri": "https://web.archive.org/web/20200813000541/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:05:41 GMT"}
+20201029051532 {"uri": "https://web.archive.org/web/20201029051532/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:15:32 GMT"}
+20210125043113 {"uri": "https://web.archive.org/web/20210125043113/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:31:13 GMT"}
+20210410143226 {"uri": "https://web.archive.org/web/20210410143226/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:32:26 GMT"}
+20210420063638 {"uri": "https://web.archive.org/web/20210420063638/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/graduate-program-at-cvm", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 06:36:38 GMT"}

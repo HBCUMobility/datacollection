@@ -1,0 +1,66 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/medtech"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/medtech"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/medtech"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/medtech", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/medtech", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/medtech"}}
+20150705025920 {"uri": "https://web.archive.org/web/20150705025920/http://www.morgan.edu:80/medtech", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 02:59:20 GMT"}
+20150904071850 {"uri": "https://web.archive.org/web/20150904071850/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Fri, 04 Sep 2015 07:18:50 GMT"}
+20150905161004 {"uri": "https://web.archive.org/web/20150905161004/http://www.morgan.edu/medtech", "rel": "memento", "datetime": "Sat, 05 Sep 2015 16:10:04 GMT"}
+20151003015303 {"uri": "https://web.archive.org/web/20151003015303/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Sat, 03 Oct 2015 01:53:03 GMT"}
+20151103052413 {"uri": "https://web.archive.org/web/20151103052413/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 03 Nov 2015 05:24:13 GMT"}
+20151205120547 {"uri": "https://web.archive.org/web/20151205120547/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Sat, 05 Dec 2015 12:05:47 GMT"}
+20151224134348 {"uri": "https://web.archive.org/web/20151224134348/http://www.morgan.edu/medtech", "rel": "memento", "datetime": "Thu, 24 Dec 2015 13:43:48 GMT"}
+20160112013237 {"uri": "https://web.archive.org/web/20160112013237/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 12 Jan 2016 01:32:37 GMT"}
+20160301220355 {"uri": "https://web.archive.org/web/20160301220355/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 01 Mar 2016 22:03:55 GMT"}
+20160322133206 {"uri": "https://web.archive.org/web/20160322133206/http://www.morgan.edu/medtech", "rel": "memento", "datetime": "Tue, 22 Mar 2016 13:32:06 GMT"}
+20160414045849 {"uri": "https://web.archive.org/web/20160414045849/http://morgan.edu/medtech", "rel": "memento", "datetime": "Thu, 14 Apr 2016 04:58:49 GMT"}
+20160507211615 {"uri": "https://web.archive.org/web/20160507211615/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Sat, 07 May 2016 21:16:15 GMT"}
+20160508225628 {"uri": "https://web.archive.org/web/20160508225628/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Sun, 08 May 2016 22:56:28 GMT"}
+20160516001947 {"uri": "https://web.archive.org/web/20160516001947/http://www.morgan.edu/medtech", "rel": "memento", "datetime": "Mon, 16 May 2016 00:19:47 GMT"}
+20160609004034 {"uri": "https://web.archive.org/web/20160609004034/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Thu, 09 Jun 2016 00:40:34 GMT"}
+20160819044546 {"uri": "https://web.archive.org/web/20160819044546/http://www.morgan.edu/medtech", "rel": "memento", "datetime": "Fri, 19 Aug 2016 04:45:46 GMT"}
+20170410145043 {"uri": "https://web.archive.org/web/20170410145043/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Mon, 10 Apr 2017 14:50:43 GMT"}
+20170504085509 {"uri": "https://web.archive.org/web/20170504085509/http://morgan.edu/medtech", "rel": "memento", "datetime": "Thu, 04 May 2017 08:55:09 GMT"}
+20170613120651 {"uri": "https://web.archive.org/web/20170613120651/http://morgan.edu/medtech", "rel": "memento", "datetime": "Tue, 13 Jun 2017 12:06:51 GMT"}
+20170708041028 {"uri": "https://web.archive.org/web/20170708041028/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Sat, 08 Jul 2017 04:10:28 GMT"}
+20171003055156 {"uri": "https://web.archive.org/web/20171003055156/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 03 Oct 2017 05:51:56 GMT"}
+20171101113444 {"uri": "https://web.archive.org/web/20171101113444/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Wed, 01 Nov 2017 11:34:44 GMT"}
+20171105044419 {"uri": "https://web.archive.org/web/20171105044419/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Sun, 05 Nov 2017 04:44:19 GMT"}
+20171207081430 {"uri": "https://web.archive.org/web/20171207081430/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Thu, 07 Dec 2017 08:14:30 GMT"}
+20171207082236 {"uri": "https://web.archive.org/web/20171207082236/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Thu, 07 Dec 2017 08:22:36 GMT"}
+20180112074451 {"uri": "https://web.archive.org/web/20180112074451/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Fri, 12 Jan 2018 07:44:51 GMT"}
+20180112080212 {"uri": "https://web.archive.org/web/20180112080212/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Fri, 12 Jan 2018 08:02:12 GMT"}
+20180214101322 {"uri": "https://web.archive.org/web/20180214101322/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Wed, 14 Feb 2018 10:13:22 GMT"}
+20180214111139 {"uri": "https://web.archive.org/web/20180214111139/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Wed, 14 Feb 2018 11:11:39 GMT"}
+20180215120554 {"uri": "https://web.archive.org/web/20180215120554/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Thu, 15 Feb 2018 12:05:54 GMT"}
+20180215160554 {"uri": "https://web.archive.org/web/20180215160554/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Thu, 15 Feb 2018 16:05:54 GMT"}
+20180319011822 {"uri": "https://web.archive.org/web/20180319011822/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Mon, 19 Mar 2018 01:18:22 GMT"}
+20180319084704 {"uri": "https://web.archive.org/web/20180319084704/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Mon, 19 Mar 2018 08:47:04 GMT"}
+20180320041503 {"uri": "https://web.archive.org/web/20180320041503/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 20 Mar 2018 04:15:03 GMT"}
+20180320082200 {"uri": "https://web.archive.org/web/20180320082200/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 20 Mar 2018 08:22:00 GMT"}
+20180421141450 {"uri": "https://web.archive.org/web/20180421141450/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Sat, 21 Apr 2018 14:14:50 GMT"}
+20180421182829 {"uri": "https://web.archive.org/web/20180421182829/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Sat, 21 Apr 2018 18:28:29 GMT"}
+20180529025645 {"uri": "https://web.archive.org/web/20180529025645/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 29 May 2018 02:56:45 GMT"}
+20180529140316 {"uri": "https://web.archive.org/web/20180529140316/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 29 May 2018 14:03:16 GMT"}
+20180530102040 {"uri": "https://web.archive.org/web/20180530102040/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Wed, 30 May 2018 10:20:40 GMT"}
+20180630092941 {"uri": "https://web.archive.org/web/20180630092941/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Sat, 30 Jun 2018 09:29:41 GMT"}
+20180701025307 {"uri": "https://web.archive.org/web/20180701025307/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Sun, 01 Jul 2018 02:53:07 GMT"}
+20180802021937 {"uri": "https://web.archive.org/web/20180802021937/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Thu, 02 Aug 2018 02:19:37 GMT"}
+20180802040409 {"uri": "https://web.archive.org/web/20180802040409/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Thu, 02 Aug 2018 04:04:09 GMT"}
+20180803071011 {"uri": "https://web.archive.org/web/20180803071011/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Fri, 03 Aug 2018 07:10:11 GMT"}
+20180803092802 {"uri": "https://web.archive.org/web/20180803092802/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Fri, 03 Aug 2018 09:28:02 GMT"}
+20180904003633 {"uri": "https://web.archive.org/web/20180904003633/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 04 Sep 2018 00:36:33 GMT"}
+20180904011049 {"uri": "https://web.archive.org/web/20180904011049/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 04 Sep 2018 01:10:49 GMT"}
+20181022011139 {"uri": "https://web.archive.org/web/20181022011139/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Mon, 22 Oct 2018 01:11:39 GMT"}
+20181023015256 {"uri": "https://web.archive.org/web/20181023015256/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 23 Oct 2018 01:52:56 GMT"}
+20181023071728 {"uri": "https://web.archive.org/web/20181023071728/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Tue, 23 Oct 2018 07:17:28 GMT"}
+20190831153955 {"uri": "https://web.archive.org/web/20190831153955/http://www.morgan.edu:80/medtech", "rel": "memento", "datetime": "Sat, 31 Aug 2019 15:39:55 GMT"}
+20190913174506 {"uri": "https://web.archive.org/web/20190913174506/http://morgan.edu:80/medtech", "rel": "memento", "datetime": "Fri, 13 Sep 2019 17:45:06 GMT"}
+20200807185149 {"uri": "https://web.archive.org/web/20200807185149/https://www.morgan.edu/medtech", "rel": "memento", "datetime": "Fri, 07 Aug 2020 18:51:49 GMT"}
+20200812142855 {"uri": "https://web.archive.org/web/20200812142855/https://morgan.edu/medtech", "rel": "memento", "datetime": "Wed, 12 Aug 2020 14:28:55 GMT"}
+20201028165235 {"uri": "https://web.archive.org/web/20201028165235/https://morgan.edu/medtech", "rel": "memento", "datetime": "Wed, 28 Oct 2020 16:52:35 GMT"}
+20210125224939 {"uri": "https://web.archive.org/web/20210125224939/https://morgan.edu/medtech", "rel": "memento", "datetime": "Mon, 25 Jan 2021 22:49:39 GMT"}
+20210414081218 {"uri": "https://web.archive.org/web/20210414081218/https://morgan.edu/medtech", "rel": "memento", "datetime": "Wed, 14 Apr 2021 08:12:18 GMT"}
+20210415132220 {"uri": "https://web.archive.org/web/20210415132220/https://morgan.edu/medtech", "rel": "memento", "datetime": "Thu, 15 Apr 2021 13:22:20 GMT"}
+20210815085753 {"uri": "https://web.archive.org/web/20210815085753/https://morgan.edu/medtech", "rel": "last memento", "datetime": "Sun, 15 Aug 2021 08:57:53 GMT"}

@@ -1,0 +1,26 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://ece.set.hamptonu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://ece.set.hamptonu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://ece.set.hamptonu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://ece.set.hamptonu.edu/", "json_format": "http://localhost:1208/timemap/json/http://ece.set.hamptonu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://ece.set.hamptonu.edu/"}}
+20181224094955 {"uri": "https://web.archive.org/web/20181224094955/http://ece.set.hamptonu.edu:80/", "rel": "first memento", "datetime": "Mon, 24 Dec 2018 09:49:55 GMT"}
+20190219152555 {"uri": "https://web.archive.org/web/20190219152555/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 19 Feb 2019 15:25:55 GMT"}
+20190308211708 {"uri": "https://web.archive.org/web/20190308211708/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 08 Mar 2019 21:17:08 GMT"}
+20190322131408 {"uri": "https://web.archive.org/web/20190322131408/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 22 Mar 2019 13:14:08 GMT"}
+20190422174404 {"uri": "https://web.archive.org/web/20190422174404/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 22 Apr 2019 17:44:04 GMT"}
+20190508195027 {"uri": "https://web.archive.org/web/20190508195027/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 08 May 2019 19:50:27 GMT"}
+20190524031636 {"uri": "https://web.archive.org/web/20190524031636/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 24 May 2019 03:16:36 GMT"}
+20190625061011 {"uri": "https://web.archive.org/web/20190625061011/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 25 Jun 2019 06:10:11 GMT"}
+20190708125147 {"uri": "https://web.archive.org/web/20190708125147/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 08 Jul 2019 12:51:47 GMT"}
+20190727032213 {"uri": "https://web.archive.org/web/20190727032213/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 27 Jul 2019 03:22:13 GMT"}
+20190827034646 {"uri": "https://web.archive.org/web/20190827034646/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Tue, 27 Aug 2019 03:46:46 GMT"}
+20190907162010 {"uri": "https://web.archive.org/web/20190907162010/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sat, 07 Sep 2019 16:20:10 GMT"}
+20190927135638 {"uri": "https://web.archive.org/web/20190927135638/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 27 Sep 2019 13:56:38 GMT"}
+20191025222812 {"uri": "https://web.archive.org/web/20191025222812/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 25 Oct 2019 22:28:12 GMT"}
+20191027051709 {"uri": "https://web.archive.org/web/20191027051709/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Sun, 27 Oct 2019 05:17:09 GMT"}
+20191125082004 {"uri": "https://web.archive.org/web/20191125082004/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 25 Nov 2019 08:20:04 GMT"}
+20191225144404 {"uri": "https://web.archive.org/web/20191225144404/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Wed, 25 Dec 2019 14:44:04 GMT"}
+20200124190410 {"uri": "https://web.archive.org/web/20200124190410/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Fri, 24 Jan 2020 19:04:10 GMT"}
+20200224004555 {"uri": "https://web.archive.org/web/20200224004555/http://ece.set.hamptonu.edu:80/", "rel": "memento", "datetime": "Mon, 24 Feb 2020 00:45:55 GMT"}
+20200628181342 {"uri": "https://web.archive.org/web/20200628181342/http://ece.set.hamptonu.edu:80/", "rel": "last memento", "datetime": "Sun, 28 Jun 2020 18:13:42 GMT"}

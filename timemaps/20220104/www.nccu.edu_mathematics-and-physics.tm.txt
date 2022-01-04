@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/mathematics-and-physics"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/chs/mathematics-and-physics"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/chs/mathematics-and-physics"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/chs/mathematics-and-physics", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/chs/mathematics-and-physics", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/mathematics-and-physics"}}
+20201126132920 {"uri": "https://web.archive.org/web/20201126132920/https://www.nccu.edu/chs/mathematics-and-physics", "rel": "first memento", "datetime": "Thu, 26 Nov 2020 13:29:20 GMT"}
+20210417055844 {"uri": "https://web.archive.org/web/20210417055844/https://www.nccu.edu/chs/mathematics-and-physics", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 05:58:44 GMT"}

@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory"}}
+20181112214028 {"uri": "https://web.archive.org/web/20181112214028/http://www.alasu.edu:80/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:40:28 GMT"}
+20200807005037 {"uri": "https://web.archive.org/web/20200807005037/https://www.alasu.edu/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory", "rel": "memento", "datetime": "Fri, 07 Aug 2020 00:50:37 GMT"}
+20201028144509 {"uri": "https://web.archive.org/web/20201028144509/https://www.alasu.edu/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory", "rel": "memento", "datetime": "Wed, 28 Oct 2020 14:45:09 GMT"}
+20210417070001 {"uri": "https://web.archive.org/web/20210417070001/https://www.alasu.edu/chs/biomechanics-and-motor-control-lab/biomechanics-and-motor-control-laboratory", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 07:00:01 GMT"}
