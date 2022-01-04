@@ -116,7 +116,10 @@ async def main():
     for data_file in data_files:
         uri_rs = extract_original_uris(data_file)
 
-        async with aiohttp.ClientSession() as session:
+        simultaneous_connections = 2
+        connector = aiohttp.TCPConnector(limit=simultaneous_connections)
+
+        async with aiohttp.ClientSession(connector=connector) as session:
             tasks = []
 
             # Queue TimeMap fetching tasks
