@@ -23,3 +23,11 @@ The purpose of the Python script, at least initially, is to take the CSVs for in
 ## Next Steps
 
 Once we have TimeMaps for all of the URIs in the CSVs, we can use the list of URI-Ms contained within each as the basis of the archived data that needs to be collected. [@machawk1](https://github.com/machawk1) anticipates using [warcio](https://github.com/webrecorder/warcio) for this, as it will retain context of the historical captures unlike simply iterating through each URI manually and using "save as" from the browser. Using a library like this also allows the process to be executed programmatically and helps with our ultimate need for reprocibility of the data source.
+
+### Upcoming Schedule and Deadlines
+
+* January 21, 2022 - ACM/IEEE JCDL 2022 deadline
+* January 22, 2022 - have sample WARCs generate for PIs responsible for initial analysis (Chaoqun, Jiangen) to start working with the format (w/ Wook)
+* January 31, 2022 - have prototype of recursive procedure to identify historical locations of departments not present in initial TimeMap data set (w/ Deanna and Chris)
+  * This will entail an initially manually generate procedure that will need to be programmatically implemented. It will also entail looking at the mementos themselves beyond the TimeMap abstraction.
+* End of Summer - data collection complete
