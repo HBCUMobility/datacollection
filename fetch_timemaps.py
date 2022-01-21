@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 
 '''% for x in $(ls *.xlsx); do x1=${x%".xlsx"}; in2csv $x > $x1.csv; echo "$x1.csv done."; done'''
+import hashlib
 import json
 import logging
+import os
 from pathlib import Path
 import sys
 from urllib.parse import urlparse
@@ -31,8 +33,10 @@ logging.basicConfig(format="%(asctime)s.%(msecs)03d %(levelname)s %(message)s", 
 
 def make_filename_from_uri(uri_r: str) -> str:
     url = urlparse(uri_r)
-    last_path_str = uri_r.split('/')[-1]
-    return f'timemaps/{url.hostname}_{last_path_str}.tm.txt'
+    path = f'timemaps/{url.hostname}'
+    os.makedirs(path, exist_ok=True)
+    filename_hash = hashlib.sha256(uri_r.encode()).hexdigest()
+    return f'{path}/{filename_hash}.tm.txt'
 
 
 async def fetch_timemap(uri_r: str, session: aiohttp.ClientSession) -> str:
