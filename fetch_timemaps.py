@@ -39,6 +39,17 @@ def make_filename_from_uri(uri_r: str) -> str:
     return f'{path}/{filename_hash}.tm.txt'
 
 
+def fabricate_tm_for_no_mementos(uri_r: str) -> str:
+    return (
+        '!context ["https://oduwsdl.github.io/contexts/memento"]\n'
+        f'!id {{"uri": "http://localhost:1208/timemap/cdxj/{uri_r}https://www.coppin.edu/son"}}\n'
+        '!keys ["memento_datetime_YYYYMMDDhhmmss"]\n'
+        f'!meta {{"original_uri": "{uri_r}"}}\n'
+        f'!meta {{"timegate_uri": "http://localhost:1208/timegate/{uri_r}"}}\n'
+        '!meta {"note": "This TimeMap was fabricated for a URI-R with no mementos"}\n'
+    )
+
+
 async def fetch_timemap(uri_r: str, session: aiohttp.ClientSession) -> str:
     uri_t = f'{timemap_uri}{uri_r}'
 
@@ -51,7 +62,9 @@ async def fetch_timemap(uri_r: str, session: aiohttp.ClientSession) -> str:
 
     # If there are no mementos in the TimeMap, write an empty file to disk
     if response.status == 404:
-        Path(timemap_file_path).touch()
+        #Path(timemap_file_path).touch()
+        with open(timemap_file_path, 'w+') as f:
+            f.write(fabricate_tm_for_no_mementos(uri_r))
         return str(Path(timemap_file_path).resolve())
 
     # If a TimeMap is returned, write it to disk
