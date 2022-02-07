@@ -26,7 +26,6 @@ Once we have TimeMaps for all of the URIs in the CSVs, we can use the list of UR
 
 ### Upcoming Schedule and Deadlines
 
-* January 21, 2022 - ACM/IEEE JCDL 2022 deadline (draft in [private repo](https://github.com/HBCUMobility/data-collection-paper))
 * January 22, 2022 - have sample WARCs generate for PIs responsible for initial analysis (Chaoqun, Jiangen) to start working with the format (w/ Wook)
 * January 31, 2022 - have prototype of recursive procedure to identify historical locations of departments not present in initial TimeMap data set (w/ Deanna and Chris)
   * This will entail an initially manually generate procedure that will need to be programmatically implemented. It will also entail looking at the mementos themselves beyond the TimeMap abstraction.
