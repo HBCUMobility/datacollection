@@ -1,0 +1,24 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html", "json_format": "http://localhost:1208/timemap/json/http://www.tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html"}}
+20190322100249 {"uri": "https://web.archive.org/web/20190322100249/http://www.tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "first memento", "datetime": "Fri, 22 Mar 2019 10:02:49 GMT"}
+20190323191042 {"uri": "https://web.archive.org/web/20190323191042/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Sat, 23 Mar 2019 19:10:42 GMT"}
+20190420224308 {"uri": "https://web.archive.org/web/20190420224308/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Sat, 20 Apr 2019 22:43:08 GMT"}
+20190529191317 {"uri": "https://web.archive.org/web/20190529191317/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Wed, 29 May 2019 19:13:17 GMT"}
+20190701191540 {"uri": "https://web.archive.org/web/20190701191540/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Mon, 01 Jul 2019 19:15:40 GMT"}
+20190802171024 {"uri": "https://web.archive.org/web/20190802171024/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Fri, 02 Aug 2019 17:10:24 GMT"}
+20190903040348 {"uri": "https://web.archive.org/web/20190903040348/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Tue, 03 Sep 2019 04:03:48 GMT"}
+20190904085659 {"uri": "https://web.archive.org/web/20190904085659/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Wed, 04 Sep 2019 08:56:59 GMT"}
+20191101232210 {"uri": "https://web.archive.org/web/20191101232210/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Fri, 01 Nov 2019 23:22:10 GMT"}
+20191128133605 {"uri": "https://web.archive.org/web/20191128133605/http://tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Thu, 28 Nov 2019 13:36:05 GMT"}
+20191202074105 {"uri": "https://web.archive.org/web/20191202074105/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Mon, 02 Dec 2019 07:41:05 GMT"}
+20200127174350 {"uri": "https://web.archive.org/web/20200127174350/http://tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Mon, 27 Jan 2020 17:43:50 GMT"}
+20200204053601 {"uri": "https://web.archive.org/web/20200204053601/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Tue, 04 Feb 2020 05:36:01 GMT"}
+20200807031733 {"uri": "https://web.archive.org/web/20200807031733/http://tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Fri, 07 Aug 2020 03:17:33 GMT"}
+20201022172253 {"uri": "https://web.archive.org/web/20201022172253/http://tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Thu, 22 Oct 2020 17:22:53 GMT"}
+20210127060307 {"uri": "https://web.archive.org/web/20210127060307/http://tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Wed, 27 Jan 2021 06:03:07 GMT"}
+20210416222340 {"uri": "https://web.archive.org/web/20210416222340/http://tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "memento", "datetime": "Fri, 16 Apr 2021 22:23:40 GMT"}
+20210421021732 {"uri": "https://web.archive.org/web/20210421021732/http://tsu.edu/academics/colleges-and-schools/colabs/hscs/index.html", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 02:17:32 GMT"}

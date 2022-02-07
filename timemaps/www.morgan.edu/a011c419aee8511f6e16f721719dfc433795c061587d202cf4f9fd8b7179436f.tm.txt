@@ -1,0 +1,52 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/actuarialscience"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.morgan.edu/actuarialscience"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.morgan.edu/actuarialscience"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.morgan.edu/actuarialscience", "json_format": "http://localhost:1208/timemap/json/https://www.morgan.edu/actuarialscience", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/actuarialscience"}}
+20150705030140 {"uri": "https://web.archive.org/web/20150705030140/http://www.morgan.edu:80/actuarialscience", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 03:01:40 GMT"}
+20150801011210 {"uri": "https://web.archive.org/web/20150801011210/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Sat, 01 Aug 2015 01:12:10 GMT"}
+20150905153248 {"uri": "https://web.archive.org/web/20150905153248/http://www.morgan.edu/actuarialscience", "rel": "memento", "datetime": "Sat, 05 Sep 2015 15:32:48 GMT"}
+20151115054502 {"uri": "https://web.archive.org/web/20151115054502/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Sun, 15 Nov 2015 05:45:02 GMT"}
+20151223220456 {"uri": "https://web.archive.org/web/20151223220456/http://www.morgan.edu/actuarialscience", "rel": "memento", "datetime": "Wed, 23 Dec 2015 22:04:56 GMT"}
+20160103090813 {"uri": "https://web.archive.org/web/20160103090813/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Sun, 03 Jan 2016 09:08:13 GMT"}
+20160302203646 {"uri": "https://web.archive.org/web/20160302203646/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Wed, 02 Mar 2016 20:36:46 GMT"}
+20160322060925 {"uri": "https://web.archive.org/web/20160322060925/http://www.morgan.edu/actuarialscience", "rel": "memento", "datetime": "Tue, 22 Mar 2016 06:09:25 GMT"}
+20160414071245 {"uri": "https://web.archive.org/web/20160414071245/http://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Thu, 14 Apr 2016 07:12:45 GMT"}
+20160419073945 {"uri": "https://web.archive.org/web/20160419073945/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Tue, 19 Apr 2016 07:39:45 GMT"}
+20160511132314 {"uri": "https://web.archive.org/web/20160511132314/http://www.morgan.edu/actuarialscience", "rel": "memento", "datetime": "Wed, 11 May 2016 13:23:14 GMT"}
+20160520151919 {"uri": "https://web.archive.org/web/20160520151919/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Fri, 20 May 2016 15:19:19 GMT"}
+20160621000054 {"uri": "https://web.archive.org/web/20160621000054/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Tue, 21 Jun 2016 00:00:54 GMT"}
+20160723081533 {"uri": "https://web.archive.org/web/20160723081533/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Sat, 23 Jul 2016 08:15:33 GMT"}
+20160729114052 {"uri": "https://web.archive.org/web/20160729114052/http://www.morgan.edu/actuarialscience", "rel": "memento", "datetime": "Fri, 29 Jul 2016 11:40:52 GMT"}
+20160827012414 {"uri": "https://web.archive.org/web/20160827012414/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Sat, 27 Aug 2016 01:24:14 GMT"}
+20160928150341 {"uri": "https://web.archive.org/web/20160928150341/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Wed, 28 Sep 2016 15:03:41 GMT"}
+20161104162559 {"uri": "https://web.archive.org/web/20161104162559/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Fri, 04 Nov 2016 16:25:59 GMT"}
+20170103053355 {"uri": "https://web.archive.org/web/20170103053355/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Tue, 03 Jan 2017 05:33:55 GMT"}
+20170506092020 {"uri": "https://web.archive.org/web/20170506092020/http://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Sat, 06 May 2017 09:20:20 GMT"}
+20170613202346 {"uri": "https://web.archive.org/web/20170613202346/http://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Tue, 13 Jun 2017 20:23:46 GMT"}
+20170914231343 {"uri": "https://web.archive.org/web/20170914231343/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Thu, 14 Sep 2017 23:13:43 GMT"}
+20171103190204 {"uri": "https://web.archive.org/web/20171103190204/http://morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Fri, 03 Nov 2017 19:02:04 GMT"}
+20180118011425 {"uri": "https://web.archive.org/web/20180118011425/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Thu, 18 Jan 2018 01:14:25 GMT"}
+20180224210507 {"uri": "https://web.archive.org/web/20180224210507/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Sat, 24 Feb 2018 21:05:07 GMT"}
+20180329195746 {"uri": "https://web.archive.org/web/20180329195746/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Thu, 29 Mar 2018 19:57:46 GMT"}
+20180505175151 {"uri": "https://web.archive.org/web/20180505175151/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Sat, 05 May 2018 17:51:51 GMT"}
+20180606013823 {"uri": "https://web.archive.org/web/20180606013823/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Wed, 06 Jun 2018 01:38:23 GMT"}
+20180709105848 {"uri": "https://web.archive.org/web/20180709105848/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Mon, 09 Jul 2018 10:58:48 GMT"}
+20180813221425 {"uri": "https://web.archive.org/web/20180813221425/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Mon, 13 Aug 2018 22:14:25 GMT"}
+20180914194238 {"uri": "https://web.archive.org/web/20180914194238/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Fri, 14 Sep 2018 19:42:38 GMT"}
+20181022164114 {"uri": "https://web.archive.org/web/20181022164114/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Mon, 22 Oct 2018 16:41:14 GMT"}
+20181023210342 {"uri": "https://web.archive.org/web/20181023210342/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Tue, 23 Oct 2018 21:03:42 GMT"}
+20190908224339 {"uri": "https://web.archive.org/web/20190908224339/http://www.morgan.edu:80/actuarialscience", "rel": "memento", "datetime": "Sun, 08 Sep 2019 22:43:39 GMT"}
+20200807040837 {"uri": "https://web.archive.org/web/20200807040837/https://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Fri, 07 Aug 2020 04:08:37 GMT"}
+20200807100047 {"uri": "https://web.archive.org/web/20200807100047/https://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Fri, 07 Aug 2020 10:00:47 GMT"}
+20200807181716 {"uri": "https://web.archive.org/web/20200807181716/https://www.morgan.edu/actuarialscience", "rel": "memento", "datetime": "Fri, 07 Aug 2020 18:17:16 GMT"}
+20201028173959 {"uri": "https://web.archive.org/web/20201028173959/https://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Wed, 28 Oct 2020 17:39:59 GMT"}
+20201031101705 {"uri": "https://web.archive.org/web/20201031101705/https://www.morgan.edu/actuarialscience", "rel": "memento", "datetime": "Sat, 31 Oct 2020 10:17:05 GMT"}
+20210123204322 {"uri": "https://web.archive.org/web/20210123204322/https://www.morgan.edu/actuarialscience", "rel": "memento", "datetime": "Sat, 23 Jan 2021 20:43:22 GMT"}
+20210126000715 {"uri": "https://web.archive.org/web/20210126000715/https://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Tue, 26 Jan 2021 00:07:15 GMT"}
+20210414030812 {"uri": "https://web.archive.org/web/20210414030812/https://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:08:12 GMT"}
+20210414133801 {"uri": "https://web.archive.org/web/20210414133801/https://www.morgan.edu/actuarialscience", "rel": "memento", "datetime": "Wed, 14 Apr 2021 13:38:01 GMT"}
+20210418145605 {"uri": "https://web.archive.org/web/20210418145605/https://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Sun, 18 Apr 2021 14:56:05 GMT"}
+20210815110325 {"uri": "https://web.archive.org/web/20210815110325/https://morgan.edu/actuarialscience", "rel": "memento", "datetime": "Sun, 15 Aug 2021 11:03:25 GMT"}
+20220128161200 {"uri": "https://web.archive.org/web/20220128161200/https://www.morgan.edu/actuarialscience", "rel": "last memento", "datetime": "Fri, 28 Jan 2022 16:12:00 GMT"}

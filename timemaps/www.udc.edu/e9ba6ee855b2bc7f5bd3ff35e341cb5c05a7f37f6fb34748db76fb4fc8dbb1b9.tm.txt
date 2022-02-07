@@ -1,0 +1,25 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/nutrition-dietetics"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/causes/nutrition-dietetics"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/causes/nutrition-dietetics"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/causes/nutrition-dietetics", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/causes/nutrition-dietetics", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/nutrition-dietetics"}}
+20170912001025 {"uri": "https://web.archive.org/web/20170912001025/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "first memento", "datetime": "Tue, 12 Sep 2017 00:10:25 GMT"}
+20170912044959 {"uri": "https://web.archive.org/web/20170912044959/http://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Tue, 12 Sep 2017 04:49:59 GMT"}
+20180912000511 {"uri": "https://web.archive.org/web/20180912000511/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Wed, 12 Sep 2018 00:05:11 GMT"}
+20180914134019 {"uri": "https://web.archive.org/web/20180914134019/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Fri, 14 Sep 2018 13:40:19 GMT"}
+20190904033730 {"uri": "https://web.archive.org/web/20190904033730/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:37:30 GMT"}
+20190904033933 {"uri": "https://web.archive.org/web/20190904033933/https://www.udc.edu/causes/nutrition-dietetics", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:33 GMT"}
+20190904033934 {"uri": "https://web.archive.org/web/20190904033934/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:34 GMT"}
+20190904035238 {"uri": "https://web.archive.org/web/20190904035238/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:52:38 GMT"}
+20190904035933 {"uri": "https://web.archive.org/web/20190904035933/http://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:59:33 GMT"}
+20190904035934 {"uri": "https://web.archive.org/web/20190904035934/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:59:34 GMT"}
+20200925085320 {"uri": "https://web.archive.org/web/20200925085320/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Fri, 25 Sep 2020 08:53:20 GMT"}
+20201021154643 {"uri": "https://web.archive.org/web/20201021154643/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Wed, 21 Oct 2020 15:46:43 GMT"}
+20201203130001 {"uri": "https://web.archive.org/web/20201203130001/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Thu, 03 Dec 2020 13:00:01 GMT"}
+20210303170538 {"uri": "https://web.archive.org/web/20210303170538/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Wed, 03 Mar 2021 17:05:38 GMT"}
+20210312062136 {"uri": "https://web.archive.org/web/20210312062136/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Fri, 12 Mar 2021 06:21:36 GMT"}
+20210322213229 {"uri": "https://web.archive.org/web/20210322213229/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Mon, 22 Mar 2021 21:32:29 GMT"}
+20210409101924 {"uri": "https://web.archive.org/web/20210409101924/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Fri, 09 Apr 2021 10:19:24 GMT"}
+20210511124158 {"uri": "https://web.archive.org/web/20210511124158/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "memento", "datetime": "Tue, 11 May 2021 12:41:58 GMT"}
+20210730022714 {"uri": "https://web.archive.org/web/20210730022714/https://www.udc.edu/causes/nutrition-dietetics/", "rel": "last memento", "datetime": "Fri, 30 Jul 2021 02:27:14 GMT"}

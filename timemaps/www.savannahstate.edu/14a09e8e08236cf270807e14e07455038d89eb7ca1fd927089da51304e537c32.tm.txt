@@ -1,0 +1,38 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/coba/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/coba/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/coba/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/coba/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/coba/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/coba/index.shtml"}}
+20160404180344 {"uri": "https://web.archive.org/web/20160404180344/http://www.savannahstate.edu/coba/index.shtml", "rel": "first memento", "datetime": "Mon, 04 Apr 2016 18:03:44 GMT"}
+20160504214637 {"uri": "https://web.archive.org/web/20160504214637/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Wed, 04 May 2016 21:46:37 GMT"}
+20160916065035 {"uri": "https://web.archive.org/web/20160916065035/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Fri, 16 Sep 2016 06:50:35 GMT"}
+20161208035139 {"uri": "https://web.archive.org/web/20161208035139/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Thu, 08 Dec 2016 03:51:39 GMT"}
+20170425022330 {"uri": "https://web.archive.org/web/20170425022330/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Tue, 25 Apr 2017 02:23:30 GMT"}
+20170513070503 {"uri": "https://web.archive.org/web/20170513070503/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Sat, 13 May 2017 07:05:03 GMT"}
+20170616124553 {"uri": "https://web.archive.org/web/20170616124553/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Fri, 16 Jun 2017 12:45:53 GMT"}
+20170627080825 {"uri": "https://web.archive.org/web/20170627080825/http://www.savannahstate.edu/coba/index.shtml", "rel": "memento", "datetime": "Tue, 27 Jun 2017 08:08:25 GMT"}
+20170704234108 {"uri": "https://web.archive.org/web/20170704234108/http://www.savannahstate.edu/coba/index.shtml", "rel": "memento", "datetime": "Tue, 04 Jul 2017 23:41:08 GMT"}
+20170718093612 {"uri": "https://web.archive.org/web/20170718093612/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Tue, 18 Jul 2017 09:36:12 GMT"}
+20170820124519 {"uri": "https://web.archive.org/web/20170820124519/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Sun, 20 Aug 2017 12:45:19 GMT"}
+20170821141558 {"uri": "https://web.archive.org/web/20170821141558/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Mon, 21 Aug 2017 14:15:58 GMT"}
+20170922065317 {"uri": "https://web.archive.org/web/20170922065317/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Fri, 22 Sep 2017 06:53:17 GMT"}
+20171024220412 {"uri": "https://web.archive.org/web/20171024220412/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Tue, 24 Oct 2017 22:04:12 GMT"}
+20171129203253 {"uri": "https://web.archive.org/web/20171129203253/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Wed, 29 Nov 2017 20:32:53 GMT"}
+20171230165802 {"uri": "https://web.archive.org/web/20171230165802/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Sat, 30 Dec 2017 16:58:02 GMT"}
+20180131063250 {"uri": "https://web.archive.org/web/20180131063250/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Wed, 31 Jan 2018 06:32:50 GMT"}
+20180319091500 {"uri": "https://web.archive.org/web/20180319091500/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Mon, 19 Mar 2018 09:15:00 GMT"}
+20180419113829 {"uri": "https://web.archive.org/web/20180419113829/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Thu, 19 Apr 2018 11:38:29 GMT"}
+20180529143012 {"uri": "https://web.archive.org/web/20180529143012/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Tue, 29 May 2018 14:30:12 GMT"}
+20180630070532 {"uri": "https://web.archive.org/web/20180630070532/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Sat, 30 Jun 2018 07:05:32 GMT"}
+20180802044657 {"uri": "https://web.archive.org/web/20180802044657/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Thu, 02 Aug 2018 04:46:57 GMT"}
+20180803123211 {"uri": "https://web.archive.org/web/20180803123211/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Fri, 03 Aug 2018 12:32:11 GMT"}
+20180910144828 {"uri": "https://web.archive.org/web/20180910144828/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Mon, 10 Sep 2018 14:48:28 GMT"}
+20181023080223 {"uri": "https://web.archive.org/web/20181023080223/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Tue, 23 Oct 2018 08:02:23 GMT"}
+20190913213213 {"uri": "https://web.archive.org/web/20190913213213/http://www.savannahstate.edu:80/coba/index.shtml", "rel": "memento", "datetime": "Fri, 13 Sep 2019 21:32:13 GMT"}
+20210414070334 {"uri": "https://web.archive.org/web/20210414070334/https://savannahstate.edu/coba/index.shtml", "rel": "memento", "datetime": "Wed, 14 Apr 2021 07:03:34 GMT"}
+20210414111121 {"uri": "https://web.archive.org/web/20210414111121/http://www.savannahstate.edu/coba/index.shtml", "rel": "memento", "datetime": "Wed, 14 Apr 2021 11:11:21 GMT"}
+20210419215430 {"uri": "https://web.archive.org/web/20210419215430/https://www.savannahstate.edu/coba/index.shtml", "rel": "memento", "datetime": "Mon, 19 Apr 2021 21:54:30 GMT"}
+20210429180953 {"uri": "https://web.archive.org/web/20210429180953/http://www.savannahstate.edu/coba/index.shtml", "rel": "memento", "datetime": "Thu, 29 Apr 2021 18:09:53 GMT"}
+20210501015615 {"uri": "https://web.archive.org/web/20210501015615/https://www.savannahstate.edu/coba/index.shtml", "rel": "memento", "datetime": "Sat, 01 May 2021 01:56:15 GMT"}
+20220108115412 {"uri": "https://web.archive.org/web/20220108115412/https://www.savannahstate.edu/coba/index.shtml", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 11:54:12 GMT"}

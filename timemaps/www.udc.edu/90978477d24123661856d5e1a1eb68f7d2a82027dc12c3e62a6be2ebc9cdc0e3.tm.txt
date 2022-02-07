@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/"}}
+20170312043104 {"uri": "https://web.archive.org/web/20170312043104/http://www.udc.edu:80/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "first memento", "datetime": "Sun, 12 Mar 2017 04:31:04 GMT"}
+20170312043104 {"uri": "https://web.archive.org/web/20170312043104/http://www.udc.edu:80/sbpa/sbpa/departments/accounting-finance-economics", "rel": "memento", "datetime": "Sun, 12 Mar 2017 04:31:04 GMT"}
+20190618162033 {"uri": "https://web.archive.org/web/20190618162033/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "memento", "datetime": "Tue, 18 Jun 2019 16:20:33 GMT"}
+20190904033831 {"uri": "https://web.archive.org/web/20190904033831/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:31 GMT"}
+20190904033839 {"uri": "https://web.archive.org/web/20190904033839/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:39 GMT"}
+20190904033843 {"uri": "https://web.archive.org/web/20190904033843/http://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:43 GMT"}
+20190904033844 {"uri": "https://web.archive.org/web/20190904033844/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:44 GMT"}
+20190904035518 {"uri": "https://web.archive.org/web/20190904035518/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:55:18 GMT"}
+20200920013404 {"uri": "https://web.archive.org/web/20200920013404/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "memento", "datetime": "Sun, 20 Sep 2020 01:34:04 GMT"}
+20201201032504 {"uri": "https://web.archive.org/web/20201201032504/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "memento", "datetime": "Tue, 01 Dec 2020 03:25:04 GMT"}
+20210518050856 {"uri": "https://web.archive.org/web/20210518050856/https://www.udc.edu/sbpa/sbpa/departments/accounting-finance-economics/", "rel": "last memento", "datetime": "Tue, 18 May 2021 05:08:56 GMT"}

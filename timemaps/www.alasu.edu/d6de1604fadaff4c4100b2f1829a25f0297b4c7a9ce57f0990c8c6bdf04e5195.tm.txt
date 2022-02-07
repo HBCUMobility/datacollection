@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/instructional-support/instructional-support-programs"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/coe/instructional-support/instructional-support-programs"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/coe/instructional-support/instructional-support-programs"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/coe/instructional-support/instructional-support-programs", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/coe/instructional-support/instructional-support-programs", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/instructional-support/instructional-support-programs"}}
+20181112213701 {"uri": "https://web.archive.org/web/20181112213701/http://www.alasu.edu:80/coe/instructional-support/instructional-support-programs", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:37:01 GMT"}
+20201026135652 {"uri": "https://web.archive.org/web/20201026135652/https://www.alasu.edu/coe/instructional-support/instructional-support-programs", "rel": "memento", "datetime": "Mon, 26 Oct 2020 13:56:52 GMT"}
+20210417054123 {"uri": "https://web.archive.org/web/20210417054123/https://www.alasu.edu/coe/instructional-support/instructional-support-programs", "rel": "memento", "datetime": "Sat, 17 Apr 2021 05:41:23 GMT"}
+20211020162938 {"uri": "https://web.archive.org/web/20211020162938/https://www.alasu.edu/coe/instructional-support/instructional-support-programs", "rel": "last memento", "datetime": "Wed, 20 Oct 2021 16:29:38 GMT"}

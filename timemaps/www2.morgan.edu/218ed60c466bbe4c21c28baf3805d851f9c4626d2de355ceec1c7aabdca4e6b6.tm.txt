@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html"}}
+20200926072503 {"uri": "https://web.archive.org/web/20200926072503/https://www.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html", "rel": "first memento", "datetime": "Sat, 26 Sep 2020 07:25:03 GMT"}
+20201126075356 {"uri": "https://web.archive.org/web/20201126075356/https://www.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html", "rel": "memento", "datetime": "Thu, 26 Nov 2020 07:53:56 GMT"}
+20210128025317 {"uri": "https://web.archive.org/web/20210128025317/https://morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html", "rel": "memento", "datetime": "Thu, 28 Jan 2021 02:53:17 GMT"}
+20210301050102 {"uri": "https://web.archive.org/web/20210301050102/https://www.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html", "rel": "memento", "datetime": "Mon, 01 Mar 2021 05:01:02 GMT"}
+20210414063700 {"uri": "https://web.archive.org/web/20210414063700/https://morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html", "rel": "memento", "datetime": "Wed, 14 Apr 2021 06:37:00 GMT"}
+20210511020636 {"uri": "https://web.archive.org/web/20210511020636/https://www.morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html", "rel": "memento", "datetime": "Tue, 11 May 2021 02:06:36 GMT"}
+20210813201354 {"uri": "https://web.archive.org/web/20210813201354/https://morgan.edu/school_of_architecture__planning/academic_departments/undergraduate_design.html", "rel": "last memento", "datetime": "Fri, 13 Aug 2021 20:13:54 GMT"}

@@ -1,0 +1,6 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/coba/programs/marketing.shtmlhttps://www.coppin.edu/son"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/coba/programs/marketing.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/coba/programs/marketing.shtml"}
+!meta {"note": "This TimeMap was fabricated for a URI-R with no mementos"}

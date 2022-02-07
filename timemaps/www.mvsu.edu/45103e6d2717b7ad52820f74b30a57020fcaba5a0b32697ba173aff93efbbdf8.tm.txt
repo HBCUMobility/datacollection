@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty", "json_format": "http://localhost:1208/timemap/json/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty"}}
+20171115013021 {"uri": "https://web.archive.org/web/20171115013021/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty", "rel": "first memento", "datetime": "Wed, 15 Nov 2017 01:30:21 GMT"}
+20200621210836 {"uri": "https://web.archive.org/web/20200621210836/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty", "rel": "memento", "datetime": "Sun, 21 Jun 2020 21:08:36 GMT"}
+20200923164416 {"uri": "https://web.archive.org/web/20200923164416/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty", "rel": "memento", "datetime": "Wed, 23 Sep 2020 16:44:16 GMT"}
+20201128055334 {"uri": "https://web.archive.org/web/20201128055334/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty", "rel": "memento", "datetime": "Sat, 28 Nov 2020 05:53:34 GMT"}
+20210414082746 {"uri": "https://web.archive.org/web/20210414082746/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty", "rel": "memento", "datetime": "Wed, 14 Apr 2021 08:27:46 GMT"}
+20210417162422 {"uri": "https://web.archive.org/web/20210417162422/https://www.mvsu.edu/academics/academic-programs/education/departments/education/faculty", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 16:24:22 GMT"}

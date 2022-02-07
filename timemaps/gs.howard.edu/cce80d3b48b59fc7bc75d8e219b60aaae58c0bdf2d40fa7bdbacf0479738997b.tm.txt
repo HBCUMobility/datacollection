@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/pharmacology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/pharmacology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/pharmacology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/pharmacology", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/pharmacology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/pharmacology"}}
+20170708163123 {"uri": "https://web.archive.org/web/20170708163123/https://gs.howard.edu/graduate-programs/pharmacology", "rel": "first memento", "datetime": "Sat, 08 Jul 2017 16:31:23 GMT"}
+20200126055740 {"uri": "https://web.archive.org/web/20200126055740/https://gs.howard.edu/graduate-programs/pharmacology", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:57:40 GMT"}
+20201031172047 {"uri": "https://web.archive.org/web/20201031172047/https://gs.howard.edu/graduate-programs/pharmacology", "rel": "memento", "datetime": "Sat, 31 Oct 2020 17:20:47 GMT"}
+20210121154626 {"uri": "https://web.archive.org/web/20210121154626/https://gs.howard.edu/graduate-programs/pharmacology", "rel": "memento", "datetime": "Thu, 21 Jan 2021 15:46:26 GMT"}
+20210413083810 {"uri": "https://web.archive.org/web/20210413083810/https://gs.howard.edu/graduate-programs/pharmacology", "rel": "memento", "datetime": "Tue, 13 Apr 2021 08:38:10 GMT"}
+20210416013031 {"uri": "https://web.archive.org/web/20210416013031/https://gs.howard.edu/graduate-programs/pharmacology", "rel": "memento", "datetime": "Fri, 16 Apr 2021 01:30:31 GMT"}
+20220106213147 {"uri": "https://web.archive.org/web/20220106213147/https://gs.howard.edu/graduate-programs/pharmacology", "rel": "last memento", "datetime": "Thu, 06 Jan 2022 21:31:47 GMT"}

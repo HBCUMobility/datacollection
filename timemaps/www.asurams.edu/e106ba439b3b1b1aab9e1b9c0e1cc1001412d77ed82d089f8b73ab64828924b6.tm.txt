@@ -1,0 +1,47 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/graduate-studies/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/graduate-studies/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/graduate-studies/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/graduate-studies/index.php"}}
+20190314032614 {"uri": "https://web.archive.org/web/20190314032614/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "first memento", "datetime": "Thu, 14 Mar 2019 03:26:14 GMT"}
+20190314074519 {"uri": "https://web.archive.org/web/20190314074519/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Thu, 14 Mar 2019 07:45:19 GMT"}
+20190321094750 {"uri": "https://web.archive.org/web/20190321094750/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Thu, 21 Mar 2019 09:47:50 GMT"}
+20190421192718 {"uri": "https://web.archive.org/web/20190421192718/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sun, 21 Apr 2019 19:27:18 GMT"}
+20190514140319 {"uri": "https://web.archive.org/web/20190514140319/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Tue, 14 May 2019 14:03:19 GMT"}
+20190522234934 {"uri": "https://web.archive.org/web/20190522234934/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Wed, 22 May 2019 23:49:34 GMT"}
+20190623064021 {"uri": "https://web.archive.org/web/20190623064021/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sun, 23 Jun 2019 06:40:21 GMT"}
+20190714165210 {"uri": "https://web.archive.org/web/20190714165210/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sun, 14 Jul 2019 16:52:10 GMT"}
+20190721161114 {"uri": "https://web.archive.org/web/20190721161114/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sun, 21 Jul 2019 16:11:14 GMT"}
+20190724074037 {"uri": "https://web.archive.org/web/20190724074037/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Wed, 24 Jul 2019 07:40:37 GMT"}
+20190825055137 {"uri": "https://web.archive.org/web/20190825055137/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sun, 25 Aug 2019 05:51:37 GMT"}
+20190915010539 {"uri": "https://web.archive.org/web/20190915010539/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sun, 15 Sep 2019 01:05:39 GMT"}
+20190925234012 {"uri": "https://web.archive.org/web/20190925234012/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Wed, 25 Sep 2019 23:40:12 GMT"}
+20191012043216 {"uri": "https://web.archive.org/web/20191012043216/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sat, 12 Oct 2019 04:32:16 GMT"}
+20191022073911 {"uri": "https://web.archive.org/web/20191022073911/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Tue, 22 Oct 2019 07:39:11 GMT"}
+20191023181330 {"uri": "https://web.archive.org/web/20191023181330/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Wed, 23 Oct 2019 18:13:30 GMT"}
+20191123080054 {"uri": "https://web.archive.org/web/20191123080054/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sat, 23 Nov 2019 08:00:54 GMT"}
+20191211110110 {"uri": "https://web.archive.org/web/20191211110110/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Wed, 11 Dec 2019 11:01:10 GMT"}
+20191223151157 {"uri": "https://web.archive.org/web/20191223151157/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Mon, 23 Dec 2019 15:11:57 GMT"}
+20200123001434 {"uri": "https://web.archive.org/web/20200123001434/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Thu, 23 Jan 2020 00:14:34 GMT"}
+20200209175120 {"uri": "https://web.archive.org/web/20200209175120/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sun, 09 Feb 2020 17:51:20 GMT"}
+20200222044932 {"uri": "https://web.archive.org/web/20200222044932/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sat, 22 Feb 2020 04:49:32 GMT"}
+20200228042143 {"uri": "https://web.archive.org/web/20200228042143/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Fri, 28 Feb 2020 04:21:43 GMT"}
+20200408131755 {"uri": "https://web.archive.org/web/20200408131755/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Wed, 08 Apr 2020 13:17:55 GMT"}
+20200428193309 {"uri": "https://web.archive.org/web/20200428193309/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Tue, 28 Apr 2020 19:33:09 GMT"}
+20200505030837 {"uri": "https://web.archive.org/web/20200505030837/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Tue, 05 May 2020 03:08:37 GMT"}
+20200511135145 {"uri": "https://web.archive.org/web/20200511135145/https://asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Mon, 11 May 2020 13:51:45 GMT"}
+20200512052823 {"uri": "https://web.archive.org/web/20200512052823/http://asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Tue, 12 May 2020 05:28:23 GMT"}
+20200524154910 {"uri": "https://web.archive.org/web/20200524154910/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sun, 24 May 2020 15:49:10 GMT"}
+20200628040212 {"uri": "https://web.archive.org/web/20200628040212/http://asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Sun, 28 Jun 2020 04:02:12 GMT"}
+20200727104859 {"uri": "https://web.archive.org/web/20200727104859/http://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Mon, 27 Jul 2020 10:48:59 GMT"}
+20200728054512 {"uri": "https://web.archive.org/web/20200728054512/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Tue, 28 Jul 2020 05:45:12 GMT"}
+20200807044556 {"uri": "https://web.archive.org/web/20200807044556/http://www.asurams.edu:80/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Fri, 07 Aug 2020 04:45:56 GMT"}
+20200923151258 {"uri": "https://web.archive.org/web/20200923151258/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Wed, 23 Sep 2020 15:12:58 GMT"}
+20210414005226 {"uri": "https://web.archive.org/web/20210414005226/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Wed, 14 Apr 2021 00:52:26 GMT"}
+20210415232113 {"uri": "https://web.archive.org/web/20210415232113/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Thu, 15 Apr 2021 23:21:13 GMT"}
+20210422205156 {"uri": "https://web.archive.org/web/20210422205156/http://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Thu, 22 Apr 2021 20:51:56 GMT"}
+20210812020818 {"uri": "https://web.archive.org/web/20210812020818/https://asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 02:08:18 GMT"}
+20210817044922 {"uri": "https://web.archive.org/web/20210817044922/https://asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 04:49:22 GMT"}
+20210818183547 {"uri": "https://web.archive.org/web/20210818183547/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "memento", "datetime": "Wed, 18 Aug 2021 18:35:47 GMT"}
+20211115033852 {"uri": "https://web.archive.org/web/20211115033852/https://www.asurams.edu/academic-affairs/graduate-studies/index.php", "rel": "last memento", "datetime": "Mon, 15 Nov 2021 03:38:52 GMT"}

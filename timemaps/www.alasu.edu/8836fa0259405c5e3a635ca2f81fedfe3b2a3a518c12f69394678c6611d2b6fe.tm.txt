@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/prosthetics-and-orthotics/master-science-prosthetics-orthotics"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/chs/prosthetics-and-orthotics/master-science-prosthetics-orthotics"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/chs/prosthetics-and-orthotics/master-science-prosthetics-orthotics"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/chs/prosthetics-and-orthotics/master-science-prosthetics-orthotics", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/chs/prosthetics-and-orthotics/master-science-prosthetics-orthotics", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/prosthetics-and-orthotics/master-science-prosthetics-orthotics"}}
+20181112212013 {"uri": "https://web.archive.org/web/20181112212013/http://www.alasu.edu:80/chs/prosthetics-and-orthotics/master-science-prosthetics-orthotics", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:20:13 GMT"}
+20210417052117 {"uri": "https://web.archive.org/web/20210417052117/https://www.alasu.edu/chs/prosthetics-and-orthotics/master-science-prosthetics-orthotics", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 05:21:17 GMT"}

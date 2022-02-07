@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/dchealthprof/hhp/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/dchealthprof/hhp/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/dchealthprof/hhp/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/dchealthprof/hhp/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/dchealthprof/hhp/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/dchealthprof/hhp/index.php"}}
+20200120100601 {"uri": "https://web.archive.org/web/20200120100601/http://www.asurams.edu:80/academic-affairs/dchealthprof/hhp/index.php", "rel": "first memento", "datetime": "Mon, 20 Jan 2020 10:06:01 GMT"}
+20200926214025 {"uri": "https://web.archive.org/web/20200926214025/https://www.asurams.edu/academic-affairs/dchealthprof/hhp/index.php", "rel": "memento", "datetime": "Sat, 26 Sep 2020 21:40:25 GMT"}
+20210416131430 {"uri": "https://web.archive.org/web/20210416131430/https://www.asurams.edu/academic-affairs/dchealthprof/hhp/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 13:14:30 GMT"}
+20210512122721 {"uri": "https://web.archive.org/web/20210512122721/https://www.asurams.edu/academic-affairs/dchealthprof/hhp/index.php", "rel": "memento", "datetime": "Wed, 12 May 2021 12:27:21 GMT"}
+20210515232943 {"uri": "https://web.archive.org/web/20210515232943/https://asurams.edu/academic-affairs/dchealthprof/hhp/index.php", "rel": "last memento", "datetime": "Sat, 15 May 2021 23:29:43 GMT"}

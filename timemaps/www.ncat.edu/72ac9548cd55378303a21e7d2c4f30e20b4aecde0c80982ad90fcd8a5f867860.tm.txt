@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/mathematics/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cost/departments/mathematics/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cost/departments/mathematics/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cost/departments/mathematics/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cost/departments/mathematics/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/mathematics/index.php"}}
+20200815024820 {"uri": "https://web.archive.org/web/20200815024820/https://www.ncat.edu/cost/departments/mathematics/index.php", "rel": "first memento", "datetime": "Sat, 15 Aug 2020 02:48:20 GMT"}
+20200903111842 {"uri": "https://web.archive.org/web/20200903111842/https://www.ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 11:18:42 GMT"}
+20200922200136 {"uri": "https://web.archive.org/web/20200922200136/https://ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:01:36 GMT"}
+20201024121904 {"uri": "https://web.archive.org/web/20201024121904/https://www.ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Sat, 24 Oct 2020 12:19:04 GMT"}
+20201128014654 {"uri": "https://web.archive.org/web/20201128014654/https://ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 01:46:54 GMT"}
+20210116232350 {"uri": "https://web.archive.org/web/20210116232350/https://ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Sat, 16 Jan 2021 23:23:50 GMT"}
+20210119032108 {"uri": "https://web.archive.org/web/20210119032108/https://www.ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Tue, 19 Jan 2021 03:21:08 GMT"}
+20210128200407 {"uri": "https://web.archive.org/web/20210128200407/https://ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Thu, 28 Jan 2021 20:04:07 GMT"}
+20210416192448 {"uri": "https://web.archive.org/web/20210416192448/https://ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 19:24:48 GMT"}
+20210419000501 {"uri": "https://web.archive.org/web/20210419000501/https://www.ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 00:05:01 GMT"}
+20210502074906 {"uri": "https://web.archive.org/web/20210502074906/https://www.ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Sun, 02 May 2021 07:49:06 GMT"}
+20210811211921 {"uri": "https://web.archive.org/web/20210811211921/https://ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:19:21 GMT"}
+20210817040712 {"uri": "https://web.archive.org/web/20210817040712/https://www.ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 04:07:12 GMT"}
+20210817104102 {"uri": "https://web.archive.org/web/20210817104102/https://ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 10:41:02 GMT"}
+20211117094800 {"uri": "https://web.archive.org/web/20211117094800/https://www.ncat.edu/cost/departments/mathematics/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:48:00 GMT"}
+20220107230624 {"uri": "https://web.archive.org/web/20220107230624/https://www.ncat.edu/cost/departments/mathematics/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 23:06:24 GMT"}

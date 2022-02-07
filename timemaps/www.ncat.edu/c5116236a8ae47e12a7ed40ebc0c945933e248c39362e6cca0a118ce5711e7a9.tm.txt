@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/caes/departments/animal-sciences/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/caes/departments/animal-sciences/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/caes/departments/animal-sciences/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/caes/departments/animal-sciences/index.php"}}
+20200903075913 {"uri": "https://web.archive.org/web/20200903075913/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 07:59:13 GMT"}
+20200922213631 {"uri": "https://web.archive.org/web/20200922213631/https://ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 21:36:31 GMT"}
+20200925105101 {"uri": "https://web.archive.org/web/20200925105101/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 10:51:01 GMT"}
+20201125170943 {"uri": "https://web.archive.org/web/20201125170943/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Wed, 25 Nov 2020 17:09:43 GMT"}
+20201128025202 {"uri": "https://web.archive.org/web/20201128025202/https://ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:52:02 GMT"}
+20201204195204 {"uri": "https://web.archive.org/web/20201204195204/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Fri, 04 Dec 2020 19:52:04 GMT"}
+20210117004441 {"uri": "https://web.archive.org/web/20210117004441/https://ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Sun, 17 Jan 2021 00:44:41 GMT"}
+20210130222146 {"uri": "https://web.archive.org/web/20210130222146/https://ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Sat, 30 Jan 2021 22:21:46 GMT"}
+20210416212030 {"uri": "https://web.archive.org/web/20210416212030/https://ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 21:20:30 GMT"}
+20210418235338 {"uri": "https://web.archive.org/web/20210418235338/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 23:53:38 GMT"}
+20210501154812 {"uri": "https://web.archive.org/web/20210501154812/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Sat, 01 May 2021 15:48:12 GMT"}
+20210812001644 {"uri": "https://web.archive.org/web/20210812001644/https://ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 00:16:44 GMT"}
+20210817074417 {"uri": "https://web.archive.org/web/20210817074417/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 07:44:17 GMT"}
+20210818011716 {"uri": "https://web.archive.org/web/20210818011716/https://ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Wed, 18 Aug 2021 01:17:16 GMT"}
+20211117094732 {"uri": "https://web.archive.org/web/20211117094732/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:32 GMT"}
+20220108021851 {"uri": "https://web.archive.org/web/20220108021851/https://www.ncat.edu/caes/departments/animal-sciences/index.php", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 02:18:51 GMT"}

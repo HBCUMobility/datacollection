@@ -1,0 +1,31 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/subhome/urban-forestry-and-natural-resources"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.subr.edu/subhome/urban-forestry-and-natural-resources"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.subr.edu/subhome/urban-forestry-and-natural-resources"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.subr.edu/subhome/urban-forestry-and-natural-resources", "json_format": "http://localhost:1208/timemap/json/https://www.subr.edu/subhome/urban-forestry-and-natural-resources", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/subhome/urban-forestry-and-natural-resources"}}
+20180422074755 {"uri": "https://web.archive.org/web/20180422074755/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "first memento", "datetime": "Sun, 22 Apr 2018 07:47:55 GMT"}
+20180623050318 {"uri": "https://web.archive.org/web/20180623050318/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Sat, 23 Jun 2018 05:03:18 GMT"}
+20180824154946 {"uri": "https://web.archive.org/web/20180824154946/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Fri, 24 Aug 2018 15:49:46 GMT"}
+20181026081128 {"uri": "https://web.archive.org/web/20181026081128/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Fri, 26 Oct 2018 08:11:28 GMT"}
+20181203082045 {"uri": "https://web.archive.org/web/20181203082045/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Mon, 03 Dec 2018 08:20:45 GMT"}
+20181225201219 {"uri": "https://web.archive.org/web/20181225201219/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Tue, 25 Dec 2018 20:12:19 GMT"}
+20190102224541 {"uri": "https://web.archive.org/web/20190102224541/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Wed, 02 Jan 2019 22:45:41 GMT"}
+20190202214905 {"uri": "https://web.archive.org/web/20190202214905/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Sat, 02 Feb 2019 21:49:05 GMT"}
+20190224122027 {"uri": "https://web.archive.org/web/20190224122027/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Sun, 24 Feb 2019 12:20:27 GMT"}
+20190305142758 {"uri": "https://web.archive.org/web/20190305142758/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Tue, 05 Mar 2019 14:27:58 GMT"}
+20190405202630 {"uri": "https://web.archive.org/web/20190405202630/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Fri, 05 Apr 2019 20:26:30 GMT"}
+20190426142928 {"uri": "https://web.archive.org/web/20190426142928/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Fri, 26 Apr 2019 14:29:28 GMT"}
+20190506190503 {"uri": "https://web.archive.org/web/20190506190503/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Mon, 06 May 2019 19:05:03 GMT"}
+20190606054400 {"uri": "https://web.archive.org/web/20190606054400/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Thu, 06 Jun 2019 05:44:00 GMT"}
+20190626222747 {"uri": "https://web.archive.org/web/20190626222747/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Wed, 26 Jun 2019 22:27:47 GMT"}
+20190707024201 {"uri": "https://web.archive.org/web/20190707024201/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Sun, 07 Jul 2019 02:42:01 GMT"}
+20190708053739 {"uri": "https://web.archive.org/web/20190708053739/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Mon, 08 Jul 2019 05:37:39 GMT"}
+20190807180414 {"uri": "https://web.archive.org/web/20190807180414/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Wed, 07 Aug 2019 18:04:14 GMT"}
+20190827021854 {"uri": "https://web.archive.org/web/20190827021854/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Tue, 27 Aug 2019 02:18:54 GMT"}
+20190907135755 {"uri": "https://web.archive.org/web/20190907135755/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Sat, 07 Sep 2019 13:57:55 GMT"}
+20191020221446 {"uri": "https://web.archive.org/web/20191020221446/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Sun, 20 Oct 2019 22:14:46 GMT"}
+20191220021712 {"uri": "https://web.archive.org/web/20191220021712/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Fri, 20 Dec 2019 02:17:12 GMT"}
+20200218061039 {"uri": "https://web.archive.org/web/20200218061039/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Tue, 18 Feb 2020 06:10:39 GMT"}
+20200630222419 {"uri": "https://web.archive.org/web/20200630222419/http://www.subr.edu:80/subhome/urban-forestry-and-natural-resources", "rel": "memento", "datetime": "Tue, 30 Jun 2020 22:24:19 GMT"}
+20210512184348 {"uri": "https://web.archive.org/web/20210512184348/http://www.subr.edu/subhome/urban-forestry-and-natural-resources", "rel": "last memento", "datetime": "Wed, 12 May 2021 18:43:48 GMT"}

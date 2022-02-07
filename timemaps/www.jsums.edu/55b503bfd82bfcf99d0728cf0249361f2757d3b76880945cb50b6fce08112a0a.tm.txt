@@ -1,0 +1,30 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/healthpolicy/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.jsums.edu/healthpolicy/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.jsums.edu/healthpolicy/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.jsums.edu/healthpolicy/", "json_format": "http://localhost:1208/timemap/json/https://www.jsums.edu/healthpolicy/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/healthpolicy/"}}
+20130315180230 {"uri": "https://web.archive.org/web/20130315180230/http://www.jsums.edu:80/healthpolicy", "rel": "first memento", "datetime": "Fri, 15 Mar 2013 18:02:30 GMT"}
+20130401091830 {"uri": "https://web.archive.org/web/20130401091830/http://www.jsums.edu:80/healthpolicy/", "rel": "memento", "datetime": "Mon, 01 Apr 2013 09:18:30 GMT"}
+20130515133607 {"uri": "https://web.archive.org/web/20130515133607/http://www.jsums.edu:80/healthpolicy/", "rel": "memento", "datetime": "Wed, 15 May 2013 13:36:07 GMT"}
+20130515133607 {"uri": "https://web.archive.org/web/20130515133607/http://www.jsums.edu:80/healthpolicy", "rel": "memento", "datetime": "Wed, 15 May 2013 13:36:07 GMT"}
+20130614012655 {"uri": "https://web.archive.org/web/20130614012655/http://www.jsums.edu:80/healthpolicy/", "rel": "memento", "datetime": "Fri, 14 Jun 2013 01:26:55 GMT"}
+20130614012655 {"uri": "https://web.archive.org/web/20130614012655/http://www.jsums.edu:80/healthpolicy", "rel": "memento", "datetime": "Fri, 14 Jun 2013 01:26:55 GMT"}
+20130622024158 {"uri": "https://web.archive.org/web/20130622024158/http://www.jsums.edu:80/healthpolicy/?", "rel": "memento", "datetime": "Sat, 22 Jun 2013 02:41:58 GMT"}
+20130716000313 {"uri": "https://web.archive.org/web/20130716000313/http://www.jsums.edu:80/healthpolicy/", "rel": "memento", "datetime": "Tue, 16 Jul 2013 00:03:13 GMT"}
+20131016141159 {"uri": "https://web.archive.org/web/20131016141159/http://www.jsums.edu:80/healthpolicy/", "rel": "memento", "datetime": "Wed, 16 Oct 2013 14:11:59 GMT"}
+20150221154612 {"uri": "https://web.archive.org/web/20150221154612/http://www.jsums.edu:80/healthpolicy", "rel": "memento", "datetime": "Sat, 21 Feb 2015 15:46:12 GMT"}
+20150906115251 {"uri": "https://web.archive.org/web/20150906115251/http://www.jsums.edu/healthpolicy", "rel": "memento", "datetime": "Sun, 06 Sep 2015 11:52:51 GMT"}
+20151030030321 {"uri": "https://web.archive.org/web/20151030030321/http://www.jsums.edu:80/healthpolicy", "rel": "memento", "datetime": "Fri, 30 Oct 2015 03:03:21 GMT"}
+20151221103715 {"uri": "https://web.archive.org/web/20151221103715/http://www.jsums.edu/healthpolicy", "rel": "memento", "datetime": "Mon, 21 Dec 2015 10:37:15 GMT"}
+20160331151504 {"uri": "https://web.archive.org/web/20160331151504/http://www.jsums.edu/healthpolicy", "rel": "memento", "datetime": "Thu, 31 Mar 2016 15:15:04 GMT"}
+20160508184159 {"uri": "https://web.archive.org/web/20160508184159/http://www.jsums.edu/healthpolicy", "rel": "memento", "datetime": "Sun, 08 May 2016 18:41:59 GMT"}
+20160911134629 {"uri": "https://web.archive.org/web/20160911134629/http://www.jsums.edu/healthpolicy", "rel": "memento", "datetime": "Sun, 11 Sep 2016 13:46:29 GMT"}
+20180409210956 {"uri": "https://web.archive.org/web/20180409210956/http://www.jsums.edu:80/healthpolicy", "rel": "memento", "datetime": "Mon, 09 Apr 2018 21:09:56 GMT"}
+20180410211127 {"uri": "https://web.archive.org/web/20180410211127/http://www.jsums.edu:80/healthpolicy", "rel": "memento", "datetime": "Tue, 10 Apr 2018 21:11:27 GMT"}
+20190623200142 {"uri": "https://web.archive.org/web/20190623200142/http://www.jsums.edu:80/healthpolicy/", "rel": "memento", "datetime": "Sun, 23 Jun 2019 20:01:42 GMT"}
+20190722151026 {"uri": "https://web.archive.org/web/20190722151026/http://www.jsums.edu/healthpolicy/", "rel": "memento", "datetime": "Mon, 22 Jul 2019 15:10:26 GMT"}
+20190824090337 {"uri": "https://web.archive.org/web/20190824090337/http://www.jsums.edu:80/healthpolicy/", "rel": "memento", "datetime": "Sat, 24 Aug 2019 09:03:37 GMT"}
+20191003070916 {"uri": "https://web.archive.org/web/20191003070916/http://www.jsums.edu:80/healthpolicy/", "rel": "memento", "datetime": "Thu, 03 Oct 2019 07:09:16 GMT"}
+20191202141330 {"uri": "https://web.archive.org/web/20191202141330/http://www.jsums.edu:80/healthpolicy/", "rel": "memento", "datetime": "Mon, 02 Dec 2019 14:13:30 GMT"}
+20200131213658 {"uri": "https://web.archive.org/web/20200131213658/http://www.jsums.edu:80/healthpolicy/", "rel": "last memento", "datetime": "Fri, 31 Jan 2020 21:36:58 GMT"}

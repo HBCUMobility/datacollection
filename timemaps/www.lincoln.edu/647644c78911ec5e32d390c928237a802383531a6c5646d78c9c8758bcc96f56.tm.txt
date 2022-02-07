@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/business-entrepreneurial-studies-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department"}}
+20170630194028 {"uri": "https://web.archive.org/web/20170630194028/http://www.lincoln.edu/departments/business-entrepreneurial-studies-department", "rel": "first memento", "datetime": "Fri, 30 Jun 2017 19:40:28 GMT"}
+20170707084523 {"uri": "https://web.archive.org/web/20170707084523/http://www.lincoln.edu/departments/business-entrepreneurial-studies-department", "rel": "memento", "datetime": "Fri, 07 Jul 2017 08:45:23 GMT"}
+20201022013225 {"uri": "https://web.archive.org/web/20201022013225/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department", "rel": "memento", "datetime": "Thu, 22 Oct 2020 01:32:25 GMT"}
+20210122132421 {"uri": "https://web.archive.org/web/20210122132421/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department", "rel": "memento", "datetime": "Fri, 22 Jan 2021 13:24:21 GMT"}
+20210420221129 {"uri": "https://web.archive.org/web/20210420221129/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department", "rel": "memento", "datetime": "Tue, 20 Apr 2021 22:11:29 GMT"}
+20210422203745 {"uri": "https://web.archive.org/web/20210422203745/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department", "rel": "memento", "datetime": "Thu, 22 Apr 2021 20:37:45 GMT"}
+20210507185618 {"uri": "https://web.archive.org/web/20210507185618/https://www.lincoln.edu/departments/business-entrepreneurial-studies-department", "rel": "last memento", "datetime": "Fri, 07 May 2021 18:56:18 GMT"}

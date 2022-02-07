@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/elementary-education"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/coe/curriculum-instruction-program-available-online/elementary-education"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/elementary-education"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/elementary-education", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/elementary-education", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/elementary-education"}}
+20201026140046 {"uri": "https://web.archive.org/web/20201026140046/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/elementary-education", "rel": "first memento", "datetime": "Mon, 26 Oct 2020 14:00:46 GMT"}
+20210417071725 {"uri": "https://web.archive.org/web/20210417071725/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/elementary-education", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 07:17:25 GMT"}

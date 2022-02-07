@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php"}}
+20210228070828 {"uri": "https://web.archive.org/web/20210228070828/http://asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php", "rel": "first memento", "datetime": "Sun, 28 Feb 2021 07:08:28 GMT"}
+20210416081459 {"uri": "https://web.archive.org/web/20210416081459/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 08:14:59 GMT"}
+20210515233956 {"uri": "https://web.archive.org/web/20210515233956/https://asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php", "rel": "memento", "datetime": "Sat, 15 May 2021 23:39:56 GMT"}
+20210816103900 {"uri": "https://web.archive.org/web/20210816103900/https://asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 10:39:00 GMT"}
+20210816103922 {"uri": "https://web.archive.org/web/20210816103922/https://asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 10:39:22 GMT"}
+20210816103948 {"uri": "https://web.archive.org/web/20210816103948/https://asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 10:39:48 GMT"}
+20210816104015 {"uri": "https://web.archive.org/web/20210816104015/https://asurams.edu/academic-affairs/college-of-arts-sciences/broadcast-center/index.php", "rel": "last memento", "datetime": "Mon, 16 Aug 2021 10:40:15 GMT"}

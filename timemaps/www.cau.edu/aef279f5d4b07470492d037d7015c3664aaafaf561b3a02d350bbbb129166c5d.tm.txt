@@ -1,0 +1,45 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/physics/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html"}}
+20190812040900 {"uri": "https://web.archive.org/web/20190812040900/http://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "first memento", "datetime": "Mon, 12 Aug 2019 04:09:00 GMT"}
+20190911220635 {"uri": "https://web.archive.org/web/20190911220635/http://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Wed, 11 Sep 2019 22:06:35 GMT"}
+20191003043718 {"uri": "https://web.archive.org/web/20191003043718/http://www.cau.edu:80/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 04:37:18 GMT"}
+20191011220634 {"uri": "https://web.archive.org/web/20191011220634/http://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:06:34 GMT"}
+20191111220621 {"uri": "https://web.archive.org/web/20191111220621/http://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:06:21 GMT"}
+20191202113052 {"uri": "https://web.archive.org/web/20191202113052/http://www.cau.edu:80/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Mon, 02 Dec 2019 11:30:52 GMT"}
+20191211220609 {"uri": "https://web.archive.org/web/20191211220609/http://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:06:09 GMT"}
+20200111220645 {"uri": "https://web.archive.org/web/20200111220645/http://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:06:45 GMT"}
+20200131234045 {"uri": "https://web.archive.org/web/20200131234045/http://www.cau.edu:80/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Fri, 31 Jan 2020 23:40:45 GMT"}
+20200204055952 {"uri": "https://web.archive.org/web/20200204055952/http://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Tue, 04 Feb 2020 05:59:52 GMT"}
+20200212010526 {"uri": "https://web.archive.org/web/20200212010526/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 01:05:26 GMT"}
+20200311223358 {"uri": "https://web.archive.org/web/20200311223358/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 22:33:58 GMT"}
+20200411222248 {"uri": "https://web.archive.org/web/20200411222248/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 22:22:48 GMT"}
+20200511222320 {"uri": "https://web.archive.org/web/20200511222320/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Mon, 11 May 2020 22:23:20 GMT"}
+20200612000239 {"uri": "https://web.archive.org/web/20200612000239/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 00:02:39 GMT"}
+20200711222003 {"uri": "https://web.archive.org/web/20200711222003/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 22:20:03 GMT"}
+20200811222336 {"uri": "https://web.archive.org/web/20200811222336/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 22:23:36 GMT"}
+20200814203858 {"uri": "https://web.archive.org/web/20200814203858/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Fri, 14 Aug 2020 20:38:58 GMT"}
+20200911223940 {"uri": "https://web.archive.org/web/20200911223940/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Fri, 11 Sep 2020 22:39:40 GMT"}
+20201011223317 {"uri": "https://web.archive.org/web/20201011223317/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 22:33:17 GMT"}
+20201022132911 {"uri": "https://web.archive.org/web/20201022132911/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Thu, 22 Oct 2020 13:29:11 GMT"}
+20201111222918 {"uri": "https://web.archive.org/web/20201111222918/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 22:29:18 GMT"}
+20201205061333 {"uri": "https://web.archive.org/web/20201205061333/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 06:13:33 GMT"}
+20201211230339 {"uri": "https://web.archive.org/web/20201211230339/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Fri, 11 Dec 2020 23:03:39 GMT"}
+20210111222312 {"uri": "https://web.archive.org/web/20210111222312/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 22:23:12 GMT"}
+20210211222859 {"uri": "https://web.archive.org/web/20210211222859/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 22:28:59 GMT"}
+20210302052333 {"uri": "https://web.archive.org/web/20210302052333/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Tue, 02 Mar 2021 05:23:33 GMT"}
+20210311222933 {"uri": "https://web.archive.org/web/20210311222933/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Thu, 11 Mar 2021 22:29:33 GMT"}
+20210411221457 {"uri": "https://web.archive.org/web/20210411221457/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:14:57 GMT"}
+20210511223155 {"uri": "https://web.archive.org/web/20210511223155/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Tue, 11 May 2021 22:31:55 GMT"}
+20210512121203 {"uri": "https://web.archive.org/web/20210512121203/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Wed, 12 May 2021 12:12:03 GMT"}
+20210611222450 {"uri": "https://web.archive.org/web/20210611222450/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Fri, 11 Jun 2021 22:24:50 GMT"}
+20210629003208 {"uri": "https://web.archive.org/web/20210629003208/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Tue, 29 Jun 2021 00:32:08 GMT"}
+20210711222123 {"uri": "https://web.archive.org/web/20210711222123/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 22:21:23 GMT"}
+20210811222912 {"uri": "https://web.archive.org/web/20210811222912/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:29:12 GMT"}
+20210911223146 {"uri": "https://web.archive.org/web/20210911223146/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 22:31:46 GMT"}
+20211011225454 {"uri": "https://web.archive.org/web/20211011225454/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Mon, 11 Oct 2021 22:54:54 GMT"}
+20211111223337 {"uri": "https://web.archive.org/web/20211111223337/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "memento", "datetime": "Thu, 11 Nov 2021 22:33:37 GMT"}
+20220108045248 {"uri": "https://web.archive.org/web/20220108045248/https://www.cau.edu/school-of-arts-and-sciences/physics/index.html", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 04:52:48 GMT"}

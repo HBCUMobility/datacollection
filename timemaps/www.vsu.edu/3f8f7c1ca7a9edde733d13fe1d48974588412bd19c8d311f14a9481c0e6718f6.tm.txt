@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/school-community-counseling/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/education/departments/school-community-counseling/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/education/departments/school-community-counseling/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/education/departments/school-community-counseling/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/education/departments/school-community-counseling/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/school-community-counseling/index.php"}}
+20210121221109 {"uri": "https://web.archive.org/web/20210121221109/https://www.vsu.edu/education/departments/school-community-counseling/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 22:11:09 GMT"}
+20210413142651 {"uri": "https://web.archive.org/web/20210413142651/https://www.vsu.edu/education/departments/school-community-counseling/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 14:26:51 GMT"}
+20210614003403 {"uri": "https://web.archive.org/web/20210614003403/https://www.vsu.edu/education/departments/school-community-counseling/index.php", "rel": "memento", "datetime": "Mon, 14 Jun 2021 00:34:03 GMT"}
+20211217112536 {"uri": "https://web.archive.org/web/20211217112536/https://www.vsu.edu/education/departments/school-community-counseling/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:25:36 GMT"}

@@ -1,0 +1,90 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/business/cis/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.gram.edu/academics/majors/business/cis/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.gram.edu/academics/majors/business/cis/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.gram.edu/academics/majors/business/cis/", "json_format": "http://localhost:1208/timemap/json/https://www.gram.edu/academics/majors/business/cis/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/business/cis/"}}
+20141008014944 {"uri": "https://web.archive.org/web/20141008014944/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "first memento", "datetime": "Wed, 08 Oct 2014 01:49:44 GMT"}
+20141008014944 {"uri": "https://web.archive.org/web/20141008014944/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Wed, 08 Oct 2014 01:49:44 GMT"}
+20141009030848 {"uri": "https://web.archive.org/web/20141009030848/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Thu, 09 Oct 2014 03:08:48 GMT"}
+20141108160023 {"uri": "https://web.archive.org/web/20141108160023/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 08 Nov 2014 16:00:23 GMT"}
+20141108160023 {"uri": "https://web.archive.org/web/20141108160023/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sat, 08 Nov 2014 16:00:23 GMT"}
+20141214112600 {"uri": "https://web.archive.org/web/20141214112600/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sun, 14 Dec 2014 11:26:00 GMT"}
+20141214112600 {"uri": "https://web.archive.org/web/20141214112600/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sun, 14 Dec 2014 11:26:00 GMT"}
+20150116031451 {"uri": "https://web.archive.org/web/20150116031451/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Fri, 16 Jan 2015 03:14:51 GMT"}
+20150116031451 {"uri": "https://web.archive.org/web/20150116031451/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Fri, 16 Jan 2015 03:14:51 GMT"}
+20150122222252 {"uri": "https://web.archive.org/web/20150122222252/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Thu, 22 Jan 2015 22:22:52 GMT"}
+20150501105853 {"uri": "https://web.archive.org/web/20150501105853/http://www.gram.edu/academics/majors/business/cis/", "rel": "memento", "datetime": "Fri, 01 May 2015 10:58:53 GMT"}
+20150723052158 {"uri": "https://web.archive.org/web/20150723052158/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Thu, 23 Jul 2015 05:21:58 GMT"}
+20150830003326 {"uri": "https://web.archive.org/web/20150830003326/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sun, 30 Aug 2015 00:33:26 GMT"}
+20150830003326 {"uri": "https://web.archive.org/web/20150830003326/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sun, 30 Aug 2015 00:33:26 GMT"}
+20150905084301 {"uri": "https://web.archive.org/web/20150905084301/http://www.gram.edu/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 08:43:01 GMT"}
+20150921165252 {"uri": "https://web.archive.org/web/20150921165252/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Mon, 21 Sep 2015 16:52:52 GMT"}
+20151016034708 {"uri": "https://web.archive.org/web/20151016034708/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Fri, 16 Oct 2015 03:47:08 GMT"}
+20151016034708 {"uri": "https://web.archive.org/web/20151016034708/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Fri, 16 Oct 2015 03:47:08 GMT"}
+20151116033239 {"uri": "https://web.archive.org/web/20151116033239/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Mon, 16 Nov 2015 03:32:39 GMT"}
+20151116033239 {"uri": "https://web.archive.org/web/20151116033239/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Mon, 16 Nov 2015 03:32:39 GMT"}
+20151121105322 {"uri": "https://web.archive.org/web/20151121105322/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 21 Nov 2015 10:53:22 GMT"}
+20160122035221 {"uri": "https://web.archive.org/web/20160122035221/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Fri, 22 Jan 2016 03:52:21 GMT"}
+20160222161504 {"uri": "https://web.archive.org/web/20160222161504/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Mon, 22 Feb 2016 16:15:04 GMT"}
+20160222161504 {"uri": "https://web.archive.org/web/20160222161504/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Mon, 22 Feb 2016 16:15:04 GMT"}
+20160401211902 {"uri": "https://web.archive.org/web/20160401211902/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Fri, 01 Apr 2016 21:19:02 GMT"}
+20160605085211 {"uri": "https://web.archive.org/web/20160605085211/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sun, 05 Jun 2016 08:52:11 GMT"}
+20170405034920 {"uri": "https://web.archive.org/web/20170405034920/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Wed, 05 Apr 2017 03:49:20 GMT"}
+20170405034920 {"uri": "https://web.archive.org/web/20170405034920/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Wed, 05 Apr 2017 03:49:20 GMT"}
+20170526115848 {"uri": "https://web.archive.org/web/20170526115848/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Fri, 26 May 2017 11:58:48 GMT"}
+20171013100444 {"uri": "https://web.archive.org/web/20171013100444/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Fri, 13 Oct 2017 10:04:44 GMT"}
+20180602181432 {"uri": "https://web.archive.org/web/20180602181432/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 02 Jun 2018 18:14:32 GMT"}
+20180602181432 {"uri": "https://web.archive.org/web/20180602181432/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sat, 02 Jun 2018 18:14:32 GMT"}
+20180605004411 {"uri": "https://web.archive.org/web/20180605004411/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Tue, 05 Jun 2018 00:44:11 GMT"}
+20180703213050 {"uri": "https://web.archive.org/web/20180703213050/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Tue, 03 Jul 2018 21:30:50 GMT"}
+20180703213050 {"uri": "https://web.archive.org/web/20180703213050/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Tue, 03 Jul 2018 21:30:50 GMT"}
+20180804044146 {"uri": "https://web.archive.org/web/20180804044146/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 04 Aug 2018 04:41:46 GMT"}
+20180804044146 {"uri": "https://web.archive.org/web/20180804044146/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sat, 04 Aug 2018 04:41:46 GMT"}
+20180806094532 {"uri": "https://web.archive.org/web/20180806094532/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Mon, 06 Aug 2018 09:45:32 GMT"}
+20180904155042 {"uri": "https://web.archive.org/web/20180904155042/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Tue, 04 Sep 2018 15:50:42 GMT"}
+20180904155042 {"uri": "https://web.archive.org/web/20180904155042/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Tue, 04 Sep 2018 15:50:42 GMT"}
+20181006045821 {"uri": "https://web.archive.org/web/20181006045821/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 06 Oct 2018 04:58:21 GMT"}
+20181006045821 {"uri": "https://web.archive.org/web/20181006045821/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sat, 06 Oct 2018 04:58:21 GMT"}
+20181007070800 {"uri": "https://web.archive.org/web/20181007070800/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sun, 07 Oct 2018 07:08:00 GMT"}
+20181007070800 {"uri": "https://web.archive.org/web/20181007070800/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sun, 07 Oct 2018 07:08:00 GMT"}
+20181009112241 {"uri": "https://web.archive.org/web/20181009112241/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Tue, 09 Oct 2018 11:22:41 GMT"}
+20181108010624 {"uri": "https://web.archive.org/web/20181108010624/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Thu, 08 Nov 2018 01:06:24 GMT"}
+20181108010624 {"uri": "https://web.archive.org/web/20181108010624/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Thu, 08 Nov 2018 01:06:24 GMT"}
+20181208210434 {"uri": "https://web.archive.org/web/20181208210434/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 08 Dec 2018 21:04:34 GMT"}
+20181208210434 {"uri": "https://web.archive.org/web/20181208210434/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sat, 08 Dec 2018 21:04:34 GMT"}
+20181211132620 {"uri": "https://web.archive.org/web/20181211132620/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Tue, 11 Dec 2018 13:26:20 GMT"}
+20190109061439 {"uri": "https://web.archive.org/web/20190109061439/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Wed, 09 Jan 2019 06:14:39 GMT"}
+20190109061439 {"uri": "https://web.archive.org/web/20190109061439/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Wed, 09 Jan 2019 06:14:39 GMT"}
+20190209220047 {"uri": "https://web.archive.org/web/20190209220047/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 09 Feb 2019 22:00:47 GMT"}
+20190209220047 {"uri": "https://web.archive.org/web/20190209220047/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sat, 09 Feb 2019 22:00:47 GMT"}
+20190210231944 {"uri": "https://web.archive.org/web/20190210231944/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sun, 10 Feb 2019 23:19:44 GMT"}
+20190210231944 {"uri": "https://web.archive.org/web/20190210231944/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sun, 10 Feb 2019 23:19:44 GMT"}
+20190212180954 {"uri": "https://web.archive.org/web/20190212180954/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Tue, 12 Feb 2019 18:09:54 GMT"}
+20190314160005 {"uri": "https://web.archive.org/web/20190314160005/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Thu, 14 Mar 2019 16:00:05 GMT"}
+20190314160005 {"uri": "https://web.archive.org/web/20190314160005/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Thu, 14 Mar 2019 16:00:05 GMT"}
+20190415020942 {"uri": "https://web.archive.org/web/20190415020942/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Mon, 15 Apr 2019 02:09:42 GMT"}
+20190415075209 {"uri": "https://web.archive.org/web/20190415075209/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Mon, 15 Apr 2019 07:52:09 GMT"}
+20190415075209 {"uri": "https://web.archive.org/web/20190415075209/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Mon, 15 Apr 2019 07:52:09 GMT"}
+20190516021526 {"uri": "https://web.archive.org/web/20190516021526/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Thu, 16 May 2019 02:15:26 GMT"}
+20190516021526 {"uri": "https://web.archive.org/web/20190516021526/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Thu, 16 May 2019 02:15:26 GMT"}
+20190616002245 {"uri": "https://web.archive.org/web/20190616002245/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sun, 16 Jun 2019 00:22:45 GMT"}
+20190616002245 {"uri": "https://web.archive.org/web/20190616002245/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sun, 16 Jun 2019 00:22:45 GMT"}
+20190704110121 {"uri": "https://web.archive.org/web/20190704110121/http://www.gram.edu/academics/majors/business/cis/", "rel": "memento", "datetime": "Thu, 04 Jul 2019 11:01:21 GMT"}
+20190719082015 {"uri": "https://web.archive.org/web/20190719082015/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Fri, 19 Jul 2019 08:20:15 GMT"}
+20190719082015 {"uri": "https://web.archive.org/web/20190719082015/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Fri, 19 Jul 2019 08:20:15 GMT"}
+20190815183954 {"uri": "https://web.archive.org/web/20190815183954/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Thu, 15 Aug 2019 18:39:54 GMT"}
+20190820211954 {"uri": "https://web.archive.org/web/20190820211954/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Tue, 20 Aug 2019 21:19:54 GMT"}
+20190820211954 {"uri": "https://web.archive.org/web/20190820211954/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Tue, 20 Aug 2019 21:19:54 GMT"}
+20190921003643 {"uri": "https://web.archive.org/web/20190921003643/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 21 Sep 2019 00:36:43 GMT"}
+20190921003643 {"uri": "https://web.archive.org/web/20190921003643/http://www.gram.edu:80/academics/majors/business/cis", "rel": "memento", "datetime": "Sat, 21 Sep 2019 00:36:43 GMT"}
+20191019031103 {"uri": "https://web.archive.org/web/20191019031103/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 19 Oct 2019 03:11:03 GMT"}
+20191118102721 {"uri": "https://web.archive.org/web/20191118102721/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Mon, 18 Nov 2019 10:27:21 GMT"}
+20191218162739 {"uri": "https://web.archive.org/web/20191218162739/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Wed, 18 Dec 2019 16:27:39 GMT"}
+20200117214718 {"uri": "https://web.archive.org/web/20200117214718/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Fri, 17 Jan 2020 21:47:18 GMT"}
+20200217024209 {"uri": "https://web.archive.org/web/20200217024209/http://www.gram.edu:80/academics/majors/business/cis/", "rel": "memento", "datetime": "Mon, 17 Feb 2020 02:42:09 GMT"}
+20200811154652 {"uri": "https://web.archive.org/web/20200811154652/https://gram.edu/academics/majors/business/cis/", "rel": "memento", "datetime": "Tue, 11 Aug 2020 15:46:52 GMT"}
+20201021213912 {"uri": "https://web.archive.org/web/20201021213912/https://gram.edu/academics/majors/business/cis/", "rel": "memento", "datetime": "Wed, 21 Oct 2020 21:39:12 GMT"}
+20210123073443 {"uri": "https://web.archive.org/web/20210123073443/https://gram.edu/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 23 Jan 2021 07:34:43 GMT"}
+20210417222258 {"uri": "https://web.archive.org/web/20210417222258/https://www.gram.edu/academics/majors/business/cis/", "rel": "memento", "datetime": "Sat, 17 Apr 2021 22:22:58 GMT"}
+20210422011123 {"uri": "https://web.archive.org/web/20210422011123/https://gram.edu/academics/majors/business/cis/", "rel": "last memento", "datetime": "Thu, 22 Apr 2021 01:11:23 GMT"}

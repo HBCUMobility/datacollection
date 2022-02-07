@@ -1,0 +1,79 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ext.vsu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ext.vsu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ext.vsu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ext.vsu.edu/", "json_format": "http://localhost:1208/timemap/json/https://www.ext.vsu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ext.vsu.edu/"}}
+20160607084939 {"uri": "https://web.archive.org/web/20160607084939/http://www.ext.vsu.edu:80/", "rel": "first memento", "datetime": "Tue, 07 Jun 2016 08:49:39 GMT"}
+20160708182942 {"uri": "https://web.archive.org/web/20160708182942/http://www.ext.vsu.edu:80/", "rel": "memento", "datetime": "Fri, 08 Jul 2016 18:29:42 GMT"}
+20160814065804 {"uri": "https://web.archive.org/web/20160814065804/http://www.ext.vsu.edu:80/", "rel": "memento", "datetime": "Sun, 14 Aug 2016 06:58:04 GMT"}
+20160922130456 {"uri": "https://web.archive.org/web/20160922130456/http://www.ext.vsu.edu:80/", "rel": "memento", "datetime": "Thu, 22 Sep 2016 13:04:56 GMT"}
+20161024132346 {"uri": "https://web.archive.org/web/20161024132346/http://www.ext.vsu.edu:80/", "rel": "memento", "datetime": "Mon, 24 Oct 2016 13:23:46 GMT"}
+20170616215532 {"uri": "https://web.archive.org/web/20170616215532/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 16 Jun 2017 21:55:32 GMT"}
+20180329225635 {"uri": "https://web.archive.org/web/20180329225635/http://ext.vsu.edu/", "rel": "memento", "datetime": "Thu, 29 Mar 2018 22:56:35 GMT"}
+20180531115611 {"uri": "https://web.archive.org/web/20180531115611/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Thu, 31 May 2018 11:56:11 GMT"}
+20180614073127 {"uri": "https://web.archive.org/web/20180614073127/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Thu, 14 Jun 2018 07:31:27 GMT"}
+20180615185349 {"uri": "https://web.archive.org/web/20180615185349/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 15 Jun 2018 18:53:49 GMT"}
+20180818010542 {"uri": "https://wayback.archive-it.org/all/20180818010542/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 18 Aug 2018 01:05:42 GMT"}
+20180818010542 {"uri": "https://web.archive.org/web/20180818010542/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 18 Aug 2018 01:05:42 GMT"}
+20180831202045 {"uri": "https://web.archive.org/web/20180831202045/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 31 Aug 2018 20:20:45 GMT"}
+20181114040343 {"uri": "https://web.archive.org/web/20181114040343/http://ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 14 Nov 2018 04:03:43 GMT"}
+20181201164327 {"uri": "https://web.archive.org/web/20181201164327/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 01 Dec 2018 16:43:27 GMT"}
+20190218011220 {"uri": "https://wayback.archive-it.org/all/20190218011220/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Mon, 18 Feb 2019 01:12:20 GMT"}
+20190218011220 {"uri": "https://web.archive.org/web/20190218011220/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Mon, 18 Feb 2019 01:12:20 GMT"}
+20190218011222 {"uri": "https://wayback.archive-it.org/all/20190218011222/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Mon, 18 Feb 2019 01:12:22 GMT"}
+20190218011222 {"uri": "https://web.archive.org/web/20190218011222/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Mon, 18 Feb 2019 01:12:22 GMT"}
+20190501021957 {"uri": "https://web.archive.org/web/20190501021957/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 01 May 2019 02:19:57 GMT"}
+20190718133247 {"uri": "https://web.archive.org/web/20190718133247/http://ext.vsu.edu/", "rel": "memento", "datetime": "Thu, 18 Jul 2019 13:32:47 GMT"}
+20190806043921 {"uri": "https://web.archive.org/web/20190806043921/http://ext.vsu.edu/", "rel": "memento", "datetime": "Tue, 06 Aug 2019 04:39:21 GMT"}
+20190919200212 {"uri": "https://web.archive.org/web/20190919200212/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Thu, 19 Sep 2019 20:02:12 GMT"}
+20191003072316 {"uri": "https://web.archive.org/web/20191003072316/http://www.ext.vsu.edu:80/", "rel": "memento", "datetime": "Thu, 03 Oct 2019 07:23:16 GMT"}
+20191202162220 {"uri": "https://web.archive.org/web/20191202162220/http://www.ext.vsu.edu:80/", "rel": "memento", "datetime": "Mon, 02 Dec 2019 16:22:20 GMT"}
+20200201035803 {"uri": "https://web.archive.org/web/20200201035803/http://www.ext.vsu.edu:80/", "rel": "memento", "datetime": "Sat, 01 Feb 2020 03:58:03 GMT"}
+20200206085911 {"uri": "https://web.archive.org/web/20200206085911/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Thu, 06 Feb 2020 08:59:11 GMT"}
+20200227152858 {"uri": "https://web.archive.org/web/20200227152858/http://www.ext.vsu.edu:80/", "rel": "memento", "datetime": "Thu, 27 Feb 2020 15:28:58 GMT"}
+20200401034138 {"uri": "https://web.archive.org/web/20200401034138/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 01 Apr 2020 03:41:38 GMT"}
+20200401041327 {"uri": "https://web.archive.org/web/20200401041327/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 01 Apr 2020 04:13:27 GMT"}
+20200416164741 {"uri": "https://web.archive.org/web/20200416164741/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Thu, 16 Apr 2020 16:47:41 GMT"}
+20200531114051 {"uri": "https://web.archive.org/web/20200531114051/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sun, 31 May 2020 11:40:51 GMT"}
+20200617141546 {"uri": "https://web.archive.org/web/20200617141546/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 17 Jun 2020 14:15:46 GMT"}
+20200626220343 {"uri": "https://web.archive.org/web/20200626220343/http://www.ext.vsu.edu:80/", "rel": "memento", "datetime": "Fri, 26 Jun 2020 22:03:43 GMT"}
+20200722194424 {"uri": "https://web.archive.org/web/20200722194424/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 22 Jul 2020 19:44:24 GMT"}
+20200722194428 {"uri": "https://web.archive.org/web/20200722194428/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 22 Jul 2020 19:44:28 GMT"}
+20200819101827 {"uri": "https://web.archive.org/web/20200819101827/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 19 Aug 2020 10:18:27 GMT"}
+20200914183402 {"uri": "https://web.archive.org/web/20200914183402/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Mon, 14 Sep 2020 18:34:02 GMT"}
+20201002072624 {"uri": "https://web.archive.org/web/20201002072624/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 02 Oct 2020 07:26:24 GMT"}
+20201006015322 {"uri": "https://web.archive.org/web/20201006015322/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Tue, 06 Oct 2020 01:53:22 GMT"}
+20201006083626 {"uri": "https://web.archive.org/web/20201006083626/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Tue, 06 Oct 2020 08:36:26 GMT"}
+20201016164626 {"uri": "https://web.archive.org/web/20201016164626/http://ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 16 Oct 2020 16:46:26 GMT"}
+20201017001229 {"uri": "https://web.archive.org/web/20201017001229/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 17 Oct 2020 00:12:29 GMT"}
+20201017003641 {"uri": "https://web.archive.org/web/20201017003641/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 17 Oct 2020 00:36:41 GMT"}
+20201101021612 {"uri": "https://web.archive.org/web/20201101021612/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sun, 01 Nov 2020 02:16:12 GMT"}
+20201101021613 {"uri": "https://web.archive.org/web/20201101021613/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sun, 01 Nov 2020 02:16:13 GMT"}
+20210206191057 {"uri": "https://web.archive.org/web/20210206191057/https://ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 06 Feb 2021 19:10:57 GMT"}
+20210414044457 {"uri": "https://web.archive.org/web/20210414044457/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 14 Apr 2021 04:44:57 GMT"}
+20210417192246 {"uri": "https://web.archive.org/web/20210417192246/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 17 Apr 2021 19:22:46 GMT"}
+20210817150306 {"uri": "https://web.archive.org/web/20210817150306/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Tue, 17 Aug 2021 15:03:06 GMT"}
+20210925083701 {"uri": "https://web.archive.org/web/20210925083701/https://ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:37:01 GMT"}
+20210925083707 {"uri": "https://web.archive.org/web/20210925083707/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:37:07 GMT"}
+20211006220946 {"uri": "https://web.archive.org/web/20211006220946/http://ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 06 Oct 2021 22:09:46 GMT"}
+20211007090020 {"uri": "https://web.archive.org/web/20211007090020/http://ext.vsu.edu/", "rel": "memento", "datetime": "Thu, 07 Oct 2021 09:00:20 GMT"}
+20211007205806 {"uri": "https://web.archive.org/web/20211007205806/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Thu, 07 Oct 2021 20:58:06 GMT"}
+20211010115325 {"uri": "https://web.archive.org/web/20211010115325/http://ext.vsu.edu/", "rel": "memento", "datetime": "Sun, 10 Oct 2021 11:53:25 GMT"}
+20211103054730 {"uri": "https://web.archive.org/web/20211103054730/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 03 Nov 2021 05:47:30 GMT"}
+20211103054730 {"uri": "https://web.archive.org/web/20211103054730/http://ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 03 Nov 2021 05:47:30 GMT"}
+20211115110242 {"uri": "https://web.archive.org/web/20211115110242/http://ext.vsu.edu/", "rel": "memento", "datetime": "Mon, 15 Nov 2021 11:02:42 GMT"}
+20211115110244 {"uri": "https://web.archive.org/web/20211115110244/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Mon, 15 Nov 2021 11:02:44 GMT"}
+20211115180054 {"uri": "https://web.archive.org/web/20211115180054/http://ext.vsu.edu/", "rel": "memento", "datetime": "Mon, 15 Nov 2021 18:00:54 GMT"}
+20211116113512 {"uri": "https://web.archive.org/web/20211116113512/http://ext.vsu.edu/", "rel": "memento", "datetime": "Tue, 16 Nov 2021 11:35:12 GMT"}
+20211215151553 {"uri": "https://web.archive.org/web/20211215151553/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 15 Dec 2021 15:15:53 GMT"}
+20211215170821 {"uri": "https://web.archive.org/web/20211215170821/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 15 Dec 2021 17:08:21 GMT"}
+20211215192522 {"uri": "https://web.archive.org/web/20211215192522/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Wed, 15 Dec 2021 19:25:22 GMT"}
+20211217042746 {"uri": "https://web.archive.org/web/20211217042746/https://ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 17 Dec 2021 04:27:46 GMT"}
+20220107225135 {"uri": "https://web.archive.org/web/20220107225135/https://ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 07 Jan 2022 22:51:35 GMT"}
+20220107225136 {"uri": "https://web.archive.org/web/20220107225136/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 07 Jan 2022 22:51:36 GMT"}
+20220107231059 {"uri": "https://web.archive.org/web/20220107231059/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 07 Jan 2022 23:10:59 GMT"}
+20220108060805 {"uri": "https://web.archive.org/web/20220108060805/http://www.ext.vsu.edu/", "rel": "memento", "datetime": "Sat, 08 Jan 2022 06:08:05 GMT"}
+20220121142704 {"uri": "https://web.archive.org/web/20220121142704/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 21 Jan 2022 14:27:04 GMT"}
+20220121204928 {"uri": "https://web.archive.org/web/20220121204928/https://www.ext.vsu.edu/", "rel": "memento", "datetime": "Fri, 21 Jan 2022 20:49:28 GMT"}
+20220201041147 {"uri": "https://web.archive.org/web/20220201041147/https://www.ext.vsu.edu/", "rel": "last memento", "datetime": "Tue, 01 Feb 2022 04:11:47 GMT"}

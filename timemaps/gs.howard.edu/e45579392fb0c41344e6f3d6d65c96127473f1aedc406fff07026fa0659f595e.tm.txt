@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs"}}
+20170606183350 {"uri": "https://web.archive.org/web/20170606183350/https://gs.howard.edu/graduate-programs", "rel": "first memento", "datetime": "Tue, 06 Jun 2017 18:33:50 GMT"}
+20170708135557 {"uri": "https://web.archive.org/web/20170708135557/https://gs.howard.edu/graduate-programs/", "rel": "memento", "datetime": "Sat, 08 Jul 2017 13:55:57 GMT"}
+20200126060333 {"uri": "https://web.archive.org/web/20200126060333/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Sun, 26 Jan 2020 06:03:33 GMT"}
+20200513221100 {"uri": "https://web.archive.org/web/20200513221100/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Wed, 13 May 2020 22:11:00 GMT"}
+20200923222946 {"uri": "https://web.archive.org/web/20200923222946/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Wed, 23 Sep 2020 22:29:46 GMT"}
+20201001052145 {"uri": "https://web.archive.org/web/20201001052145/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Thu, 01 Oct 2020 05:21:45 GMT"}
+20201031164958 {"uri": "https://web.archive.org/web/20201031164958/https://gs.howard.edu/graduate-programs/", "rel": "memento", "datetime": "Sat, 31 Oct 2020 16:49:58 GMT"}
+20201201150007 {"uri": "https://web.archive.org/web/20201201150007/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Tue, 01 Dec 2020 15:00:07 GMT"}
+20210121152743 {"uri": "https://web.archive.org/web/20210121152743/https://gs.howard.edu/graduate-programs/", "rel": "memento", "datetime": "Thu, 21 Jan 2021 15:27:43 GMT"}
+20210301101449 {"uri": "https://web.archive.org/web/20210301101449/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Mon, 01 Mar 2021 10:14:49 GMT"}
+20210413080626 {"uri": "https://web.archive.org/web/20210413080626/https://gs.howard.edu/graduate-programs/", "rel": "memento", "datetime": "Tue, 13 Apr 2021 08:06:26 GMT"}
+20210518081419 {"uri": "https://web.archive.org/web/20210518081419/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Tue, 18 May 2021 08:14:19 GMT"}
+20211118155346 {"uri": "https://web.archive.org/web/20211118155346/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Thu, 18 Nov 2021 15:53:46 GMT"}
+20211118155522 {"uri": "https://web.archive.org/web/20211118155522/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Thu, 18 Nov 2021 15:55:22 GMT"}
+20220105160210 {"uri": "https://web.archive.org/web/20220105160210/https://gs.howard.edu/graduate-programs", "rel": "memento", "datetime": "Wed, 05 Jan 2022 16:02:10 GMT"}
+20220106213148 {"uri": "https://web.archive.org/web/20220106213148/https://gs.howard.edu/graduate-programs", "rel": "last memento", "datetime": "Thu, 06 Jan 2022 21:31:48 GMT"}

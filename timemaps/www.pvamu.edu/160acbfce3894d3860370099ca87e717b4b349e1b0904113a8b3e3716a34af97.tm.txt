@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/arotc/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.pvamu.edu/bcas/departments/arotc/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.pvamu.edu/bcas/departments/arotc/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.pvamu.edu/bcas/departments/arotc/", "json_format": "http://localhost:1208/timemap/json/https://www.pvamu.edu/bcas/departments/arotc/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/arotc/"}}
+20190402185347 {"uri": "https://web.archive.org/web/20190402185347/http://www.pvamu.edu/bcas/departments/arotc/", "rel": "first memento", "datetime": "Tue, 02 Apr 2019 18:53:47 GMT"}
+20200809095355 {"uri": "https://web.archive.org/web/20200809095355/https://www.pvamu.edu/bcas/departments/arotc/", "rel": "memento", "datetime": "Sun, 09 Aug 2020 09:53:55 GMT"}
+20200811133946 {"uri": "https://web.archive.org/web/20200811133946/https://www.pvamu.edu/bcas/departments/arotc/", "rel": "memento", "datetime": "Tue, 11 Aug 2020 13:39:46 GMT"}
+20201101074913 {"uri": "https://web.archive.org/web/20201101074913/https://www.pvamu.edu/bcas/departments/arotc/", "rel": "memento", "datetime": "Sun, 01 Nov 2020 07:49:13 GMT"}
+20210418174206 {"uri": "https://web.archive.org/web/20210418174206/https://www.pvamu.edu/bcas/departments/arotc/", "rel": "memento", "datetime": "Sun, 18 Apr 2021 17:42:06 GMT"}
+20210419085714 {"uri": "https://web.archive.org/web/20210419085714/https://www.pvamu.edu/bcas/departments/arotc/", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 08:57:14 GMT"}

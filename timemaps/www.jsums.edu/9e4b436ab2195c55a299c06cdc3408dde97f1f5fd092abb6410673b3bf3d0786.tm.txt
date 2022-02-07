@@ -1,0 +1,81 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/socialwork/masters-of-social-work-program/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.jsums.edu/socialwork/masters-of-social-work-program/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.jsums.edu/socialwork/masters-of-social-work-program/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.jsums.edu/socialwork/masters-of-social-work-program/", "json_format": "http://localhost:1208/timemap/json/https://www.jsums.edu/socialwork/masters-of-social-work-program/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/socialwork/masters-of-social-work-program/"}}
+20130323200118 {"uri": "https://web.archive.org/web/20130323200118/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "first memento", "datetime": "Sat, 23 Mar 2013 20:01:18 GMT"}
+20130407034033 {"uri": "https://web.archive.org/web/20130407034033/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sun, 07 Apr 2013 03:40:33 GMT"}
+20130407034033 {"uri": "https://web.archive.org/web/20130407034033/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Sun, 07 Apr 2013 03:40:33 GMT"}
+20130507013546 {"uri": "https://web.archive.org/web/20130507013546/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Tue, 07 May 2013 01:35:46 GMT"}
+20130507013546 {"uri": "https://web.archive.org/web/20130507013546/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Tue, 07 May 2013 01:35:46 GMT"}
+20130524052405 {"uri": "https://web.archive.org/web/20130524052405/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Fri, 24 May 2013 05:24:05 GMT"}
+20130606153540 {"uri": "https://web.archive.org/web/20130606153540/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Thu, 06 Jun 2013 15:35:40 GMT"}
+20130628114714 {"uri": "https://web.archive.org/web/20130628114714/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Fri, 28 Jun 2013 11:47:14 GMT"}
+20130628114714 {"uri": "https://web.archive.org/web/20130628114714/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Fri, 28 Jun 2013 11:47:14 GMT"}
+20130716092348 {"uri": "https://web.archive.org/web/20130716092348/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Tue, 16 Jul 2013 09:23:48 GMT"}
+20130723231117 {"uri": "https://web.archive.org/web/20130723231117/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Tue, 23 Jul 2013 23:11:17 GMT"}
+20130816063906 {"uri": "https://web.archive.org/web/20130816063906/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Fri, 16 Aug 2013 06:39:06 GMT"}
+20130916073309 {"uri": "https://web.archive.org/web/20130916073309/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Mon, 16 Sep 2013 07:33:09 GMT"}
+20150316151717 {"uri": "https://web.archive.org/web/20150316151717/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Mon, 16 Mar 2015 15:17:17 GMT"}
+20150316151717 {"uri": "https://web.archive.org/web/20150316151717/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Mon, 16 Mar 2015 15:17:17 GMT"}
+20150317171735 {"uri": "https://web.archive.org/web/20150317171735/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Tue, 17 Mar 2015 17:17:35 GMT"}
+20150416030011 {"uri": "https://web.archive.org/web/20150416030011/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Thu, 16 Apr 2015 03:00:11 GMT"}
+20150416030011 {"uri": "https://web.archive.org/web/20150416030011/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Thu, 16 Apr 2015 03:00:11 GMT"}
+20150517033743 {"uri": "https://web.archive.org/web/20150517033743/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sun, 17 May 2015 03:37:43 GMT"}
+20150517033743 {"uri": "https://web.archive.org/web/20150517033743/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Sun, 17 May 2015 03:37:43 GMT"}
+20150520111044 {"uri": "https://web.archive.org/web/20150520111044/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Wed, 20 May 2015 11:10:44 GMT"}
+20150619062454 {"uri": "https://web.archive.org/web/20150619062454/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Fri, 19 Jun 2015 06:24:54 GMT"}
+20150619062454 {"uri": "https://web.archive.org/web/20150619062454/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Fri, 19 Jun 2015 06:24:54 GMT"}
+20150720100552 {"uri": "https://web.archive.org/web/20150720100552/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Mon, 20 Jul 2015 10:05:52 GMT"}
+20150720100552 {"uri": "https://web.archive.org/web/20150720100552/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Mon, 20 Jul 2015 10:05:52 GMT"}
+20151031083932 {"uri": "https://web.archive.org/web/20151031083932/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sat, 31 Oct 2015 08:39:32 GMT"}
+20151221090606 {"uri": "https://web.archive.org/web/20151221090606/http://www.jsums.edu/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Mon, 21 Dec 2015 09:06:06 GMT"}
+20160110112950 {"uri": "https://web.archive.org/web/20160110112950/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sun, 10 Jan 2016 11:29:50 GMT"}
+20160110112950 {"uri": "https://web.archive.org/web/20160110112950/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Sun, 10 Jan 2016 11:29:50 GMT"}
+20160211083357 {"uri": "https://web.archive.org/web/20160211083357/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Thu, 11 Feb 2016 08:33:57 GMT"}
+20160211083357 {"uri": "https://web.archive.org/web/20160211083357/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Thu, 11 Feb 2016 08:33:57 GMT"}
+20160313134533 {"uri": "https://web.archive.org/web/20160313134533/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sun, 13 Mar 2016 13:45:33 GMT"}
+20160313134533 {"uri": "https://web.archive.org/web/20160313134533/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Sun, 13 Mar 2016 13:45:33 GMT"}
+20160331211735 {"uri": "https://web.archive.org/web/20160331211735/http://www.jsums.edu/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Thu, 31 Mar 2016 21:17:35 GMT"}
+20160413225523 {"uri": "https://web.archive.org/web/20160413225523/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Wed, 13 Apr 2016 22:55:23 GMT"}
+20160413225523 {"uri": "https://web.archive.org/web/20160413225523/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Wed, 13 Apr 2016 22:55:23 GMT"}
+20160506151026 {"uri": "https://web.archive.org/web/20160506151026/http://www.jsums.edu/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Fri, 06 May 2016 15:10:26 GMT"}
+20160910234950 {"uri": "https://web.archive.org/web/20160910234950/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sat, 10 Sep 2016 23:49:50 GMT"}
+20160910234950 {"uri": "https://web.archive.org/web/20160910234950/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Sat, 10 Sep 2016 23:49:50 GMT"}
+20160911121808 {"uri": "https://web.archive.org/web/20160911121808/http://www.jsums.edu/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sun, 11 Sep 2016 12:18:08 GMT"}
+20161012131541 {"uri": "https://web.archive.org/web/20161012131541/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Wed, 12 Oct 2016 13:15:41 GMT"}
+20161012131541 {"uri": "https://web.archive.org/web/20161012131541/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Wed, 12 Oct 2016 13:15:41 GMT"}
+20161112203520 {"uri": "https://web.archive.org/web/20161112203520/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sat, 12 Nov 2016 20:35:20 GMT"}
+20161112203520 {"uri": "https://web.archive.org/web/20161112203520/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Sat, 12 Nov 2016 20:35:20 GMT"}
+20171023185531 {"uri": "https://web.archive.org/web/20171023185531/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Mon, 23 Oct 2017 18:55:31 GMT"}
+20181130003527 {"uri": "https://web.archive.org/web/20181130003527/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Fri, 30 Nov 2018 00:35:27 GMT"}
+20181130003527 {"uri": "https://web.archive.org/web/20181130003527/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Fri, 30 Nov 2018 00:35:27 GMT"}
+20181201185409 {"uri": "https://web.archive.org/web/20181201185409/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sat, 01 Dec 2018 18:54:09 GMT"}
+20181230184652 {"uri": "https://web.archive.org/web/20181230184652/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sun, 30 Dec 2018 18:46:52 GMT"}
+20181230184652 {"uri": "https://web.archive.org/web/20181230184652/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Sun, 30 Dec 2018 18:46:52 GMT"}
+20190130111339 {"uri": "https://web.archive.org/web/20190130111339/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Wed, 30 Jan 2019 11:13:39 GMT"}
+20190130111339 {"uri": "https://web.archive.org/web/20190130111339/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Wed, 30 Jan 2019 11:13:39 GMT"}
+20190201070841 {"uri": "https://web.archive.org/web/20190201070841/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Fri, 01 Feb 2019 07:08:41 GMT"}
+20190302142123 {"uri": "https://web.archive.org/web/20190302142123/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sat, 02 Mar 2019 14:21:23 GMT"}
+20190302142123 {"uri": "https://web.archive.org/web/20190302142123/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Sat, 02 Mar 2019 14:21:23 GMT"}
+20190402165932 {"uri": "https://web.archive.org/web/20190402165932/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Tue, 02 Apr 2019 16:59:32 GMT"}
+20190402165932 {"uri": "https://web.archive.org/web/20190402165932/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Tue, 02 Apr 2019 16:59:32 GMT"}
+20190404130235 {"uri": "https://web.archive.org/web/20190404130235/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Thu, 04 Apr 2019 13:02:35 GMT"}
+20190503144311 {"uri": "https://web.archive.org/web/20190503144311/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Fri, 03 May 2019 14:43:11 GMT"}
+20190503144311 {"uri": "https://web.archive.org/web/20190503144311/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Fri, 03 May 2019 14:43:11 GMT"}
+20190604032137 {"uri": "https://web.archive.org/web/20190604032137/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Tue, 04 Jun 2019 03:21:37 GMT"}
+20190604032137 {"uri": "https://web.archive.org/web/20190604032137/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Tue, 04 Jun 2019 03:21:37 GMT"}
+20190605160124 {"uri": "https://web.archive.org/web/20190605160124/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Wed, 05 Jun 2019 16:01:24 GMT"}
+20190705171000 {"uri": "https://web.archive.org/web/20190705171000/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Fri, 05 Jul 2019 17:10:00 GMT"}
+20190705171000 {"uri": "https://web.archive.org/web/20190705171000/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Fri, 05 Jul 2019 17:10:00 GMT"}
+20190805223555 {"uri": "https://web.archive.org/web/20190805223555/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Mon, 05 Aug 2019 22:35:55 GMT"}
+20190805223555 {"uri": "https://web.archive.org/web/20190805223555/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Mon, 05 Aug 2019 22:35:55 GMT"}
+20190807233532 {"uri": "https://web.archive.org/web/20190807233532/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Wed, 07 Aug 2019 23:35:32 GMT"}
+20190905203918 {"uri": "https://web.archive.org/web/20190905203918/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Thu, 05 Sep 2019 20:39:18 GMT"}
+20190905203918 {"uri": "https://web.archive.org/web/20190905203918/http://www.jsums.edu:80/socialwork/masters-of-social-work-program", "rel": "memento", "datetime": "Thu, 05 Sep 2019 20:39:18 GMT"}
+20191029011237 {"uri": "https://web.archive.org/web/20191029011237/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Tue, 29 Oct 2019 01:12:37 GMT"}
+20191228054108 {"uri": "https://web.archive.org/web/20191228054108/http://www.jsums.edu:80/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Sat, 28 Dec 2019 05:41:08 GMT"}
+20200812182404 {"uri": "https://web.archive.org/web/20200812182404/https://www.jsums.edu/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Wed, 12 Aug 2020 18:24:04 GMT"}
+20201020060128 {"uri": "https://web.archive.org/web/20201020060128/https://www.jsums.edu/socialwork/masters-of-social-work-program/", "rel": "memento", "datetime": "Tue, 20 Oct 2020 06:01:28 GMT"}
+20210301224407 {"uri": "https://web.archive.org/web/20210301224407/https://www.jsums.edu/socialwork/masters-of-social-work-program/", "rel": "last memento", "datetime": "Mon, 01 Mar 2021 22:44:07 GMT"}

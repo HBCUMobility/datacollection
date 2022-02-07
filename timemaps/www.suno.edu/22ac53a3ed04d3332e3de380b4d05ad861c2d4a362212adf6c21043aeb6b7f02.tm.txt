@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/academic-departments-arts-humanities"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/academic-departments-arts-humanities"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/academic-departments-arts-humanities"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/academic-departments-arts-humanities", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/academic-departments-arts-humanities", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/academic-departments-arts-humanities"}}
+20190603182721 {"uri": "https://web.archive.org/web/20190603182721/http://www.suno.edu:80/page/academic-departments-arts-humanities", "rel": "first memento", "datetime": "Mon, 03 Jun 2019 18:27:21 GMT"}
+20190803200427 {"uri": "https://web.archive.org/web/20190803200427/http://www.suno.edu:80/page/academic-departments-arts-humanities", "rel": "memento", "datetime": "Sat, 03 Aug 2019 20:04:27 GMT"}
+20190927085323 {"uri": "https://web.archive.org/web/20190927085323/http://www.suno.edu:80/page/academic-departments-arts-humanities", "rel": "memento", "datetime": "Fri, 27 Sep 2019 08:53:23 GMT"}
+20191124233919 {"uri": "https://web.archive.org/web/20191124233919/http://www.suno.edu:80/page/academic-departments-arts-humanities", "rel": "memento", "datetime": "Sun, 24 Nov 2019 23:39:19 GMT"}
+20191225033940 {"uri": "https://web.archive.org/web/20191225033940/http://www.suno.edu:80/page/academic-departments-arts-humanities", "rel": "memento", "datetime": "Wed, 25 Dec 2019 03:39:40 GMT"}
+20200124060228 {"uri": "https://web.archive.org/web/20200124060228/http://www.suno.edu:80/page/academic-departments-arts-humanities", "rel": "memento", "datetime": "Fri, 24 Jan 2020 06:02:28 GMT"}
+20200223111404 {"uri": "https://web.archive.org/web/20200223111404/http://www.suno.edu:80/page/academic-departments-arts-humanities", "rel": "memento", "datetime": "Sun, 23 Feb 2020 11:14:04 GMT"}
+20210120132740 {"uri": "https://web.archive.org/web/20210120132740/https://www.suno.edu/page/academic-departments-arts-humanities", "rel": "last memento", "datetime": "Wed, 20 Jan 2021 13:27:40 GMT"}

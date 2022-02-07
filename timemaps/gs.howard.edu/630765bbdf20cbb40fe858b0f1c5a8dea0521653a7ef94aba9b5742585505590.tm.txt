@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/social-work"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/social-work"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/social-work"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/social-work", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/social-work", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/social-work"}}
+20170708143311 {"uri": "https://web.archive.org/web/20170708143311/https://gs.howard.edu/graduate-programs/social-work", "rel": "first memento", "datetime": "Sat, 08 Jul 2017 14:33:11 GMT"}
+20200126060844 {"uri": "https://web.archive.org/web/20200126060844/https://gs.howard.edu/graduate-programs/social-work", "rel": "memento", "datetime": "Sun, 26 Jan 2020 06:08:44 GMT"}
+20201001045256 {"uri": "https://web.archive.org/web/20201001045256/https://gs.howard.edu/graduate-programs/social-work", "rel": "memento", "datetime": "Thu, 01 Oct 2020 04:52:56 GMT"}
+20210121144742 {"uri": "https://web.archive.org/web/20210121144742/https://gs.howard.edu/graduate-programs/social-work", "rel": "memento", "datetime": "Thu, 21 Jan 2021 14:47:42 GMT"}
+20210413071318 {"uri": "https://web.archive.org/web/20210413071318/https://gs.howard.edu/graduate-programs/social-work", "rel": "memento", "datetime": "Tue, 13 Apr 2021 07:13:18 GMT"}
+20210414194054 {"uri": "https://web.archive.org/web/20210414194054/https://gs.howard.edu/graduate-programs/social-work", "rel": "memento", "datetime": "Wed, 14 Apr 2021 19:40:54 GMT"}
+20211118012151 {"uri": "https://web.archive.org/web/20211118012151/https://gs.howard.edu/graduate-programs/social-work", "rel": "memento", "datetime": "Thu, 18 Nov 2021 01:21:51 GMT"}
+20220106213027 {"uri": "https://web.archive.org/web/20220106213027/https://gs.howard.edu/graduate-programs/social-work", "rel": "last memento", "datetime": "Thu, 06 Jan 2022 21:30:27 GMT"}

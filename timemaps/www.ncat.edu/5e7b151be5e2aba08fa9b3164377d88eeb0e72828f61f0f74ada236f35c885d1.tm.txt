@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php"}}
+20200807155213 {"uri": "https://web.archive.org/web/20200807155213/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "first memento", "datetime": "Fri, 07 Aug 2020 15:52:13 GMT"}
+20200903074023 {"uri": "https://web.archive.org/web/20200903074023/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 07:40:23 GMT"}
+20200922195736 {"uri": "https://web.archive.org/web/20200922195736/https://ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 19:57:36 GMT"}
+20201025081659 {"uri": "https://web.archive.org/web/20201025081659/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Sun, 25 Oct 2020 08:16:59 GMT"}
+20201128014320 {"uri": "https://web.archive.org/web/20201128014320/https://ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 01:43:20 GMT"}
+20201210004734 {"uri": "https://web.archive.org/web/20201210004734/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Thu, 10 Dec 2020 00:47:34 GMT"}
+20210129110940 {"uri": "https://web.archive.org/web/20210129110940/https://ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 11:09:40 GMT"}
+20210302071319 {"uri": "https://web.archive.org/web/20210302071319/https://ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 07:13:19 GMT"}
+20210419034129 {"uri": "https://web.archive.org/web/20210419034129/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 03:41:29 GMT"}
+20210518005116 {"uri": "https://web.archive.org/web/20210518005116/https://ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 00:51:16 GMT"}
+20210811213848 {"uri": "https://web.archive.org/web/20210811213848/https://ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:38:48 GMT"}
+20210817190925 {"uri": "https://web.archive.org/web/20210817190925/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 19:09:25 GMT"}
+20210818002704 {"uri": "https://web.archive.org/web/20210818002704/https://ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Wed, 18 Aug 2021 00:27:04 GMT"}
+20211117094759 {"uri": "https://web.archive.org/web/20211117094759/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:59 GMT"}
+20220108001403 {"uri": "https://web.archive.org/web/20220108001403/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/music-program/index.php", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 00:14:03 GMT"}

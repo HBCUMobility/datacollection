@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.umes.edu/CSET"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.umes.edu/CSET"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.umes.edu/CSET"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.umes.edu/CSET", "json_format": "http://localhost:1208/timemap/json/https://www.umes.edu/CSET", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.umes.edu/CSET"}}
+20210302082826 {"uri": "https://web.archive.org/web/20210302082826/https://www.umes.edu/CSET/", "rel": "first memento", "datetime": "Tue, 02 Mar 2021 08:28:26 GMT"}
+20210302211106 {"uri": "https://web.archive.org/web/20210302211106/https://umes.edu/CSET/", "rel": "memento", "datetime": "Tue, 02 Mar 2021 21:11:06 GMT"}
+20210414180618 {"uri": "https://web.archive.org/web/20210414180618/https://www.umes.edu/CSET/", "rel": "memento", "datetime": "Wed, 14 Apr 2021 18:06:18 GMT"}
+20210415062426 {"uri": "https://web.archive.org/web/20210415062426/https://umes.edu/CSET", "rel": "memento", "datetime": "Thu, 15 Apr 2021 06:24:26 GMT"}
+20210425190230 {"uri": "https://web.archive.org/web/20210425190230/https://umes.edu/CSET/", "rel": "memento", "datetime": "Sun, 25 Apr 2021 19:02:30 GMT"}
+20210506094513 {"uri": "https://web.archive.org/web/20210506094513/https://www.umes.edu/CSET/", "rel": "last memento", "datetime": "Thu, 06 May 2021 09:45:13 GMT"}

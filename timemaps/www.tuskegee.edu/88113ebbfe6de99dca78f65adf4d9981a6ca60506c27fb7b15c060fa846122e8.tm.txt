@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering"}}
+20200813004017 {"uri": "https://web.archive.org/web/20200813004017/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:40:17 GMT"}
+20201029060345 {"uri": "https://web.archive.org/web/20201029060345/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering", "rel": "memento", "datetime": "Thu, 29 Oct 2020 06:03:45 GMT"}
+20210125051451 {"uri": "https://web.archive.org/web/20210125051451/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering", "rel": "memento", "datetime": "Mon, 25 Jan 2021 05:14:51 GMT"}
+20210410151414 {"uri": "https://web.archive.org/web/20210410151414/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering", "rel": "memento", "datetime": "Sat, 10 Apr 2021 15:14:14 GMT"}
+20210420174803 {"uri": "https://web.archive.org/web/20210420174803/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/aerospace-science-engineering", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 17:48:03 GMT"}

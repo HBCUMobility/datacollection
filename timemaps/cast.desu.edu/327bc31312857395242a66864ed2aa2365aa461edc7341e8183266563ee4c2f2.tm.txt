@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/agriculture-natural-resources"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://cast.desu.edu/departments/agriculture-natural-resources"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://cast.desu.edu/departments/agriculture-natural-resources"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://cast.desu.edu/departments/agriculture-natural-resources", "json_format": "http://localhost:1208/timemap/json/https://cast.desu.edu/departments/agriculture-natural-resources", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://cast.desu.edu/departments/agriculture-natural-resources"}}
+20180913021353 {"uri": "https://web.archive.org/web/20180913021353/https://cast.desu.edu/departments/agriculture-natural-resources", "rel": "first memento", "datetime": "Thu, 13 Sep 2018 02:13:53 GMT"}
+20180915023841 {"uri": "https://web.archive.org/web/20180915023841/https://cast.desu.edu/departments/agriculture-natural-resources", "rel": "memento", "datetime": "Sat, 15 Sep 2018 02:38:41 GMT"}
+20200808235319 {"uri": "https://web.archive.org/web/20200808235319/https://cast.desu.edu/departments/agriculture-natural-resources", "rel": "memento", "datetime": "Sat, 08 Aug 2020 23:53:19 GMT"}
+20201020174506 {"uri": "https://web.archive.org/web/20201020174506/https://cast.desu.edu/departments/agriculture-natural-resources", "rel": "memento", "datetime": "Tue, 20 Oct 2020 17:45:06 GMT"}
+20210118142341 {"uri": "https://web.archive.org/web/20210118142341/https://cast.desu.edu/departments/agriculture-natural-resources", "rel": "memento", "datetime": "Mon, 18 Jan 2021 14:23:41 GMT"}
+20210420013107 {"uri": "https://web.archive.org/web/20210420013107/https://cast.desu.edu/departments/agriculture-natural-resources", "rel": "memento", "datetime": "Tue, 20 Apr 2021 01:31:07 GMT"}
+20210619162444 {"uri": "https://wayback.archive-it.org/all/20210619162444/https://cast.desu.edu/departments/agriculture-natural-resources", "rel": "memento", "datetime": "Sat, 19 Jun 2021 16:24:44 GMT"}
+20210619162444 {"uri": "https://web.archive.org/web/20210619162444/https://cast.desu.edu/departments/agriculture-natural-resources", "rel": "last memento", "datetime": "Sat, 19 Jun 2021 16:24:44 GMT"}

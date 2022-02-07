@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering"}}
+20200814134805 {"uri": "https://web.archive.org/web/20200814134805/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering", "rel": "first memento", "datetime": "Fri, 14 Aug 2020 13:48:05 GMT"}
+20201029044509 {"uri": "https://web.archive.org/web/20201029044509/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering", "rel": "memento", "datetime": "Thu, 29 Oct 2020 04:45:09 GMT"}
+20210125035221 {"uri": "https://web.archive.org/web/20210125035221/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering", "rel": "memento", "datetime": "Mon, 25 Jan 2021 03:52:21 GMT"}
+20210410140725 {"uri": "https://web.archive.org/web/20210410140725/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:07:25 GMT"}
+20210420091730 {"uri": "https://web.archive.org/web/20210420091730/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 09:17:30 GMT"}

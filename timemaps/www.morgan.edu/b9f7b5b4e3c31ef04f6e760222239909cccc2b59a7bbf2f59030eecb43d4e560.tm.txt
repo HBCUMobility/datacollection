@@ -1,0 +1,60 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/mathematics"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.morgan.edu/mathematics"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.morgan.edu/mathematics"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.morgan.edu/mathematics", "json_format": "http://localhost:1208/timemap/json/https://www.morgan.edu/mathematics", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/mathematics"}}
+20150705030417 {"uri": "https://web.archive.org/web/20150705030417/http://www.morgan.edu:80/mathematics", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 03:04:17 GMT"}
+20150815232735 {"uri": "https://web.archive.org/web/20150815232735/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sat, 15 Aug 2015 23:27:35 GMT"}
+20150905125236 {"uri": "https://web.archive.org/web/20150905125236/http://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Sat, 05 Sep 2015 12:52:36 GMT"}
+20151031100614 {"uri": "https://web.archive.org/web/20151031100614/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sat, 31 Oct 2015 10:06:14 GMT"}
+20151202101136 {"uri": "https://web.archive.org/web/20151202101136/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Wed, 02 Dec 2015 10:11:36 GMT"}
+20151224112826 {"uri": "https://web.archive.org/web/20151224112826/http://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Thu, 24 Dec 2015 11:28:26 GMT"}
+20160125152833 {"uri": "https://web.archive.org/web/20160125152833/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Mon, 25 Jan 2016 15:28:33 GMT"}
+20160301234557 {"uri": "https://web.archive.org/web/20160301234557/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Tue, 01 Mar 2016 23:45:57 GMT"}
+20160322123121 {"uri": "https://web.archive.org/web/20160322123121/http://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Tue, 22 Mar 2016 12:31:21 GMT"}
+20160414035602 {"uri": "https://web.archive.org/web/20160414035602/http://morgan.edu/mathematics", "rel": "memento", "datetime": "Thu, 14 Apr 2016 03:56:02 GMT"}
+20160508225451 {"uri": "https://web.archive.org/web/20160508225451/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sun, 08 May 2016 22:54:51 GMT"}
+20160510045959 {"uri": "https://web.archive.org/web/20160510045959/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Tue, 10 May 2016 04:59:59 GMT"}
+20160516001942 {"uri": "https://web.archive.org/web/20160516001942/http://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Mon, 16 May 2016 00:19:42 GMT"}
+20160614032220 {"uri": "https://web.archive.org/web/20160614032220/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Tue, 14 Jun 2016 03:22:20 GMT"}
+20160819024525 {"uri": "https://web.archive.org/web/20160819024525/http://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Fri, 19 Aug 2016 02:45:25 GMT"}
+20160820192612 {"uri": "https://web.archive.org/web/20160820192612/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sat, 20 Aug 2016 19:26:12 GMT"}
+20160909014705 {"uri": "https://web.archive.org/web/20160909014705/http://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Fri, 09 Sep 2016 01:47:05 GMT"}
+20160921010933 {"uri": "https://web.archive.org/web/20160921010933/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Wed, 21 Sep 2016 01:09:33 GMT"}
+20161025174231 {"uri": "https://web.archive.org/web/20161025174231/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Tue, 25 Oct 2016 17:42:31 GMT"}
+20161219154553 {"uri": "https://web.archive.org/web/20161219154553/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Mon, 19 Dec 2016 15:45:53 GMT"}
+20170316224340 {"uri": "https://wayback.archive-it.org/all/20170316224340/http://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:40 GMT"}
+20170316224340 {"uri": "https://web.archive.org/web/20170316224340/http://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:43:40 GMT"}
+20170505013318 {"uri": "https://web.archive.org/web/20170505013318/http://morgan.edu/mathematics", "rel": "memento", "datetime": "Fri, 05 May 2017 01:33:18 GMT"}
+20170520204836 {"uri": "https://web.archive.org/web/20170520204836/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sat, 20 May 2017 20:48:36 GMT"}
+20170613202351 {"uri": "https://web.archive.org/web/20170613202351/http://morgan.edu/mathematics", "rel": "memento", "datetime": "Tue, 13 Jun 2017 20:23:51 GMT"}
+20170729065145 {"uri": "https://web.archive.org/web/20170729065145/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sat, 29 Jul 2017 06:51:45 GMT"}
+20170902054941 {"uri": "https://web.archive.org/web/20170902054941/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sat, 02 Sep 2017 05:49:41 GMT"}
+20171004160932 {"uri": "https://web.archive.org/web/20171004160932/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Wed, 04 Oct 2017 16:09:32 GMT"}
+20171103191724 {"uri": "https://web.archive.org/web/20171103191724/http://morgan.edu:80/mathematics", "rel": "memento", "datetime": "Fri, 03 Nov 2017 19:17:24 GMT"}
+20171105044403 {"uri": "https://web.archive.org/web/20171105044403/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sun, 05 Nov 2017 04:44:03 GMT"}
+20171106052317 {"uri": "https://web.archive.org/web/20171106052317/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Mon, 06 Nov 2017 05:23:17 GMT"}
+20171207085721 {"uri": "https://web.archive.org/web/20171207085721/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Thu, 07 Dec 2017 08:57:21 GMT"}
+20180112100832 {"uri": "https://web.archive.org/web/20180112100832/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Fri, 12 Jan 2018 10:08:32 GMT"}
+20180214123201 {"uri": "https://web.archive.org/web/20180214123201/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Wed, 14 Feb 2018 12:32:01 GMT"}
+20180215131504 {"uri": "https://web.archive.org/web/20180215131504/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Thu, 15 Feb 2018 13:15:04 GMT"}
+20180319083630 {"uri": "https://web.archive.org/web/20180319083630/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Mon, 19 Mar 2018 08:36:30 GMT"}
+20180320064336 {"uri": "https://web.archive.org/web/20180320064336/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Tue, 20 Mar 2018 06:43:36 GMT"}
+20180416022913 {"uri": "https://web.archive.org/web/20180416022913/http://morgan.edu:80/mathematics", "rel": "memento", "datetime": "Mon, 16 Apr 2018 02:29:13 GMT"}
+20180421144836 {"uri": "https://web.archive.org/web/20180421144836/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sat, 21 Apr 2018 14:48:36 GMT"}
+20180530094351 {"uri": "https://web.archive.org/web/20180530094351/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Wed, 30 May 2018 09:43:51 GMT"}
+20180701024044 {"uri": "https://web.archive.org/web/20180701024044/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Sun, 01 Jul 2018 02:40:44 GMT"}
+20180802040615 {"uri": "https://web.archive.org/web/20180802040615/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Thu, 02 Aug 2018 04:06:15 GMT"}
+20180803110116 {"uri": "https://web.archive.org/web/20180803110116/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Fri, 03 Aug 2018 11:01:16 GMT"}
+20180825055131 {"uri": "https://web.archive.org/web/20180825055131/http://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Sat, 25 Aug 2018 05:51:31 GMT"}
+20180910132721 {"uri": "https://web.archive.org/web/20180910132721/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Mon, 10 Sep 2018 13:27:21 GMT"}
+20181023090215 {"uri": "https://web.archive.org/web/20181023090215/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Tue, 23 Oct 2018 09:02:15 GMT"}
+20181030133155 {"uri": "https://web.archive.org/web/20181030133155/https://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Tue, 30 Oct 2018 13:31:55 GMT"}
+20190913184402 {"uri": "https://web.archive.org/web/20190913184402/http://www.morgan.edu:80/mathematics", "rel": "memento", "datetime": "Fri, 13 Sep 2019 18:44:02 GMT"}
+20200814112232 {"uri": "https://web.archive.org/web/20200814112232/https://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Fri, 14 Aug 2020 11:22:32 GMT"}
+20200923102859 {"uri": "https://web.archive.org/web/20200923102859/https://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Wed, 23 Sep 2020 10:28:59 GMT"}
+20210125112955 {"uri": "https://web.archive.org/web/20210125112955/https://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Mon, 25 Jan 2021 11:29:55 GMT"}
+20210414041807 {"uri": "https://web.archive.org/web/20210414041807/https://morgan.edu/mathematics", "rel": "memento", "datetime": "Wed, 14 Apr 2021 04:18:07 GMT"}
+20210414141647 {"uri": "https://web.archive.org/web/20210414141647/https://www.morgan.edu/mathematics", "rel": "memento", "datetime": "Wed, 14 Apr 2021 14:16:47 GMT"}
+20210816230255 {"uri": "https://web.archive.org/web/20210816230255/https://morgan.edu/mathematics", "rel": "last memento", "datetime": "Mon, 16 Aug 2021 23:02:55 GMT"}

@@ -1,0 +1,64 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/accounting/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/accounting/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/accounting/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/accounting/", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/accounting/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/accounting/"}}
+20120325231111 {"uri": "https://web.archive.org/web/20120325231111/http://www.tnstate.edu:80/accounting/", "rel": "first memento", "datetime": "Sun, 25 Mar 2012 23:11:11 GMT"}
+20120426105240 {"uri": "https://web.archive.org/web/20120426105240/http://www.tnstate.edu/accounting/", "rel": "memento", "datetime": "Thu, 26 Apr 2012 10:52:40 GMT"}
+20120629091833 {"uri": "https://web.archive.org/web/20120629091833/http://www.tnstate.edu/accounting/", "rel": "memento", "datetime": "Fri, 29 Jun 2012 09:18:33 GMT"}
+20120807063517 {"uri": "https://web.archive.org/web/20120807063517/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Tue, 07 Aug 2012 06:35:17 GMT"}
+20121101152514 {"uri": "https://web.archive.org/web/20121101152514/http://www.tnstate.edu/accounting/", "rel": "memento", "datetime": "Thu, 01 Nov 2012 15:25:14 GMT"}
+20130128170510 {"uri": "https://web.archive.org/web/20130128170510/http://www.tnstate.edu/accounting/", "rel": "memento", "datetime": "Mon, 28 Jan 2013 17:05:10 GMT"}
+20130404111534 {"uri": "https://web.archive.org/web/20130404111534/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Thu, 04 Apr 2013 11:15:34 GMT"}
+20130404111534 {"uri": "https://web.archive.org/web/20130404111534/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Thu, 04 Apr 2013 11:15:34 GMT"}
+20130703033238 {"uri": "https://web.archive.org/web/20130703033238/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Wed, 03 Jul 2013 03:32:38 GMT"}
+20130703033238 {"uri": "https://web.archive.org/web/20130703033238/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Wed, 03 Jul 2013 03:32:38 GMT"}
+20130705045841 {"uri": "https://web.archive.org/web/20130705045841/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Fri, 05 Jul 2013 04:58:41 GMT"}
+20131016184442 {"uri": "https://web.archive.org/web/20131016184442/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Wed, 16 Oct 2013 18:44:42 GMT"}
+20140407122815 {"uri": "https://web.archive.org/web/20140407122815/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Mon, 07 Apr 2014 12:28:15 GMT"}
+20141226072341 {"uri": "https://web.archive.org/web/20141226072341/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Fri, 26 Dec 2014 07:23:41 GMT"}
+20141226072341 {"uri": "https://web.archive.org/web/20141226072341/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Fri, 26 Dec 2014 07:23:41 GMT"}
+20150304041507 {"uri": "https://web.archive.org/web/20150304041507/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Wed, 04 Mar 2015 04:15:07 GMT"}
+20150304041507 {"uri": "https://web.archive.org/web/20150304041507/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Wed, 04 Mar 2015 04:15:07 GMT"}
+20150312151026 {"uri": "https://web.archive.org/web/20150312151026/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Thu, 12 Mar 2015 15:10:26 GMT"}
+20150508132514 {"uri": "https://web.archive.org/web/20150508132514/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Fri, 08 May 2015 13:25:14 GMT"}
+20150508132514 {"uri": "https://web.archive.org/web/20150508132514/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Fri, 08 May 2015 13:25:14 GMT"}
+20150705222729 {"uri": "https://web.archive.org/web/20150705222729/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Sun, 05 Jul 2015 22:27:29 GMT"}
+20150905093933 {"uri": "https://web.archive.org/web/20150905093933/http://www.tnstate.edu/accounting/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 09:39:33 GMT"}
+20160301123011 {"uri": "https://web.archive.org/web/20160301123011/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Tue, 01 Mar 2016 12:30:11 GMT"}
+20160301123011 {"uri": "https://web.archive.org/web/20160301123011/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Tue, 01 Mar 2016 12:30:11 GMT"}
+20160413012138 {"uri": "https://web.archive.org/web/20160413012138/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Wed, 13 Apr 2016 01:21:38 GMT"}
+20160413012138 {"uri": "https://web.archive.org/web/20160413012138/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Wed, 13 Apr 2016 01:21:38 GMT"}
+20160531051312 {"uri": "https://web.archive.org/web/20160531051312/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Tue, 31 May 2016 05:13:12 GMT"}
+20160531051312 {"uri": "https://web.archive.org/web/20160531051312/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Tue, 31 May 2016 05:13:12 GMT"}
+20160702150239 {"uri": "https://web.archive.org/web/20160702150239/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Sat, 02 Jul 2016 15:02:39 GMT"}
+20160702150239 {"uri": "https://web.archive.org/web/20160702150239/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Sat, 02 Jul 2016 15:02:39 GMT"}
+20161005192930 {"uri": "https://web.archive.org/web/20161005192930/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Wed, 05 Oct 2016 19:29:30 GMT"}
+20161005192930 {"uri": "https://web.archive.org/web/20161005192930/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Wed, 05 Oct 2016 19:29:30 GMT"}
+20161006200014 {"uri": "https://web.archive.org/web/20161006200014/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Thu, 06 Oct 2016 20:00:14 GMT"}
+20161006200014 {"uri": "https://web.archive.org/web/20161006200014/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Thu, 06 Oct 2016 20:00:14 GMT"}
+20161107081417 {"uri": "https://web.archive.org/web/20161107081417/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Mon, 07 Nov 2016 08:14:17 GMT"}
+20161107081417 {"uri": "https://web.archive.org/web/20161107081417/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Mon, 07 Nov 2016 08:14:17 GMT"}
+20161109030110 {"uri": "https://web.archive.org/web/20161109030110/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Wed, 09 Nov 2016 03:01:10 GMT"}
+20161231110108 {"uri": "https://web.archive.org/web/20161231110108/http://www.tnstate.edu/accounting/", "rel": "memento", "datetime": "Sat, 31 Dec 2016 11:01:08 GMT"}
+20180506020809 {"uri": "https://web.archive.org/web/20180506020809/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Sun, 06 May 2018 02:08:09 GMT"}
+20180706082624 {"uri": "https://web.archive.org/web/20180706082624/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Fri, 06 Jul 2018 08:26:24 GMT"}
+20190208023606 {"uri": "https://web.archive.org/web/20190208023606/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Fri, 08 Feb 2019 02:36:06 GMT"}
+20190208023606 {"uri": "https://web.archive.org/web/20190208023606/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Fri, 08 Feb 2019 02:36:06 GMT"}
+20190323192739 {"uri": "https://web.archive.org/web/20190323192739/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Sat, 23 Mar 2019 19:27:39 GMT"}
+20190710164814 {"uri": "https://web.archive.org/web/20190710164814/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Wed, 10 Jul 2019 16:48:14 GMT"}
+20190710164814 {"uri": "https://web.archive.org/web/20190710164814/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Wed, 10 Jul 2019 16:48:14 GMT"}
+20190817063624 {"uri": "https://web.archive.org/web/20190817063624/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Sat, 17 Aug 2019 06:36:24 GMT"}
+20190817063624 {"uri": "https://web.archive.org/web/20190817063624/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Sat, 17 Aug 2019 06:36:24 GMT"}
+20190919135544 {"uri": "https://web.archive.org/web/20190919135544/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Thu, 19 Sep 2019 13:55:44 GMT"}
+20190919135544 {"uri": "https://web.archive.org/web/20190919135544/http://www.tnstate.edu:80/accounting", "rel": "memento", "datetime": "Thu, 19 Sep 2019 13:55:44 GMT"}
+20191117203512 {"uri": "https://web.archive.org/web/20191117203512/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Sun, 17 Nov 2019 20:35:12 GMT"}
+20191218022149 {"uri": "https://web.archive.org/web/20191218022149/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Wed, 18 Dec 2019 02:21:49 GMT"}
+20200117051833 {"uri": "https://web.archive.org/web/20200117051833/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Fri, 17 Jan 2020 05:18:33 GMT"}
+20200216083742 {"uri": "https://web.archive.org/web/20200216083742/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Sun, 16 Feb 2020 08:37:42 GMT"}
+20200428173017 {"uri": "https://web.archive.org/web/20200428173017/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Tue, 28 Apr 2020 17:30:17 GMT"}
+20200627202529 {"uri": "https://web.archive.org/web/20200627202529/http://www.tnstate.edu:80/accounting/", "rel": "memento", "datetime": "Sat, 27 Jun 2020 20:25:29 GMT"}
+20211116183545 {"uri": "https://web.archive.org/web/20211116183545/https://www.tnstate.edu/accounting/", "rel": "memento", "datetime": "Tue, 16 Nov 2021 18:35:45 GMT"}
+20220201003250 {"uri": "https://web.archive.org/web/20220201003250/https://www.tnstate.edu/accounting/", "rel": "memento", "datetime": "Tue, 01 Feb 2022 00:32:50 GMT"}
+20220201003250 {"uri": "https://web.archive.org/web/20220201003250/http://www.tnstate.edu/accounting/", "rel": "last memento", "datetime": "Tue, 01 Feb 2022 00:32:50 GMT"}

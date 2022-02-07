@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes"}}
+20180203194457 {"uri": "https://wayback.archive-it.org/all/20180203194457/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "first memento", "datetime": "Sat, 03 Feb 2018 19:44:57 GMT"}
+20180203194457 {"uri": "https://web.archive.org/web/20180203194457/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "memento", "datetime": "Sat, 03 Feb 2018 19:44:57 GMT"}
+20180504122636 {"uri": "https://wayback.archive-it.org/all/20180504122636/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "memento", "datetime": "Fri, 04 May 2018 12:26:36 GMT"}
+20180504122636 {"uri": "https://web.archive.org/web/20180504122636/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "memento", "datetime": "Fri, 04 May 2018 12:26:36 GMT"}
+20181103173824 {"uri": "https://wayback.archive-it.org/all/20181103173824/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "memento", "datetime": "Sat, 03 Nov 2018 17:38:24 GMT"}
+20181103173824 {"uri": "https://web.archive.org/web/20181103173824/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "memento", "datetime": "Sat, 03 Nov 2018 17:38:24 GMT"}
+20200927010043 {"uri": "https://web.archive.org/web/20200927010043/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "memento", "datetime": "Sun, 27 Sep 2020 01:00:43 GMT"}
+20210121060414 {"uri": "https://web.archive.org/web/20210121060414/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "memento", "datetime": "Thu, 21 Jan 2021 06:04:14 GMT"}
+20210420084338 {"uri": "https://web.archive.org/web/20210420084338/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "memento", "datetime": "Tue, 20 Apr 2021 08:43:38 GMT"}
+20210421052303 {"uri": "https://web.archive.org/web/20210421052303/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 05:23:03 GMT"}

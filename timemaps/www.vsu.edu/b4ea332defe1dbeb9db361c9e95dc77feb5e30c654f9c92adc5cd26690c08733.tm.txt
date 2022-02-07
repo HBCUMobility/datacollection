@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/education/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/education/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/education/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/education/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/index.php"}}
+20210121213043 {"uri": "https://web.archive.org/web/20210121213043/https://www.vsu.edu/education/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 21:30:43 GMT"}
+20210413131417 {"uri": "https://web.archive.org/web/20210413131417/https://www.vsu.edu/education/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 13:14:17 GMT"}
+20210613233613 {"uri": "https://web.archive.org/web/20210613233613/https://www.vsu.edu/education/index.php", "rel": "memento", "datetime": "Sun, 13 Jun 2021 23:36:13 GMT"}
+20211217113919 {"uri": "https://web.archive.org/web/20211217113919/https://www.vsu.edu/education/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:39:19 GMT"}

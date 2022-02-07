@@ -1,0 +1,24 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php"}}
+20200903075851 {"uri": "https://web.archive.org/web/20200903075851/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 07:58:51 GMT"}
+20200922194709 {"uri": "https://web.archive.org/web/20200922194709/https://ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 19:47:09 GMT"}
+20200925093907 {"uri": "https://web.archive.org/web/20200925093907/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 09:39:07 GMT"}
+20201016203806 {"uri": "https://web.archive.org/web/20201016203806/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Fri, 16 Oct 2020 20:38:06 GMT"}
+20201125162812 {"uri": "https://web.archive.org/web/20201125162812/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Wed, 25 Nov 2020 16:28:12 GMT"}
+20201128012905 {"uri": "https://web.archive.org/web/20201128012905/https://ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 01:29:05 GMT"}
+20201204203448 {"uri": "https://web.archive.org/web/20201204203448/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Fri, 04 Dec 2020 20:34:48 GMT"}
+20210129044959 {"uri": "https://web.archive.org/web/20210129044959/https://ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 04:49:59 GMT"}
+20210302070321 {"uri": "https://web.archive.org/web/20210302070321/https://ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 07:03:21 GMT"}
+20210329140642 {"uri": "https://web.archive.org/web/20210329140642/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Mon, 29 Mar 2021 14:06:42 GMT"}
+20210419045431 {"uri": "https://web.archive.org/web/20210419045431/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 04:54:31 GMT"}
+20210502113248 {"uri": "https://web.archive.org/web/20210502113248/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Sun, 02 May 2021 11:32:48 GMT"}
+20210518003931 {"uri": "https://web.archive.org/web/20210518003931/https://ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 00:39:31 GMT"}
+20210811211934 {"uri": "https://web.archive.org/web/20210811211934/https://ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:19:34 GMT"}
+20210815044526 {"uri": "https://web.archive.org/web/20210815044526/https://ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Sun, 15 Aug 2021 04:45:26 GMT"}
+20210816125340 {"uri": "https://web.archive.org/web/20210816125340/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 12:53:40 GMT"}
+20211117094804 {"uri": "https://web.archive.org/web/20211117094804/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:48:04 GMT"}
+20220108020259 {"uri": "https://web.archive.org/web/20220108020259/https://www.ncat.edu/chhs/departments/the-school-of-nursing/index.php", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 02:02:59 GMT"}

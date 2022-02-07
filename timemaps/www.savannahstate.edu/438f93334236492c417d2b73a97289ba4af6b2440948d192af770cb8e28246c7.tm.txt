@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/departments/social-work/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/class/departments/social-work/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/class/departments/social-work/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/class/departments/social-work/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/class/departments/social-work/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/departments/social-work/index.shtml"}}
+20200804104741 {"uri": "https://web.archive.org/web/20200804104741/https://www.savannahstate.edu/class/departments/social-work/index.shtml", "rel": "first memento", "datetime": "Tue, 04 Aug 2020 10:47:41 GMT"}
+20201029161619 {"uri": "https://web.archive.org/web/20201029161619/https://www.savannahstate.edu/class/departments/social-work/index.shtml", "rel": "memento", "datetime": "Thu, 29 Oct 2020 16:16:19 GMT"}
+20210121140502 {"uri": "https://web.archive.org/web/20210121140502/https://www.savannahstate.edu/class/departments/social-work/index.shtml", "rel": "memento", "datetime": "Thu, 21 Jan 2021 14:05:02 GMT"}
+20210417195706 {"uri": "https://web.archive.org/web/20210417195706/https://www.savannahstate.edu/class/departments/social-work/index.shtml", "rel": "memento", "datetime": "Sat, 17 Apr 2021 19:57:06 GMT"}
+20210612164315 {"uri": "https://web.archive.org/web/20210612164315/https://www.savannahstate.edu/class/departments/social-work/index.shtml", "rel": "last memento", "datetime": "Sat, 12 Jun 2021 16:43:15 GMT"}

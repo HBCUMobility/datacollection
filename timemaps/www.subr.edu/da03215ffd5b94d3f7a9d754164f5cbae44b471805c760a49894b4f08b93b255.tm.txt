@@ -1,0 +1,32 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/subhome/42"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.subr.edu/subhome/42"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.subr.edu/subhome/42"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.subr.edu/subhome/42", "json_format": "http://localhost:1208/timemap/json/https://www.subr.edu/subhome/42", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/subhome/42"}}
+20180422073107 {"uri": "https://web.archive.org/web/20180422073107/http://www.subr.edu:80/subhome/42", "rel": "first memento", "datetime": "Sun, 22 Apr 2018 07:31:07 GMT"}
+20180623050348 {"uri": "https://web.archive.org/web/20180623050348/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Sat, 23 Jun 2018 05:03:48 GMT"}
+20180701021234 {"uri": "https://web.archive.org/web/20180701021234/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Sun, 01 Jul 2018 02:12:34 GMT"}
+20180731121845 {"uri": "https://web.archive.org/web/20180731121845/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Tue, 31 Jul 2018 12:18:45 GMT"}
+20180831033317 {"uri": "https://web.archive.org/web/20180831033317/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Fri, 31 Aug 2018 03:33:17 GMT"}
+20181001154824 {"uri": "https://web.archive.org/web/20181001154824/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Mon, 01 Oct 2018 15:48:24 GMT"}
+20181101230821 {"uri": "https://web.archive.org/web/20181101230821/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Thu, 01 Nov 2018 23:08:21 GMT"}
+20181202161039 {"uri": "https://web.archive.org/web/20181202161039/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Sun, 02 Dec 2018 16:10:39 GMT"}
+20190102165807 {"uri": "https://web.archive.org/web/20190102165807/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Wed, 02 Jan 2019 16:58:07 GMT"}
+20190201234151 {"uri": "https://web.archive.org/web/20190201234151/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Fri, 01 Feb 2019 23:41:51 GMT"}
+20190305143441 {"uri": "https://web.archive.org/web/20190305143441/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Tue, 05 Mar 2019 14:34:41 GMT"}
+20190405211420 {"uri": "https://web.archive.org/web/20190405211420/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Fri, 05 Apr 2019 21:14:20 GMT"}
+20190507100741 {"uri": "https://web.archive.org/web/20190507100741/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Tue, 07 May 2019 10:07:41 GMT"}
+20190606211606 {"uri": "https://web.archive.org/web/20190606211606/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Thu, 06 Jun 2019 21:16:06 GMT"}
+20190707084043 {"uri": "https://web.archive.org/web/20190707084043/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Sun, 07 Jul 2019 08:40:43 GMT"}
+20190807183144 {"uri": "https://web.archive.org/web/20190807183144/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Wed, 07 Aug 2019 18:31:44 GMT"}
+20190907135703 {"uri": "https://web.archive.org/web/20190907135703/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Sat, 07 Sep 2019 13:57:03 GMT"}
+20191020221441 {"uri": "https://web.archive.org/web/20191020221441/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Sun, 20 Oct 2019 22:14:41 GMT"}
+20191220021530 {"uri": "https://web.archive.org/web/20191220021530/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Fri, 20 Dec 2019 02:15:30 GMT"}
+20200112134021 {"uri": "https://web.archive.org/web/20200112134021/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Sun, 12 Jan 2020 13:40:21 GMT"}
+20200211172933 {"uri": "https://web.archive.org/web/20200211172933/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Tue, 11 Feb 2020 17:29:33 GMT"}
+20200501223909 {"uri": "https://web.archive.org/web/20200501223909/http://www.subr.edu:80/subhome/42", "rel": "memento", "datetime": "Fri, 01 May 2020 22:39:09 GMT"}
+20200922174245 {"uri": "https://web.archive.org/web/20200922174245/https://www.subr.edu/subhome/42", "rel": "memento", "datetime": "Tue, 22 Sep 2020 17:42:45 GMT"}
+20210126223103 {"uri": "https://web.archive.org/web/20210126223103/https://www.subr.edu/subhome/42", "rel": "memento", "datetime": "Tue, 26 Jan 2021 22:31:03 GMT"}
+20210411215659 {"uri": "https://web.archive.org/web/20210411215659/https://www.subr.edu/subhome/42", "rel": "memento", "datetime": "Sun, 11 Apr 2021 21:56:59 GMT"}
+20210420042250 {"uri": "https://web.archive.org/web/20210420042250/http://www.subr.edu/subhome/42", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 04:22:50 GMT"}

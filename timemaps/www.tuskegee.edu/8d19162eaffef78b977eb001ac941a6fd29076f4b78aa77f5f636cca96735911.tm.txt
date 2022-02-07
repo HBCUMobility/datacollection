@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering"}}
+20200812231746 {"uri": "https://web.archive.org/web/20200812231746/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 23:17:46 GMT"}
+20201029042912 {"uri": "https://web.archive.org/web/20201029042912/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering", "rel": "memento", "datetime": "Thu, 29 Oct 2020 04:29:12 GMT"}
+20210125033131 {"uri": "https://web.archive.org/web/20210125033131/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering", "rel": "memento", "datetime": "Mon, 25 Jan 2021 03:31:31 GMT"}
+20210410135747 {"uri": "https://web.archive.org/web/20210410135747/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering", "rel": "memento", "datetime": "Sat, 10 Apr 2021 13:57:47 GMT"}
+20210420093121 {"uri": "https://web.archive.org/web/20210420093121/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/mechanical-engineering", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 09:31:21 GMT"}

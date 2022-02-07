@@ -1,0 +1,75 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/socialwork/bachelor-of-social-work/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.jsums.edu/socialwork/bachelor-of-social-work/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.jsums.edu/socialwork/bachelor-of-social-work/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.jsums.edu/socialwork/bachelor-of-social-work/", "json_format": "http://localhost:1208/timemap/json/https://www.jsums.edu/socialwork/bachelor-of-social-work/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/socialwork/bachelor-of-social-work/"}}
+20130311050958 {"uri": "https://web.archive.org/web/20130311050958/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "first memento", "datetime": "Mon, 11 Mar 2013 05:09:58 GMT"}
+20130323200035 {"uri": "https://web.archive.org/web/20130323200035/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 23 Mar 2013 20:00:35 GMT"}
+20130411084023 {"uri": "https://web.archive.org/web/20130411084023/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Thu, 11 Apr 2013 08:40:23 GMT"}
+20130511235949 {"uri": "https://web.archive.org/web/20130511235949/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 11 May 2013 23:59:49 GMT"}
+20130511235949 {"uri": "https://web.archive.org/web/20130511235949/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Sat, 11 May 2013 23:59:49 GMT"}
+20130524052349 {"uri": "https://web.archive.org/web/20130524052349/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Fri, 24 May 2013 05:23:49 GMT"}
+20130628114709 {"uri": "https://web.archive.org/web/20130628114709/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Fri, 28 Jun 2013 11:47:09 GMT"}
+20130628114709 {"uri": "https://web.archive.org/web/20130628114709/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Fri, 28 Jun 2013 11:47:09 GMT"}
+20130716030743 {"uri": "https://web.archive.org/web/20130716030743/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Tue, 16 Jul 2013 03:07:43 GMT"}
+20130723223252 {"uri": "https://web.archive.org/web/20130723223252/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Tue, 23 Jul 2013 22:32:52 GMT"}
+20130801113436 {"uri": "https://web.archive.org/web/20130801113436/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Thu, 01 Aug 2013 11:34:36 GMT"}
+20130801113436 {"uri": "https://web.archive.org/web/20130801113436/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Thu, 01 Aug 2013 11:34:36 GMT"}
+20130827050832 {"uri": "https://web.archive.org/web/20130827050832/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Tue, 27 Aug 2013 05:08:32 GMT"}
+20130827050832 {"uri": "https://web.archive.org/web/20130827050832/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Tue, 27 Aug 2013 05:08:32 GMT"}
+20130927030609 {"uri": "https://web.archive.org/web/20130927030609/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Fri, 27 Sep 2013 03:06:09 GMT"}
+20130927030609 {"uri": "https://web.archive.org/web/20130927030609/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Fri, 27 Sep 2013 03:06:09 GMT"}
+20131028033051 {"uri": "https://web.archive.org/web/20131028033051/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Mon, 28 Oct 2013 03:30:51 GMT"}
+20131028033051 {"uri": "https://web.archive.org/web/20131028033051/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Mon, 28 Oct 2013 03:30:51 GMT"}
+20141113222002 {"uri": "https://web.archive.org/web/20141113222002/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Thu, 13 Nov 2014 22:20:02 GMT"}
+20141113222002 {"uri": "https://web.archive.org/web/20141113222002/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Thu, 13 Nov 2014 22:20:02 GMT"}
+20150228125949 {"uri": "https://web.archive.org/web/20150228125949/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 28 Feb 2015 12:59:49 GMT"}
+20150502194723 {"uri": "https://web.archive.org/web/20150502194723/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 02 May 2015 19:47:23 GMT"}
+20150630215454 {"uri": "https://web.archive.org/web/20150630215454/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Tue, 30 Jun 2015 21:54:54 GMT"}
+20150630215454 {"uri": "https://web.archive.org/web/20150630215454/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Tue, 30 Jun 2015 21:54:54 GMT"}
+20150810055323 {"uri": "https://web.archive.org/web/20150810055323/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Mon, 10 Aug 2015 05:53:23 GMT"}
+20150810055323 {"uri": "https://web.archive.org/web/20150810055323/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Mon, 10 Aug 2015 05:53:23 GMT"}
+20150905145625 {"uri": "https://web.archive.org/web/20150905145625/http://www.jsums.edu/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 14:56:25 GMT"}
+20150909184125 {"uri": "https://web.archive.org/web/20150909184125/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Wed, 09 Sep 2015 18:41:25 GMT"}
+20150909184125 {"uri": "https://web.archive.org/web/20150909184125/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Wed, 09 Sep 2015 18:41:25 GMT"}
+20150921224315 {"uri": "https://web.archive.org/web/20150921224315/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Mon, 21 Sep 2015 22:43:15 GMT"}
+20151025040213 {"uri": "https://web.archive.org/web/20151025040213/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sun, 25 Oct 2015 04:02:13 GMT"}
+20151025040213 {"uri": "https://web.archive.org/web/20151025040213/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Sun, 25 Oct 2015 04:02:13 GMT"}
+20151121164355 {"uri": "https://web.archive.org/web/20151121164355/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 21 Nov 2015 16:43:55 GMT"}
+20151125125809 {"uri": "https://web.archive.org/web/20151125125809/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Wed, 25 Nov 2015 12:58:09 GMT"}
+20151125125809 {"uri": "https://web.archive.org/web/20151125125809/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Wed, 25 Nov 2015 12:58:09 GMT"}
+20151221023306 {"uri": "https://web.archive.org/web/20151221023306/http://www.jsums.edu/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Mon, 21 Dec 2015 02:33:06 GMT"}
+20151226061935 {"uri": "https://web.archive.org/web/20151226061935/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 26 Dec 2015 06:19:35 GMT"}
+20151226061935 {"uri": "https://web.archive.org/web/20151226061935/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Sat, 26 Dec 2015 06:19:35 GMT"}
+20160331211603 {"uri": "https://web.archive.org/web/20160331211603/http://www.jsums.edu/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Thu, 31 Mar 2016 21:16:03 GMT"}
+20160506020100 {"uri": "https://web.archive.org/web/20160506020100/http://www.jsums.edu/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Fri, 06 May 2016 02:01:00 GMT"}
+20160608125747 {"uri": "https://web.archive.org/web/20160608125747/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Wed, 08 Jun 2016 12:57:47 GMT"}
+20160721171243 {"uri": "https://web.archive.org/web/20160721171243/http://www.jsums.edu/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Thu, 21 Jul 2016 17:12:43 GMT"}
+20160729000302 {"uri": "https://web.archive.org/web/20160729000302/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Fri, 29 Jul 2016 00:03:02 GMT"}
+20160729000302 {"uri": "https://web.archive.org/web/20160729000302/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Fri, 29 Jul 2016 00:03:02 GMT"}
+20160731054015 {"uri": "https://web.archive.org/web/20160731054015/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sun, 31 Jul 2016 05:40:15 GMT"}
+20160829075220 {"uri": "https://web.archive.org/web/20160829075220/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Mon, 29 Aug 2016 07:52:20 GMT"}
+20160829075220 {"uri": "https://web.archive.org/web/20160829075220/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Mon, 29 Aug 2016 07:52:20 GMT"}
+20160929035825 {"uri": "https://web.archive.org/web/20160929035825/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Thu, 29 Sep 2016 03:58:25 GMT"}
+20160929035825 {"uri": "https://web.archive.org/web/20160929035825/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Thu, 29 Sep 2016 03:58:25 GMT"}
+20161001215404 {"uri": "https://web.archive.org/web/20161001215404/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 01 Oct 2016 21:54:04 GMT"}
+20161030163418 {"uri": "https://web.archive.org/web/20161030163418/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sun, 30 Oct 2016 16:34:18 GMT"}
+20161030163418 {"uri": "https://web.archive.org/web/20161030163418/http://www.jsums.edu:80/socialwork/bachelor-of-social-work", "rel": "memento", "datetime": "Sun, 30 Oct 2016 16:34:18 GMT"}
+20170409232134 {"uri": "https://web.archive.org/web/20170409232134/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sun, 09 Apr 2017 23:21:34 GMT"}
+20171023190846 {"uri": "https://web.archive.org/web/20171023190846/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Mon, 23 Oct 2017 19:08:46 GMT"}
+20180706064738 {"uri": "https://web.archive.org/web/20180706064738/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Fri, 06 Jul 2018 06:47:38 GMT"}
+20180906005424 {"uri": "https://web.archive.org/web/20180906005424/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Thu, 06 Sep 2018 00:54:24 GMT"}
+20180907030528 {"uri": "https://web.archive.org/web/20180907030528/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Fri, 07 Sep 2018 03:05:28 GMT"}
+20181107231147 {"uri": "https://web.archive.org/web/20181107231147/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Wed, 07 Nov 2018 23:11:47 GMT"}
+20181109031351 {"uri": "https://web.archive.org/web/20181109031351/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Fri, 09 Nov 2018 03:13:51 GMT"}
+20190109030813 {"uri": "https://web.archive.org/web/20190109030813/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Wed, 09 Jan 2019 03:08:13 GMT"}
+20190311040325 {"uri": "https://web.archive.org/web/20190311040325/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Mon, 11 Mar 2019 04:03:25 GMT"}
+20190511053448 {"uri": "https://web.archive.org/web/20190511053448/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 11 May 2019 05:34:48 GMT"}
+20190718085157 {"uri": "https://web.archive.org/web/20190718085157/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Thu, 18 Jul 2019 08:51:57 GMT"}
+20190917065435 {"uri": "https://web.archive.org/web/20190917065435/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Tue, 17 Sep 2019 06:54:35 GMT"}
+20191028220755 {"uri": "https://web.archive.org/web/20191028220755/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Mon, 28 Oct 2019 22:07:55 GMT"}
+20191228013648 {"uri": "https://web.archive.org/web/20191228013648/http://www.jsums.edu:80/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Sat, 28 Dec 2019 01:36:48 GMT"}
+20200812182600 {"uri": "https://web.archive.org/web/20200812182600/https://www.jsums.edu/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Wed, 12 Aug 2020 18:26:00 GMT"}
+20201020070431 {"uri": "https://web.archive.org/web/20201020070431/https://www.jsums.edu/socialwork/bachelor-of-social-work/", "rel": "memento", "datetime": "Tue, 20 Oct 2020 07:04:31 GMT"}
+20210301224735 {"uri": "https://web.archive.org/web/20210301224735/https://www.jsums.edu/socialwork/bachelor-of-social-work/", "rel": "last memento", "datetime": "Mon, 01 Mar 2021 22:47:35 GMT"}

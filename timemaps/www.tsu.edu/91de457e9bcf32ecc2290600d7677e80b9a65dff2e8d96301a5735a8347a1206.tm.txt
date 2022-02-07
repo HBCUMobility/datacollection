@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html", "json_format": "http://localhost:1208/timemap/json/http://www.tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html"}}
+20190322100359 {"uri": "https://web.archive.org/web/20190322100359/http://www.tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "first memento", "datetime": "Fri, 22 Mar 2019 10:03:59 GMT"}
+20190323191311 {"uri": "https://web.archive.org/web/20190323191311/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Sat, 23 Mar 2019 19:13:11 GMT"}
+20190723081027 {"uri": "https://web.archive.org/web/20190723081027/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Tue, 23 Jul 2019 08:10:27 GMT"}
+20190724113904 {"uri": "https://web.archive.org/web/20190724113904/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Wed, 24 Jul 2019 11:39:04 GMT"}
+20190923014643 {"uri": "https://web.archive.org/web/20190923014643/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Mon, 23 Sep 2019 01:46:43 GMT"}
+20191030012310 {"uri": "https://web.archive.org/web/20191030012310/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Wed, 30 Oct 2019 01:23:10 GMT"}
+20191128191518 {"uri": "https://web.archive.org/web/20191128191518/http://tsu.edu:80/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Thu, 28 Nov 2019 19:15:18 GMT"}
+20191229042027 {"uri": "https://web.archive.org/web/20191229042027/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Sun, 29 Dec 2019 04:20:27 GMT"}
+20200127210915 {"uri": "https://web.archive.org/web/20200127210915/http://tsu.edu:80/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Mon, 27 Jan 2020 21:09:15 GMT"}
+20200807041752 {"uri": "https://web.archive.org/web/20200807041752/http://tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Fri, 07 Aug 2020 04:17:52 GMT"}
+20200927005434 {"uri": "https://web.archive.org/web/20200927005434/http://www.tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Sun, 27 Sep 2020 00:54:34 GMT"}
+20201022182613 {"uri": "https://web.archive.org/web/20201022182613/http://tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Thu, 22 Oct 2020 18:26:13 GMT"}
+20210120042349 {"uri": "https://web.archive.org/web/20210120042349/http://www.tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Wed, 20 Jan 2021 04:23:49 GMT"}
+20210127072206 {"uri": "https://web.archive.org/web/20210127072206/http://tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "memento", "datetime": "Wed, 27 Jan 2021 07:22:06 GMT"}
+20210421074841 {"uri": "https://web.archive.org/web/20210421074841/http://tsu.edu/academics/colleges-and-schools/colabs/psychology/index.html", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 07:48:41 GMT"}

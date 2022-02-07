@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education"}}
+20200812234717 {"uri": "https://web.archive.org/web/20200812234717/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 23:47:17 GMT"}
+20201029050035 {"uri": "https://web.archive.org/web/20201029050035/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:00:35 GMT"}
+20210125041120 {"uri": "https://web.archive.org/web/20210125041120/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:11:20 GMT"}
+20210410141750 {"uri": "https://web.archive.org/web/20210410141750/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:17:50 GMT"}
+20210424203253 {"uri": "https://web.archive.org/web/20210424203253/https://www.tuskegee.edu/programs-courses/colleges-schools/soe/physical-education", "rel": "last memento", "datetime": "Sat, 24 Apr 2021 20:32:53 GMT"}

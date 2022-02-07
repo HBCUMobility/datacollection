@@ -1,0 +1,6 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.xula.edu/department/department-of-psychology.htmlhttps://www.coppin.edu/son"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.xula.edu/department/department-of-psychology.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.xula.edu/department/department-of-psychology.html"}
+!meta {"note": "This TimeMap was fabricated for a URI-R with no mementos"}

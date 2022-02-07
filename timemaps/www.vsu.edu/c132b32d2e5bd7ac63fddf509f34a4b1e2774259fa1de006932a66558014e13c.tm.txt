@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/art-and-design/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/sola/departments/art-and-design/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/sola/departments/art-and-design/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/sola/departments/art-and-design/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/sola/departments/art-and-design/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/art-and-design/index.php"}}
+20210121214023 {"uri": "https://web.archive.org/web/20210121214023/https://www.vsu.edu/sola/departments/art-and-design/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 21:40:23 GMT"}
+20210413132733 {"uri": "https://web.archive.org/web/20210413132733/https://www.vsu.edu/sola/departments/art-and-design/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 13:27:33 GMT"}
+20210518141804 {"uri": "https://web.archive.org/web/20210518141804/https://www.vsu.edu/sola/departments/art-and-design/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 14:18:04 GMT"}
+20211217113545 {"uri": "https://web.archive.org/web/20211217113545/https://www.vsu.edu/sola/departments/art-and-design/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:35:45 GMT"}

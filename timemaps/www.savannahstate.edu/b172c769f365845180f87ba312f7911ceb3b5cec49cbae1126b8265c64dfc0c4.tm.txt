@@ -1,0 +1,30 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/mar-env-science/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/cost/mar-env-science/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/cost/mar-env-science/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/cost/mar-env-science/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/cost/mar-env-science/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/mar-env-science/index.shtml"}}
+20170424135806 {"uri": "https://web.archive.org/web/20170424135806/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "first memento", "datetime": "Mon, 24 Apr 2017 13:58:06 GMT"}
+20170513070746 {"uri": "https://web.archive.org/web/20170513070746/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Sat, 13 May 2017 07:07:46 GMT"}
+20170616133955 {"uri": "https://web.archive.org/web/20170616133955/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Fri, 16 Jun 2017 13:39:55 GMT"}
+20170718095532 {"uri": "https://web.archive.org/web/20170718095532/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Tue, 18 Jul 2017 09:55:32 GMT"}
+20170820123044 {"uri": "https://web.archive.org/web/20170820123044/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Sun, 20 Aug 2017 12:30:44 GMT"}
+20170821141013 {"uri": "https://web.archive.org/web/20170821141013/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Mon, 21 Aug 2017 14:10:13 GMT"}
+20170922063550 {"uri": "https://web.archive.org/web/20170922063550/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Fri, 22 Sep 2017 06:35:50 GMT"}
+20171024220158 {"uri": "https://web.archive.org/web/20171024220158/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Tue, 24 Oct 2017 22:01:58 GMT"}
+20171129191114 {"uri": "https://web.archive.org/web/20171129191114/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Wed, 29 Nov 2017 19:11:14 GMT"}
+20171230165005 {"uri": "https://web.archive.org/web/20171230165005/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Sat, 30 Dec 2017 16:50:05 GMT"}
+20180131065019 {"uri": "https://web.archive.org/web/20180131065019/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Wed, 31 Jan 2018 06:50:19 GMT"}
+20180319083041 {"uri": "https://web.archive.org/web/20180319083041/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Mon, 19 Mar 2018 08:30:41 GMT"}
+20180320084215 {"uri": "https://web.archive.org/web/20180320084215/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Tue, 20 Mar 2018 08:42:15 GMT"}
+20180421200203 {"uri": "https://web.archive.org/web/20180421200203/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Sat, 21 Apr 2018 20:02:03 GMT"}
+20180529143318 {"uri": "https://web.archive.org/web/20180529143318/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Tue, 29 May 2018 14:33:18 GMT"}
+20180630081121 {"uri": "https://web.archive.org/web/20180630081121/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Sat, 30 Jun 2018 08:11:21 GMT"}
+20180803104040 {"uri": "https://web.archive.org/web/20180803104040/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Fri, 03 Aug 2018 10:40:40 GMT"}
+20180904042633 {"uri": "https://web.archive.org/web/20180904042633/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Tue, 04 Sep 2018 04:26:33 GMT"}
+20181023110100 {"uri": "https://web.archive.org/web/20181023110100/http://www.savannahstate.edu:80/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Tue, 23 Oct 2018 11:01:00 GMT"}
+20200921120142 {"uri": "https://web.archive.org/web/20200921120142/https://www.savannahstate.edu/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Mon, 21 Sep 2020 12:01:42 GMT"}
+20210414113649 {"uri": "https://web.archive.org/web/20210414113649/https://www.savannahstate.edu/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Wed, 14 Apr 2021 11:36:49 GMT"}
+20210419144633 {"uri": "https://web.archive.org/web/20210419144633/https://www.savannahstate.edu/cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Mon, 19 Apr 2021 14:46:33 GMT"}
+20210419221134 {"uri": "https://web.archive.org/web/20210419221134/https://www.savannahstate.edu//cost/mar-env-science/index.shtml", "rel": "memento", "datetime": "Mon, 19 Apr 2021 22:11:34 GMT"}
+20210420094732 {"uri": "https://web.archive.org/web/20210420094732/https://www.savannahstate.edu/cost/mar-env-science/index.shtml", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 09:47:32 GMT"}

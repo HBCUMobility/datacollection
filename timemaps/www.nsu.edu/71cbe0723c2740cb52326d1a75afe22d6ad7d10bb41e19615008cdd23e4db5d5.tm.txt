@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/sgsr"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/sgsr"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/sgsr"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/sgsr", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/sgsr", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/sgsr"}}
+20190618151749 {"uri": "https://web.archive.org/web/20190618151749/http://www.nsu.edu:80/sgsr", "rel": "first memento", "datetime": "Tue, 18 Jun 2019 15:17:49 GMT"}
+20190820054030 {"uri": "https://web.archive.org/web/20190820054030/http://www.nsu.edu:80/sgsr", "rel": "memento", "datetime": "Tue, 20 Aug 2019 05:40:30 GMT"}
+20191111112151 {"uri": "https://web.archive.org/web/20191111112151/http://www.nsu.edu:80/sgsr", "rel": "memento", "datetime": "Mon, 11 Nov 2019 11:21:51 GMT"}
+20200111035539 {"uri": "https://web.archive.org/web/20200111035539/http://www.nsu.edu:80/sgsr", "rel": "memento", "datetime": "Sat, 11 Jan 2020 03:55:39 GMT"}
+20200815163528 {"uri": "https://web.archive.org/web/20200815163528/https://www.nsu.edu/sgsr", "rel": "memento", "datetime": "Sat, 15 Aug 2020 16:35:28 GMT"}
+20200924051708 {"uri": "https://web.archive.org/web/20200924051708/http://www.nsu.edu/sgsr", "rel": "memento", "datetime": "Thu, 24 Sep 2020 05:17:08 GMT"}
+20201201055630 {"uri": "https://web.archive.org/web/20201201055630/https://www.nsu.edu/sgsr", "rel": "memento", "datetime": "Tue, 01 Dec 2020 05:56:30 GMT"}
+20210125112652 {"uri": "https://web.archive.org/web/20210125112652/http://www.nsu.edu/sgsr", "rel": "memento", "datetime": "Mon, 25 Jan 2021 11:26:52 GMT"}
+20210306045245 {"uri": "https://web.archive.org/web/20210306045245/https://www.nsu.edu/sgsr", "rel": "memento", "datetime": "Sat, 06 Mar 2021 04:52:45 GMT"}
+20210420225620 {"uri": "https://web.archive.org/web/20210420225620/http://www.nsu.edu/sgsr", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 22:56:20 GMT"}

@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/communications/department-communications"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/clas/communications/department-communications"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/clas/communications/department-communications"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/clas/communications/department-communications", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/clas/communications/department-communications", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/communications/department-communications"}}
+20181112185316 {"uri": "https://web.archive.org/web/20181112185316/http://www.alasu.edu:80/clas/communications/department-communications", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 18:53:16 GMT"}
+20200924045057 {"uri": "https://web.archive.org/web/20200924045057/https://www.alasu.edu/clas/communications/department-communications", "rel": "memento", "datetime": "Thu, 24 Sep 2020 04:50:57 GMT"}
+20210415044651 {"uri": "https://web.archive.org/web/20210415044651/https://www.alasu.edu/clas/communications/department-communications", "rel": "memento", "datetime": "Thu, 15 Apr 2021 04:46:51 GMT"}
+20210416171050 {"uri": "https://web.archive.org/web/20210416171050/https://www.alasu.edu/clas/communications/department-communications", "rel": "memento", "datetime": "Fri, 16 Apr 2021 17:10:50 GMT"}
+20220113210950 {"uri": "https://web.archive.org/web/20220113210950/https://www.alasu.edu/clas/communications/department-communications", "rel": "last memento", "datetime": "Thu, 13 Jan 2022 21:09:50 GMT"}

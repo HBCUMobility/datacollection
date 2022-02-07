@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/cnhs/departments/biology/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/cnhs/departments/biology/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/cnhs/departments/biology/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/cnhs/departments/biology/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/cnhs/departments/biology/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/cnhs/departments/biology/index.php"}}
+20210121220759 {"uri": "https://web.archive.org/web/20210121220759/https://www.vsu.edu/cnhs/departments/biology/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 22:07:59 GMT"}
+20210416210535 {"uri": "https://web.archive.org/web/20210416210535/https://www.vsu.edu/cnhs/departments/biology/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 21:05:35 GMT"}
+20210614002332 {"uri": "https://web.archive.org/web/20210614002332/https://www.vsu.edu/cnhs/departments/biology/index.php", "rel": "memento", "datetime": "Mon, 14 Jun 2021 00:23:32 GMT"}
+20211217112532 {"uri": "https://web.archive.org/web/20211217112532/https://www.vsu.edu/cnhs/departments/biology/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:25:32 GMT"}

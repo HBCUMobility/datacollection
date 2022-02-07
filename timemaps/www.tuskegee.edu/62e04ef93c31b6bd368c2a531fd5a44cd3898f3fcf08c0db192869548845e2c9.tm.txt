@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english"}}
+20200812230611 {"uri": "https://web.archive.org/web/20200812230611/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 23:06:11 GMT"}
+20201029040856 {"uri": "https://web.archive.org/web/20201029040856/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english", "rel": "memento", "datetime": "Thu, 29 Oct 2020 04:08:56 GMT"}
+20210125031251 {"uri": "https://web.archive.org/web/20210125031251/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english", "rel": "memento", "datetime": "Mon, 25 Jan 2021 03:12:51 GMT"}
+20210410135312 {"uri": "https://web.archive.org/web/20210410135312/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english", "rel": "memento", "datetime": "Sat, 10 Apr 2021 13:53:12 GMT"}
+20210420045430 {"uri": "https://web.archive.org/web/20210420045430/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/english", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 04:54:30 GMT"}

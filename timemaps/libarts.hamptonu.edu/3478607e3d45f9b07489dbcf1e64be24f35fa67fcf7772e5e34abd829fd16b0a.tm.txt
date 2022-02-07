@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Education-Home"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://libarts.hamptonu.edu/page/Education-Home"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://libarts.hamptonu.edu/page/Education-Home"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://libarts.hamptonu.edu/page/Education-Home", "json_format": "http://localhost:1208/timemap/json/http://libarts.hamptonu.edu/page/Education-Home", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Education-Home"}}
+20190329175607 {"uri": "https://web.archive.org/web/20190329175607/http://libarts.hamptonu.edu:80/page/Education-Home", "rel": "first memento", "datetime": "Fri, 29 Mar 2019 17:56:07 GMT"}
+20191022110254 {"uri": "https://web.archive.org/web/20191022110254/http://libarts.hamptonu.edu:80/page/Education-Home", "rel": "memento", "datetime": "Tue, 22 Oct 2019 11:02:54 GMT"}
+20191222004129 {"uri": "https://web.archive.org/web/20191222004129/http://libarts.hamptonu.edu:80/page/Education-Home", "rel": "memento", "datetime": "Sun, 22 Dec 2019 00:41:29 GMT"}
+20200220055400 {"uri": "https://web.archive.org/web/20200220055400/http://libarts.hamptonu.edu:80/page/Education-Home", "rel": "memento", "datetime": "Thu, 20 Feb 2020 05:54:00 GMT"}
+20200704102639 {"uri": "https://web.archive.org/web/20200704102639/http://libarts.hamptonu.edu:80/page/Education-Home", "rel": "memento", "datetime": "Sat, 04 Jul 2020 10:26:39 GMT"}
+20210510072536 {"uri": "https://web.archive.org/web/20210510072536/http://libarts.hamptonu.edu/page/Education-Home", "rel": "last memento", "datetime": "Mon, 10 May 2021 07:25:36 GMT"}

@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php"}}
+20200808002311 {"uri": "https://web.archive.org/web/20200808002311/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "first memento", "datetime": "Sat, 08 Aug 2020 00:23:11 GMT"}
+20200903072155 {"uri": "https://web.archive.org/web/20200903072155/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 07:21:55 GMT"}
+20200922214747 {"uri": "https://web.archive.org/web/20200922214747/https://ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 21:47:47 GMT"}
+20201025081300 {"uri": "https://web.archive.org/web/20201025081300/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Sun, 25 Oct 2020 08:13:00 GMT"}
+20201128030115 {"uri": "https://web.archive.org/web/20201128030115/https://ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 03:01:15 GMT"}
+20210117005405 {"uri": "https://web.archive.org/web/20210117005405/https://ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Sun, 17 Jan 2021 00:54:05 GMT"}
+20210129024245 {"uri": "https://web.archive.org/web/20210129024245/https://ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 02:42:45 GMT"}
+20210416213155 {"uri": "https://web.archive.org/web/20210416213155/https://ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 21:31:55 GMT"}
+20210418231401 {"uri": "https://web.archive.org/web/20210418231401/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 23:14:01 GMT"}
+20210812001230 {"uri": "https://web.archive.org/web/20210812001230/https://ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 00:12:30 GMT"}
+20210816020247 {"uri": "https://web.archive.org/web/20210816020247/https://ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 02:02:47 GMT"}
+20210818023153 {"uri": "https://web.archive.org/web/20210818023153/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Wed, 18 Aug 2021 02:31:53 GMT"}
+20211117094712 {"uri": "https://web.archive.org/web/20211117094712/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:12 GMT"}
+20220107230444 {"uri": "https://web.archive.org/web/20220107230444/https://www.ncat.edu/cost/departments/applied-engineering-technology/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 23:04:44 GMT"}

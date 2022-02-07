@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php"}}
+20201022093737 {"uri": "https://web.archive.org/web/20201022093737/http://asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php", "rel": "first memento", "datetime": "Thu, 22 Oct 2020 09:37:37 GMT"}
+20201130012524 {"uri": "https://web.archive.org/web/20201130012524/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php", "rel": "memento", "datetime": "Mon, 30 Nov 2020 01:25:24 GMT"}
+20210119091854 {"uri": "https://web.archive.org/web/20210119091854/http://asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php", "rel": "memento", "datetime": "Tue, 19 Jan 2021 09:18:54 GMT"}
+20210423012931 {"uri": "https://web.archive.org/web/20210423012931/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php", "rel": "memento", "datetime": "Fri, 23 Apr 2021 01:29:31 GMT"}
+20210423024620 {"uri": "https://web.archive.org/web/20210423024620/http://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php", "rel": "memento", "datetime": "Fri, 23 Apr 2021 02:46:20 GMT"}
+20210516002934 {"uri": "https://web.archive.org/web/20210516002934/https://asurams.edu/academic-affairs/college-of-business-education-professional-studies/social-work/index.php", "rel": "last memento", "datetime": "Sun, 16 May 2021 00:29:34 GMT"}

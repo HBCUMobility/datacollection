@@ -1,0 +1,65 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/biology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.morgan.edu/biology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.morgan.edu/biology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.morgan.edu/biology", "json_format": "http://localhost:1208/timemap/json/https://www.morgan.edu/biology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/biology"}}
+20150705030150 {"uri": "https://web.archive.org/web/20150705030150/http://www.morgan.edu:80/biology", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 03:01:50 GMT"}
+20150726021922 {"uri": "https://web.archive.org/web/20150726021922/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sun, 26 Jul 2015 02:19:22 GMT"}
+20150905160956 {"uri": "https://web.archive.org/web/20150905160956/http://www.morgan.edu/biology", "rel": "memento", "datetime": "Sat, 05 Sep 2015 16:09:56 GMT"}
+20151205132518 {"uri": "https://web.archive.org/web/20151205132518/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sat, 05 Dec 2015 13:25:18 GMT"}
+20151224005104 {"uri": "https://web.archive.org/web/20151224005104/http://www.morgan.edu/biology", "rel": "memento", "datetime": "Thu, 24 Dec 2015 00:51:04 GMT"}
+20160106165423 {"uri": "https://web.archive.org/web/20160106165423/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Wed, 06 Jan 2016 16:54:23 GMT"}
+20160302203456 {"uri": "https://web.archive.org/web/20160302203456/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Wed, 02 Mar 2016 20:34:56 GMT"}
+20160322062701 {"uri": "https://web.archive.org/web/20160322062701/http://www.morgan.edu/biology", "rel": "memento", "datetime": "Tue, 22 Mar 2016 06:27:01 GMT"}
+20160414004456 {"uri": "https://web.archive.org/web/20160414004456/http://morgan.edu/biology", "rel": "memento", "datetime": "Thu, 14 Apr 2016 00:44:56 GMT"}
+20160505180404 {"uri": "https://web.archive.org/web/20160505180404/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Thu, 05 May 2016 18:04:04 GMT"}
+20160512170608 {"uri": "https://web.archive.org/web/20160512170608/http://www.morgan.edu/biology", "rel": "memento", "datetime": "Thu, 12 May 2016 17:06:08 GMT"}
+20160605230546 {"uri": "https://web.archive.org/web/20160605230546/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sun, 05 Jun 2016 23:05:46 GMT"}
+20160709083241 {"uri": "https://web.archive.org/web/20160709083241/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sat, 09 Jul 2016 08:32:41 GMT"}
+20160729114127 {"uri": "https://web.archive.org/web/20160729114127/http://www.morgan.edu/biology", "rel": "memento", "datetime": "Fri, 29 Jul 2016 11:41:27 GMT"}
+20160816055517 {"uri": "https://web.archive.org/web/20160816055517/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Tue, 16 Aug 2016 05:55:17 GMT"}
+20160817151223 {"uri": "https://web.archive.org/web/20160817151223/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Wed, 17 Aug 2016 15:12:23 GMT"}
+20160917222147 {"uri": "https://web.archive.org/web/20160917222147/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sat, 17 Sep 2016 22:21:47 GMT"}
+20161025174351 {"uri": "https://web.archive.org/web/20161025174351/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Tue, 25 Oct 2016 17:43:51 GMT"}
+20161211204738 {"uri": "https://web.archive.org/web/20161211204738/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sun, 11 Dec 2016 20:47:38 GMT"}
+20170316224257 {"uri": "https://wayback.archive-it.org/all/20170316224257/http://www.morgan.edu/biology", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:42:57 GMT"}
+20170316224257 {"uri": "https://web.archive.org/web/20170316224257/http://www.morgan.edu/biology", "rel": "memento", "datetime": "Thu, 16 Mar 2017 22:42:57 GMT"}
+20170504085514 {"uri": "https://web.archive.org/web/20170504085514/http://morgan.edu/biology", "rel": "memento", "datetime": "Thu, 04 May 2017 08:55:14 GMT"}
+20170519212156 {"uri": "https://web.archive.org/web/20170519212156/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Fri, 19 May 2017 21:21:56 GMT"}
+20170613113715 {"uri": "https://web.archive.org/web/20170613113715/http://morgan.edu/biology", "rel": "memento", "datetime": "Tue, 13 Jun 2017 11:37:15 GMT"}
+20170620053553 {"uri": "https://web.archive.org/web/20170620053553/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Tue, 20 Jun 2017 05:35:53 GMT"}
+20170722003231 {"uri": "https://web.archive.org/web/20170722003231/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sat, 22 Jul 2017 00:32:31 GMT"}
+20170822183802 {"uri": "https://web.archive.org/web/20170822183802/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Tue, 22 Aug 2017 18:38:02 GMT"}
+20170913031845 {"uri": "https://web.archive.org/web/20170913031845/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Wed, 13 Sep 2017 03:18:45 GMT"}
+20171024223647 {"uri": "https://web.archive.org/web/20171024223647/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Tue, 24 Oct 2017 22:36:47 GMT"}
+20171103192405 {"uri": "https://web.archive.org/web/20171103192405/http://morgan.edu:80/biology", "rel": "memento", "datetime": "Fri, 03 Nov 2017 19:24:05 GMT"}
+20171129181445 {"uri": "https://web.archive.org/web/20171129181445/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Wed, 29 Nov 2017 18:14:45 GMT"}
+20171230162407 {"uri": "https://web.archive.org/web/20171230162407/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sat, 30 Dec 2017 16:24:07 GMT"}
+20180131052530 {"uri": "https://web.archive.org/web/20180131052530/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Wed, 31 Jan 2018 05:25:30 GMT"}
+20180308153933 {"uri": "https://web.archive.org/web/20180308153933/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Thu, 08 Mar 2018 15:39:33 GMT"}
+20180319151553 {"uri": "https://web.archive.org/web/20180319151553/http://morgan.edu:80/biology", "rel": "memento", "datetime": "Mon, 19 Mar 2018 15:15:53 GMT"}
+20180411210704 {"uri": "https://web.archive.org/web/20180411210704/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Wed, 11 Apr 2018 21:07:04 GMT"}
+20180413020731 {"uri": "https://web.archive.org/web/20180413020731/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Fri, 13 Apr 2018 02:07:31 GMT"}
+20180421190943 {"uri": "https://web.archive.org/web/20180421190943/http://morgan.edu:80/biology", "rel": "memento", "datetime": "Sat, 21 Apr 2018 19:09:43 GMT"}
+20180514143838 {"uri": "https://web.archive.org/web/20180514143838/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Mon, 14 May 2018 14:38:38 GMT"}
+20180530214515 {"uri": "https://web.archive.org/web/20180530214515/http://morgan.edu:80/biology", "rel": "memento", "datetime": "Wed, 30 May 2018 21:45:15 GMT"}
+20180614192504 {"uri": "https://web.archive.org/web/20180614192504/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Thu, 14 Jun 2018 19:25:04 GMT"}
+20180701031309 {"uri": "https://web.archive.org/web/20180701031309/http://morgan.edu:80/biology", "rel": "memento", "datetime": "Sun, 01 Jul 2018 03:13:09 GMT"}
+20180718084729 {"uri": "https://web.archive.org/web/20180718084729/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Wed, 18 Jul 2018 08:47:29 GMT"}
+20180802014806 {"uri": "https://web.archive.org/web/20180802014806/http://morgan.edu:80/biology", "rel": "memento", "datetime": "Thu, 02 Aug 2018 01:48:06 GMT"}
+20180826193235 {"uri": "https://web.archive.org/web/20180826193235/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sun, 26 Aug 2018 19:32:35 GMT"}
+20180907111945 {"uri": "https://web.archive.org/web/20180907111945/http://morgan.edu:80/biology", "rel": "memento", "datetime": "Fri, 07 Sep 2018 11:19:45 GMT"}
+20181019035228 {"uri": "https://web.archive.org/web/20181019035228/http://morgan.edu:80/biology", "rel": "memento", "datetime": "Fri, 19 Oct 2018 03:52:28 GMT"}
+20181019041818 {"uri": "https://web.archive.org/web/20181019041818/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Fri, 19 Oct 2018 04:18:18 GMT"}
+20190831134957 {"uri": "https://web.archive.org/web/20190831134957/http://morgan.edu:80/biology", "rel": "memento", "datetime": "Sat, 31 Aug 2019 13:49:57 GMT"}
+20190908223922 {"uri": "https://web.archive.org/web/20190908223922/http://www.morgan.edu:80/biology", "rel": "memento", "datetime": "Sun, 08 Sep 2019 22:39:22 GMT"}
+20200812154100 {"uri": "https://web.archive.org/web/20200812154100/https://morgan.edu/biology", "rel": "memento", "datetime": "Wed, 12 Aug 2020 15:41:00 GMT"}
+20201028180132 {"uri": "https://web.archive.org/web/20201028180132/https://morgan.edu/biology", "rel": "memento", "datetime": "Wed, 28 Oct 2020 18:01:32 GMT"}
+20201031190801 {"uri": "https://web.archive.org/web/20201031190801/http://www.morgan.edu/biology", "rel": "memento", "datetime": "Sat, 31 Oct 2020 19:08:01 GMT"}
+20210126002342 {"uri": "https://web.archive.org/web/20210126002342/https://morgan.edu/biology", "rel": "memento", "datetime": "Tue, 26 Jan 2021 00:23:42 GMT"}
+20210303014915 {"uri": "https://web.archive.org/web/20210303014915/https://www.morgan.edu/biology", "rel": "memento", "datetime": "Wed, 03 Mar 2021 01:49:15 GMT"}
+20210414035621 {"uri": "https://web.archive.org/web/20210414035621/https://morgan.edu/biology", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:56:21 GMT"}
+20210415150539 {"uri": "https://web.archive.org/web/20210415150539/https://morgan.edu/biology", "rel": "memento", "datetime": "Thu, 15 Apr 2021 15:05:39 GMT"}
+20210511011402 {"uri": "https://web.archive.org/web/20210511011402/https://www.morgan.edu/biology", "rel": "memento", "datetime": "Tue, 11 May 2021 01:14:02 GMT"}
+20210816234059 {"uri": "https://web.archive.org/web/20210816234059/https://morgan.edu/biology", "rel": "last memento", "datetime": "Mon, 16 Aug 2021 23:40:59 GMT"}

@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/agriculture/academics/hospitality-management/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php"}}
+20210121221013 {"uri": "https://web.archive.org/web/20210121221013/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 22:10:13 GMT"}
+20210413142228 {"uri": "https://web.archive.org/web/20210413142228/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 14:22:28 GMT"}
+20210513233520 {"uri": "https://web.archive.org/web/20210513233520/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php", "rel": "memento", "datetime": "Thu, 13 May 2021 23:35:20 GMT"}
+20210614003033 {"uri": "https://web.archive.org/web/20210614003033/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php", "rel": "memento", "datetime": "Mon, 14 Jun 2021 00:30:33 GMT"}
+20211217045034 {"uri": "https://web.archive.org/web/20211217045034/https://www.vsu.edu/agriculture/academics/hospitality-management/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 04:50:34 GMT"}

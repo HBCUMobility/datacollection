@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education", "json_format": "http://localhost:1208/timemap/json/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education"}}
+20200926183935 {"uri": "https://web.archive.org/web/20200926183935/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education", "rel": "first memento", "datetime": "Sat, 26 Sep 2020 18:39:35 GMT"}
+20210123051530 {"uri": "https://web.archive.org/web/20210123051530/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education", "rel": "memento", "datetime": "Sat, 23 Jan 2021 05:15:30 GMT"}
+20210417174318 {"uri": "https://web.archive.org/web/20210417174318/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education", "rel": "memento", "datetime": "Sat, 17 Apr 2021 17:43:18 GMT"}
+20210701180951 {"uri": "https://web.archive.org/web/20210701180951/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education", "rel": "memento", "datetime": "Thu, 01 Jul 2021 18:09:51 GMT"}
+20210701184740 {"uri": "https://web.archive.org/web/20210701184740/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education", "rel": "memento", "datetime": "Thu, 01 Jul 2021 18:47:40 GMT"}
+20211201201109 {"uri": "https://web.archive.org/web/20211201201109/https://www.uncfsu.edu/academics/colleges-schools-and-departments/college-of-education", "rel": "last memento", "datetime": "Wed, 01 Dec 2021 20:11:09 GMT"}

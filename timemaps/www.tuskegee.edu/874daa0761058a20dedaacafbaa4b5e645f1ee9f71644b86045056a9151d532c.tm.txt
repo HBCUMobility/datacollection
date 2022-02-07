@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work"}}
+20200927003622 {"uri": "https://web.archive.org/web/20200927003622/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work", "rel": "first memento", "datetime": "Sun, 27 Sep 2020 00:36:22 GMT"}
+20201021022119 {"uri": "https://web.archive.org/web/20201021022119/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work", "rel": "memento", "datetime": "Wed, 21 Oct 2020 02:21:19 GMT"}
+20210121054640 {"uri": "https://web.archive.org/web/20210121054640/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work", "rel": "memento", "datetime": "Thu, 21 Jan 2021 05:46:40 GMT"}
+20210421045803 {"uri": "https://web.archive.org/web/20210421045803/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work", "rel": "memento", "datetime": "Wed, 21 Apr 2021 04:58:03 GMT"}
+20210424211416 {"uri": "https://web.archive.org/web/20210424211416/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/social-work", "rel": "last memento", "datetime": "Sat, 24 Apr 2021 21:14:16 GMT"}

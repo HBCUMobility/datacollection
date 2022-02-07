@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage", "json_format": "http://localhost:1208/timemap/json/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage"}}
+20201203233837 {"uri": "https://web.archive.org/web/20201203233837/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage", "rel": "first memento", "datetime": "Thu, 03 Dec 2020 23:38:37 GMT"}
+20210224203720 {"uri": "https://web.archive.org/web/20210224203720/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage", "rel": "memento", "datetime": "Wed, 24 Feb 2021 20:37:20 GMT"}
+20210409174911 {"uri": "https://web.archive.org/web/20210409174911/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage", "rel": "memento", "datetime": "Fri, 09 Apr 2021 17:49:11 GMT"}
+20210417200905 {"uri": "https://web.archive.org/web/20210417200905/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage", "rel": "memento", "datetime": "Sat, 17 Apr 2021 20:09:05 GMT"}
+20210507073647 {"uri": "https://web.archive.org/web/20210507073647/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage", "rel": "memento", "datetime": "Fri, 07 May 2021 07:36:47 GMT"}
+20210516193137 {"uri": "https://web.archive.org/web/20210516193137/https://mvsu.edu/academics/academic-programs/mass-communication-homepage", "rel": "memento", "datetime": "Sun, 16 May 2021 19:31:37 GMT"}
+20210601185705 {"uri": "https://web.archive.org/web/20210601185705/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage", "rel": "memento", "datetime": "Tue, 01 Jun 2021 18:57:05 GMT"}
+20210812074611 {"uri": "https://web.archive.org/web/20210812074611/https://mvsu.edu/academics/academic-programs/mass-communication-homepage", "rel": "memento", "datetime": "Thu, 12 Aug 2021 07:46:11 GMT"}
+20220108022821 {"uri": "https://web.archive.org/web/20220108022821/https://www.mvsu.edu/academics/academic-programs/mass-communication-homepage", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 02:28:21 GMT"}

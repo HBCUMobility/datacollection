@@ -1,0 +1,25 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://nursing.hamptonu.edu/page/Bachelors-Program--Nursing"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://nursing.hamptonu.edu/page/Bachelors-Program--Nursing"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://nursing.hamptonu.edu/page/Bachelors-Program--Nursing"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://nursing.hamptonu.edu/page/Bachelors-Program--Nursing", "json_format": "http://localhost:1208/timemap/json/http://nursing.hamptonu.edu/page/Bachelors-Program--Nursing", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://nursing.hamptonu.edu/page/Bachelors-Program--Nursing"}}
+20170908112241 {"uri": "https://web.archive.org/web/20170908112241/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "first memento", "datetime": "Fri, 08 Sep 2017 11:22:41 GMT"}
+20171229205143 {"uri": "https://web.archive.org/web/20171229205143/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Fri, 29 Dec 2017 20:51:43 GMT"}
+20180311011928 {"uri": "https://web.archive.org/web/20180311011928/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Sun, 11 Mar 2018 01:19:28 GMT"}
+20180511144257 {"uri": "https://web.archive.org/web/20180511144257/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Fri, 11 May 2018 14:42:57 GMT"}
+20180711152851 {"uri": "https://web.archive.org/web/20180711152851/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Wed, 11 Jul 2018 15:28:51 GMT"}
+20180911121333 {"uri": "https://web.archive.org/web/20180911121333/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Tue, 11 Sep 2018 12:13:33 GMT"}
+20181112151311 {"uri": "https://web.archive.org/web/20181112151311/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Mon, 12 Nov 2018 15:13:11 GMT"}
+20190112151555 {"uri": "https://web.archive.org/web/20190112151555/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Sat, 12 Jan 2019 15:15:55 GMT"}
+20190516004109 {"uri": "https://web.archive.org/web/20190516004109/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Thu, 16 May 2019 00:41:09 GMT"}
+20190719053650 {"uri": "https://web.archive.org/web/20190719053650/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Fri, 19 Jul 2019 05:36:50 GMT"}
+20190918055339 {"uri": "https://web.archive.org/web/20190918055339/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Wed, 18 Sep 2019 05:53:39 GMT"}
+20191024011944 {"uri": "https://web.archive.org/web/20191024011944/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Thu, 24 Oct 2019 01:19:44 GMT"}
+20191223054043 {"uri": "https://web.archive.org/web/20191223054043/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Mon, 23 Dec 2019 05:40:43 GMT"}
+20200221123712 {"uri": "https://web.archive.org/web/20200221123712/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Fri, 21 Feb 2020 12:37:12 GMT"}
+20200315131056 {"uri": "https://web.archive.org/web/20200315131056/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Sun, 15 Mar 2020 13:10:56 GMT"}
+20200714061541 {"uri": "https://web.archive.org/web/20200714061541/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Tue, 14 Jul 2020 06:15:41 GMT"}
+20200715063446 {"uri": "https://web.archive.org/web/20200715063446/http://nursing.hamptonu.edu:80/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Wed, 15 Jul 2020 06:34:46 GMT"}
+20210418010741 {"uri": "https://web.archive.org/web/20210418010741/http://nursing.hamptonu.edu/page/Bachelors-Program--Nursing", "rel": "memento", "datetime": "Sun, 18 Apr 2021 01:07:41 GMT"}
+20210509110616 {"uri": "https://web.archive.org/web/20210509110616/http://nursing.hamptonu.edu/page/Bachelors-Program--Nursing", "rel": "last memento", "datetime": "Sun, 09 May 2021 11:06:16 GMT"}

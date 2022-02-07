@@ -1,0 +1,33 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/soe/civileng"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/soe/civileng"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/soe/civileng"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/soe/civileng", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/soe/civileng", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/soe/civileng"}}
+20171021225131 {"uri": "https://web.archive.org/web/20171021225131/http://www.morgan.edu:80/soe/civileng", "rel": "first memento", "datetime": "Sat, 21 Oct 2017 22:51:31 GMT"}
+20171023030505 {"uri": "https://web.archive.org/web/20171023030505/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Mon, 23 Oct 2017 03:05:05 GMT"}
+20171024220852 {"uri": "https://web.archive.org/web/20171024220852/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Tue, 24 Oct 2017 22:08:52 GMT"}
+20171103192442 {"uri": "https://web.archive.org/web/20171103192442/http://morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Fri, 03 Nov 2017 19:24:42 GMT"}
+20171129202748 {"uri": "https://web.archive.org/web/20171129202748/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Wed, 29 Nov 2017 20:27:48 GMT"}
+20171231052047 {"uri": "https://web.archive.org/web/20171231052047/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Sun, 31 Dec 2017 05:20:47 GMT"}
+20180131052917 {"uri": "https://web.archive.org/web/20180131052917/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Wed, 31 Jan 2018 05:29:17 GMT"}
+20180308143414 {"uri": "https://web.archive.org/web/20180308143414/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Thu, 08 Mar 2018 14:34:14 GMT"}
+20180411210532 {"uri": "https://web.archive.org/web/20180411210532/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Wed, 11 Apr 2018 21:05:32 GMT"}
+20180413020625 {"uri": "https://web.archive.org/web/20180413020625/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Fri, 13 Apr 2018 02:06:25 GMT"}
+20180514040246 {"uri": "https://web.archive.org/web/20180514040246/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Mon, 14 May 2018 04:02:46 GMT"}
+20180614175201 {"uri": "https://web.archive.org/web/20180614175201/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Thu, 14 Jun 2018 17:52:01 GMT"}
+20180718062037 {"uri": "https://web.archive.org/web/20180718062037/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Wed, 18 Jul 2018 06:20:37 GMT"}
+20180826193115 {"uri": "https://web.archive.org/web/20180826193115/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Sun, 26 Aug 2018 19:31:15 GMT"}
+20181022161355 {"uri": "https://web.archive.org/web/20181022161355/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Mon, 22 Oct 2018 16:13:55 GMT"}
+20181023184727 {"uri": "https://web.archive.org/web/20181023184727/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Tue, 23 Oct 2018 18:47:27 GMT"}
+20190913183322 {"uri": "https://web.archive.org/web/20190913183322/http://www.morgan.edu:80/soe/civileng", "rel": "memento", "datetime": "Fri, 13 Sep 2019 18:33:22 GMT"}
+20200807040935 {"uri": "https://web.archive.org/web/20200807040935/https://morgan.edu/soe/civileng", "rel": "memento", "datetime": "Fri, 07 Aug 2020 04:09:35 GMT"}
+20200807092759 {"uri": "https://web.archive.org/web/20200807092759/https://morgan.edu/soe/civileng", "rel": "memento", "datetime": "Fri, 07 Aug 2020 09:27:59 GMT"}
+20200814080346 {"uri": "https://web.archive.org/web/20200814080346/https://www.morgan.edu/soe/civileng", "rel": "memento", "datetime": "Fri, 14 Aug 2020 08:03:46 GMT"}
+20200923104628 {"uri": "https://web.archive.org/web/20200923104628/https://www.morgan.edu/soe/civileng", "rel": "memento", "datetime": "Wed, 23 Sep 2020 10:46:28 GMT"}
+20201126070812 {"uri": "https://web.archive.org/web/20201126070812/https://www.morgan.edu/soe/civileng", "rel": "memento", "datetime": "Thu, 26 Nov 2020 07:08:12 GMT"}
+20210224172908 {"uri": "https://web.archive.org/web/20210224172908/https://www.morgan.edu/soe/civileng", "rel": "memento", "datetime": "Wed, 24 Feb 2021 17:29:08 GMT"}
+20210414080958 {"uri": "https://web.archive.org/web/20210414080958/https://morgan.edu/soe/civileng", "rel": "memento", "datetime": "Wed, 14 Apr 2021 08:09:58 GMT"}
+20210506181942 {"uri": "https://web.archive.org/web/20210506181942/https://www.morgan.edu/soe/civileng", "rel": "memento", "datetime": "Thu, 06 May 2021 18:19:42 GMT"}
+20210511163756 {"uri": "https://web.archive.org/web/20210511163756/https://www.morgan.edu/soe/civileng", "rel": "memento", "datetime": "Tue, 11 May 2021 16:37:56 GMT"}
+20210813225723 {"uri": "https://web.archive.org/web/20210813225723/https://morgan.edu/soe/civileng", "rel": "last memento", "datetime": "Fri, 13 Aug 2021 22:57:23 GMT"}

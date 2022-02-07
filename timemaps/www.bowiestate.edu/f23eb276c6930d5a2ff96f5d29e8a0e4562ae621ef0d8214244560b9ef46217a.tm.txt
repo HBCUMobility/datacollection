@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-education/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.bowiestate.edu/academics/colleges/college-of-education/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.bowiestate.edu/academics/colleges/college-of-education/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.bowiestate.edu/academics/colleges/college-of-education/", "json_format": "http://localhost:1208/timemap/json/https://www.bowiestate.edu/academics/colleges/college-of-education/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-education/"}}
+20200922201659 {"uri": "https://web.archive.org/web/20200922201659/https://bowiestate.edu/academics/colleges/college-of-education/", "rel": "first memento", "datetime": "Tue, 22 Sep 2020 20:16:59 GMT"}
+20201031163108 {"uri": "https://web.archive.org/web/20201031163108/https://www.bowiestate.edu/academics/colleges/college-of-education/", "rel": "memento", "datetime": "Sat, 31 Oct 2020 16:31:08 GMT"}
+20201124090451 {"uri": "https://web.archive.org/web/20201124090451/https://bowiestate.edu/academics/colleges/college-of-education/", "rel": "memento", "datetime": "Tue, 24 Nov 2020 09:04:51 GMT"}
+20210125141251 {"uri": "https://web.archive.org/web/20210125141251/https://www.bowiestate.edu/academics/colleges/college-of-education/", "rel": "memento", "datetime": "Mon, 25 Jan 2021 14:12:51 GMT"}
+20210413073652 {"uri": "https://web.archive.org/web/20210413073652/https://bowiestate.edu/academics/colleges/college-of-education/", "rel": "memento", "datetime": "Tue, 13 Apr 2021 07:36:52 GMT"}
+20210811223651 {"uri": "https://web.archive.org/web/20210811223651/https://bowiestate.edu/academics/colleges/college-of-education/", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:36:51 GMT"}
+20210813214407 {"uri": "https://web.archive.org/web/20210813214407/https://www.bowiestate.edu/academics/colleges/college-of-education/", "rel": "memento", "datetime": "Fri, 13 Aug 2021 21:44:07 GMT"}
+20211102022558 {"uri": "https://web.archive.org/web/20211102022558/https://www.bowiestate.edu/academics/colleges/college-of-education/", "rel": "memento", "datetime": "Tue, 02 Nov 2021 02:25:58 GMT"}
+20220122153740 {"uri": "https://web.archive.org/web/20220122153740/https://bowiestate.edu/academics/colleges/college-of-education/", "rel": "last memento", "datetime": "Sat, 22 Jan 2022 15:37:40 GMT"}

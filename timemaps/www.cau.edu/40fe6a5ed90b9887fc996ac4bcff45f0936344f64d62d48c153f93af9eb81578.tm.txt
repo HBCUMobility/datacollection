@@ -1,0 +1,33 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/Finance.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-business/Departments/Finance.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-business/Departments/Finance.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-business/Departments/Finance.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-business/Departments/Finance.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-business/Departments/Finance.html"}}
+20191112022837 {"uri": "https://web.archive.org/web/20191112022837/http://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "first memento", "datetime": "Tue, 12 Nov 2019 02:28:37 GMT"}
+20191208201707 {"uri": "https://web.archive.org/web/20191208201707/http://www.cau.edu:80/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Sun, 08 Dec 2019 20:17:07 GMT"}
+20191212023027 {"uri": "https://web.archive.org/web/20191212023027/http://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Thu, 12 Dec 2019 02:30:27 GMT"}
+20200112023247 {"uri": "https://web.archive.org/web/20200112023247/http://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Sun, 12 Jan 2020 02:32:47 GMT"}
+20200207092917 {"uri": "https://web.archive.org/web/20200207092917/http://www.cau.edu:80/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Fri, 07 Feb 2020 09:29:17 GMT"}
+20200212164237 {"uri": "https://web.archive.org/web/20200212164237/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 16:42:37 GMT"}
+20200312045557 {"uri": "https://web.archive.org/web/20200312045557/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Thu, 12 Mar 2020 04:55:57 GMT"}
+20200412014914 {"uri": "https://web.archive.org/web/20200412014914/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Sun, 12 Apr 2020 01:49:14 GMT"}
+20200512030612 {"uri": "https://web.archive.org/web/20200512030612/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Tue, 12 May 2020 03:06:12 GMT"}
+20200612072106 {"uri": "https://web.archive.org/web/20200612072106/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 07:21:06 GMT"}
+20200712015435 {"uri": "https://web.archive.org/web/20200712015435/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Sun, 12 Jul 2020 01:54:35 GMT"}
+20200812030315 {"uri": "https://web.archive.org/web/20200812030315/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Wed, 12 Aug 2020 03:03:15 GMT"}
+20200912043354 {"uri": "https://web.archive.org/web/20200912043354/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Sat, 12 Sep 2020 04:33:54 GMT"}
+20201012035216 {"uri": "https://web.archive.org/web/20201012035216/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Mon, 12 Oct 2020 03:52:16 GMT"}
+20201112025907 {"uri": "https://web.archive.org/web/20201112025907/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Thu, 12 Nov 2020 02:59:07 GMT"}
+20201212084522 {"uri": "https://web.archive.org/web/20201212084522/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Sat, 12 Dec 2020 08:45:22 GMT"}
+20210112030740 {"uri": "https://web.archive.org/web/20210112030740/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Tue, 12 Jan 2021 03:07:40 GMT"}
+20210212035057 {"uri": "https://web.archive.org/web/20210212035057/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Fri, 12 Feb 2021 03:50:57 GMT"}
+20210312032457 {"uri": "https://web.archive.org/web/20210312032457/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Fri, 12 Mar 2021 03:24:57 GMT"}
+20210412012718 {"uri": "https://web.archive.org/web/20210412012718/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Mon, 12 Apr 2021 01:27:18 GMT"}
+20210512043140 {"uri": "https://web.archive.org/web/20210512043140/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Wed, 12 May 2021 04:31:40 GMT"}
+20210612055136 {"uri": "https://web.archive.org/web/20210612055136/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Sat, 12 Jun 2021 05:51:36 GMT"}
+20210712015517 {"uri": "https://web.archive.org/web/20210712015517/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Mon, 12 Jul 2021 01:55:17 GMT"}
+20210812032824 {"uri": "https://web.archive.org/web/20210812032824/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Thu, 12 Aug 2021 03:28:24 GMT"}
+20210912033315 {"uri": "https://web.archive.org/web/20210912033315/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Sun, 12 Sep 2021 03:33:15 GMT"}
+20211012021930 {"uri": "https://web.archive.org/web/20211012021930/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "memento", "datetime": "Tue, 12 Oct 2021 02:19:30 GMT"}
+20211112021849 {"uri": "https://web.archive.org/web/20211112021849/https://www.cau.edu/school-of-business/Departments/Finance.html", "rel": "last memento", "datetime": "Fri, 12 Nov 2021 02:18:49 GMT"}

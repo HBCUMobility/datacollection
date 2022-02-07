@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/clas/languages-literatures/department-languages-literatures"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures"}}
+20181112193412 {"uri": "https://web.archive.org/web/20181112193412/http://www.alasu.edu:80/clas/languages-literatures/department-languages-literatures", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 19:34:12 GMT"}
+20200806161054 {"uri": "https://web.archive.org/web/20200806161054/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures", "rel": "memento", "datetime": "Thu, 06 Aug 2020 16:10:54 GMT"}
+20201028143821 {"uri": "https://web.archive.org/web/20201028143821/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures", "rel": "memento", "datetime": "Wed, 28 Oct 2020 14:38:21 GMT"}
+20210124183907 {"uri": "https://web.archive.org/web/20210124183907/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures", "rel": "memento", "datetime": "Sun, 24 Jan 2021 18:39:07 GMT"}
+20210413130359 {"uri": "https://web.archive.org/web/20210413130359/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures", "rel": "memento", "datetime": "Tue, 13 Apr 2021 13:03:59 GMT"}
+20210417054120 {"uri": "https://web.archive.org/web/20210417054120/https://www.alasu.edu/clas/languages-literatures/department-languages-literatures", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 05:41:20 GMT"}

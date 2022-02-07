@@ -1,0 +1,44 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html"}}
+20190812040845 {"uri": "https://web.archive.org/web/20190812040845/http://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "first memento", "datetime": "Mon, 12 Aug 2019 04:08:45 GMT"}
+20190911220621 {"uri": "https://web.archive.org/web/20190911220621/http://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Wed, 11 Sep 2019 22:06:21 GMT"}
+20191003052920 {"uri": "https://web.archive.org/web/20191003052920/http://www.cau.edu:80/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 05:29:20 GMT"}
+20191011220617 {"uri": "https://web.archive.org/web/20191011220617/http://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:06:17 GMT"}
+20191111220605 {"uri": "https://web.archive.org/web/20191111220605/http://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:06:05 GMT"}
+20191202142332 {"uri": "https://web.archive.org/web/20191202142332/http://www.cau.edu:80/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Mon, 02 Dec 2019 14:23:32 GMT"}
+20191211220552 {"uri": "https://web.archive.org/web/20191211220552/http://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:05:52 GMT"}
+20200108170932 {"uri": "https://web.archive.org/web/20200108170932/http://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Wed, 08 Jan 2020 17:09:32 GMT"}
+20200111220631 {"uri": "https://web.archive.org/web/20200111220631/http://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:06:31 GMT"}
+20200212003302 {"uri": "https://web.archive.org/web/20200212003302/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 00:33:02 GMT"}
+20200311222530 {"uri": "https://web.archive.org/web/20200311222530/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 22:25:30 GMT"}
+20200411221629 {"uri": "https://web.archive.org/web/20200411221629/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 22:16:29 GMT"}
+20200511221947 {"uri": "https://web.archive.org/web/20200511221947/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Mon, 11 May 2020 22:19:47 GMT"}
+20200611235419 {"uri": "https://web.archive.org/web/20200611235419/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Thu, 11 Jun 2020 23:54:19 GMT"}
+20200711221657 {"uri": "https://web.archive.org/web/20200711221657/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 22:16:57 GMT"}
+20200811071201 {"uri": "https://web.archive.org/web/20200811071201/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 07:12:01 GMT"}
+20200811221841 {"uri": "https://web.archive.org/web/20200811221841/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 22:18:41 GMT"}
+20200911223144 {"uri": "https://web.archive.org/web/20200911223144/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Fri, 11 Sep 2020 22:31:44 GMT"}
+20201011222719 {"uri": "https://web.archive.org/web/20201011222719/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 22:27:19 GMT"}
+20201027051932 {"uri": "https://web.archive.org/web/20201027051932/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Tue, 27 Oct 2020 05:19:32 GMT"}
+20201111222215 {"uri": "https://web.archive.org/web/20201111222215/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 22:22:15 GMT"}
+20201205053221 {"uri": "https://web.archive.org/web/20201205053221/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 05:32:21 GMT"}
+20201211224342 {"uri": "https://web.archive.org/web/20201211224342/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Fri, 11 Dec 2020 22:43:42 GMT"}
+20210111221908 {"uri": "https://web.archive.org/web/20210111221908/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 22:19:08 GMT"}
+20210211222415 {"uri": "https://web.archive.org/web/20210211222415/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 22:24:15 GMT"}
+20210302042846 {"uri": "https://web.archive.org/web/20210302042846/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Tue, 02 Mar 2021 04:28:46 GMT"}
+20210311222306 {"uri": "https://web.archive.org/web/20210311222306/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Thu, 11 Mar 2021 22:23:06 GMT"}
+20210411221317 {"uri": "https://web.archive.org/web/20210411221317/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:13:17 GMT"}
+20210511222608 {"uri": "https://web.archive.org/web/20210511222608/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Tue, 11 May 2021 22:26:08 GMT"}
+20210512110011 {"uri": "https://web.archive.org/web/20210512110011/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Wed, 12 May 2021 11:00:11 GMT"}
+20210611222136 {"uri": "https://web.archive.org/web/20210611222136/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Fri, 11 Jun 2021 22:21:36 GMT"}
+20210711221834 {"uri": "https://web.archive.org/web/20210711221834/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 22:18:34 GMT"}
+20210811222606 {"uri": "https://web.archive.org/web/20210811222606/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:26:06 GMT"}
+20210911222724 {"uri": "https://web.archive.org/web/20210911222724/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 22:27:24 GMT"}
+20210925083408 {"uri": "https://web.archive.org/web/20210925083408/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:34:08 GMT"}
+20211011225254 {"uri": "https://web.archive.org/web/20211011225254/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Mon, 11 Oct 2021 22:52:54 GMT"}
+20211111223010 {"uri": "https://web.archive.org/web/20211111223010/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "memento", "datetime": "Thu, 11 Nov 2021 22:30:10 GMT"}
+20220108014552 {"uri": "https://web.archive.org/web/20220108014552/https://www.cau.edu/school-of-arts-and-sciences/art-fashion/index.html", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 01:45:52 GMT"}

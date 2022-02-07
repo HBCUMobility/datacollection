@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/college-of-education/academics-departments/departments/counseling/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsu.edu/academics/colleges-and-schools/college-of-education/academics-departments/departments/counseling/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsu.edu/academics/colleges-and-schools/college-of-education/academics-departments/departments/counseling/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsu.edu/academics/colleges-and-schools/college-of-education/academics-departments/departments/counseling/index.html", "json_format": "http://localhost:1208/timemap/json/http://www.tsu.edu/academics/colleges-and-schools/college-of-education/academics-departments/departments/counseling/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/college-of-education/academics-departments/departments/counseling/index.html"}}
+20200930041040 {"uri": "https://web.archive.org/web/20200930041040/http://tsu.edu/academics/colleges-and-schools/college-of-education/academics-departments/departments/counseling/index.html", "rel": "first memento", "datetime": "Wed, 30 Sep 2020 04:10:40 GMT"}
+20210120112916 {"uri": "https://web.archive.org/web/20210120112916/http://tsu.edu/academics/colleges-and-schools/college-of-education/academics-departments/departments/counseling/index.html", "rel": "memento", "datetime": "Wed, 20 Jan 2021 11:29:16 GMT"}
+20210417002702 {"uri": "https://web.archive.org/web/20210417002702/http://tsu.edu/academics/colleges-and-schools/college-of-education/academics-departments/departments/counseling/index.html", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 00:27:02 GMT"}

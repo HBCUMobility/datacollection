@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/biology/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cost/departments/biology/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cost/departments/biology/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cost/departments/biology/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cost/departments/biology/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/biology/index.php"}}
+20200903081046 {"uri": "https://web.archive.org/web/20200903081046/https://www.ncat.edu/cost/departments/biology/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 08:10:46 GMT"}
+20200922205826 {"uri": "https://web.archive.org/web/20200922205826/https://ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:58:26 GMT"}
+20200925103418 {"uri": "https://web.archive.org/web/20200925103418/https://www.ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 10:34:18 GMT"}
+20201128022852 {"uri": "https://web.archive.org/web/20201128022852/https://ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:28:52 GMT"}
+20201204195211 {"uri": "https://web.archive.org/web/20201204195211/https://www.ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Fri, 04 Dec 2020 19:52:11 GMT"}
+20201204233656 {"uri": "https://web.archive.org/web/20201204233656/https://www.ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Fri, 04 Dec 2020 23:36:56 GMT"}
+20201224153519 {"uri": "https://web.archive.org/web/20201224153519/https://www.ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Thu, 24 Dec 2020 15:35:19 GMT"}
+20210129031352 {"uri": "https://web.archive.org/web/20210129031352/https://ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 03:13:52 GMT"}
+20210302074813 {"uri": "https://web.archive.org/web/20210302074813/https://ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 07:48:13 GMT"}
+20210419000516 {"uri": "https://web.archive.org/web/20210419000516/https://www.ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 00:05:16 GMT"}
+20210518015236 {"uri": "https://web.archive.org/web/20210518015236/https://ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 01:52:36 GMT"}
+20210812061316 {"uri": "https://web.archive.org/web/20210812061316/https://ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 06:13:16 GMT"}
+20210817025228 {"uri": "https://web.archive.org/web/20210817025228/https://www.ncat.edu/cost/departments/biology/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 02:52:28 GMT"}
+20211117094722 {"uri": "https://web.archive.org/web/20211117094722/https://www.ncat.edu/cost/departments/biology/index.php", "rel": "last memento", "datetime": "Wed, 17 Nov 2021 09:47:22 GMT"}

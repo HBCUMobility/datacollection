@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/"}}
+20170912012113 {"uri": "https://web.archive.org/web/20170912012113/http://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/", "rel": "first memento", "datetime": "Tue, 12 Sep 2017 01:21:13 GMT"}
+20170912025230 {"uri": "https://web.archive.org/web/20170912025230/https://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/", "rel": "memento", "datetime": "Tue, 12 Sep 2017 02:52:30 GMT"}
+20190904033722 {"uri": "https://web.archive.org/web/20190904033722/http://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:37:22 GMT"}
+20190904033723 {"uri": "https://web.archive.org/web/20190904033723/https://www.udc.edu/causes/causes-landgrant-centers/center-for-urban-agriculture-gardening-education/", "rel": "last memento", "datetime": "Wed, 04 Sep 2019 03:37:23 GMT"}

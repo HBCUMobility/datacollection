@@ -1,0 +1,18 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cvpa/visual-arts/department-visual-arts"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts"}}
+20181112214234 {"uri": "https://web.archive.org/web/20181112214234/http://www.alasu.edu:80/cvpa/visual-arts/department-visual-arts", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:42:34 GMT"}
+20200518113443 {"uri": "https://web.archive.org/web/20200518113443/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Mon, 18 May 2020 11:34:43 GMT"}
+20200526203915 {"uri": "https://web.archive.org/web/20200526203915/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Tue, 26 May 2020 20:39:15 GMT"}
+20200619202424 {"uri": "https://web.archive.org/web/20200619202424/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Fri, 19 Jun 2020 20:24:24 GMT"}
+20200820115249 {"uri": "https://web.archive.org/web/20200820115249/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Thu, 20 Aug 2020 11:52:49 GMT"}
+20200820221034 {"uri": "https://web.archive.org/web/20200820221034/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Thu, 20 Aug 2020 22:10:34 GMT"}
+20200921184520 {"uri": "https://web.archive.org/web/20200921184520/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Mon, 21 Sep 2020 18:45:20 GMT"}
+20201101070634 {"uri": "https://web.archive.org/web/20201101070634/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Sun, 01 Nov 2020 07:06:34 GMT"}
+20201101070634 {"uri": "https://web.archive.org/web/20201101070634/http://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Sun, 01 Nov 2020 07:06:34 GMT"}
+20210228131338 {"uri": "https://web.archive.org/web/20210228131338/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Sun, 28 Feb 2021 13:13:38 GMT"}
+20210417071727 {"uri": "https://web.archive.org/web/20210417071727/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "memento", "datetime": "Sat, 17 Apr 2021 07:17:27 GMT"}
+20210506063058 {"uri": "https://web.archive.org/web/20210506063058/https://www.alasu.edu/cvpa/visual-arts/department-visual-arts", "rel": "last memento", "datetime": "Thu, 06 May 2021 06:30:58 GMT"}

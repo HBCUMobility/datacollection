@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/cas/social-behavioral-sciences/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/cas/social-behavioral-sciences/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/cas/social-behavioral-sciences/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/cas/social-behavioral-sciences/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/cas/social-behavioral-sciences/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/cas/social-behavioral-sciences/"}}
+20190904033930 {"uri": "https://web.archive.org/web/20190904033930/https://www.udc.edu/cas/social-behavioral-sciences/", "rel": "first memento", "datetime": "Wed, 04 Sep 2019 03:39:30 GMT"}
+20190904033930 {"uri": "https://web.archive.org/web/20190904033930/http://www.udc.edu/cas/social-behavioral-sciences/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:30 GMT"}
+20190904035834 {"uri": "https://web.archive.org/web/20190904035834/https://www.udc.edu/cas/social-behavioral-sciences/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:58:34 GMT"}
+20190904035933 {"uri": "https://web.archive.org/web/20190904035933/https://www.udc.edu/cas/social-behavioral-sciences/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:59:33 GMT"}
+20190904035933 {"uri": "https://web.archive.org/web/20190904035933/https://www.udc.edu/cas/social-behavioral-sciences", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:59:33 GMT"}
+20201024124729 {"uri": "https://web.archive.org/web/20201024124729/https://www.udc.edu/cas/social-behavioral-sciences/", "rel": "memento", "datetime": "Sat, 24 Oct 2020 12:47:29 GMT"}
+20201203182216 {"uri": "https://web.archive.org/web/20201203182216/https://www.udc.edu/cas/social-behavioral-sciences/", "rel": "memento", "datetime": "Thu, 03 Dec 2020 18:22:16 GMT"}
+20210421023819 {"uri": "https://web.archive.org/web/20210421023819/https://www.udc.edu/cas/social-behavioral-sciences/", "rel": "memento", "datetime": "Wed, 21 Apr 2021 02:38:19 GMT"}
+20210510035155 {"uri": "https://web.archive.org/web/20210510035155/https://www.udc.edu/cas/social-behavioral-sciences", "rel": "last memento", "datetime": "Mon, 10 May 2021 03:51:55 GMT"}

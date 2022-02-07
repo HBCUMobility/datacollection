@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/nrotc/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.pvamu.edu/bcas/departments/nrotc/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.pvamu.edu/bcas/departments/nrotc/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.pvamu.edu/bcas/departments/nrotc/", "json_format": "http://localhost:1208/timemap/json/https://www.pvamu.edu/bcas/departments/nrotc/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/nrotc/"}}
+20190402184016 {"uri": "https://web.archive.org/web/20190402184016/http://www.pvamu.edu/bcas/departments/nrotc/", "rel": "first memento", "datetime": "Tue, 02 Apr 2019 18:40:16 GMT"}
+20200723020754 {"uri": "https://web.archive.org/web/20200723020754/https://www.pvamu.edu/bcas/departments/nrotc/", "rel": "memento", "datetime": "Thu, 23 Jul 2020 02:07:54 GMT"}
+20200815211034 {"uri": "https://web.archive.org/web/20200815211034/https://www.pvamu.edu/bcas/departments/nrotc/", "rel": "memento", "datetime": "Sat, 15 Aug 2020 21:10:34 GMT"}
+20201023235611 {"uri": "https://web.archive.org/web/20201023235611/https://www.pvamu.edu/bcas/departments/nrotc/", "rel": "memento", "datetime": "Fri, 23 Oct 2020 23:56:11 GMT"}
+20201101120206 {"uri": "https://web.archive.org/web/20201101120206/https://www.pvamu.edu/bcas/departments/nrotc/", "rel": "memento", "datetime": "Sun, 01 Nov 2020 12:02:06 GMT"}
+20201101120206 {"uri": "https://web.archive.org/web/20201101120206/https://www.pvamu.edu/bcas/departments/nrotc", "rel": "memento", "datetime": "Sun, 01 Nov 2020 12:02:06 GMT"}
+20210418183325 {"uri": "https://web.archive.org/web/20210418183325/https://www.pvamu.edu/bcas/departments/nrotc/", "rel": "memento", "datetime": "Sun, 18 Apr 2021 18:33:25 GMT"}
+20210419065516 {"uri": "https://web.archive.org/web/20210419065516/https://www.pvamu.edu/bcas/departments/nrotc/", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 06:55:16 GMT"}

@@ -1,0 +1,26 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "json_format": "http://localhost:1208/timemap/json/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/"}}
+20150707000500 {"uri": "https://web.archive.org/web/20150707000500/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication/", "rel": "first memento", "datetime": "Tue, 07 Jul 2015 00:05:00 GMT"}
+20150903202140 {"uri": "https://web.archive.org/web/20150903202140/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Thu, 03 Sep 2015 20:21:40 GMT"}
+20150903202140 {"uri": "https://web.archive.org/web/20150903202140/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication", "rel": "memento", "datetime": "Thu, 03 Sep 2015 20:21:40 GMT"}
+20150905075721 {"uri": "https://web.archive.org/web/20150905075721/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 07:57:21 GMT"}
+20150905075834 {"uri": "https://web.archive.org/web/20150905075834/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 07:58:34 GMT"}
+20151005162254 {"uri": "https://web.archive.org/web/20151005162254/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Mon, 05 Oct 2015 16:22:54 GMT"}
+20151005162254 {"uri": "https://web.archive.org/web/20151005162254/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication", "rel": "memento", "datetime": "Mon, 05 Oct 2015 16:22:54 GMT"}
+20151104113526 {"uri": "https://web.archive.org/web/20151104113526/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Wed, 04 Nov 2015 11:35:26 GMT"}
+20151105051818 {"uri": "https://web.archive.org/web/20151105051818/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication", "rel": "memento", "datetime": "Thu, 05 Nov 2015 05:18:18 GMT"}
+20151206131523 {"uri": "https://web.archive.org/web/20151206131523/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication", "rel": "memento", "datetime": "Sun, 06 Dec 2015 13:15:23 GMT"}
+20170612185944 {"uri": "https://web.archive.org/web/20170612185944/http://www.tsu.edu:80/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Mon, 12 Jun 2017 18:59:44 GMT"}
+20210117042301 {"uri": "https://web.archive.org/web/20210117042301/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Sun, 17 Jan 2021 04:23:01 GMT"}
+20210128061642 {"uri": "https://web.archive.org/web/20210128061642/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Thu, 28 Jan 2021 06:16:42 GMT"}
+20210301141727 {"uri": "https://web.archive.org/web/20210301141727/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Mon, 01 Mar 2021 14:17:27 GMT"}
+20210324230245 {"uri": "https://web.archive.org/web/20210324230245/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Wed, 24 Mar 2021 23:02:45 GMT"}
+20210413195632 {"uri": "https://web.archive.org/web/20210413195632/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Tue, 13 Apr 2021 19:56:32 GMT"}
+20210416033439 {"uri": "https://web.archive.org/web/20210416033439/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Fri, 16 Apr 2021 03:34:39 GMT"}
+20210513230748 {"uri": "https://web.archive.org/web/20210513230748/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Thu, 13 May 2021 23:07:48 GMT"}
+20210613115039 {"uri": "https://web.archive.org/web/20210613115039/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "memento", "datetime": "Sun, 13 Jun 2021 11:50:39 GMT"}
+20211104163523 {"uri": "https://web.archive.org/web/20211104163523/http://www.tsu.edu/academics/colleges-and-schools/school-of-communication/", "rel": "last memento", "datetime": "Thu, 04 Nov 2021 16:35:23 GMT"}

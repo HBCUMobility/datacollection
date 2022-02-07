@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/arts-and-sciences/arts/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.gram.edu/academics/majors/arts-and-sciences/arts/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.gram.edu/academics/majors/arts-and-sciences/arts/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.gram.edu/academics/majors/arts-and-sciences/arts/", "json_format": "http://localhost:1208/timemap/json/https://www.gram.edu/academics/majors/arts-and-sciences/arts/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/arts-and-sciences/arts/"}}
+20190504095754 {"uri": "https://web.archive.org/web/20190504095754/http://www.gram.edu:80/academics/majors/arts-and-sciences/arts/", "rel": "first memento", "datetime": "Sat, 04 May 2019 09:57:54 GMT"}
+20190704120529 {"uri": "https://web.archive.org/web/20190704120529/http://www.gram.edu:80/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Thu, 04 Jul 2019 12:05:29 GMT"}
+20190716200305 {"uri": "https://web.archive.org/web/20190716200305/http://www.gram.edu/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Tue, 16 Jul 2019 20:03:05 GMT"}
+20190904080022 {"uri": "https://web.archive.org/web/20190904080022/http://www.gram.edu:80/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 08:00:22 GMT"}
+20191025002206 {"uri": "https://web.archive.org/web/20191025002206/http://www.gram.edu:80/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Fri, 25 Oct 2019 00:22:06 GMT"}
+20200129004420 {"uri": "https://web.archive.org/web/20200129004420/http://www.gram.edu:80/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Wed, 29 Jan 2020 00:44:20 GMT"}
+20200811161424 {"uri": "https://web.archive.org/web/20200811161424/https://gram.edu/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Tue, 11 Aug 2020 16:14:24 GMT"}
+20200927101902 {"uri": "https://web.archive.org/web/20200927101902/https://www.gram.edu/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Sun, 27 Sep 2020 10:19:02 GMT"}
+20201021220014 {"uri": "https://web.archive.org/web/20201021220014/https://gram.edu/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Wed, 21 Oct 2020 22:00:14 GMT"}
+20201102074138 {"uri": "https://web.archive.org/web/20201102074138/https://www.gram.edu/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Mon, 02 Nov 2020 07:41:38 GMT"}
+20210123080757 {"uri": "https://web.archive.org/web/20210123080757/https://gram.edu/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Sat, 23 Jan 2021 08:07:57 GMT"}
+20210417235918 {"uri": "https://web.archive.org/web/20210417235918/https://www.gram.edu/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Sat, 17 Apr 2021 23:59:18 GMT"}
+20210513032916 {"uri": "https://web.archive.org/web/20210513032916/https://gram.edu/academics/majors/arts-and-sciences/arts/", "rel": "memento", "datetime": "Thu, 13 May 2021 03:29:16 GMT"}
+20210516025356 {"uri": "https://web.archive.org/web/20210516025356/https://www.gram.edu/academics/majors/arts-and-sciences/arts/", "rel": "last memento", "datetime": "Sun, 16 May 2021 02:53:56 GMT"}

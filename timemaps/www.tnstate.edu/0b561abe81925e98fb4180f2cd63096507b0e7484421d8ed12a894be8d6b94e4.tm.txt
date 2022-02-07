@@ -1,0 +1,88 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/economics/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/economics/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/economics/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/economics/", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/economics/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/economics/"}}
+20110526003206 {"uri": "https://web.archive.org/web/20110526003206/http://www.tnstate.edu/economics/", "rel": "first memento", "datetime": "Thu, 26 May 2011 00:32:06 GMT"}
+20110605051406 {"uri": "https://web.archive.org/web/20110605051406/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 05 Jun 2011 05:14:06 GMT"}
+20110805164918 {"uri": "https://web.archive.org/web/20110805164918/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Fri, 05 Aug 2011 16:49:18 GMT"}
+20111110121313 {"uri": "https://web.archive.org/web/20111110121313/http://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Thu, 10 Nov 2011 12:13:13 GMT"}
+20120224094834 {"uri": "https://web.archive.org/web/20120224094834/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Fri, 24 Feb 2012 09:48:34 GMT"}
+20120224094834 {"uri": "https://web.archive.org/web/20120224094834/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Fri, 24 Feb 2012 09:48:34 GMT"}
+20120326214336 {"uri": "https://web.archive.org/web/20120326214336/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Mon, 26 Mar 2012 21:43:36 GMT"}
+20120415020042 {"uri": "https://web.archive.org/web/20120415020042/http://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Sun, 15 Apr 2012 02:00:42 GMT"}
+20120629082129 {"uri": "https://web.archive.org/web/20120629082129/http://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Fri, 29 Jun 2012 08:21:29 GMT"}
+20120808001611 {"uri": "https://web.archive.org/web/20120808001611/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Wed, 08 Aug 2012 00:16:11 GMT"}
+20120813100042 {"uri": "https://web.archive.org/web/20120813100042/http://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Mon, 13 Aug 2012 10:00:42 GMT"}
+20121101152500 {"uri": "https://web.archive.org/web/20121101152500/http://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Thu, 01 Nov 2012 15:25:00 GMT"}
+20130128170602 {"uri": "https://web.archive.org/web/20130128170602/http://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Mon, 28 Jan 2013 17:06:02 GMT"}
+20130504033150 {"uri": "https://web.archive.org/web/20130504033150/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sat, 04 May 2013 03:31:50 GMT"}
+20131016183644 {"uri": "https://web.archive.org/web/20131016183644/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Wed, 16 Oct 2013 18:36:44 GMT"}
+20131216095205 {"uri": "https://web.archive.org/web/20131216095205/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Mon, 16 Dec 2013 09:52:05 GMT"}
+20150615032503 {"uri": "https://web.archive.org/web/20150615032503/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Mon, 15 Jun 2015 03:25:03 GMT"}
+20150615032503 {"uri": "https://web.archive.org/web/20150615032503/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Mon, 15 Jun 2015 03:25:03 GMT"}
+20150705193907 {"uri": "https://web.archive.org/web/20150705193907/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 05 Jul 2015 19:39:07 GMT"}
+20150905093534 {"uri": "https://web.archive.org/web/20150905093534/http://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 09:35:34 GMT"}
+20151016063543 {"uri": "https://web.archive.org/web/20151016063543/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Fri, 16 Oct 2015 06:35:43 GMT"}
+20160419073939 {"uri": "https://web.archive.org/web/20160419073939/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Tue, 19 Apr 2016 07:39:39 GMT"}
+20160419073939 {"uri": "https://web.archive.org/web/20160419073939/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Tue, 19 Apr 2016 07:39:39 GMT"}
+20160520161452 {"uri": "https://web.archive.org/web/20160520161452/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Fri, 20 May 2016 16:14:52 GMT"}
+20160520161452 {"uri": "https://web.archive.org/web/20160520161452/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Fri, 20 May 2016 16:14:52 GMT"}
+20160620232949 {"uri": "https://web.archive.org/web/20160620232949/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Mon, 20 Jun 2016 23:29:49 GMT"}
+20160620232949 {"uri": "https://web.archive.org/web/20160620232949/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Mon, 20 Jun 2016 23:29:49 GMT"}
+20160723071901 {"uri": "https://web.archive.org/web/20160723071901/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sat, 23 Jul 2016 07:19:01 GMT"}
+20160723071901 {"uri": "https://web.archive.org/web/20160723071901/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Sat, 23 Jul 2016 07:19:01 GMT"}
+20160825143320 {"uri": "https://web.archive.org/web/20160825143320/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Thu, 25 Aug 2016 14:33:20 GMT"}
+20160825143320 {"uri": "https://web.archive.org/web/20160825143320/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Thu, 25 Aug 2016 14:33:20 GMT"}
+20160826223624 {"uri": "https://web.archive.org/web/20160826223624/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Fri, 26 Aug 2016 22:36:24 GMT"}
+20160826223624 {"uri": "https://web.archive.org/web/20160826223624/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Fri, 26 Aug 2016 22:36:24 GMT"}
+20161007232702 {"uri": "https://web.archive.org/web/20161007232702/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Fri, 07 Oct 2016 23:27:02 GMT"}
+20161104003927 {"uri": "https://web.archive.org/web/20161104003927/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Fri, 04 Nov 2016 00:39:27 GMT"}
+20161104003927 {"uri": "https://web.archive.org/web/20161104003927/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Fri, 04 Nov 2016 00:39:27 GMT"}
+20170410233241 {"uri": "https://web.archive.org/web/20170410233241/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Mon, 10 Apr 2017 23:32:41 GMT"}
+20170410233241 {"uri": "https://web.archive.org/web/20170410233241/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Mon, 10 Apr 2017 23:32:41 GMT"}
+20180129124313 {"uri": "https://web.archive.org/web/20180129124313/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Mon, 29 Jan 2018 12:43:13 GMT"}
+20180129124313 {"uri": "https://web.archive.org/web/20180129124313/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Mon, 29 Jan 2018 12:43:13 GMT"}
+20180131181712 {"uri": "https://web.archive.org/web/20180131181712/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Wed, 31 Jan 2018 18:17:12 GMT"}
+20180308071949 {"uri": "https://web.archive.org/web/20180308071949/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Thu, 08 Mar 2018 07:19:49 GMT"}
+20180308071949 {"uri": "https://web.archive.org/web/20180308071949/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Thu, 08 Mar 2018 07:19:49 GMT"}
+20180403071941 {"uri": "https://web.archive.org/web/20180403071941/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Tue, 03 Apr 2018 07:19:41 GMT"}
+20180408152211 {"uri": "https://web.archive.org/web/20180408152211/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 08 Apr 2018 15:22:11 GMT"}
+20180408152211 {"uri": "https://web.archive.org/web/20180408152211/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Sun, 08 Apr 2018 15:22:11 GMT"}
+20180512050012 {"uri": "https://web.archive.org/web/20180512050012/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sat, 12 May 2018 05:00:12 GMT"}
+20180512050012 {"uri": "https://web.archive.org/web/20180512050012/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Sat, 12 May 2018 05:00:12 GMT"}
+20180513105543 {"uri": "https://web.archive.org/web/20180513105543/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 13 May 2018 10:55:43 GMT"}
+20180513105543 {"uri": "https://web.archive.org/web/20180513105543/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Sun, 13 May 2018 10:55:43 GMT"}
+20180603014231 {"uri": "https://web.archive.org/web/20180603014231/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 03 Jun 2018 01:42:31 GMT"}
+20180614182422 {"uri": "https://web.archive.org/web/20180614182422/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Thu, 14 Jun 2018 18:24:22 GMT"}
+20180614182422 {"uri": "https://web.archive.org/web/20180614182422/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Thu, 14 Jun 2018 18:24:22 GMT"}
+20180716153843 {"uri": "https://web.archive.org/web/20180716153843/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Mon, 16 Jul 2018 15:38:43 GMT"}
+20180716153843 {"uri": "https://web.archive.org/web/20180716153843/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Mon, 16 Jul 2018 15:38:43 GMT"}
+20180808105429 {"uri": "https://web.archive.org/web/20180808105429/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Wed, 08 Aug 2018 10:54:29 GMT"}
+20180826162837 {"uri": "https://web.archive.org/web/20180826162837/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 26 Aug 2018 16:28:37 GMT"}
+20180826162837 {"uri": "https://web.archive.org/web/20180826162837/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Sun, 26 Aug 2018 16:28:37 GMT"}
+20181010002259 {"uri": "https://web.archive.org/web/20181010002259/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Wed, 10 Oct 2018 00:22:59 GMT"}
+20181010002259 {"uri": "https://web.archive.org/web/20181010002259/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Wed, 10 Oct 2018 00:22:59 GMT"}
+20181021222406 {"uri": "https://web.archive.org/web/20181021222406/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 21 Oct 2018 22:24:06 GMT"}
+20190221225335 {"uri": "https://web.archive.org/web/20190221225335/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Thu, 21 Feb 2019 22:53:35 GMT"}
+20190312230522 {"uri": "https://web.archive.org/web/20190312230522/http://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Tue, 12 Mar 2019 23:05:22 GMT"}
+20190710115528 {"uri": "https://web.archive.org/web/20190710115528/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Wed, 10 Jul 2019 11:55:28 GMT"}
+20190710115528 {"uri": "https://web.archive.org/web/20190710115528/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Wed, 10 Jul 2019 11:55:28 GMT"}
+20190719202145 {"uri": "https://web.archive.org/web/20190719202145/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Fri, 19 Jul 2019 20:21:45 GMT"}
+20190817045104 {"uri": "https://web.archive.org/web/20190817045104/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sat, 17 Aug 2019 04:51:04 GMT"}
+20190817045104 {"uri": "https://web.archive.org/web/20190817045104/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Sat, 17 Aug 2019 04:51:04 GMT"}
+20190918145109 {"uri": "https://web.archive.org/web/20190918145109/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Wed, 18 Sep 2019 14:51:09 GMT"}
+20190919184527 {"uri": "https://web.archive.org/web/20190919184527/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Thu, 19 Sep 2019 18:45:27 GMT"}
+20190919184527 {"uri": "https://web.archive.org/web/20190919184527/http://www.tnstate.edu:80/economics", "rel": "memento", "datetime": "Thu, 19 Sep 2019 18:45:27 GMT"}
+20191107014130 {"uri": "https://web.archive.org/web/20191107014130/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Thu, 07 Nov 2019 01:41:30 GMT"}
+20191117215137 {"uri": "https://web.archive.org/web/20191117215137/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 17 Nov 2019 21:51:37 GMT"}
+20191218011220 {"uri": "https://web.archive.org/web/20191218011220/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Wed, 18 Dec 2019 01:12:20 GMT"}
+20200117062528 {"uri": "https://web.archive.org/web/20200117062528/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Fri, 17 Jan 2020 06:25:28 GMT"}
+20200216085526 {"uri": "https://web.archive.org/web/20200216085526/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 16 Feb 2020 08:55:26 GMT"}
+20200301153007 {"uri": "https://web.archive.org/web/20200301153007/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Sun, 01 Mar 2020 15:30:07 GMT"}
+20200430171954 {"uri": "https://web.archive.org/web/20200430171954/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Thu, 30 Apr 2020 17:19:54 GMT"}
+20200629223014 {"uri": "https://web.archive.org/web/20200629223014/http://www.tnstate.edu:80/economics/", "rel": "memento", "datetime": "Mon, 29 Jun 2020 22:30:14 GMT"}
+20211116183808 {"uri": "https://web.archive.org/web/20211116183808/https://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Tue, 16 Nov 2021 18:38:08 GMT"}
+20220201003252 {"uri": "https://web.archive.org/web/20220201003252/http://www.tnstate.edu/economics/", "rel": "memento", "datetime": "Tue, 01 Feb 2022 00:32:52 GMT"}
+20220201003253 {"uri": "https://web.archive.org/web/20220201003253/https://www.tnstate.edu/economics/", "rel": "last memento", "datetime": "Tue, 01 Feb 2022 00:32:53 GMT"}

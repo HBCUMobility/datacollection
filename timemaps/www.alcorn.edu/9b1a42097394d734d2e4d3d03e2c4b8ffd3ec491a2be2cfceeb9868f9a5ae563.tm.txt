@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "json_format": "http://localhost:1208/timemap/json/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science"}}
+20190507130652 {"uri": "https://web.archive.org/web/20190507130652/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "first memento", "datetime": "Tue, 07 May 2019 13:06:52 GMT"}
+20190512181815 {"uri": "https://web.archive.org/web/20190512181815/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Sun, 12 May 2019 18:18:15 GMT"}
+20200414065615 {"uri": "https://web.archive.org/web/20200414065615/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Tue, 14 Apr 2020 06:56:15 GMT"}
+20200426231407 {"uri": "https://web.archive.org/web/20200426231407/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Sun, 26 Apr 2020 23:14:07 GMT"}
+20200531060539 {"uri": "https://web.archive.org/web/20200531060539/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Sun, 31 May 2020 06:05:39 GMT"}
+20200618202858 {"uri": "https://web.archive.org/web/20200618202858/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Thu, 18 Jun 2020 20:28:58 GMT"}
+20200804201718 {"uri": "https://web.archive.org/web/20200804201718/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Tue, 04 Aug 2020 20:17:18 GMT"}
+20201029114302 {"uri": "https://web.archive.org/web/20201029114302/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Thu, 29 Oct 2020 11:43:02 GMT"}
+20201029184911 {"uri": "https://web.archive.org/web/20201029184911/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Thu, 29 Oct 2020 18:49:11 GMT"}
+20210121214900 {"uri": "https://web.archive.org/web/20210121214900/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Thu, 21 Jan 2021 21:49:00 GMT"}
+20210319102009 {"uri": "https://web.archive.org/web/20210319102009/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Fri, 19 Mar 2021 10:20:09 GMT"}
+20210413140053 {"uri": "https://web.archive.org/web/20210413140053/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Tue, 13 Apr 2021 14:00:53 GMT"}
+20210417023823 {"uri": "https://web.archive.org/web/20210417023823/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Sat, 17 Apr 2021 02:38:23 GMT"}
+20210925121021 {"uri": "https://web.archive.org/web/20210925121021/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "memento", "datetime": "Sat, 25 Sep 2021 12:10:21 GMT"}
+20220107225423 {"uri": "https://web.archive.org/web/20220107225423/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing/master-of-science", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:54:23 GMT"}

@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry"}}
+20200813001205 {"uri": "https://web.archive.org/web/20200813001205/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:12:05 GMT"}
+20201029052340 {"uri": "https://web.archive.org/web/20201029052340/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:23:40 GMT"}
+20210125044124 {"uri": "https://web.archive.org/web/20210125044124/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:41:24 GMT"}
+20210410144004 {"uri": "https://web.archive.org/web/20210410144004/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:40:04 GMT"}
+20210425002305 {"uri": "https://web.archive.org/web/20210425002305/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/chemistry", "rel": "last memento", "datetime": "Sun, 25 Apr 2021 00:23:05 GMT"}

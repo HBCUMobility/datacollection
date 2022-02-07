@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/ced/departments/educator-preparation/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/ced/departments/educator-preparation/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/ced/departments/educator-preparation/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/ced/departments/educator-preparation/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/ced/departments/educator-preparation/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/ced/departments/educator-preparation/index.php"}}
+20200815025743 {"uri": "https://web.archive.org/web/20200815025743/https://www.ncat.edu/ced/departments/educator-preparation/index.php", "rel": "first memento", "datetime": "Sat, 15 Aug 2020 02:57:43 GMT"}
+20200903095915 {"uri": "https://web.archive.org/web/20200903095915/https://www.ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 09:59:15 GMT"}
+20200922210759 {"uri": "https://web.archive.org/web/20200922210759/https://ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 21:07:59 GMT"}
+20201024122925 {"uri": "https://web.archive.org/web/20201024122925/https://www.ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Sat, 24 Oct 2020 12:29:25 GMT"}
+20201128023631 {"uri": "https://web.archive.org/web/20201128023631/https://ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:36:31 GMT"}
+20210130012329 {"uri": "https://web.archive.org/web/20210130012329/https://ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Sat, 30 Jan 2021 01:23:29 GMT"}
+20210302080335 {"uri": "https://web.archive.org/web/20210302080335/https://ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 08:03:35 GMT"}
+20210418185720 {"uri": "https://web.archive.org/web/20210418185720/https://www.ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 18:57:20 GMT"}
+20210501192806 {"uri": "https://web.archive.org/web/20210501192806/https://www.ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Sat, 01 May 2021 19:28:06 GMT"}
+20210518020938 {"uri": "https://web.archive.org/web/20210518020938/https://ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 02:09:38 GMT"}
+20210811211741 {"uri": "https://web.archive.org/web/20210811211741/https://ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:17:41 GMT"}
+20210817193713 {"uri": "https://web.archive.org/web/20210817193713/https://ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 19:37:13 GMT"}
+20211117094827 {"uri": "https://web.archive.org/web/20211117094827/https://www.ncat.edu/ced/departments/educator-preparation/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:48:27 GMT"}
+20220108000650 {"uri": "https://web.archive.org/web/20220108000650/https://www.ncat.edu/ced/departments/educator-preparation/index.php", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 00:06:50 GMT"}

@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/international-studies"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/international-studies"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/international-studies"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/international-studies", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/international-studies", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/international-studies"}}
+20170708065532 {"uri": "https://web.archive.org/web/20170708065532/https://gs.howard.edu/graduate-programs/international-studies", "rel": "first memento", "datetime": "Sat, 08 Jul 2017 06:55:32 GMT"}
+20200126060417 {"uri": "https://web.archive.org/web/20200126060417/https://gs.howard.edu/graduate-programs/international-studies", "rel": "memento", "datetime": "Sun, 26 Jan 2020 06:04:17 GMT"}
+20201001041528 {"uri": "https://web.archive.org/web/20201001041528/https://gs.howard.edu/graduate-programs/international-studies", "rel": "memento", "datetime": "Thu, 01 Oct 2020 04:15:28 GMT"}
+20210121141620 {"uri": "https://web.archive.org/web/20210121141620/https://gs.howard.edu/graduate-programs/international-studies", "rel": "memento", "datetime": "Thu, 21 Jan 2021 14:16:20 GMT"}
+20210413064822 {"uri": "https://web.archive.org/web/20210413064822/https://gs.howard.edu/graduate-programs/international-studies", "rel": "last memento", "datetime": "Tue, 13 Apr 2021 06:48:22 GMT"}

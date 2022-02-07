@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/phd/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/causes/phd/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/causes/phd/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/causes/phd/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/causes/phd/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/phd/"}}
+20190507011637 {"uri": "https://web.archive.org/web/20190507011637/https://www.udc.edu/causes/phd/", "rel": "first memento", "datetime": "Tue, 07 May 2019 01:16:37 GMT"}
+20190822003552 {"uri": "https://web.archive.org/web/20190822003552/https://www.udc.edu/causes/phd/", "rel": "memento", "datetime": "Thu, 22 Aug 2019 00:35:52 GMT"}
+20190904033725 {"uri": "https://web.archive.org/web/20190904033725/https://www.udc.edu/causes/phd/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:37:25 GMT"}
+20190904035227 {"uri": "https://web.archive.org/web/20190904035227/https://www.udc.edu/causes/phd/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:52:27 GMT"}
+20191101214654 {"uri": "https://web.archive.org/web/20191101214654/https://www.udc.edu/causes/phd/", "rel": "memento", "datetime": "Fri, 01 Nov 2019 21:46:54 GMT"}
+20200921193323 {"uri": "https://web.archive.org/web/20200921193323/https://www.udc.edu/causes/phd/", "rel": "memento", "datetime": "Mon, 21 Sep 2020 19:33:23 GMT"}
+20201204212258 {"uri": "https://web.archive.org/web/20201204212258/https://www.udc.edu/causes/phd/", "rel": "memento", "datetime": "Fri, 04 Dec 2020 21:22:58 GMT"}
+20210305102820 {"uri": "https://web.archive.org/web/20210305102820/https://www.udc.edu/causes/phd/", "rel": "memento", "datetime": "Fri, 05 Mar 2021 10:28:20 GMT"}
+20210508195436 {"uri": "https://web.archive.org/web/20210508195436/https://www.udc.edu/causes/phd/", "rel": "memento", "datetime": "Sat, 08 May 2021 19:54:36 GMT"}
+20210518180945 {"uri": "https://web.archive.org/web/20210518180945/https://www.udc.edu/causes/phd/", "rel": "memento", "datetime": "Tue, 18 May 2021 18:09:45 GMT"}
+20210519180934 {"uri": "https://web.archive.org/web/20210519180934/https://www.udc.edu/causes/phd/", "rel": "last memento", "datetime": "Wed, 19 May 2021 18:09:34 GMT"}

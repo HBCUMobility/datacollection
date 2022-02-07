@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/education/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/education/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/education/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/education/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/education/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/education/index.html"}}
+20190125105306 {"uri": "https://web.archive.org/web/20190125105306/https://wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/education/index.html", "rel": "first memento", "datetime": "Fri, 25 Jan 2019 10:53:06 GMT"}
+20200513231856 {"uri": "https://web.archive.org/web/20200513231856/https://wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/education/index.html", "rel": "memento", "datetime": "Wed, 13 May 2020 23:18:56 GMT"}
+20210515040002 {"uri": "https://web.archive.org/web/20210515040002/https://wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/education/index.html", "rel": "last memento", "datetime": "Sat, 15 May 2021 04:00:02 GMT"}

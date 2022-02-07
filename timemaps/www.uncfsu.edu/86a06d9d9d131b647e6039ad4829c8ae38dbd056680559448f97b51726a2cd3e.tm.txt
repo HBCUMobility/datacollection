@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/military-education"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.uncfsu.edu/academics/colleges-schools-and-departments/military-education"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.uncfsu.edu/academics/colleges-schools-and-departments/military-education"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.uncfsu.edu/academics/colleges-schools-and-departments/military-education", "json_format": "http://localhost:1208/timemap/json/https://www.uncfsu.edu/academics/colleges-schools-and-departments/military-education", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.uncfsu.edu/academics/colleges-schools-and-departments/military-education"}}
+20201124212332 {"uri": "https://web.archive.org/web/20201124212332/https://www.uncfsu.edu/academics/colleges-schools-and-departments/military-education", "rel": "first memento", "datetime": "Tue, 24 Nov 2020 21:23:32 GMT"}
+20210414113803 {"uri": "https://web.archive.org/web/20210414113803/https://www.uncfsu.edu/academics/colleges-schools-and-departments/military-education", "rel": "last memento", "datetime": "Wed, 14 Apr 2021 11:38:03 GMT"}

@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences"}}
+20210505115657 {"uri": "https://web.archive.org/web/20210505115657/https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences", "rel": "first memento", "datetime": "Wed, 05 May 2021 11:56:57 GMT"}
+20210508213143 {"uri": "https://web.archive.org/web/20210508213143/https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences", "rel": "memento", "datetime": "Sat, 08 May 2021 21:31:43 GMT"}
+20210514034628 {"uri": "https://web.archive.org/web/20210514034628/https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences", "rel": "memento", "datetime": "Fri, 14 May 2021 03:46:28 GMT"}
+20210515023913 {"uri": "https://web.archive.org/web/20210515023913/https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences", "rel": "last memento", "datetime": "Sat, 15 May 2021 02:39:13 GMT"}

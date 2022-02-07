@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/criminal-justice"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/cash/criminal-justice"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/cash/criminal-justice"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/cash/criminal-justice", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/cash/criminal-justice", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/cash/criminal-justice"}}
+20210417045907 {"uri": "https://web.archive.org/web/20210417045907/https://www.nccu.edu/cash/criminal-justice", "rel": "first memento", "datetime": "Sat, 17 Apr 2021 04:59:07 GMT"}
+20210515022201 {"uri": "https://web.archive.org/web/20210515022201/https://www.nccu.edu/cash/criminal-justice", "rel": "last memento", "datetime": "Sat, 15 May 2021 02:22:01 GMT"}

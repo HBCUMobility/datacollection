@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/biological-and-biomedical-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/chs/biological-and-biomedical-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/chs/biological-and-biomedical-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/chs/biological-and-biomedical-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/chs/biological-and-biomedical-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/biological-and-biomedical-sciences"}}
+20210327002451 {"uri": "https://web.archive.org/web/20210327002451/https://www.nccu.edu/chs/biological-and-biomedical-sciences", "rel": "first memento", "datetime": "Sat, 27 Mar 2021 00:24:51 GMT"}
+20210418052502 {"uri": "https://web.archive.org/web/20210418052502/https://www.nccu.edu/chs/biological-and-biomedical-sciences", "rel": "last memento", "datetime": "Sun, 18 Apr 2021 05:25:02 GMT"}

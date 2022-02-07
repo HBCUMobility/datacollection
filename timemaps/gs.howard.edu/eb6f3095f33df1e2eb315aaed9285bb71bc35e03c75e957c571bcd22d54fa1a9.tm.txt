@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/physics-and-astronomy"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/physics-and-astronomy"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/physics-and-astronomy"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/physics-and-astronomy"}}
+20170708160050 {"uri": "https://web.archive.org/web/20170708160050/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "first memento", "datetime": "Sat, 08 Jul 2017 16:00:50 GMT"}
+20190919234001 {"uri": "https://wayback.archive-it.org/all/20190919234001/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Thu, 19 Sep 2019 23:40:01 GMT"}
+20190919234001 {"uri": "https://web.archive.org/web/20190919234001/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Thu, 19 Sep 2019 23:40:01 GMT"}
+20191219205905 {"uri": "https://wayback.archive-it.org/all/20191219205905/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Thu, 19 Dec 2019 20:59:05 GMT"}
+20191219205905 {"uri": "https://web.archive.org/web/20191219205905/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Thu, 19 Dec 2019 20:59:05 GMT"}
+20200126055340 {"uri": "https://web.archive.org/web/20200126055340/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:53:40 GMT"}
+20200409044203 {"uri": "https://wayback.archive-it.org/all/20200409044203/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Thu, 09 Apr 2020 04:42:03 GMT"}
+20200409044203 {"uri": "https://web.archive.org/web/20200409044203/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Thu, 09 Apr 2020 04:42:03 GMT"}
+20201001054018 {"uri": "https://web.archive.org/web/20201001054018/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Thu, 01 Oct 2020 05:40:18 GMT"}
+20210121152529 {"uri": "https://web.archive.org/web/20210121152529/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Thu, 21 Jan 2021 15:25:29 GMT"}
+20210413080138 {"uri": "https://web.archive.org/web/20210413080138/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Tue, 13 Apr 2021 08:01:38 GMT"}
+20210416023855 {"uri": "https://web.archive.org/web/20210416023855/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Fri, 16 Apr 2021 02:38:55 GMT"}
+20211107161722 {"uri": "https://web.archive.org/web/20211107161722/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "memento", "datetime": "Sun, 07 Nov 2021 16:17:22 GMT"}
+20220106213023 {"uri": "https://web.archive.org/web/20220106213023/https://gs.howard.edu/graduate-programs/physics-and-astronomy", "rel": "last memento", "datetime": "Thu, 06 Jan 2022 21:30:23 GMT"}

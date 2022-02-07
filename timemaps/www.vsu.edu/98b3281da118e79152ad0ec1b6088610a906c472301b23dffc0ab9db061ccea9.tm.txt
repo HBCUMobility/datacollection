@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/cet/departments/engineering/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/cet/departments/engineering/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/cet/departments/engineering/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/cet/departments/engineering/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/cet/departments/engineering/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/cet/departments/engineering/index.php"}}
+20210121213459 {"uri": "https://web.archive.org/web/20210121213459/https://www.vsu.edu/cet/departments/engineering/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 21:34:59 GMT"}
+20210413131959 {"uri": "https://web.archive.org/web/20210413131959/https://www.vsu.edu/cet/departments/engineering/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 13:19:59 GMT"}
+20210518013342 {"uri": "https://web.archive.org/web/20210518013342/https://www.vsu.edu/cet/departments/engineering/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 01:33:42 GMT"}
+20211217113730 {"uri": "https://web.archive.org/web/20211217113730/https://www.vsu.edu/cet/departments/engineering/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:37:30 GMT"}

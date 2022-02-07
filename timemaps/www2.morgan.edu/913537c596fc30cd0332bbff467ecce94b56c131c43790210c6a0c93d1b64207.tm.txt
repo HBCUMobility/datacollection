@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/sbm/buad"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/sbm/buad"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/sbm/buad"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/sbm/buad", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/sbm/buad", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/sbm/buad"}}
+20200418072005 {"uri": "https://web.archive.org/web/20200418072005/https://www.morgan.edu/sbm/buad", "rel": "first memento", "datetime": "Sat, 18 Apr 2020 07:20:05 GMT"}
+20200717024930 {"uri": "https://web.archive.org/web/20200717024930/https://www.morgan.edu/sbm/buad", "rel": "memento", "datetime": "Fri, 17 Jul 2020 02:49:30 GMT"}
+20200807095405 {"uri": "https://web.archive.org/web/20200807095405/https://morgan.edu/sbm/buad", "rel": "memento", "datetime": "Fri, 07 Aug 2020 09:54:05 GMT"}
+20200807183125 {"uri": "https://web.archive.org/web/20200807183125/https://www.morgan.edu/sbm/buad", "rel": "memento", "datetime": "Fri, 07 Aug 2020 18:31:25 GMT"}
+20201028173402 {"uri": "https://web.archive.org/web/20201028173402/https://morgan.edu/sbm/buad", "rel": "memento", "datetime": "Wed, 28 Oct 2020 17:34:02 GMT"}
+20201031103611 {"uri": "https://web.archive.org/web/20201031103611/https://www.morgan.edu/sbm/buad", "rel": "memento", "datetime": "Sat, 31 Oct 2020 10:36:11 GMT"}
+20210123211107 {"uri": "https://web.archive.org/web/20210123211107/https://www.morgan.edu/sbm/buad", "rel": "memento", "datetime": "Sat, 23 Jan 2021 21:11:07 GMT"}
+20210125235508 {"uri": "https://web.archive.org/web/20210125235508/https://morgan.edu/sbm/buad", "rel": "memento", "datetime": "Mon, 25 Jan 2021 23:55:08 GMT"}
+20210225214840 {"uri": "https://web.archive.org/web/20210225214840/https://morgan.edu/sbm/buad", "rel": "memento", "datetime": "Thu, 25 Feb 2021 21:48:40 GMT"}
+20210413175443 {"uri": "https://web.archive.org/web/20210413175443/https://morgan.edu/sbm/buad", "rel": "memento", "datetime": "Tue, 13 Apr 2021 17:54:43 GMT"}
+20210414041824 {"uri": "https://web.archive.org/web/20210414041824/https://morgan.edu/sbm/buad", "rel": "memento", "datetime": "Wed, 14 Apr 2021 04:18:24 GMT"}
+20210414061905 {"uri": "https://web.archive.org/web/20210414061905/http://morgan.edu/sbm/buad", "rel": "memento", "datetime": "Wed, 14 Apr 2021 06:19:05 GMT"}
+20210415081305 {"uri": "https://web.archive.org/web/20210415081305/https://www.morgan.edu/sbm/buad", "rel": "memento", "datetime": "Thu, 15 Apr 2021 08:13:05 GMT"}
+20210514010401 {"uri": "https://web.archive.org/web/20210514010401/https://morgan.edu/sbm/buad", "rel": "memento", "datetime": "Fri, 14 May 2021 01:04:01 GMT"}
+20210814171938 {"uri": "https://web.archive.org/web/20210814171938/https://morgan.edu/sbm/buad", "rel": "last memento", "datetime": "Sat, 14 Aug 2021 17:19:38 GMT"}

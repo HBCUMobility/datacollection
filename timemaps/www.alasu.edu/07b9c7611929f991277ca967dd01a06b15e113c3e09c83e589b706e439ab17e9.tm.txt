@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cba/business-administration/business-administration"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/cba/business-administration/business-administration"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/cba/business-administration/business-administration"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/cba/business-administration/business-administration", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/cba/business-administration/business-administration", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/cba/business-administration/business-administration"}}
+20181112212001 {"uri": "https://web.archive.org/web/20181112212001/http://www.alasu.edu:80/cba/business-administration/business-administration", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:20:01 GMT"}
+20200523081851 {"uri": "https://web.archive.org/web/20200523081851/https://www.alasu.edu/cba/business-administration/business-administration", "rel": "memento", "datetime": "Sat, 23 May 2020 08:18:51 GMT"}
+20200606162919 {"uri": "https://web.archive.org/web/20200606162919/https://www.alasu.edu/cba/business-administration/business-administration", "rel": "memento", "datetime": "Sat, 06 Jun 2020 16:29:19 GMT"}
+20200812232025 {"uri": "https://web.archive.org/web/20200812232025/https://www.alasu.edu/cba/business-administration/business-administration", "rel": "memento", "datetime": "Wed, 12 Aug 2020 23:20:25 GMT"}
+20201031005729 {"uri": "https://web.archive.org/web/20201031005729/https://www.alasu.edu/cba/business-administration/business-administration", "rel": "memento", "datetime": "Sat, 31 Oct 2020 00:57:29 GMT"}
+20210414034346 {"uri": "https://web.archive.org/web/20210414034346/https://www.alasu.edu/cba/business-administration/business-administration", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:43:46 GMT"}
+20210416011718 {"uri": "https://web.archive.org/web/20210416011718/https://www.alasu.edu/cba/business-administration/business-administration", "rel": "last memento", "datetime": "Fri, 16 Apr 2021 01:17:18 GMT"}

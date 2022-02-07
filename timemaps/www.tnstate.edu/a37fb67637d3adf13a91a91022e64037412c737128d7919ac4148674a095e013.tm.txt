@@ -1,0 +1,47 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx"}}
+20120831100741 {"uri": "https://web.archive.org/web/20120831100741/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "first memento", "datetime": "Fri, 31 Aug 2012 10:07:41 GMT"}
+20121101150447 {"uri": "https://web.archive.org/web/20121101150447/http://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Thu, 01 Nov 2012 15:04:47 GMT"}
+20130128162414 {"uri": "https://web.archive.org/web/20130128162414/http://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Mon, 28 Jan 2013 16:24:14 GMT"}
+20130429062712 {"uri": "https://web.archive.org/web/20130429062712/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Mon, 29 Apr 2013 06:27:12 GMT"}
+20130615070146 {"uri": "https://web.archive.org/web/20130615070146/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sat, 15 Jun 2013 07:01:46 GMT"}
+20140824213336 {"uri": "https://web.archive.org/web/20140824213336/http://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sun, 24 Aug 2014 21:33:36 GMT"}
+20141012045024 {"uri": "https://web.archive.org/web/20141012045024/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sun, 12 Oct 2014 04:50:24 GMT"}
+20150305101955 {"uri": "https://web.archive.org/web/20150305101955/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Thu, 05 Mar 2015 10:19:55 GMT"}
+20150506060648 {"uri": "https://web.archive.org/web/20150506060648/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Wed, 06 May 2015 06:06:48 GMT"}
+20150905160035 {"uri": "https://web.archive.org/web/20150905160035/http://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sat, 05 Sep 2015 16:00:35 GMT"}
+20151102050928 {"uri": "https://web.archive.org/web/20151102050928/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Mon, 02 Nov 2015 05:09:28 GMT"}
+20151205011515 {"uri": "https://web.archive.org/web/20151205011515/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sat, 05 Dec 2015 01:15:15 GMT"}
+20160115145147 {"uri": "https://web.archive.org/web/20160115145147/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Fri, 15 Jan 2016 14:51:47 GMT"}
+20160301194945 {"uri": "https://web.archive.org/web/20160301194945/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Tue, 01 Mar 2016 19:49:45 GMT"}
+20160702162157 {"uri": "https://web.archive.org/web/20160702162157/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sat, 02 Jul 2016 16:21:57 GMT"}
+20160808084849 {"uri": "https://web.archive.org/web/20160808084849/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Mon, 08 Aug 2016 08:48:49 GMT"}
+20160908223903 {"uri": "https://web.archive.org/web/20160908223903/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Thu, 08 Sep 2016 22:39:03 GMT"}
+20160920135805 {"uri": "https://web.archive.org/web/20160920135805/http://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Tue, 20 Sep 2016 13:58:05 GMT"}
+20161010185103 {"uri": "https://web.archive.org/web/20161010185103/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Mon, 10 Oct 2016 18:51:03 GMT"}
+20170605080528 {"uri": "https://web.archive.org/web/20170605080528/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Mon, 05 Jun 2017 08:05:28 GMT"}
+20170706050637 {"uri": "https://web.archive.org/web/20170706050637/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Thu, 06 Jul 2017 05:06:37 GMT"}
+20170806010502 {"uri": "https://web.archive.org/web/20170806010502/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sun, 06 Aug 2017 01:05:02 GMT"}
+20170905230703 {"uri": "https://web.archive.org/web/20170905230703/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Tue, 05 Sep 2017 23:07:03 GMT"}
+20171008074232 {"uri": "https://web.archive.org/web/20171008074232/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sun, 08 Oct 2017 07:42:32 GMT"}
+20180214135828 {"uri": "https://web.archive.org/web/20180214135828/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Wed, 14 Feb 2018 13:58:28 GMT"}
+20180924014653 {"uri": "https://web.archive.org/web/20180924014653/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Mon, 24 Sep 2018 01:46:53 GMT"}
+20190228140216 {"uri": "https://web.archive.org/web/20190228140216/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Thu, 28 Feb 2019 14:02:16 GMT"}
+20190710154701 {"uri": "https://web.archive.org/web/20190710154701/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Wed, 10 Jul 2019 15:47:01 GMT"}
+20190817020820 {"uri": "https://web.archive.org/web/20190817020820/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sat, 17 Aug 2019 02:08:20 GMT"}
+20190919202505 {"uri": "https://web.archive.org/web/20190919202505/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Thu, 19 Sep 2019 20:25:05 GMT"}
+20191017153435 {"uri": "https://web.archive.org/web/20191017153435/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Thu, 17 Oct 2019 15:34:35 GMT"}
+20191117201938 {"uri": "https://web.archive.org/web/20191117201938/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sun, 17 Nov 2019 20:19:38 GMT"}
+20191218011406 {"uri": "https://web.archive.org/web/20191218011406/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Wed, 18 Dec 2019 01:14:06 GMT"}
+20200117061432 {"uri": "https://web.archive.org/web/20200117061432/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Fri, 17 Jan 2020 06:14:32 GMT"}
+20200216084227 {"uri": "https://web.archive.org/web/20200216084227/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Sun, 16 Feb 2020 08:42:27 GMT"}
+20200623105507 {"uri": "https://web.archive.org/web/20200623105507/http://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Tue, 23 Jun 2020 10:55:07 GMT"}
+20200707113638 {"uri": "https://web.archive.org/web/20200707113638/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Tue, 07 Jul 2020 11:36:38 GMT"}
+20200806150354 {"uri": "https://web.archive.org/web/20200806150354/http://www.tnstate.edu:80/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Thu, 06 Aug 2020 15:03:54 GMT"}
+20210415102952 {"uri": "https://web.archive.org/web/20210415102952/http://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Thu, 15 Apr 2021 10:29:52 GMT"}
+20210426212007 {"uri": "https://web.archive.org/web/20210426212007/https://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "rel": "memento", "datetime": "Mon, 26 Apr 2021 21:20:07 GMT"}
+20211116175359 {"uri": "https://web.archive.org/web/20211116175359/https://www.tnstate.edu/cpsua/degrees/bs_urbanstudies.aspx", "rel": "last memento", "datetime": "Tue, 16 Nov 2021 17:53:59 GMT"}

@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/computer-science-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/computer-science-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/computer-science-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/computer-science-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/computer-science-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/computer-science-department"}}
+20170628140950 {"uri": "https://web.archive.org/web/20170628140950/http://www.lincoln.edu/departments/computer-science-department", "rel": "first memento", "datetime": "Wed, 28 Jun 2017 14:09:50 GMT"}
+20200921135314 {"uri": "https://web.archive.org/web/20200921135314/https://www.lincoln.edu/departments/computer-science-department", "rel": "memento", "datetime": "Mon, 21 Sep 2020 13:53:14 GMT"}
+20201201061554 {"uri": "https://web.archive.org/web/20201201061554/https://www.lincoln.edu/departments/computer-science-department", "rel": "memento", "datetime": "Tue, 01 Dec 2020 06:15:54 GMT"}
+20210305043814 {"uri": "https://web.archive.org/web/20210305043814/https://www.lincoln.edu/departments/computer-science-department", "rel": "memento", "datetime": "Fri, 05 Mar 2021 04:38:14 GMT"}
+20210420211936 {"uri": "https://web.archive.org/web/20210420211936/https://www.lincoln.edu/departments/computer-science-department", "rel": "memento", "datetime": "Tue, 20 Apr 2021 21:19:36 GMT"}
+20210509111231 {"uri": "https://web.archive.org/web/20210509111231/https://www.lincoln.edu/departments/computer-science-department", "rel": "last memento", "datetime": "Sun, 09 May 2021 11:12:31 GMT"}

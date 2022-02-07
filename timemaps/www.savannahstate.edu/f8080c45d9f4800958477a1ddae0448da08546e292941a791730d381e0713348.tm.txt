@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/arotc/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/cost/arotc/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/cost/arotc/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/cost/arotc/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/cost/arotc/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/arotc/index.shtml"}}
+20100527233414 {"uri": "https://web.archive.org/web/20100527233414/http://www.savannahstate.edu/cost/arotc/index.shtml", "rel": "first memento", "datetime": "Thu, 27 May 2010 23:34:14 GMT"}
+20100911135527 {"uri": "https://web.archive.org/web/20100911135527/http://www.savannahstate.edu:80/cost/arotc/index.shtml", "rel": "memento", "datetime": "Sat, 11 Sep 2010 13:55:27 GMT"}
+20110128210706 {"uri": "https://web.archive.org/web/20110128210706/http://www.savannahstate.edu:80/cost/arotc/index.shtml", "rel": "memento", "datetime": "Fri, 28 Jan 2011 21:07:06 GMT"}
+20130308054856 {"uri": "https://web.archive.org/web/20130308054856/http://www.savannahstate.edu:80/cost/arotc/index.shtml", "rel": "memento", "datetime": "Fri, 08 Mar 2013 05:48:56 GMT"}
+20150310202457 {"uri": "https://web.archive.org/web/20150310202457/http://www.savannahstate.edu:80/cost/arotc/index.shtml", "rel": "memento", "datetime": "Tue, 10 Mar 2015 20:24:57 GMT"}
+20150926165912 {"uri": "https://web.archive.org/web/20150926165912/http://www.savannahstate.edu/cost/arotc/index.shtml", "rel": "memento", "datetime": "Sat, 26 Sep 2015 16:59:12 GMT"}
+20170523220242 {"uri": "https://web.archive.org/web/20170523220242/http://www.savannahstate.edu:80/cost/arotc/index.shtml", "rel": "memento", "datetime": "Tue, 23 May 2017 22:02:42 GMT"}
+20180204142632 {"uri": "https://web.archive.org/web/20180204142632/http://www.savannahstate.edu:80/cost/arotc/index.shtml", "rel": "last memento", "datetime": "Sun, 04 Feb 2018 14:26:32 GMT"}

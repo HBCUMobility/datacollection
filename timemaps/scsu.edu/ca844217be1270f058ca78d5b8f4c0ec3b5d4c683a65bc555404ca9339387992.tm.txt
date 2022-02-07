@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://scsu.edu/academics/department-of-industrial-electrical-engineering-technology/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://scsu.edu/academics/department-of-industrial-electrical-engineering-technology/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://scsu.edu/academics/department-of-industrial-electrical-engineering-technology/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://scsu.edu/academics/department-of-industrial-electrical-engineering-technology/", "json_format": "http://localhost:1208/timemap/json/https://scsu.edu/academics/department-of-industrial-electrical-engineering-technology/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scsu.edu/academics/department-of-industrial-electrical-engineering-technology/"}}
+20211203024913 {"uri": "https://wayback.archive-it.org/all/20211203024913/https://scsu.edu/academics/department-of-industrial-electrical-engineering-technology/", "rel": "first last memento", "datetime": "Fri, 03 Dec 2021 02:49:13 GMT"}

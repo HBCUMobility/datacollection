@@ -1,0 +1,39 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/behavioralhealth/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.jsums.edu/behavioralhealth/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.jsums.edu/behavioralhealth/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.jsums.edu/behavioralhealth/", "json_format": "http://localhost:1208/timemap/json/https://www.jsums.edu/behavioralhealth/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/behavioralhealth/"}}
+20130315173942 {"uri": "https://web.archive.org/web/20130315173942/http://www.jsums.edu:80/behavioralhealth", "rel": "first memento", "datetime": "Fri, 15 Mar 2013 17:39:42 GMT"}
+20130401091718 {"uri": "https://web.archive.org/web/20130401091718/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Mon, 01 Apr 2013 09:17:18 GMT"}
+20130501233213 {"uri": "https://web.archive.org/web/20130501233213/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Wed, 01 May 2013 23:32:13 GMT"}
+20130531211337 {"uri": "https://web.archive.org/web/20130531211337/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Fri, 31 May 2013 21:13:37 GMT"}
+20130601123224 {"uri": "https://web.archive.org/web/20130601123224/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Sat, 01 Jun 2013 12:32:24 GMT"}
+20130801050005 {"uri": "https://web.archive.org/web/20130801050005/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Thu, 01 Aug 2013 05:00:05 GMT"}
+20131017075330 {"uri": "https://web.archive.org/web/20131017075330/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Thu, 17 Oct 2013 07:53:30 GMT"}
+20140117090405 {"uri": "https://web.archive.org/web/20140117090405/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Fri, 17 Jan 2014 09:04:05 GMT"}
+20140117090405 {"uri": "https://web.archive.org/web/20140117090405/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Fri, 17 Jan 2014 09:04:05 GMT"}
+20140217050649 {"uri": "https://web.archive.org/web/20140217050649/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Mon, 17 Feb 2014 05:06:49 GMT"}
+20140217050649 {"uri": "https://web.archive.org/web/20140217050649/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Mon, 17 Feb 2014 05:06:49 GMT"}
+20150221154552 {"uri": "https://web.archive.org/web/20150221154552/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Sat, 21 Feb 2015 15:45:52 GMT"}
+20150906121530 {"uri": "https://web.archive.org/web/20150906121530/http://www.jsums.edu/behavioralhealth", "rel": "memento", "datetime": "Sun, 06 Sep 2015 12:15:30 GMT"}
+20151030030316 {"uri": "https://web.archive.org/web/20151030030316/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Fri, 30 Oct 2015 03:03:16 GMT"}
+20151221103708 {"uri": "https://web.archive.org/web/20151221103708/http://www.jsums.edu/behavioralhealth", "rel": "memento", "datetime": "Mon, 21 Dec 2015 10:37:08 GMT"}
+20160328093434 {"uri": "https://web.archive.org/web/20160328093434/http://www.jsums.edu/behavioralhealth", "rel": "memento", "datetime": "Mon, 28 Mar 2016 09:34:34 GMT"}
+20160508184153 {"uri": "https://web.archive.org/web/20160508184153/http://www.jsums.edu/behavioralhealth", "rel": "memento", "datetime": "Sun, 08 May 2016 18:41:53 GMT"}
+20160911134622 {"uri": "https://web.archive.org/web/20160911134622/http://www.jsums.edu/behavioralhealth", "rel": "memento", "datetime": "Sun, 11 Sep 2016 13:46:22 GMT"}
+20180409211057 {"uri": "https://web.archive.org/web/20180409211057/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Mon, 09 Apr 2018 21:10:57 GMT"}
+20180410211211 {"uri": "https://web.archive.org/web/20180410211211/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Tue, 10 Apr 2018 21:12:11 GMT"}
+20190623200204 {"uri": "https://web.archive.org/web/20190623200204/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Sun, 23 Jun 2019 20:02:04 GMT"}
+20190706153412 {"uri": "https://web.archive.org/web/20190706153412/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Sat, 06 Jul 2019 15:34:12 GMT"}
+20190706153412 {"uri": "https://web.archive.org/web/20190706153412/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Sat, 06 Jul 2019 15:34:12 GMT"}
+20190722151102 {"uri": "https://web.archive.org/web/20190722151102/http://www.jsums.edu/behavioralhealth/", "rel": "memento", "datetime": "Mon, 22 Jul 2019 15:11:02 GMT"}
+20190806102534 {"uri": "https://web.archive.org/web/20190806102534/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Tue, 06 Aug 2019 10:25:34 GMT"}
+20190806102534 {"uri": "https://web.archive.org/web/20190806102534/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Tue, 06 Aug 2019 10:25:34 GMT"}
+20190824061913 {"uri": "https://web.archive.org/web/20190824061913/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Sat, 24 Aug 2019 06:19:13 GMT"}
+20190906053031 {"uri": "https://web.archive.org/web/20190906053031/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Fri, 06 Sep 2019 05:30:31 GMT"}
+20190906053031 {"uri": "https://web.archive.org/web/20190906053031/http://www.jsums.edu:80/behavioralhealth", "rel": "memento", "datetime": "Fri, 06 Sep 2019 05:30:31 GMT"}
+20191003070702 {"uri": "https://web.archive.org/web/20191003070702/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Thu, 03 Oct 2019 07:07:02 GMT"}
+20191202141202 {"uri": "https://web.archive.org/web/20191202141202/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Mon, 02 Dec 2019 14:12:02 GMT"}
+20200131213310 {"uri": "https://web.archive.org/web/20200131213310/http://www.jsums.edu:80/behavioralhealth/", "rel": "memento", "datetime": "Fri, 31 Jan 2020 21:33:10 GMT"}
+20210308114558 {"uri": "https://web.archive.org/web/20210308114558/https://www.jsums.edu/behavioralhealth/", "rel": "last memento", "datetime": "Mon, 08 Mar 2021 11:45:58 GMT"}

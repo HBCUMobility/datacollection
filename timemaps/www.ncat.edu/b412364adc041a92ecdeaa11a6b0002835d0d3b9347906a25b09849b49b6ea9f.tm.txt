@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/coe/departments/cdse/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/coe/departments/cdse/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/coe/departments/cdse/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/coe/departments/cdse/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/coe/departments/cdse/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/coe/departments/cdse/index.php"}}
+20210129143035 {"uri": "https://web.archive.org/web/20210129143035/https://ncat.edu/coe/departments/cdse/index.php", "rel": "first memento", "datetime": "Fri, 29 Jan 2021 14:30:35 GMT"}
+20210205233431 {"uri": "https://web.archive.org/web/20210205233431/https://www.ncat.edu/coe/departments/cdse/index.php", "rel": "memento", "datetime": "Fri, 05 Feb 2021 23:34:31 GMT"}
+20210226124400 {"uri": "https://web.archive.org/web/20210226124400/https://www.ncat.edu/coe/departments/cdse/index.php", "rel": "memento", "datetime": "Fri, 26 Feb 2021 12:44:00 GMT"}
+20210302084930 {"uri": "https://web.archive.org/web/20210302084930/https://ncat.edu/coe/departments/cdse/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 08:49:30 GMT"}
+20210419011625 {"uri": "https://web.archive.org/web/20210419011625/https://www.ncat.edu/coe/departments/cdse/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 01:16:25 GMT"}
+20210518024344 {"uri": "https://web.archive.org/web/20210518024344/https://ncat.edu/coe/departments/cdse/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 02:43:44 GMT"}
+20210812002720 {"uri": "https://web.archive.org/web/20210812002720/https://ncat.edu/coe/departments/cdse/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 00:27:20 GMT"}
+20210815132119 {"uri": "https://web.archive.org/web/20210815132119/https://ncat.edu/coe/departments/cdse/index.php", "rel": "memento", "datetime": "Sun, 15 Aug 2021 13:21:19 GMT"}
+20210817193746 {"uri": "https://web.archive.org/web/20210817193746/https://www.ncat.edu/coe/departments/cdse/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 19:37:46 GMT"}
+20211117094830 {"uri": "https://web.archive.org/web/20211117094830/https://www.ncat.edu/coe/departments/cdse/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:48:30 GMT"}
+20220107223208 {"uri": "https://web.archive.org/web/20220107223208/https://www.ncat.edu/coe/departments/cdse/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:32:08 GMT"}

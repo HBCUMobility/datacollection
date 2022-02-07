@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "json_format": "http://localhost:1208/timemap/json/http://www.tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html"}}
+20190322100348 {"uri": "https://web.archive.org/web/20190322100348/http://www.tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "first memento", "datetime": "Fri, 22 Mar 2019 10:03:48 GMT"}
+20190323191316 {"uri": "https://web.archive.org/web/20190323191316/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Sat, 23 Mar 2019 19:13:16 GMT"}
+20190523093628 {"uri": "https://web.archive.org/web/20190523093628/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Thu, 23 May 2019 09:36:28 GMT"}
+20190723192426 {"uri": "https://web.archive.org/web/20190723192426/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Tue, 23 Jul 2019 19:24:26 GMT"}
+20190922090818 {"uri": "https://web.archive.org/web/20190922090818/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Sun, 22 Sep 2019 09:08:18 GMT"}
+20191102131214 {"uri": "https://web.archive.org/web/20191102131214/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Sat, 02 Nov 2019 13:12:14 GMT"}
+20191129022533 {"uri": "https://web.archive.org/web/20191129022533/http://tsu.edu:80/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Fri, 29 Nov 2019 02:25:33 GMT"}
+20200105091212 {"uri": "https://web.archive.org/web/20200105091212/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Sun, 05 Jan 2020 09:12:12 GMT"}
+20200128052518 {"uri": "https://web.archive.org/web/20200128052518/http://tsu.edu:80/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Tue, 28 Jan 2020 05:25:18 GMT"}
+20200807041903 {"uri": "https://web.archive.org/web/20200807041903/http://tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Fri, 07 Aug 2020 04:19:03 GMT"}
+20200919090806 {"uri": "https://web.archive.org/web/20200919090806/http://www.tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Sat, 19 Sep 2020 09:08:06 GMT"}
+20201022182751 {"uri": "https://web.archive.org/web/20201022182751/http://tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Thu, 22 Oct 2020 18:27:51 GMT"}
+20210126122426 {"uri": "https://web.archive.org/web/20210126122426/http://www.tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Tue, 26 Jan 2021 12:24:26 GMT"}
+20210127072429 {"uri": "https://web.archive.org/web/20210127072429/http://tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Wed, 27 Jan 2021 07:24:29 GMT"}
+20210421035627 {"uri": "https://web.archive.org/web/20210421035627/http://tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "memento", "datetime": "Wed, 21 Apr 2021 03:56:27 GMT"}
+20210423083256 {"uri": "https://web.archive.org/web/20210423083256/http://tsu.edu/academics/colleges-and-schools/colabs/sociology/index.html", "rel": "last memento", "datetime": "Fri, 23 Apr 2021 08:32:56 GMT"}

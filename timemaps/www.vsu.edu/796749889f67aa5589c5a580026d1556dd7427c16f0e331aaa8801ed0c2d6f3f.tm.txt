@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/individualized-services/graduate/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/education/departments/individualized-services/graduate/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/education/departments/individualized-services/graduate/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/education/departments/individualized-services/graduate/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/education/departments/individualized-services/graduate/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/individualized-services/graduate/index.php"}}
+20210121082454 {"uri": "https://web.archive.org/web/20210121082454/https://www.vsu.edu/education/departments/individualized-services/graduate/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 08:24:54 GMT"}
+20210419053923 {"uri": "https://web.archive.org/web/20210419053923/https://www.vsu.edu/education/departments/individualized-services/graduate/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 05:39:23 GMT"}
+20211217114228 {"uri": "https://web.archive.org/web/20211217114228/https://www.vsu.edu/education/departments/individualized-services/graduate/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:42:28 GMT"}

@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php"}}
+20200807144107 {"uri": "https://web.archive.org/web/20200807144107/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "first memento", "datetime": "Fri, 07 Aug 2020 14:41:07 GMT"}
+20200903074708 {"uri": "https://web.archive.org/web/20200903074708/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 07:47:08 GMT"}
+20200922202730 {"uri": "https://web.archive.org/web/20200922202730/https://ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:27:30 GMT"}
+20201025071322 {"uri": "https://web.archive.org/web/20201025071322/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Sun, 25 Oct 2020 07:13:22 GMT"}
+20201128020343 {"uri": "https://web.archive.org/web/20201128020343/https://ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:03:43 GMT"}
+20210129172214 {"uri": "https://web.archive.org/web/20210129172214/https://ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 17:22:14 GMT"}
+20210302072752 {"uri": "https://web.archive.org/web/20210302072752/https://ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 07:27:52 GMT"}
+20210419020554 {"uri": "https://web.archive.org/web/20210419020554/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 02:05:54 GMT"}
+20210501231307 {"uri": "https://web.archive.org/web/20210501231307/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Sat, 01 May 2021 23:13:07 GMT"}
+20210518011639 {"uri": "https://web.archive.org/web/20210518011639/https://ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 01:16:39 GMT"}
+20210812001649 {"uri": "https://web.archive.org/web/20210812001649/https://ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 00:16:49 GMT"}
+20210814180722 {"uri": "https://web.archive.org/web/20210814180722/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Sat, 14 Aug 2021 18:07:22 GMT"}
+20210816221124 {"uri": "https://web.archive.org/web/20210816221124/https://ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 22:11:24 GMT"}
+20210816221141 {"uri": "https://web.archive.org/web/20210816221141/https://ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 22:11:41 GMT"}
+20211117094757 {"uri": "https://web.archive.org/web/20211117094757/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:57 GMT"}
+20220107224417 {"uri": "https://web.archive.org/web/20220107224417/https://www.ncat.edu/cahss/departments/journalism-and-mass-communication/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:44:17 GMT"}

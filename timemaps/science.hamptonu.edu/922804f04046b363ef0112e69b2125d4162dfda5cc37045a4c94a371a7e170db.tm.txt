@@ -1,0 +1,79 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://science.hamptonu.edu/naval/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://science.hamptonu.edu/naval/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://science.hamptonu.edu/naval/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://science.hamptonu.edu/naval/", "json_format": "http://localhost:1208/timemap/json/https://science.hamptonu.edu/naval/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://science.hamptonu.edu/naval/"}}
+20101113005804 {"uri": "https://web.archive.org/web/20101113005804/http://science.hamptonu.edu:80/naval/", "rel": "first memento", "datetime": "Sat, 13 Nov 2010 00:58:04 GMT"}
+20110207003220 {"uri": "https://web.archive.org/web/20110207003220/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Mon, 07 Feb 2011 00:32:20 GMT"}
+20110701141601 {"uri": "https://web.archive.org/web/20110701141601/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Fri, 01 Jul 2011 14:16:01 GMT"}
+20110831162830 {"uri": "https://web.archive.org/web/20110831162830/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Wed, 31 Aug 2011 16:28:30 GMT"}
+20120128141639 {"uri": "https://web.archive.org/web/20120128141639/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sat, 28 Jan 2012 14:16:39 GMT"}
+20120316220921 {"uri": "https://web.archive.org/web/20120316220921/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Fri, 16 Mar 2012 22:09:21 GMT"}
+20120316220921 {"uri": "https://web.archive.org/web/20120316220921/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Fri, 16 Mar 2012 22:09:21 GMT"}
+20120324152920 {"uri": "https://web.archive.org/web/20120324152920/http://science.hamptonu.edu/naval", "rel": "memento", "datetime": "Sat, 24 Mar 2012 15:29:20 GMT"}
+20120326010337 {"uri": "https://web.archive.org/web/20120326010337/http://science.hamptonu.edu/naval", "rel": "memento", "datetime": "Mon, 26 Mar 2012 01:03:37 GMT"}
+20120329034600 {"uri": "https://web.archive.org/web/20120329034600/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Thu, 29 Mar 2012 03:46:00 GMT"}
+20120417214016 {"uri": "https://web.archive.org/web/20120417214016/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 17 Apr 2012 21:40:16 GMT"}
+20120417214016 {"uri": "https://web.archive.org/web/20120417214016/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Tue, 17 Apr 2012 21:40:16 GMT"}
+20120517211257 {"uri": "https://web.archive.org/web/20120517211257/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Thu, 17 May 2012 21:12:57 GMT"}
+20120817122249 {"uri": "https://web.archive.org/web/20120817122249/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Fri, 17 Aug 2012 12:22:49 GMT"}
+20120829024048 {"uri": "https://web.archive.org/web/20120829024048/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Wed, 29 Aug 2012 02:40:48 GMT"}
+20120829024048 {"uri": "https://web.archive.org/web/20120829024048/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Wed, 29 Aug 2012 02:40:48 GMT"}
+20120929090529 {"uri": "https://web.archive.org/web/20120929090529/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sat, 29 Sep 2012 09:05:29 GMT"}
+20120929090529 {"uri": "https://web.archive.org/web/20120929090529/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Sat, 29 Sep 2012 09:05:29 GMT"}
+20121113121829 {"uri": "https://web.archive.org/web/20121113121829/http://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Tue, 13 Nov 2012 12:18:29 GMT"}
+20121116150854 {"uri": "https://web.archive.org/web/20121116150854/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Fri, 16 Nov 2012 15:08:54 GMT"}
+20130308040200 {"uri": "https://web.archive.org/web/20130308040200/http://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Fri, 08 Mar 2013 04:02:00 GMT"}
+20130314050329 {"uri": "https://web.archive.org/web/20130314050329/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Thu, 14 Mar 2013 05:03:29 GMT"}
+20130314050329 {"uri": "https://web.archive.org/web/20130314050329/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Thu, 14 Mar 2013 05:03:29 GMT"}
+20130319005616 {"uri": "https://web.archive.org/web/20130319005616/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 19 Mar 2013 00:56:16 GMT"}
+20130405134109 {"uri": "https://web.archive.org/web/20130405134109/http://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Fri, 05 Apr 2013 13:41:09 GMT"}
+20130407101831 {"uri": "https://web.archive.org/web/20130407101831/http://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Sun, 07 Apr 2013 10:18:31 GMT"}
+20130414121405 {"uri": "https://web.archive.org/web/20130414121405/http://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Sun, 14 Apr 2013 12:14:05 GMT"}
+20130417181651 {"uri": "https://web.archive.org/web/20130417181651/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Wed, 17 Apr 2013 18:16:51 GMT"}
+20130417181651 {"uri": "https://web.archive.org/web/20130417181651/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Wed, 17 Apr 2013 18:16:51 GMT"}
+20130518235257 {"uri": "https://web.archive.org/web/20130518235257/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sat, 18 May 2013 23:52:57 GMT"}
+20130521045043 {"uri": "https://web.archive.org/web/20130521045043/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 21 May 2013 04:50:43 GMT"}
+20130521045043 {"uri": "https://web.archive.org/web/20130521045043/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Tue, 21 May 2013 04:50:43 GMT"}
+20130821203103 {"uri": "https://web.archive.org/web/20130821203103/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Wed, 21 Aug 2013 20:31:03 GMT"}
+20140106211329 {"uri": "https://web.archive.org/web/20140106211329/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Mon, 06 Jan 2014 21:13:29 GMT"}
+20140325232815 {"uri": "https://web.archive.org/web/20140325232815/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 25 Mar 2014 23:28:15 GMT"}
+20140815071950 {"uri": "https://web.archive.org/web/20140815071950/http://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Fri, 15 Aug 2014 07:19:50 GMT"}
+20141017180159 {"uri": "https://web.archive.org/web/20141017180159/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Fri, 17 Oct 2014 18:01:59 GMT"}
+20141108232218 {"uri": "https://web.archive.org/web/20141108232218/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sat, 08 Nov 2014 23:22:18 GMT"}
+20150109115824 {"uri": "https://web.archive.org/web/20150109115824/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Fri, 09 Jan 2015 11:58:24 GMT"}
+20150324055934 {"uri": "https://web.archive.org/web/20150324055934/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 24 Mar 2015 05:59:34 GMT"}
+20150324055934 {"uri": "https://web.archive.org/web/20150324055934/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Tue, 24 Mar 2015 05:59:34 GMT"}
+20150325211537 {"uri": "https://web.archive.org/web/20150325211537/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Wed, 25 Mar 2015 21:15:37 GMT"}
+20150325211537 {"uri": "https://web.archive.org/web/20150325211537/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Wed, 25 Mar 2015 21:15:37 GMT"}
+20150425163105 {"uri": "https://web.archive.org/web/20150425163105/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sat, 25 Apr 2015 16:31:05 GMT"}
+20150425163105 {"uri": "https://web.archive.org/web/20150425163105/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Sat, 25 Apr 2015 16:31:05 GMT"}
+20150526151224 {"uri": "https://web.archive.org/web/20150526151224/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 26 May 2015 15:12:24 GMT"}
+20150526151224 {"uri": "https://web.archive.org/web/20150526151224/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Tue, 26 May 2015 15:12:24 GMT"}
+20150627020837 {"uri": "https://web.archive.org/web/20150627020837/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sat, 27 Jun 2015 02:08:37 GMT"}
+20150627020837 {"uri": "https://web.archive.org/web/20150627020837/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Sat, 27 Jun 2015 02:08:37 GMT"}
+20160712223910 {"uri": "https://web.archive.org/web/20160712223910/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 12 Jul 2016 22:39:10 GMT"}
+20160712223910 {"uri": "https://web.archive.org/web/20160712223910/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Tue, 12 Jul 2016 22:39:10 GMT"}
+20160812235403 {"uri": "https://web.archive.org/web/20160812235403/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Fri, 12 Aug 2016 23:54:03 GMT"}
+20160812235403 {"uri": "https://web.archive.org/web/20160812235403/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Fri, 12 Aug 2016 23:54:03 GMT"}
+20160913220429 {"uri": "https://web.archive.org/web/20160913220429/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 13 Sep 2016 22:04:29 GMT"}
+20160913220429 {"uri": "https://web.archive.org/web/20160913220429/http://science.hamptonu.edu:80/naval", "rel": "memento", "datetime": "Tue, 13 Sep 2016 22:04:29 GMT"}
+20170829172505 {"uri": "https://web.archive.org/web/20170829172505/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 29 Aug 2017 17:25:05 GMT"}
+20180427193051 {"uri": "https://web.archive.org/web/20180427193051/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Fri, 27 Apr 2018 19:30:51 GMT"}
+20180429061428 {"uri": "https://web.archive.org/web/20180429061428/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sun, 29 Apr 2018 06:14:28 GMT"}
+20180704005134 {"uri": "https://web.archive.org/web/20180704005134/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Wed, 04 Jul 2018 00:51:34 GMT"}
+20190306053102 {"uri": "https://web.archive.org/web/20190306053102/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Wed, 06 Mar 2019 05:31:02 GMT"}
+20190506044432 {"uri": "https://web.archive.org/web/20190506044432/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Mon, 06 May 2019 04:44:32 GMT"}
+20190707020620 {"uri": "https://web.archive.org/web/20190707020620/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sun, 07 Jul 2019 02:06:20 GMT"}
+20190905215636 {"uri": "https://web.archive.org/web/20190905215636/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Thu, 05 Sep 2019 21:56:36 GMT"}
+20191025000106 {"uri": "https://web.archive.org/web/20191025000106/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Fri, 25 Oct 2019 00:01:06 GMT"}
+20191224063425 {"uri": "https://web.archive.org/web/20191224063425/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Tue, 24 Dec 2019 06:34:25 GMT"}
+20200222151649 {"uri": "https://web.archive.org/web/20200222151649/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sat, 22 Feb 2020 15:16:49 GMT"}
+20200704000334 {"uri": "https://web.archive.org/web/20200704000334/http://science.hamptonu.edu:80/naval/", "rel": "memento", "datetime": "Sat, 04 Jul 2020 00:03:34 GMT"}
+20200924183108 {"uri": "https://web.archive.org/web/20200924183108/https://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Thu, 24 Sep 2020 18:31:08 GMT"}
+20201017025931 {"uri": "https://web.archive.org/web/20201017025931/http://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Sat, 17 Oct 2020 02:59:31 GMT"}
+20201021100335 {"uri": "https://web.archive.org/web/20201021100335/https://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Wed, 21 Oct 2020 10:03:35 GMT"}
+20201025221636 {"uri": "https://web.archive.org/web/20201025221636/https://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Sun, 25 Oct 2020 22:16:36 GMT"}
+20210416103720 {"uri": "https://web.archive.org/web/20210416103720/https://science.hamptonu.edu/naval/", "rel": "memento", "datetime": "Fri, 16 Apr 2021 10:37:20 GMT"}
+20220124064029 {"uri": "https://web.archive.org/web/20220124064029/https://science.hamptonu.edu/naval/", "rel": "last memento", "datetime": "Mon, 24 Jan 2022 06:40:29 GMT"}

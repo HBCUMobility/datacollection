@@ -1,0 +1,19 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/chhs/departments/kinesiology/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/chhs/departments/kinesiology/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/chhs/departments/kinesiology/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/chhs/departments/kinesiology/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/chhs/departments/kinesiology/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/chhs/departments/kinesiology/index.php"}}
+20200810063100 {"uri": "https://web.archive.org/web/20200810063100/https://www.ncat.edu/chhs/departments/kinesiology/index.php", "rel": "first memento", "datetime": "Mon, 10 Aug 2020 06:31:00 GMT"}
+20200903090714 {"uri": "https://web.archive.org/web/20200903090714/https://www.ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 09:07:14 GMT"}
+20200922212622 {"uri": "https://web.archive.org/web/20200922212622/https://ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 21:26:22 GMT"}
+20201024124127 {"uri": "https://web.archive.org/web/20201024124127/https://www.ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Sat, 24 Oct 2020 12:41:27 GMT"}
+20201128024515 {"uri": "https://web.archive.org/web/20201128024515/https://ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:45:15 GMT"}
+20210130082750 {"uri": "https://web.archive.org/web/20210130082750/https://ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Sat, 30 Jan 2021 08:27:50 GMT"}
+20210302083016 {"uri": "https://web.archive.org/web/20210302083016/https://ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 08:30:16 GMT"}
+20210419000817 {"uri": "https://web.archive.org/web/20210419000817/https://www.ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 00:08:17 GMT"}
+20210518023038 {"uri": "https://web.archive.org/web/20210518023038/https://ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 02:30:38 GMT"}
+20210812002946 {"uri": "https://web.archive.org/web/20210812002946/https://ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 00:29:46 GMT"}
+20210816110334 {"uri": "https://web.archive.org/web/20210816110334/https://ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 11:03:34 GMT"}
+20211117094721 {"uri": "https://web.archive.org/web/20211117094721/https://www.ncat.edu/chhs/departments/kinesiology/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:21 GMT"}
+20220108015631 {"uri": "https://web.archive.org/web/20220108015631/https://www.ncat.edu/chhs/departments/kinesiology/index.php", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 01:56:31 GMT"}

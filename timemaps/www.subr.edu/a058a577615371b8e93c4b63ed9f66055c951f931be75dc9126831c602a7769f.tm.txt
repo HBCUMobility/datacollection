@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/page/5684"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.subr.edu/page/5684"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.subr.edu/page/5684"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.subr.edu/page/5684", "json_format": "http://localhost:1208/timemap/json/https://www.subr.edu/page/5684", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/page/5684"}}
+20210126222742 {"uri": "https://web.archive.org/web/20210126222742/https://www.subr.edu/page/5684", "rel": "first memento", "datetime": "Tue, 26 Jan 2021 22:27:42 GMT"}
+20210503193150 {"uri": "https://web.archive.org/web/20210503193150/https://www.subr.edu/page/5684", "rel": "last memento", "datetime": "Mon, 03 May 2021 19:31:50 GMT"}

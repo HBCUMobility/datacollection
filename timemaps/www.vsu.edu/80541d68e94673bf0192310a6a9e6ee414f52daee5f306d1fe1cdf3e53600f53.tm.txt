@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/mass-communications/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/sola/departments/mass-communications/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/sola/departments/mass-communications/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/sola/departments/mass-communications/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/sola/departments/mass-communications/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/mass-communications/index.php"}}
+20210121214651 {"uri": "https://web.archive.org/web/20210121214651/https://www.vsu.edu/sola/departments/mass-communications/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 21:46:51 GMT"}
+20210413133343 {"uri": "https://web.archive.org/web/20210413133343/https://www.vsu.edu/sola/departments/mass-communications/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 13:33:43 GMT"}
+20210518132556 {"uri": "https://web.archive.org/web/20210518132556/https://www.vsu.edu/sola/departments/mass-communications/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 13:25:56 GMT"}
+20211217113017 {"uri": "https://web.archive.org/web/20211217113017/https://www.vsu.edu/sola/departments/mass-communications/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:30:17 GMT"}

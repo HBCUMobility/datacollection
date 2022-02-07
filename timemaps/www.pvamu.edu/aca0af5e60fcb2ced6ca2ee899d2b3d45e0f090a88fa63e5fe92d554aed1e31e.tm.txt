@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/music-theatre/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.pvamu.edu/bcas/departments/music-theatre/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.pvamu.edu/bcas/departments/music-theatre/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.pvamu.edu/bcas/departments/music-theatre/", "json_format": "http://localhost:1208/timemap/json/https://www.pvamu.edu/bcas/departments/music-theatre/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/music-theatre/"}}
+20190402182945 {"uri": "https://web.archive.org/web/20190402182945/http://www.pvamu.edu/bcas/departments/music-theatre/", "rel": "first memento", "datetime": "Tue, 02 Apr 2019 18:29:45 GMT"}
+20190402200050 {"uri": "https://web.archive.org/web/20190402200050/http://www.pvamu.edu/bcas/departments/music-theatre/", "rel": "memento", "datetime": "Tue, 02 Apr 2019 20:00:50 GMT"}
+20200809095248 {"uri": "https://web.archive.org/web/20200809095248/https://www.pvamu.edu/bcas/departments/music-theatre/", "rel": "memento", "datetime": "Sun, 09 Aug 2020 09:52:48 GMT"}
+20200811132854 {"uri": "https://web.archive.org/web/20200811132854/https://www.pvamu.edu/bcas/departments/music-theatre/", "rel": "memento", "datetime": "Tue, 11 Aug 2020 13:28:54 GMT"}
+20210419072928 {"uri": "https://web.archive.org/web/20210419072928/https://www.pvamu.edu/bcas/departments/music-theatre/", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 07:29:28 GMT"}

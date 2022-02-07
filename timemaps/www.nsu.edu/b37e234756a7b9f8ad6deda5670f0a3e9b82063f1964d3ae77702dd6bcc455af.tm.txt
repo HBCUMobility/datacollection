@@ -1,0 +1,23 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/social-work"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/social-work"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/social-work"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/social-work", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/social-work", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/social-work"}}
+20170912082057 {"uri": "https://web.archive.org/web/20170912082057/https://www.nsu.edu/social-work/", "rel": "first memento", "datetime": "Tue, 12 Sep 2017 08:20:57 GMT"}
+20190305205334 {"uri": "https://web.archive.org/web/20190305205334/http://www.nsu.edu:80/social-work", "rel": "memento", "datetime": "Tue, 05 Mar 2019 20:53:34 GMT"}
+20190405162918 {"uri": "https://web.archive.org/web/20190405162918/http://www.nsu.edu:80/social-work", "rel": "memento", "datetime": "Fri, 05 Apr 2019 16:29:18 GMT"}
+20190506160752 {"uri": "https://web.archive.org/web/20190506160752/http://www.nsu.edu:80/social-work", "rel": "memento", "datetime": "Mon, 06 May 2019 16:07:52 GMT"}
+20190606051201 {"uri": "https://web.archive.org/web/20190606051201/http://www.nsu.edu:80/social-work", "rel": "memento", "datetime": "Thu, 06 Jun 2019 05:12:01 GMT"}
+20190706230535 {"uri": "https://web.archive.org/web/20190706230535/http://www.nsu.edu:80/social-work", "rel": "memento", "datetime": "Sat, 06 Jul 2019 23:05:35 GMT"}
+20190806182511 {"uri": "https://web.archive.org/web/20190806182511/http://www.nsu.edu:80/social-work", "rel": "memento", "datetime": "Tue, 06 Aug 2019 18:25:11 GMT"}
+20190907125341 {"uri": "https://web.archive.org/web/20190907125341/http://www.nsu.edu:80/social-work", "rel": "memento", "datetime": "Sat, 07 Sep 2019 12:53:41 GMT"}
+20191111020423 {"uri": "https://web.archive.org/web/20191111020423/http://www.nsu.edu:80/social-work", "rel": "memento", "datetime": "Mon, 11 Nov 2019 02:04:23 GMT"}
+20200110125108 {"uri": "https://web.archive.org/web/20200110125108/http://www.nsu.edu:80/social-work", "rel": "memento", "datetime": "Fri, 10 Jan 2020 12:51:08 GMT"}
+20200928084044 {"uri": "https://web.archive.org/web/20200928084044/http://www.nsu.edu/social-work", "rel": "memento", "datetime": "Mon, 28 Sep 2020 08:40:44 GMT"}
+20201126131905 {"uri": "https://web.archive.org/web/20201126131905/https://www.nsu.edu/social-work/", "rel": "memento", "datetime": "Thu, 26 Nov 2020 13:19:05 GMT"}
+20201129113830 {"uri": "https://web.archive.org/web/20201129113830/https://www.nsu.edu/social-work", "rel": "memento", "datetime": "Sun, 29 Nov 2020 11:38:30 GMT"}
+20210121145502 {"uri": "https://web.archive.org/web/20210121145502/http://www.nsu.edu/social-work", "rel": "memento", "datetime": "Thu, 21 Jan 2021 14:55:02 GMT"}
+20210305201945 {"uri": "https://web.archive.org/web/20210305201945/https://www.nsu.edu/social-work", "rel": "memento", "datetime": "Fri, 05 Mar 2021 20:19:45 GMT"}
+20210421231436 {"uri": "https://web.archive.org/web/20210421231436/http://www.nsu.edu/social-work", "rel": "memento", "datetime": "Wed, 21 Apr 2021 23:14:36 GMT"}
+20210427212825 {"uri": "https://web.archive.org/web/20210427212825/http://www.nsu.edu/social-work", "rel": "last memento", "datetime": "Tue, 27 Apr 2021 21:28:25 GMT"}

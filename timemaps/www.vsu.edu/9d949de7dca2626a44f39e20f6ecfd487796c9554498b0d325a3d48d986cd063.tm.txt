@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/military-science/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/sola/departments/military-science/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/sola/departments/military-science/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/sola/departments/military-science/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/sola/departments/military-science/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/military-science/index.php"}}
+20210121214153 {"uri": "https://web.archive.org/web/20210121214153/https://www.vsu.edu/sola/departments/military-science/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 21:41:53 GMT"}
+20210409135543 {"uri": "https://web.archive.org/web/20210409135543/https://www.vsu.edu/sola/departments/military-science/index.php", "rel": "memento", "datetime": "Fri, 09 Apr 2021 13:55:43 GMT"}
+20210416201955 {"uri": "https://web.archive.org/web/20210416201955/https://www.vsu.edu/sola/departments/military-science/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 20:19:55 GMT"}
+20210513040442 {"uri": "https://web.archive.org/web/20210513040442/https://www.vsu.edu/sola/departments/military-science/index.php", "rel": "memento", "datetime": "Thu, 13 May 2021 04:04:42 GMT"}
+20210905052154 {"uri": "https://web.archive.org/web/20210905052154/https://www.vsu.edu/sola/departments/military-science/index.php", "rel": "memento", "datetime": "Sun, 05 Sep 2021 05:21:54 GMT"}
+20211217114143 {"uri": "https://web.archive.org/web/20211217114143/https://www.vsu.edu/sola/departments/military-science/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:41:43 GMT"}

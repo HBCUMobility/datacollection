@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology"}}
+20170708165346 {"uri": "https://web.archive.org/web/20170708165346/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "rel": "first memento", "datetime": "Sat, 08 Jul 2017 16:53:46 GMT"}
+20200126055953 {"uri": "https://web.archive.org/web/20200126055953/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:59:53 GMT"}
+20201001034247 {"uri": "https://web.archive.org/web/20201001034247/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology/", "rel": "memento", "datetime": "Thu, 01 Oct 2020 03:42:47 GMT"}
+20201001051424 {"uri": "https://web.archive.org/web/20201001051424/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "rel": "memento", "datetime": "Thu, 01 Oct 2020 05:14:24 GMT"}
+20210121150521 {"uri": "https://web.archive.org/web/20210121150521/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "rel": "memento", "datetime": "Thu, 21 Jan 2021 15:05:21 GMT"}
+20210301092327 {"uri": "https://web.archive.org/web/20210301092327/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology/", "rel": "memento", "datetime": "Mon, 01 Mar 2021 09:23:27 GMT"}
+20210413073421 {"uri": "https://web.archive.org/web/20210413073421/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "rel": "memento", "datetime": "Tue, 13 Apr 2021 07:34:21 GMT"}
+20210416012950 {"uri": "https://web.archive.org/web/20210416012950/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "rel": "memento", "datetime": "Fri, 16 Apr 2021 01:29:50 GMT"}
+20220106213121 {"uri": "https://web.archive.org/web/20220106213121/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "rel": "memento", "datetime": "Thu, 06 Jan 2022 21:31:21 GMT"}
+20220129082215 {"uri": "https://web.archive.org/web/20220129082215/https://gs.howard.edu/graduate-programs/biochemistry-and-molecular-biology", "rel": "last memento", "datetime": "Sat, 29 Jan 2022 08:22:15 GMT"}

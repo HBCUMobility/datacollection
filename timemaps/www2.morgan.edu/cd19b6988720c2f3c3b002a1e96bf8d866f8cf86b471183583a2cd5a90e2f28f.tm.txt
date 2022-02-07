@@ -1,0 +1,30 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/cla/sociology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/cla/sociology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/cla/sociology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/cla/sociology", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/cla/sociology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/cla/sociology"}}
+20171019010452 {"uri": "https://web.archive.org/web/20171019010452/http://www.morgan.edu:80/cla/sociology", "rel": "first memento", "datetime": "Thu, 19 Oct 2017 01:04:52 GMT"}
+20171103202002 {"uri": "https://web.archive.org/web/20171103202002/http://morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Fri, 03 Nov 2017 20:20:02 GMT"}
+20171109140902 {"uri": "https://web.archive.org/web/20171109140902/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Thu, 09 Nov 2017 14:09:02 GMT"}
+20171119203012 {"uri": "https://web.archive.org/web/20171119203012/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Sun, 19 Nov 2017 20:30:12 GMT"}
+20171226154313 {"uri": "https://web.archive.org/web/20171226154313/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Tue, 26 Dec 2017 15:43:13 GMT"}
+20180129134938 {"uri": "https://web.archive.org/web/20180129134938/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Mon, 29 Jan 2018 13:49:38 GMT"}
+20180319081240 {"uri": "https://web.archive.org/web/20180319081240/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Mon, 19 Mar 2018 08:12:40 GMT"}
+20180320052529 {"uri": "https://web.archive.org/web/20180320052529/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Tue, 20 Mar 2018 05:25:29 GMT"}
+20180421151007 {"uri": "https://web.archive.org/web/20180421151007/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Sat, 21 Apr 2018 15:10:07 GMT"}
+20180527095944 {"uri": "https://web.archive.org/web/20180527095944/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Sun, 27 May 2018 09:59:44 GMT"}
+20180630085447 {"uri": "https://web.archive.org/web/20180630085447/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Sat, 30 Jun 2018 08:54:47 GMT"}
+20180802023452 {"uri": "https://web.archive.org/web/20180802023452/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Thu, 02 Aug 2018 02:34:52 GMT"}
+20180803105514 {"uri": "https://web.archive.org/web/20180803105514/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Fri, 03 Aug 2018 10:55:14 GMT"}
+20180904015701 {"uri": "https://web.archive.org/web/20180904015701/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Tue, 04 Sep 2018 01:57:01 GMT"}
+20181022153854 {"uri": "https://web.archive.org/web/20181022153854/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Mon, 22 Oct 2018 15:38:54 GMT"}
+20181023163529 {"uri": "https://web.archive.org/web/20181023163529/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Tue, 23 Oct 2018 16:35:29 GMT"}
+20190908232809 {"uri": "https://web.archive.org/web/20190908232809/http://www.morgan.edu:80/cla/sociology", "rel": "memento", "datetime": "Sun, 08 Sep 2019 23:28:09 GMT"}
+20200807184548 {"uri": "https://web.archive.org/web/20200807184548/https://www.morgan.edu/cla/sociology", "rel": "memento", "datetime": "Fri, 07 Aug 2020 18:45:48 GMT"}
+20200929155708 {"uri": "https://web.archive.org/web/20200929155708/https://www.morgan.edu/cla/sociology", "rel": "memento", "datetime": "Tue, 29 Sep 2020 15:57:08 GMT"}
+20210125115016 {"uri": "https://web.archive.org/web/20210125115016/https://www.morgan.edu/cla/sociology", "rel": "memento", "datetime": "Mon, 25 Jan 2021 11:50:16 GMT"}
+20210414081240 {"uri": "https://web.archive.org/web/20210414081240/https://morgan.edu/cla/sociology", "rel": "memento", "datetime": "Wed, 14 Apr 2021 08:12:40 GMT"}
+20210414144133 {"uri": "https://web.archive.org/web/20210414144133/https://www.morgan.edu/cla/sociology", "rel": "memento", "datetime": "Wed, 14 Apr 2021 14:41:33 GMT"}
+20210415071016 {"uri": "https://web.archive.org/web/20210415071016/https://www.morgan.edu/cla/sociology", "rel": "memento", "datetime": "Thu, 15 Apr 2021 07:10:16 GMT"}
+20210817025343 {"uri": "https://web.archive.org/web/20210817025343/https://morgan.edu/cla/sociology", "rel": "last memento", "datetime": "Tue, 17 Aug 2021 02:53:43 GMT"}

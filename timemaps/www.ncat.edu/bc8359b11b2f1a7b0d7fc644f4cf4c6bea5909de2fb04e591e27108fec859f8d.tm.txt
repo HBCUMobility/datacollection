@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php"}}
+20200925111340 {"uri": "https://web.archive.org/web/20200925111340/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php", "rel": "first memento", "datetime": "Fri, 25 Sep 2020 11:13:40 GMT"}
+20201125172404 {"uri": "https://web.archive.org/web/20201125172404/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php", "rel": "memento", "datetime": "Wed, 25 Nov 2020 17:24:04 GMT"}
+20210128162911 {"uri": "https://web.archive.org/web/20210128162911/https://ncat.edu/cahss/departments/visual-and-performing-arts/index.php", "rel": "memento", "datetime": "Thu, 28 Jan 2021 16:29:11 GMT"}
+20210418214055 {"uri": "https://web.archive.org/web/20210418214055/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 21:40:55 GMT"}
+20210516160736 {"uri": "https://web.archive.org/web/20210516160736/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/index.php", "rel": "memento", "datetime": "Sun, 16 May 2021 16:07:36 GMT"}
+20210518023842 {"uri": "https://web.archive.org/web/20210518023842/https://ncat.edu/cahss/departments/visual-and-performing-arts/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 02:38:42 GMT"}
+20210817050059 {"uri": "https://web.archive.org/web/20210817050059/https://ncat.edu/cahss/departments/visual-and-performing-arts/index.php", "rel": "last memento", "datetime": "Tue, 17 Aug 2021 05:00:59 GMT"}

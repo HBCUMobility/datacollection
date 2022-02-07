@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/chemistry"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/chemistry"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/chemistry"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/chemistry", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/chemistry", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/chemistry"}}
+20170510060834 {"uri": "https://web.archive.org/web/20170510060834/http://gs.howard.edu:80/graduate-programs/chemistry", "rel": "first memento", "datetime": "Wed, 10 May 2017 06:08:34 GMT"}
+20170610005840 {"uri": "https://web.archive.org/web/20170610005840/http://gs.howard.edu:80/graduate-programs/chemistry", "rel": "memento", "datetime": "Sat, 10 Jun 2017 00:58:40 GMT"}
+20170708142648 {"uri": "https://web.archive.org/web/20170708142648/https://gs.howard.edu/graduate-programs/chemistry", "rel": "memento", "datetime": "Sat, 08 Jul 2017 14:26:48 GMT"}
+20200126055308 {"uri": "https://web.archive.org/web/20200126055308/https://gs.howard.edu/graduate-programs/chemistry", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:53:08 GMT"}
+20210416002933 {"uri": "https://web.archive.org/web/20210416002933/https://gs.howard.edu/graduate-programs/chemistry", "rel": "memento", "datetime": "Fri, 16 Apr 2021 00:29:33 GMT"}
+20211118155532 {"uri": "https://web.archive.org/web/20211118155532/https://gs.howard.edu/graduate-programs/chemistry", "rel": "memento", "datetime": "Thu, 18 Nov 2021 15:55:32 GMT"}
+20220106213005 {"uri": "https://web.archive.org/web/20220106213005/https://gs.howard.edu/graduate-programs/chemistry", "rel": "last memento", "datetime": "Thu, 06 Jan 2022 21:30:05 GMT"}

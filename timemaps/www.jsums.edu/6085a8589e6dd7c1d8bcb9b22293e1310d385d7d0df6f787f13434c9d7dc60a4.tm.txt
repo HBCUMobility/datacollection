@@ -1,0 +1,48 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/eecompsci/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.jsums.edu/eecompsci/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.jsums.edu/eecompsci/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.jsums.edu/eecompsci/", "json_format": "http://localhost:1208/timemap/json/https://www.jsums.edu/eecompsci/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/eecompsci/"}}
+20180804084200 {"uri": "https://web.archive.org/web/20180804084200/http://www.jsums.edu:80/eecompsci/", "rel": "first memento", "datetime": "Sat, 04 Aug 2018 08:42:00 GMT"}
+20180927100708 {"uri": "https://web.archive.org/web/20180927100708/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Thu, 27 Sep 2018 10:07:08 GMT"}
+20180927100708 {"uri": "https://web.archive.org/web/20180927100708/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Thu, 27 Sep 2018 10:07:08 GMT"}
+20181004135656 {"uri": "https://web.archive.org/web/20181004135656/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Thu, 04 Oct 2018 13:56:56 GMT"}
+20181028162830 {"uri": "https://web.archive.org/web/20181028162830/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Sun, 28 Oct 2018 16:28:30 GMT"}
+20181028162830 {"uri": "https://web.archive.org/web/20181028162830/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Sun, 28 Oct 2018 16:28:30 GMT"}
+20181128164131 {"uri": "https://web.archive.org/web/20181128164131/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Wed, 28 Nov 2018 16:41:31 GMT"}
+20181128164131 {"uri": "https://web.archive.org/web/20181128164131/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Wed, 28 Nov 2018 16:41:31 GMT"}
+20181205202657 {"uri": "https://web.archive.org/web/20181205202657/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Wed, 05 Dec 2018 20:26:57 GMT"}
+20181230092514 {"uri": "https://web.archive.org/web/20181230092514/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Sun, 30 Dec 2018 09:25:14 GMT"}
+20181230092514 {"uri": "https://web.archive.org/web/20181230092514/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Sun, 30 Dec 2018 09:25:14 GMT"}
+20190130111226 {"uri": "https://web.archive.org/web/20190130111226/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Wed, 30 Jan 2019 11:12:26 GMT"}
+20190130111226 {"uri": "https://web.archive.org/web/20190130111226/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Wed, 30 Jan 2019 11:12:26 GMT"}
+20190204114224 {"uri": "https://web.archive.org/web/20190204114224/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Mon, 04 Feb 2019 11:42:24 GMT"}
+20190302151158 {"uri": "https://web.archive.org/web/20190302151158/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Sat, 02 Mar 2019 15:11:58 GMT"}
+20190302151158 {"uri": "https://web.archive.org/web/20190302151158/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Sat, 02 Mar 2019 15:11:58 GMT"}
+20190402165655 {"uri": "https://web.archive.org/web/20190402165655/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Tue, 02 Apr 2019 16:56:55 GMT"}
+20190402165655 {"uri": "https://web.archive.org/web/20190402165655/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Tue, 02 Apr 2019 16:56:55 GMT"}
+20190406174405 {"uri": "https://web.archive.org/web/20190406174405/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Sat, 06 Apr 2019 17:44:05 GMT"}
+20190503144300 {"uri": "https://web.archive.org/web/20190503144300/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Fri, 03 May 2019 14:43:00 GMT"}
+20190503144300 {"uri": "https://web.archive.org/web/20190503144300/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Fri, 03 May 2019 14:43:00 GMT"}
+20190604032414 {"uri": "https://web.archive.org/web/20190604032414/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Tue, 04 Jun 2019 03:24:14 GMT"}
+20190604032414 {"uri": "https://web.archive.org/web/20190604032414/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Tue, 04 Jun 2019 03:24:14 GMT"}
+20190606215103 {"uri": "https://web.archive.org/web/20190606215103/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Thu, 06 Jun 2019 21:51:03 GMT"}
+20190705171358 {"uri": "https://web.archive.org/web/20190705171358/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Fri, 05 Jul 2019 17:13:58 GMT"}
+20190705171358 {"uri": "https://web.archive.org/web/20190705171358/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Fri, 05 Jul 2019 17:13:58 GMT"}
+20190805192316 {"uri": "https://web.archive.org/web/20190805192316/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Mon, 05 Aug 2019 19:23:16 GMT"}
+20190805192316 {"uri": "https://web.archive.org/web/20190805192316/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Mon, 05 Aug 2019 19:23:16 GMT"}
+20190807205910 {"uri": "https://web.archive.org/web/20190807205910/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Wed, 07 Aug 2019 20:59:10 GMT"}
+20190905202653 {"uri": "https://web.archive.org/web/20190905202653/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Thu, 05 Sep 2019 20:26:53 GMT"}
+20190905202653 {"uri": "https://web.archive.org/web/20190905202653/http://www.jsums.edu:80/eecompsci", "rel": "memento", "datetime": "Thu, 05 Sep 2019 20:26:53 GMT"}
+20191021081121 {"uri": "https://web.archive.org/web/20191021081121/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Mon, 21 Oct 2019 08:11:21 GMT"}
+20191220120835 {"uri": "https://web.archive.org/web/20191220120835/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Fri, 20 Dec 2019 12:08:35 GMT"}
+20200218183629 {"uri": "https://web.archive.org/web/20200218183629/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Tue, 18 Feb 2020 18:36:29 GMT"}
+20200313102823 {"uri": "https://web.archive.org/web/20200313102823/http://www.jsums.edu:80/eecompsci/", "rel": "memento", "datetime": "Fri, 13 Mar 2020 10:28:23 GMT"}
+20201020051609 {"uri": "https://web.archive.org/web/20201020051609/https://www.jsums.edu/eecompsci/", "rel": "memento", "datetime": "Tue, 20 Oct 2020 05:16:09 GMT"}
+20210116015218 {"uri": "https://web.archive.org/web/20210116015218/https://www.jsums.edu/eecompsci/", "rel": "memento", "datetime": "Sat, 16 Jan 2021 01:52:18 GMT"}
+20210412023707 {"uri": "https://web.archive.org/web/20210412023707/https://www.jsums.edu/eecompsci/", "rel": "memento", "datetime": "Mon, 12 Apr 2021 02:37:07 GMT"}
+20210415041741 {"uri": "https://web.archive.org/web/20210415041741/http://www.jsums.edu/eecompsci/", "rel": "memento", "datetime": "Thu, 15 Apr 2021 04:17:41 GMT"}
+20210418025557 {"uri": "https://web.archive.org/web/20210418025557/http://www.jsums.edu/eecompsci/", "rel": "memento", "datetime": "Sun, 18 Apr 2021 02:55:57 GMT"}
+20210425095336 {"uri": "https://web.archive.org/web/20210425095336/https://www.jsums.edu/eecompsci/", "rel": "memento", "datetime": "Sun, 25 Apr 2021 09:53:36 GMT"}
+20210517164242 {"uri": "https://web.archive.org/web/20210517164242/https://www.jsums.edu/eecompsci/", "rel": "last memento", "datetime": "Mon, 17 May 2021 16:42:42 GMT"}

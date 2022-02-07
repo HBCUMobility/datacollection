@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/education/grad-studies/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.gram.edu/academics/majors/education/grad-studies/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.gram.edu/academics/majors/education/grad-studies/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.gram.edu/academics/majors/education/grad-studies/", "json_format": "http://localhost:1208/timemap/json/https://www.gram.edu/academics/majors/education/grad-studies/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/education/grad-studies/"}}
+20201125200942 {"uri": "https://web.archive.org/web/20201125200942/https://www.gram.edu/academics/majors/education/grad-studies/", "rel": "first memento", "datetime": "Wed, 25 Nov 2020 20:09:42 GMT"}
+20201204053656 {"uri": "https://web.archive.org/web/20201204053656/https://gram.edu/academics/majors/education/grad-studies/", "rel": "memento", "datetime": "Fri, 04 Dec 2020 05:36:56 GMT"}
+20210418010832 {"uri": "https://web.archive.org/web/20210418010832/https://www.gram.edu/academics/majors/education/grad-studies/", "rel": "memento", "datetime": "Sun, 18 Apr 2021 01:08:32 GMT"}
+20210421083931 {"uri": "https://web.archive.org/web/20210421083931/https://www.gram.edu/academics/majors/education/grad-studies/", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 08:39:31 GMT"}

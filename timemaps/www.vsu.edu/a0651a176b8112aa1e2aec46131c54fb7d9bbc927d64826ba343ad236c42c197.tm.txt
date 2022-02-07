@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/business/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/business/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/business/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/business/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/business/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/business/index.php"}}
+20210121212716 {"uri": "https://web.archive.org/web/20210121212716/https://www.vsu.edu/business/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 21:27:16 GMT"}
+20210123163015 {"uri": "https://web.archive.org/web/20210123163015/https://www.vsu.edu/business/index.php", "rel": "memento", "datetime": "Sat, 23 Jan 2021 16:30:15 GMT"}
+20210416200611 {"uri": "https://web.archive.org/web/20210416200611/https://www.vsu.edu/business/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 20:06:11 GMT"}
+20210613233408 {"uri": "https://web.archive.org/web/20210613233408/https://www.vsu.edu/business/index.php", "rel": "memento", "datetime": "Sun, 13 Jun 2021 23:34:08 GMT"}
+20211217114444 {"uri": "https://web.archive.org/web/20211217114444/https://www.vsu.edu/business/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:44:44 GMT"}

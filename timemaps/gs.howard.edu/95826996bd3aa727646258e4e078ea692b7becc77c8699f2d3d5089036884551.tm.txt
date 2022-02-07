@@ -1,0 +1,17 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/computer-science"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/computer-science"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/computer-science"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/computer-science", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/computer-science", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/computer-science"}}
+20170708142141 {"uri": "https://web.archive.org/web/20170708142141/https://gs.howard.edu/graduate-programs/computer-science", "rel": "first memento", "datetime": "Sat, 08 Jul 2017 14:21:41 GMT"}
+20200126055954 {"uri": "https://web.archive.org/web/20200126055954/https://gs.howard.edu/graduate-programs/computer-science", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:59:54 GMT"}
+20201001050311 {"uri": "https://web.archive.org/web/20201001050311/https://gs.howard.edu/graduate-programs/computer-science", "rel": "memento", "datetime": "Thu, 01 Oct 2020 05:03:11 GMT"}
+20210121145719 {"uri": "https://web.archive.org/web/20210121145719/https://gs.howard.edu/graduate-programs/computer-science", "rel": "memento", "datetime": "Thu, 21 Jan 2021 14:57:19 GMT"}
+20210413072641 {"uri": "https://web.archive.org/web/20210413072641/https://gs.howard.edu/graduate-programs/computer-science", "rel": "memento", "datetime": "Tue, 13 Apr 2021 07:26:41 GMT"}
+20210416002342 {"uri": "https://web.archive.org/web/20210416002342/https://gs.howard.edu/graduate-programs/computer-science", "rel": "memento", "datetime": "Fri, 16 Apr 2021 00:23:42 GMT"}
+20210507115358 {"uri": "https://web.archive.org/web/20210507115358/https://gs.howard.edu/graduate-programs/computer-science", "rel": "memento", "datetime": "Fri, 07 May 2021 11:53:58 GMT"}
+20210819084140 {"uri": "https://web.archive.org/web/20210819084140/https://gs.howard.edu/graduate-programs/computer-science", "rel": "memento", "datetime": "Thu, 19 Aug 2021 08:41:40 GMT"}
+20210904000412 {"uri": "https://web.archive.org/web/20210904000412/https://gs.howard.edu/graduate-programs/computer-science", "rel": "memento", "datetime": "Sat, 04 Sep 2021 00:04:12 GMT"}
+20211118155406 {"uri": "https://web.archive.org/web/20211118155406/https://gs.howard.edu/graduate-programs/computer-science", "rel": "memento", "datetime": "Thu, 18 Nov 2021 15:54:06 GMT"}
+20211118155527 {"uri": "https://web.archive.org/web/20211118155527/https://gs.howard.edu/graduate-programs/computer-science", "rel": "last memento", "datetime": "Thu, 18 Nov 2021 15:55:27 GMT"}

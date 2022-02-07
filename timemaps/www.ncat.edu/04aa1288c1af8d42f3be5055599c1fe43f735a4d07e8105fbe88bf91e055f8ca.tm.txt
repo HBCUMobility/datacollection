@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/chhs/departments/psychology/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/chhs/departments/psychology/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/chhs/departments/psychology/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/chhs/departments/psychology/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/chhs/departments/psychology/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/chhs/departments/psychology/index.php"}}
+20200903111844 {"uri": "https://web.archive.org/web/20200903111844/https://www.ncat.edu/chhs/departments/psychology/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 11:18:44 GMT"}
+20200922213934 {"uri": "https://web.archive.org/web/20200922213934/https://ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 21:39:34 GMT"}
+20200925111703 {"uri": "https://web.archive.org/web/20200925111703/https://www.ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 11:17:03 GMT"}
+20201128025517 {"uri": "https://web.archive.org/web/20201128025517/https://ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:55:17 GMT"}
+20201204195204 {"uri": "https://web.archive.org/web/20201204195204/https://www.ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Fri, 04 Dec 2020 19:52:04 GMT"}
+20201205000856 {"uri": "https://web.archive.org/web/20201205000856/https://www.ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Sat, 05 Dec 2020 00:08:56 GMT"}
+20210131080749 {"uri": "https://web.archive.org/web/20210131080749/https://ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Sun, 31 Jan 2021 08:07:49 GMT"}
+20210302084149 {"uri": "https://web.archive.org/web/20210302084149/https://ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 08:41:49 GMT"}
+20210419020751 {"uri": "https://web.archive.org/web/20210419020751/https://www.ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 02:07:51 GMT"}
+20210501035211 {"uri": "https://web.archive.org/web/20210501035211/https://www.ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Sat, 01 May 2021 03:52:11 GMT"}
+20210518024031 {"uri": "https://web.archive.org/web/20210518024031/https://ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 02:40:31 GMT"}
+20210812002142 {"uri": "https://web.archive.org/web/20210812002142/https://ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 00:21:42 GMT"}
+20210814130045 {"uri": "https://web.archive.org/web/20210814130045/https://ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Sat, 14 Aug 2021 13:00:45 GMT"}
+20211117094709 {"uri": "https://web.archive.org/web/20211117094709/https://www.ncat.edu/chhs/departments/psychology/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:09 GMT"}
+20220107221735 {"uri": "https://web.archive.org/web/20220107221735/https://www.ncat.edu/chhs/departments/psychology/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:17:35 GMT"}

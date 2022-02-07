@@ -1,0 +1,18 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/subhome/computer-science-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.subr.edu/subhome/computer-science-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.subr.edu/subhome/computer-science-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.subr.edu/subhome/computer-science-department", "json_format": "http://localhost:1208/timemap/json/https://www.subr.edu/subhome/computer-science-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.subr.edu/subhome/computer-science-department"}}
+20181205131841 {"uri": "https://web.archive.org/web/20181205131841/http://www.subr.edu:80/subhome/computer-science-department", "rel": "first memento", "datetime": "Wed, 05 Dec 2018 13:18:41 GMT"}
+20190204111410 {"uri": "https://web.archive.org/web/20190204111410/http://www.subr.edu:80/subhome/computer-science-department", "rel": "memento", "datetime": "Mon, 04 Feb 2019 11:14:10 GMT"}
+20190407095732 {"uri": "https://web.archive.org/web/20190407095732/http://www.subr.edu:80/subhome/computer-science-department", "rel": "memento", "datetime": "Sun, 07 Apr 2019 09:57:32 GMT"}
+20190606193936 {"uri": "https://web.archive.org/web/20190606193936/http://www.subr.edu:80/subhome/computer-science-department", "rel": "memento", "datetime": "Thu, 06 Jun 2019 19:39:36 GMT"}
+20190806093834 {"uri": "https://web.archive.org/web/20190806093834/http://www.subr.edu:80/subhome/computer-science-department", "rel": "memento", "datetime": "Tue, 06 Aug 2019 09:38:34 GMT"}
+20191021051442 {"uri": "https://web.archive.org/web/20191021051442/http://www.subr.edu:80/subhome/computer-science-department", "rel": "memento", "datetime": "Mon, 21 Oct 2019 05:14:42 GMT"}
+20191220102007 {"uri": "https://web.archive.org/web/20191220102007/http://www.subr.edu:80/subhome/computer-science-department", "rel": "memento", "datetime": "Fri, 20 Dec 2019 10:20:07 GMT"}
+20200218144848 {"uri": "https://web.archive.org/web/20200218144848/http://www.subr.edu:80/subhome/computer-science-department", "rel": "memento", "datetime": "Tue, 18 Feb 2020 14:48:48 GMT"}
+20200501223651 {"uri": "https://web.archive.org/web/20200501223651/http://www.subr.edu:80/subhome/computer-science-department", "rel": "memento", "datetime": "Fri, 01 May 2020 22:36:51 GMT"}
+20200701032543 {"uri": "https://web.archive.org/web/20200701032543/http://www.subr.edu:80/subhome/computer-science-department", "rel": "memento", "datetime": "Wed, 01 Jul 2020 03:25:43 GMT"}
+20210503210731 {"uri": "https://web.archive.org/web/20210503210731/http://www.subr.edu/subhome/computer-science-department", "rel": "memento", "datetime": "Mon, 03 May 2021 21:07:31 GMT"}
+20210511075237 {"uri": "https://web.archive.org/web/20210511075237/https://www.subr.edu/subhome/computer-science-department", "rel": "last memento", "datetime": "Tue, 11 May 2021 07:52:37 GMT"}

@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/math/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/cost/math/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/cost/math/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/cost/math/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/cost/math/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/math/index.shtml"}}
+20150920163312 {"uri": "https://web.archive.org/web/20150920163312/http://www.savannahstate.edu/cost/math/index.shtml", "rel": "first memento", "datetime": "Sun, 20 Sep 2015 16:33:12 GMT"}
+20170524054421 {"uri": "https://web.archive.org/web/20170524054421/http://www.savannahstate.edu:80/cost/math/index.shtml", "rel": "memento", "datetime": "Wed, 24 May 2017 05:44:21 GMT"}
+20171030225559 {"uri": "https://web.archive.org/web/20171030225559/http://www.savannahstate.edu:80/cost/math/index.shtml", "rel": "last memento", "datetime": "Mon, 30 Oct 2017 22:55:59 GMT"}

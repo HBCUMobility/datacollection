@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/kinesiology-and-recreation"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/chs/kinesiology-and-recreation"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/chs/kinesiology-and-recreation"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/chs/kinesiology-and-recreation", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/chs/kinesiology-and-recreation", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/kinesiology-and-recreation"}}
+20201101035506 {"uri": "https://web.archive.org/web/20201101035506/https://www.nccu.edu/chs/kinesiology-and-recreation", "rel": "first memento", "datetime": "Sun, 01 Nov 2020 03:55:06 GMT"}
+20210111144523 {"uri": "https://web.archive.org/web/20210111144523/https://www.nccu.edu/chs/kinesiology-and-recreation", "rel": "memento", "datetime": "Mon, 11 Jan 2021 14:45:23 GMT"}
+20210421194320 {"uri": "https://web.archive.org/web/20210421194320/https://www.nccu.edu/chs/kinesiology-and-recreation", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 19:43:20 GMT"}

@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://scsu.edu/academics/department-of-civil-mechanical-engineering-technology-and-nuclear-engineering/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://scsu.edu/academics/department-of-civil-mechanical-engineering-technology-and-nuclear-engineering/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://scsu.edu/academics/department-of-civil-mechanical-engineering-technology-and-nuclear-engineering/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://scsu.edu/academics/department-of-civil-mechanical-engineering-technology-and-nuclear-engineering/", "json_format": "http://localhost:1208/timemap/json/https://scsu.edu/academics/department-of-civil-mechanical-engineering-technology-and-nuclear-engineering/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scsu.edu/academics/department-of-civil-mechanical-engineering-technology-and-nuclear-engineering/"}}
+20211203025803 {"uri": "https://wayback.archive-it.org/all/20211203025803/https://scsu.edu/academics/department-of-civil-mechanical-engineering-technology-and-nuclear-engineering/", "rel": "first last memento", "datetime": "Fri, 03 Dec 2021 02:58:03 GMT"}

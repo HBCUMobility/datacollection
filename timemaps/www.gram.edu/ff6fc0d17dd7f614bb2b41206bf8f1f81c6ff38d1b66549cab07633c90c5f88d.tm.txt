@@ -1,0 +1,97 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/", "json_format": "http://localhost:1208/timemap/json/https://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/"}}
+20140929110912 {"uri": "https://web.archive.org/web/20140929110912/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "first memento", "datetime": "Mon, 29 Sep 2014 11:09:12 GMT"}
+20140929110912 {"uri": "https://web.archive.org/web/20140929110912/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Mon, 29 Sep 2014 11:09:12 GMT"}
+20141015172513 {"uri": "https://web.archive.org/web/20141015172513/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 15 Oct 2014 17:25:13 GMT"}
+20141015172513 {"uri": "https://web.archive.org/web/20141015172513/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Wed, 15 Oct 2014 17:25:13 GMT"}
+20141115143247 {"uri": "https://web.archive.org/web/20141115143247/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 15 Nov 2014 14:32:47 GMT"}
+20141115143247 {"uri": "https://web.archive.org/web/20141115143247/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Sat, 15 Nov 2014 14:32:47 GMT"}
+20141128174358 {"uri": "https://web.archive.org/web/20141128174358/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Fri, 28 Nov 2014 17:43:58 GMT"}
+20141216093456 {"uri": "https://web.archive.org/web/20141216093456/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 16 Dec 2014 09:34:56 GMT"}
+20141216093456 {"uri": "https://web.archive.org/web/20141216093456/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Tue, 16 Dec 2014 09:34:56 GMT"}
+20150116031601 {"uri": "https://web.archive.org/web/20150116031601/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Fri, 16 Jan 2015 03:16:01 GMT"}
+20150116031601 {"uri": "https://web.archive.org/web/20150116031601/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Fri, 16 Jan 2015 03:16:01 GMT"}
+20150128120434 {"uri": "https://web.archive.org/web/20150128120434/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 28 Jan 2015 12:04:34 GMT"}
+20150209022526 {"uri": "https://web.archive.org/web/20150209022526/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Mon, 09 Feb 2015 02:25:26 GMT"}
+20150410184703 {"uri": "https://web.archive.org/web/20150410184703/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Fri, 10 Apr 2015 18:47:03 GMT"}
+20150412003013 {"uri": "https://web.archive.org/web/20150412003013/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sun, 12 Apr 2015 00:30:13 GMT"}
+20150418001120 {"uri": "https://web.archive.org/web/20150418001120/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 18 Apr 2015 00:11:20 GMT"}
+20150418001120 {"uri": "https://web.archive.org/web/20150418001120/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Sat, 18 Apr 2015 00:11:20 GMT"}
+20150520110211 {"uri": "https://web.archive.org/web/20150520110211/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 20 May 2015 11:02:11 GMT"}
+20150520110211 {"uri": "https://web.archive.org/web/20150520110211/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Wed, 20 May 2015 11:02:11 GMT"}
+20150606124435 {"uri": "https://web.archive.org/web/20150606124435/http://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 06 Jun 2015 12:44:35 GMT"}
+20150611082649 {"uri": "https://web.archive.org/web/20150611082649/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Thu, 11 Jun 2015 08:26:49 GMT"}
+20150623144647 {"uri": "https://web.archive.org/web/20150623144647/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 23 Jun 2015 14:46:47 GMT"}
+20150623144647 {"uri": "https://web.archive.org/web/20150623144647/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Tue, 23 Jun 2015 14:46:47 GMT"}
+20150801202900 {"uri": "https://web.archive.org/web/20150801202900/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 01 Aug 2015 20:29:00 GMT"}
+20150801202900 {"uri": "https://web.archive.org/web/20150801202900/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Sat, 01 Aug 2015 20:29:00 GMT"}
+20150811053424 {"uri": "https://web.archive.org/web/20150811053424/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 11 Aug 2015 05:34:24 GMT"}
+20150905160927 {"uri": "https://web.archive.org/web/20150905160927/http://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 16:09:27 GMT"}
+20150907012540 {"uri": "https://web.archive.org/web/20150907012540/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Mon, 07 Sep 2015 01:25:40 GMT"}
+20150907012540 {"uri": "https://web.archive.org/web/20150907012540/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Mon, 07 Sep 2015 01:25:40 GMT"}
+20151008170812 {"uri": "https://web.archive.org/web/20151008170812/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Thu, 08 Oct 2015 17:08:12 GMT"}
+20151008170812 {"uri": "https://web.archive.org/web/20151008170812/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Thu, 08 Oct 2015 17:08:12 GMT"}
+20151012030009 {"uri": "https://web.archive.org/web/20151012030009/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Mon, 12 Oct 2015 03:00:09 GMT"}
+20151108090223 {"uri": "https://web.archive.org/web/20151108090223/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sun, 08 Nov 2015 09:02:23 GMT"}
+20151108090223 {"uri": "https://web.archive.org/web/20151108090223/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Sun, 08 Nov 2015 09:02:23 GMT"}
+20151209223604 {"uri": "https://web.archive.org/web/20151209223604/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 09 Dec 2015 22:36:04 GMT"}
+20151209223604 {"uri": "https://web.archive.org/web/20151209223604/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Wed, 09 Dec 2015 22:36:04 GMT"}
+20151211212115 {"uri": "https://web.archive.org/web/20151211212115/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Fri, 11 Dec 2015 21:21:15 GMT"}
+20160109131444 {"uri": "https://web.archive.org/web/20160109131444/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 09 Jan 2016 13:14:44 GMT"}
+20160109131444 {"uri": "https://web.archive.org/web/20160109131444/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Sat, 09 Jan 2016 13:14:44 GMT"}
+20160209114412 {"uri": "https://web.archive.org/web/20160209114412/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 09 Feb 2016 11:44:12 GMT"}
+20160209114412 {"uri": "https://web.archive.org/web/20160209114412/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Tue, 09 Feb 2016 11:44:12 GMT"}
+20160210154915 {"uri": "https://web.archive.org/web/20160210154915/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 10 Feb 2016 15:49:15 GMT"}
+20160311214038 {"uri": "https://web.archive.org/web/20160311214038/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Fri, 11 Mar 2016 21:40:38 GMT"}
+20160311214038 {"uri": "https://web.archive.org/web/20160311214038/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Fri, 11 Mar 2016 21:40:38 GMT"}
+20160322001932 {"uri": "https://web.archive.org/web/20160322001932/http://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 22 Mar 2016 00:19:32 GMT"}
+20160411142058 {"uri": "https://web.archive.org/web/20160411142058/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Mon, 11 Apr 2016 14:20:58 GMT"}
+20160611121253 {"uri": "https://web.archive.org/web/20160611121253/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 11 Jun 2016 12:12:53 GMT"}
+20160811205324 {"uri": "https://web.archive.org/web/20160811205324/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Thu, 11 Aug 2016 20:53:24 GMT"}
+20161012171534 {"uri": "https://web.archive.org/web/20161012171534/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 12 Oct 2016 17:15:34 GMT"}
+20161231024956 {"uri": "https://web.archive.org/web/20161231024956/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 31 Dec 2016 02:49:56 GMT"}
+20170304052247 {"uri": "https://web.archive.org/web/20170304052247/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 04 Mar 2017 05:22:47 GMT"}
+20170505083151 {"uri": "https://web.archive.org/web/20170505083151/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Fri, 05 May 2017 08:31:51 GMT"}
+20170705222953 {"uri": "https://web.archive.org/web/20170705222953/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 05 Jul 2017 22:29:53 GMT"}
+20170905055318 {"uri": "https://web.archive.org/web/20170905055318/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 05 Sep 2017 05:53:18 GMT"}
+20171105114930 {"uri": "https://web.archive.org/web/20171105114930/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sun, 05 Nov 2017 11:49:30 GMT"}
+20180106143651 {"uri": "https://web.archive.org/web/20180106143651/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 06 Jan 2018 14:36:51 GMT"}
+20180308213230 {"uri": "https://web.archive.org/web/20180308213230/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Thu, 08 Mar 2018 21:32:30 GMT"}
+20180509022013 {"uri": "https://web.archive.org/web/20180509022013/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 09 May 2018 02:20:13 GMT"}
+20180708183205 {"uri": "https://web.archive.org/web/20180708183205/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sun, 08 Jul 2018 18:32:05 GMT"}
+20180908070029 {"uri": "https://web.archive.org/web/20180908070029/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 08 Sep 2018 07:00:29 GMT"}
+20190108003941 {"uri": "https://web.archive.org/web/20190108003941/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 08 Jan 2019 00:39:41 GMT"}
+20190213184635 {"uri": "https://web.archive.org/web/20190213184635/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 13 Feb 2019 18:46:35 GMT"}
+20190213184635 {"uri": "https://web.archive.org/web/20190213184635/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Wed, 13 Feb 2019 18:46:35 GMT"}
+20190309230116 {"uri": "https://web.archive.org/web/20190309230116/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 09 Mar 2019 23:01:16 GMT"}
+20190317121757 {"uri": "https://web.archive.org/web/20190317121757/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sun, 17 Mar 2019 12:17:57 GMT"}
+20190317121757 {"uri": "https://web.archive.org/web/20190317121757/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Sun, 17 Mar 2019 12:17:57 GMT"}
+20190417214459 {"uri": "https://web.archive.org/web/20190417214459/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 17 Apr 2019 21:44:59 GMT"}
+20190417214459 {"uri": "https://web.archive.org/web/20190417214459/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Wed, 17 Apr 2019 21:44:59 GMT"}
+20190510071147 {"uri": "https://web.archive.org/web/20190510071147/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Fri, 10 May 2019 07:11:47 GMT"}
+20190518184929 {"uri": "https://web.archive.org/web/20190518184929/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 18 May 2019 18:49:29 GMT"}
+20190518184929 {"uri": "https://web.archive.org/web/20190518184929/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Sat, 18 May 2019 18:49:29 GMT"}
+20190619035430 {"uri": "https://web.archive.org/web/20190619035430/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 19 Jun 2019 03:54:30 GMT"}
+20190619035430 {"uri": "https://web.archive.org/web/20190619035430/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Wed, 19 Jun 2019 03:54:30 GMT"}
+20190702172639 {"uri": "https://web.archive.org/web/20190702172639/http://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 02 Jul 2019 17:26:39 GMT"}
+20190712125219 {"uri": "https://web.archive.org/web/20190712125219/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Fri, 12 Jul 2019 12:52:19 GMT"}
+20190720112818 {"uri": "https://web.archive.org/web/20190720112818/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 20 Jul 2019 11:28:18 GMT"}
+20190720112818 {"uri": "https://web.archive.org/web/20190720112818/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Sat, 20 Jul 2019 11:28:18 GMT"}
+20190820205650 {"uri": "https://web.archive.org/web/20190820205650/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 20 Aug 2019 20:56:50 GMT"}
+20190820205650 {"uri": "https://web.archive.org/web/20190820205650/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Tue, 20 Aug 2019 20:56:50 GMT"}
+20190911034759 {"uri": "https://web.archive.org/web/20190911034759/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 11 Sep 2019 03:47:59 GMT"}
+20190921031134 {"uri": "https://web.archive.org/web/20190921031134/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 21 Sep 2019 03:11:34 GMT"}
+20190921031134 {"uri": "https://web.archive.org/web/20190921031134/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci", "rel": "memento", "datetime": "Sat, 21 Sep 2019 03:11:34 GMT"}
+20191019033411 {"uri": "https://web.archive.org/web/20191019033411/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sat, 19 Oct 2019 03:34:11 GMT"}
+20191118103437 {"uri": "https://web.archive.org/web/20191118103437/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Mon, 18 Nov 2019 10:34:37 GMT"}
+20191218161508 {"uri": "https://web.archive.org/web/20191218161508/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 18 Dec 2019 16:15:08 GMT"}
+20200117214134 {"uri": "https://web.archive.org/web/20200117214134/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Fri, 17 Jan 2020 21:41:34 GMT"}
+20200217024036 {"uri": "https://web.archive.org/web/20200217024036/http://www.gram.edu:80/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Mon, 17 Feb 2020 02:40:36 GMT"}
+20200811155432 {"uri": "https://web.archive.org/web/20200811155432/https://gram.edu/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Tue, 11 Aug 2020 15:54:32 GMT"}
+20200812094226 {"uri": "https://web.archive.org/web/20200812094226/https://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Wed, 12 Aug 2020 09:42:26 GMT"}
+20210418001730 {"uri": "https://web.archive.org/web/20210418001730/https://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/", "rel": "memento", "datetime": "Sun, 18 Apr 2021 00:17:30 GMT"}
+20210516030138 {"uri": "https://web.archive.org/web/20210516030138/https://www.gram.edu/academics/majors/arts-and-sciences/poli-sci/", "rel": "last memento", "datetime": "Sun, 16 May 2021 03:01:38 GMT"}

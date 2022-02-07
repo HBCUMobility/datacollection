@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cobe/academic-departments/management/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cobe/academic-departments/management/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cobe/academic-departments/management/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cobe/academic-departments/management/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cobe/academic-departments/management/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cobe/academic-departments/management/index.php"}}
+20200807145854 {"uri": "https://web.archive.org/web/20200807145854/https://www.ncat.edu/cobe/academic-departments/management/index.php", "rel": "first memento", "datetime": "Fri, 07 Aug 2020 14:58:54 GMT"}
+20200903092639 {"uri": "https://web.archive.org/web/20200903092639/https://www.ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 09:26:39 GMT"}
+20200922210922 {"uri": "https://web.archive.org/web/20200922210922/https://ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 21:09:22 GMT"}
+20201025072922 {"uri": "https://web.archive.org/web/20201025072922/https://www.ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Sun, 25 Oct 2020 07:29:22 GMT"}
+20201128023733 {"uri": "https://web.archive.org/web/20201128023733/https://ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:37:33 GMT"}
+20210119074724 {"uri": "https://web.archive.org/web/20210119074724/https://www.ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Tue, 19 Jan 2021 07:47:24 GMT"}
+20210129093427 {"uri": "https://web.archive.org/web/20210129093427/https://ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 09:34:27 GMT"}
+20210302080643 {"uri": "https://web.archive.org/web/20210302080643/https://ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 08:06:43 GMT"}
+20210419011537 {"uri": "https://web.archive.org/web/20210419011537/https://www.ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 01:15:37 GMT"}
+20210423101942 {"uri": "https://web.archive.org/web/20210423101942/https://www.ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Fri, 23 Apr 2021 10:19:42 GMT"}
+20210501192808 {"uri": "https://web.archive.org/web/20210501192808/https://www.ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Sat, 01 May 2021 19:28:08 GMT"}
+20210518021422 {"uri": "https://web.archive.org/web/20210518021422/https://ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 02:14:22 GMT"}
+20210811214800 {"uri": "https://web.archive.org/web/20210811214800/https://ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:48:00 GMT"}
+20210818055852 {"uri": "https://web.archive.org/web/20210818055852/https://ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Wed, 18 Aug 2021 05:58:52 GMT"}
+20211117094736 {"uri": "https://web.archive.org/web/20211117094736/https://www.ncat.edu/cobe/academic-departments/management/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:36 GMT"}
+20220108013941 {"uri": "https://web.archive.org/web/20220108013941/https://www.ncat.edu/cobe/academic-departments/management/index.php", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 01:39:41 GMT"}

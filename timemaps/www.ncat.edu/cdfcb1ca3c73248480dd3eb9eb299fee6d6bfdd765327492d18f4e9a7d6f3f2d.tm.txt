@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php"}}
+20201205170615 {"uri": "https://web.archive.org/web/20201205170615/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php", "rel": "first memento", "datetime": "Sat, 05 Dec 2020 17:06:15 GMT"}
+20210128154948 {"uri": "https://web.archive.org/web/20210128154948/https://ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php", "rel": "memento", "datetime": "Thu, 28 Jan 2021 15:49:48 GMT"}
+20210419011546 {"uri": "https://web.archive.org/web/20210419011546/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 01:15:46 GMT"}
+20210518020123 {"uri": "https://web.archive.org/web/20210518020123/https://ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 02:01:23 GMT"}
+20211102041340 {"uri": "https://web.archive.org/web/20211102041340/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/theatre-arts/index.php", "rel": "last memento", "datetime": "Tue, 02 Nov 2021 04:13:40 GMT"}

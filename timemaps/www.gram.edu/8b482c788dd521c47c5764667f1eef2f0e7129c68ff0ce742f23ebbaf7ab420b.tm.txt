@@ -1,0 +1,87 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/business/marketing/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.gram.edu/academics/majors/business/marketing/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.gram.edu/academics/majors/business/marketing/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.gram.edu/academics/majors/business/marketing/", "json_format": "http://localhost:1208/timemap/json/https://www.gram.edu/academics/majors/business/marketing/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/business/marketing/"}}
+20141115105250 {"uri": "https://web.archive.org/web/20141115105250/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "first memento", "datetime": "Sat, 15 Nov 2014 10:52:50 GMT"}
+20150122222313 {"uri": "https://web.archive.org/web/20150122222313/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Thu, 22 Jan 2015 22:23:13 GMT"}
+20150501112251 {"uri": "https://web.archive.org/web/20150501112251/http://www.gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Fri, 01 May 2015 11:22:51 GMT"}
+20150607020313 {"uri": "https://web.archive.org/web/20150607020313/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 07 Jun 2015 02:03:13 GMT"}
+20150607020313 {"uri": "https://web.archive.org/web/20150607020313/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sun, 07 Jun 2015 02:03:13 GMT"}
+20150708093659 {"uri": "https://web.archive.org/web/20150708093659/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Wed, 08 Jul 2015 09:36:59 GMT"}
+20150708093659 {"uri": "https://web.archive.org/web/20150708093659/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Wed, 08 Jul 2015 09:36:59 GMT"}
+20150812080816 {"uri": "https://web.archive.org/web/20150812080816/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Wed, 12 Aug 2015 08:08:16 GMT"}
+20150812080816 {"uri": "https://web.archive.org/web/20150812080816/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Wed, 12 Aug 2015 08:08:16 GMT"}
+20150820072917 {"uri": "https://web.archive.org/web/20150820072917/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Thu, 20 Aug 2015 07:29:17 GMT"}
+20150905162516 {"uri": "https://web.archive.org/web/20150905162516/http://www.gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 16:25:16 GMT"}
+20150915081345 {"uri": "https://web.archive.org/web/20150915081345/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Tue, 15 Sep 2015 08:13:45 GMT"}
+20150915081345 {"uri": "https://web.archive.org/web/20150915081345/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Tue, 15 Sep 2015 08:13:45 GMT"}
+20151020080750 {"uri": "https://web.archive.org/web/20151020080750/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Tue, 20 Oct 2015 08:07:50 GMT"}
+20151021011825 {"uri": "https://web.archive.org/web/20151021011825/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Wed, 21 Oct 2015 01:18:25 GMT"}
+20151021011825 {"uri": "https://web.archive.org/web/20151021011825/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Wed, 21 Oct 2015 01:18:25 GMT"}
+20151120145758 {"uri": "https://web.archive.org/web/20151120145758/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Fri, 20 Nov 2015 14:57:58 GMT"}
+20151120145758 {"uri": "https://web.archive.org/web/20151120145758/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Fri, 20 Nov 2015 14:57:58 GMT"}
+20151220051657 {"uri": "https://web.archive.org/web/20151220051657/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 20 Dec 2015 05:16:57 GMT"}
+20160401211504 {"uri": "https://web.archive.org/web/20160401211504/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Fri, 01 Apr 2016 21:15:04 GMT"}
+20160410044101 {"uri": "https://web.archive.org/web/20160410044101/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 10 Apr 2016 04:41:01 GMT"}
+20160410044101 {"uri": "https://web.archive.org/web/20160410044101/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sun, 10 Apr 2016 04:41:01 GMT"}
+20160605085605 {"uri": "https://web.archive.org/web/20160605085605/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 05 Jun 2016 08:56:05 GMT"}
+20170526115916 {"uri": "https://web.archive.org/web/20170526115916/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Fri, 26 May 2017 11:59:16 GMT"}
+20170818220133 {"uri": "https://web.archive.org/web/20170818220133/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Fri, 18 Aug 2017 22:01:33 GMT"}
+20180603135343 {"uri": "https://web.archive.org/web/20180603135343/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 03 Jun 2018 13:53:43 GMT"}
+20180603135343 {"uri": "https://web.archive.org/web/20180603135343/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sun, 03 Jun 2018 13:53:43 GMT"}
+20180605133054 {"uri": "https://web.archive.org/web/20180605133054/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Tue, 05 Jun 2018 13:30:54 GMT"}
+20180705113651 {"uri": "https://web.archive.org/web/20180705113651/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Thu, 05 Jul 2018 11:36:51 GMT"}
+20180705113651 {"uri": "https://web.archive.org/web/20180705113651/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Thu, 05 Jul 2018 11:36:51 GMT"}
+20180805180527 {"uri": "https://web.archive.org/web/20180805180527/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 05 Aug 2018 18:05:27 GMT"}
+20180805192322 {"uri": "https://web.archive.org/web/20180805192322/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 05 Aug 2018 19:23:22 GMT"}
+20180805192322 {"uri": "https://web.archive.org/web/20180805192322/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sun, 05 Aug 2018 19:23:22 GMT"}
+20180906085952 {"uri": "https://web.archive.org/web/20180906085952/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Thu, 06 Sep 2018 08:59:52 GMT"}
+20180906085952 {"uri": "https://web.archive.org/web/20180906085952/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Thu, 06 Sep 2018 08:59:52 GMT"}
+20181006045927 {"uri": "https://web.archive.org/web/20181006045927/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sat, 06 Oct 2018 04:59:27 GMT"}
+20181007152021 {"uri": "https://web.archive.org/web/20181007152021/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 07 Oct 2018 15:20:21 GMT"}
+20181007152021 {"uri": "https://web.archive.org/web/20181007152021/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sun, 07 Oct 2018 15:20:21 GMT"}
+20181107234437 {"uri": "https://web.archive.org/web/20181107234437/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Wed, 07 Nov 2018 23:44:37 GMT"}
+20181107234437 {"uri": "https://web.archive.org/web/20181107234437/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Wed, 07 Nov 2018 23:44:37 GMT"}
+20181206170137 {"uri": "https://web.archive.org/web/20181206170137/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Thu, 06 Dec 2018 17:01:37 GMT"}
+20181208210043 {"uri": "https://web.archive.org/web/20181208210043/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sat, 08 Dec 2018 21:00:43 GMT"}
+20181208210043 {"uri": "https://web.archive.org/web/20181208210043/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sat, 08 Dec 2018 21:00:43 GMT"}
+20190109063816 {"uri": "https://web.archive.org/web/20190109063816/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Wed, 09 Jan 2019 06:38:16 GMT"}
+20190109063816 {"uri": "https://web.archive.org/web/20190109063816/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Wed, 09 Jan 2019 06:38:16 GMT"}
+20190205102656 {"uri": "https://web.archive.org/web/20190205102656/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Tue, 05 Feb 2019 10:26:56 GMT"}
+20190209211500 {"uri": "https://web.archive.org/web/20190209211500/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sat, 09 Feb 2019 21:15:00 GMT"}
+20190209211500 {"uri": "https://web.archive.org/web/20190209211500/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sat, 09 Feb 2019 21:15:00 GMT"}
+20190210222834 {"uri": "https://web.archive.org/web/20190210222834/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 10 Feb 2019 22:28:34 GMT"}
+20190210222834 {"uri": "https://web.archive.org/web/20190210222834/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sun, 10 Feb 2019 22:28:34 GMT"}
+20190314160010 {"uri": "https://web.archive.org/web/20190314160010/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Thu, 14 Mar 2019 16:00:10 GMT"}
+20190314160010 {"uri": "https://web.archive.org/web/20190314160010/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Thu, 14 Mar 2019 16:00:10 GMT"}
+20190407122328 {"uri": "https://web.archive.org/web/20190407122328/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 07 Apr 2019 12:23:28 GMT"}
+20190415161837 {"uri": "https://web.archive.org/web/20190415161837/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Mon, 15 Apr 2019 16:18:37 GMT"}
+20190415161837 {"uri": "https://web.archive.org/web/20190415161837/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Mon, 15 Apr 2019 16:18:37 GMT"}
+20190516150614 {"uri": "https://web.archive.org/web/20190516150614/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Thu, 16 May 2019 15:06:14 GMT"}
+20190516150614 {"uri": "https://web.archive.org/web/20190516150614/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Thu, 16 May 2019 15:06:14 GMT"}
+20190608004618 {"uri": "https://web.archive.org/web/20190608004618/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sat, 08 Jun 2019 00:46:18 GMT"}
+20190616132605 {"uri": "https://web.archive.org/web/20190616132605/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 16 Jun 2019 13:26:05 GMT"}
+20190616132605 {"uri": "https://web.archive.org/web/20190616132605/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sun, 16 Jun 2019 13:26:05 GMT"}
+20190707053347 {"uri": "https://web.archive.org/web/20190707053347/http://www.gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 07 Jul 2019 05:33:47 GMT"}
+20190717184826 {"uri": "https://web.archive.org/web/20190717184826/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Wed, 17 Jul 2019 18:48:26 GMT"}
+20190717184826 {"uri": "https://web.archive.org/web/20190717184826/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Wed, 17 Jul 2019 18:48:26 GMT"}
+20190808141825 {"uri": "https://web.archive.org/web/20190808141825/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Thu, 08 Aug 2019 14:18:25 GMT"}
+20190820221203 {"uri": "https://web.archive.org/web/20190820221203/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Tue, 20 Aug 2019 22:12:03 GMT"}
+20190820221203 {"uri": "https://web.archive.org/web/20190820221203/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Tue, 20 Aug 2019 22:12:03 GMT"}
+20190921125954 {"uri": "https://web.archive.org/web/20190921125954/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sat, 21 Sep 2019 12:59:54 GMT"}
+20190921125954 {"uri": "https://web.archive.org/web/20190921125954/http://www.gram.edu:80/academics/majors/business/marketing", "rel": "memento", "datetime": "Sat, 21 Sep 2019 12:59:54 GMT"}
+20191019031001 {"uri": "https://web.archive.org/web/20191019031001/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sat, 19 Oct 2019 03:10:01 GMT"}
+20191118104512 {"uri": "https://web.archive.org/web/20191118104512/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Mon, 18 Nov 2019 10:45:12 GMT"}
+20191218161533 {"uri": "https://web.archive.org/web/20191218161533/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Wed, 18 Dec 2019 16:15:33 GMT"}
+20200117214516 {"uri": "https://web.archive.org/web/20200117214516/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Fri, 17 Jan 2020 21:45:16 GMT"}
+20200217024214 {"uri": "https://web.archive.org/web/20200217024214/http://www.gram.edu:80/academics/majors/business/marketing/", "rel": "memento", "datetime": "Mon, 17 Feb 2020 02:42:14 GMT"}
+20200811165408 {"uri": "https://web.archive.org/web/20200811165408/https://gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Tue, 11 Aug 2020 16:54:08 GMT"}
+20200927100214 {"uri": "https://web.archive.org/web/20200927100214/https://www.gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 27 Sep 2020 10:02:14 GMT"}
+20201021223607 {"uri": "https://web.archive.org/web/20201021223607/https://gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Wed, 21 Oct 2020 22:36:07 GMT"}
+20210117023617 {"uri": "https://web.archive.org/web/20210117023617/https://www.gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sun, 17 Jan 2021 02:36:17 GMT"}
+20210123090139 {"uri": "https://web.archive.org/web/20210123090139/https://gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sat, 23 Jan 2021 09:01:39 GMT"}
+20210417224310 {"uri": "https://web.archive.org/web/20210417224310/https://www.gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Sat, 17 Apr 2021 22:43:10 GMT"}
+20210507064008 {"uri": "https://web.archive.org/web/20210507064008/https://www.gram.edu/academics/majors/business/marketing/", "rel": "memento", "datetime": "Fri, 07 May 2021 06:40:08 GMT"}
+20210513041455 {"uri": "https://web.archive.org/web/20210513041455/https://gram.edu/academics/majors/business/marketing/", "rel": "last memento", "datetime": "Thu, 13 May 2021 04:14:55 GMT"}

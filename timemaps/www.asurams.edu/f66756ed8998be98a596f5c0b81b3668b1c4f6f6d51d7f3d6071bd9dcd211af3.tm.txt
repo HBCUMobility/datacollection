@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php"}}
+20190703220506 {"uri": "https://web.archive.org/web/20190703220506/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php", "rel": "first memento", "datetime": "Wed, 03 Jul 2019 22:05:06 GMT"}
+20200120100638 {"uri": "https://web.archive.org/web/20200120100638/http://www.asurams.edu:80/academic-affairs/dchealthprof/nursing/index.php", "rel": "memento", "datetime": "Mon, 20 Jan 2020 10:06:38 GMT"}
+20200926214854 {"uri": "https://web.archive.org/web/20200926214854/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php", "rel": "memento", "datetime": "Sat, 26 Sep 2020 21:48:54 GMT"}
+20201221051450 {"uri": "https://web.archive.org/web/20201221051450/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php", "rel": "memento", "datetime": "Mon, 21 Dec 2020 05:14:50 GMT"}
+20210416131426 {"uri": "https://web.archive.org/web/20210416131426/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 13:14:26 GMT"}
+20210516001924 {"uri": "https://web.archive.org/web/20210516001924/https://asurams.edu/academic-affairs/dchealthprof/nursing/index.php", "rel": "memento", "datetime": "Sun, 16 May 2021 00:19:24 GMT"}
+20211007181027 {"uri": "https://web.archive.org/web/20211007181027/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php", "rel": "memento", "datetime": "Thu, 07 Oct 2021 18:10:27 GMT"}
+20211029123509 {"uri": "https://web.archive.org/web/20211029123509/https://www.asurams.edu/academic-affairs/dchealthprof/nursing/index.php", "rel": "last memento", "datetime": "Fri, 29 Oct 2021 12:35:09 GMT"}

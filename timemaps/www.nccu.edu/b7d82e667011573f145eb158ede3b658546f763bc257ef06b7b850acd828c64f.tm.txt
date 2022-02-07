@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/human-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/chs/human-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/chs/human-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/chs/human-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/chs/human-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/chs/human-sciences"}}
+20210722175058 {"uri": "https://web.archive.org/web/20210722175058/https://www.nccu.edu/chs/human-sciences", "rel": "first last memento", "datetime": "Thu, 22 Jul 2021 17:50:58 GMT"}

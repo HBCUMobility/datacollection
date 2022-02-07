@@ -1,0 +1,43 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/socialwork/bsw.aspx"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/socialwork/bsw.aspx"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/socialwork/bsw.aspx"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/socialwork/bsw.aspx", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/socialwork/bsw.aspx", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/socialwork/bsw.aspx"}}
+20120316052916 {"uri": "https://web.archive.org/web/20120316052916/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "first memento", "datetime": "Fri, 16 Mar 2012 05:29:16 GMT"}
+20121101150144 {"uri": "https://web.archive.org/web/20121101150144/http://www.tnstate.edu/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 01 Nov 2012 15:01:44 GMT"}
+20130228215754 {"uri": "https://web.archive.org/web/20130228215754/http://www.tnstate.edu/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 28 Feb 2013 21:57:54 GMT"}
+20130514123114 {"uri": "https://web.archive.org/web/20130514123114/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Tue, 14 May 2013 12:31:14 GMT"}
+20141011151617 {"uri": "https://web.archive.org/web/20141011151617/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sat, 11 Oct 2014 15:16:17 GMT"}
+20141223060734 {"uri": "https://web.archive.org/web/20141223060734/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Tue, 23 Dec 2014 06:07:34 GMT"}
+20150312163438 {"uri": "https://web.archive.org/web/20150312163438/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 12 Mar 2015 16:34:38 GMT"}
+20150709014144 {"uri": "https://web.archive.org/web/20150709014144/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 09 Jul 2015 01:41:44 GMT"}
+20150905132252 {"uri": "https://web.archive.org/web/20150905132252/http://www.tnstate.edu/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sat, 05 Sep 2015 13:22:52 GMT"}
+20160204023651 {"uri": "https://web.archive.org/web/20160204023651/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 04 Feb 2016 02:36:51 GMT"}
+20160305231456 {"uri": "https://web.archive.org/web/20160305231456/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sat, 05 Mar 2016 23:14:56 GMT"}
+20160504235350 {"uri": "https://web.archive.org/web/20160504235350/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Wed, 04 May 2016 23:53:50 GMT"}
+20160605023150 {"uri": "https://web.archive.org/web/20160605023150/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sun, 05 Jun 2016 02:31:50 GMT"}
+20160714021004 {"uri": "https://web.archive.org/web/20160714021004/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 14 Jul 2016 02:10:04 GMT"}
+20160715052359 {"uri": "https://web.archive.org/web/20160715052359/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Fri, 15 Jul 2016 05:23:59 GMT"}
+20160816055439 {"uri": "https://web.archive.org/web/20160816055439/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Tue, 16 Aug 2016 05:54:39 GMT"}
+20160817134018 {"uri": "https://web.archive.org/web/20160817134018/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Wed, 17 Aug 2016 13:40:18 GMT"}
+20160918063724 {"uri": "https://web.archive.org/web/20160918063724/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sun, 18 Sep 2016 06:37:24 GMT"}
+20170509153153 {"uri": "https://web.archive.org/web/20170509153153/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Tue, 09 May 2017 15:31:53 GMT"}
+20170510173845 {"uri": "https://web.archive.org/web/20170510173845/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Wed, 10 May 2017 17:38:45 GMT"}
+20170926233840 {"uri": "https://web.archive.org/web/20170926233840/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Tue, 26 Sep 2017 23:38:40 GMT"}
+20181004221715 {"uri": "https://web.archive.org/web/20181004221715/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 04 Oct 2018 22:17:15 GMT"}
+20181006060957 {"uri": "https://web.archive.org/web/20181006060957/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sat, 06 Oct 2018 06:09:57 GMT"}
+20181210160117 {"uri": "https://web.archive.org/web/20181210160117/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Mon, 10 Dec 2018 16:01:17 GMT"}
+20190710095316 {"uri": "https://web.archive.org/web/20190710095316/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Wed, 10 Jul 2019 09:53:16 GMT"}
+20190817081315 {"uri": "https://web.archive.org/web/20190817081315/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sat, 17 Aug 2019 08:13:15 GMT"}
+20190919194101 {"uri": "https://web.archive.org/web/20190919194101/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 19 Sep 2019 19:41:01 GMT"}
+20191017150137 {"uri": "https://web.archive.org/web/20191017150137/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 17 Oct 2019 15:01:37 GMT"}
+20191117214046 {"uri": "https://web.archive.org/web/20191117214046/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sun, 17 Nov 2019 21:40:46 GMT"}
+20191218012353 {"uri": "https://web.archive.org/web/20191218012353/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Wed, 18 Dec 2019 01:23:53 GMT"}
+20200117065753 {"uri": "https://web.archive.org/web/20200117065753/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Fri, 17 Jan 2020 06:57:53 GMT"}
+20200216114210 {"uri": "https://web.archive.org/web/20200216114210/http://www.tnstate.edu:80/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sun, 16 Feb 2020 11:42:10 GMT"}
+20201025171220 {"uri": "https://web.archive.org/web/20201025171220/http://www.tnstate.edu/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sun, 25 Oct 2020 17:12:20 GMT"}
+20210307062642 {"uri": "https://web.archive.org/web/20210307062642/https://www.tnstate.edu/socialwork/bsw.aspx", "rel": "memento", "datetime": "Sun, 07 Mar 2021 06:26:42 GMT"}
+20210415102656 {"uri": "https://web.archive.org/web/20210415102656/https://www.tnstate.edu/socialwork/bsw.aspx", "rel": "memento", "datetime": "Thu, 15 Apr 2021 10:26:56 GMT"}
+20210416093837 {"uri": "https://web.archive.org/web/20210416093837/https://www.tnstate.edu/socialwork/bsw.aspx", "rel": "memento", "datetime": "Fri, 16 Apr 2021 09:38:37 GMT"}
+20211116175623 {"uri": "https://web.archive.org/web/20211116175623/https://www.tnstate.edu/socialwork/bsw.aspx", "rel": "last memento", "datetime": "Tue, 16 Nov 2021 17:56:23 GMT"}

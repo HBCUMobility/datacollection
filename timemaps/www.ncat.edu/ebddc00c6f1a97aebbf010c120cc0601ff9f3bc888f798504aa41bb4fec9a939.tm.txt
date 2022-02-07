@@ -1,0 +1,19 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php"}}
+20200808004457 {"uri": "https://web.archive.org/web/20200808004457/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "first memento", "datetime": "Sat, 08 Aug 2020 00:44:57 GMT"}
+20200903073948 {"uri": "https://web.archive.org/web/20200903073948/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 07:39:48 GMT"}
+20200922193634 {"uri": "https://web.archive.org/web/20200922193634/https://ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 19:36:34 GMT"}
+20201025084413 {"uri": "https://web.archive.org/web/20201025084413/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Sun, 25 Oct 2020 08:44:13 GMT"}
+20201128012035 {"uri": "https://web.archive.org/web/20201128012035/https://ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 01:20:35 GMT"}
+20210130174248 {"uri": "https://web.archive.org/web/20210130174248/https://ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Sat, 30 Jan 2021 17:42:48 GMT"}
+20210302065833 {"uri": "https://web.archive.org/web/20210302065833/https://ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 06:58:33 GMT"}
+20210419002411 {"uri": "https://web.archive.org/web/20210419002411/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 00:24:11 GMT"}
+20210518003221 {"uri": "https://web.archive.org/web/20210518003221/https://ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 00:32:21 GMT"}
+20210811211748 {"uri": "https://web.archive.org/web/20210811211748/https://ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:17:48 GMT"}
+20210817204154 {"uri": "https://web.archive.org/web/20210817204154/https://ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 20:41:54 GMT"}
+20211117094831 {"uri": "https://web.archive.org/web/20211117094831/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:48:31 GMT"}
+20220108005926 {"uri": "https://web.archive.org/web/20220108005926/https://www.ncat.edu/ced/departments/leadership-studies-and-adult-education/index.php", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 00:59:26 GMT"}

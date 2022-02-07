@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php"}}
+20210121220412 {"uri": "https://web.archive.org/web/20210121220412/https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 22:04:12 GMT"}
+20210413135409 {"uri": "https://web.archive.org/web/20210413135409/https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 13:54:09 GMT"}
+20210614000644 {"uri": "https://web.archive.org/web/20210614000644/https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php", "rel": "memento", "datetime": "Mon, 14 Jun 2021 00:06:44 GMT"}
+20211217044427 {"uri": "https://web.archive.org/web/20211217044427/https://www.vsu.edu/agriculture/academics/family-and-consumer-science/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 04:44:27 GMT"}

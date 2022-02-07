@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/"}}
+20190618162043 {"uri": "https://web.archive.org/web/20190618162043/http://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "first memento", "datetime": "Tue, 18 Jun 2019 16:20:43 GMT"}
+20190618162049 {"uri": "https://web.archive.org/web/20190618162049/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Tue, 18 Jun 2019 16:20:49 GMT"}
+20190904033832 {"uri": "https://web.archive.org/web/20190904033832/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:32 GMT"}
+20190904033839 {"uri": "https://web.archive.org/web/20190904033839/http://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:39 GMT"}
+20190904033840 {"uri": "https://web.archive.org/web/20190904033840/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:40 GMT"}
+20190904034012 {"uri": "https://web.archive.org/web/20190904034012/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:40:12 GMT"}
+20190904034013 {"uri": "https://web.archive.org/web/20190904034013/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:40:13 GMT"}
+20190904034143 {"uri": "https://web.archive.org/web/20190904034143/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:41:43 GMT"}
+20190904034144 {"uri": "https://web.archive.org/web/20190904034144/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:41:44 GMT"}
+20190904035522 {"uri": "https://web.archive.org/web/20190904035522/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:55:22 GMT"}
+20200812014529 {"uri": "https://web.archive.org/web/20200812014529/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Wed, 12 Aug 2020 01:45:29 GMT"}
+20200918073508 {"uri": "https://web.archive.org/web/20200918073508/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Fri, 18 Sep 2020 07:35:08 GMT"}
+20201201033257 {"uri": "https://web.archive.org/web/20201201033257/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "memento", "datetime": "Tue, 01 Dec 2020 03:32:57 GMT"}
+20210421024223 {"uri": "https://web.archive.org/web/20210421024223/https://www.udc.edu/sbpa/sbpa/departments/department-public-administration-graduate-studies/", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 02:42:23 GMT"}

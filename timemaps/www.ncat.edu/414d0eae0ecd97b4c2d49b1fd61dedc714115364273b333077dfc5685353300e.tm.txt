@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/ced/departments/counseling-dept/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/ced/departments/counseling-dept/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/ced/departments/counseling-dept/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/ced/departments/counseling-dept/index.php"}}
+20200903103928 {"uri": "https://web.archive.org/web/20200903103928/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 10:39:28 GMT"}
+20200922210124 {"uri": "https://web.archive.org/web/20200922210124/https://ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 21:01:24 GMT"}
+20200925111840 {"uri": "https://web.archive.org/web/20200925111840/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 11:18:40 GMT"}
+20201128023017 {"uri": "https://web.archive.org/web/20201128023017/https://ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:30:17 GMT"}
+20201204203454 {"uri": "https://web.archive.org/web/20201204203454/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Fri, 04 Dec 2020 20:34:54 GMT"}
+20201205000953 {"uri": "https://web.archive.org/web/20201205000953/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Sat, 05 Dec 2020 00:09:53 GMT"}
+20210117001053 {"uri": "https://web.archive.org/web/20210117001053/https://ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Sun, 17 Jan 2021 00:10:53 GMT"}
+20210129060140 {"uri": "https://web.archive.org/web/20210129060140/https://ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 06:01:40 GMT"}
+20210329173748 {"uri": "https://web.archive.org/web/20210329173748/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Mon, 29 Mar 2021 17:37:48 GMT"}
+20210416202332 {"uri": "https://web.archive.org/web/20210416202332/https://ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 20:23:32 GMT"}
+20210418222935 {"uri": "https://web.archive.org/web/20210418222935/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 22:29:35 GMT"}
+20210812001701 {"uri": "https://web.archive.org/web/20210812001701/https://ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 00:17:01 GMT"}
+20210816065108 {"uri": "https://web.archive.org/web/20210816065108/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 06:51:08 GMT"}
+20210818071640 {"uri": "https://web.archive.org/web/20210818071640/https://ncat.edu/ced/departments/counseling-dept/index.php", "rel": "memento", "datetime": "Wed, 18 Aug 2021 07:16:40 GMT"}
+20211117094833 {"uri": "https://web.archive.org/web/20211117094833/https://www.ncat.edu/ced/departments/counseling-dept/index.php", "rel": "last memento", "datetime": "Wed, 17 Nov 2021 09:48:33 GMT"}

@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.xula.edu/department/department-of-mass-communications.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.xula.edu/department/department-of-mass-communications.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.xula.edu/department/department-of-mass-communications.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.xula.edu/department/department-of-mass-communications.html", "json_format": "http://localhost:1208/timemap/json/https://www.xula.edu/department/department-of-mass-communications.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.xula.edu/department/department-of-mass-communications.html"}}
+20211122133135 {"uri": "https://web.archive.org/web/20211122133135/https://www.xula.edu/department/department-of-mass-communications.html", "rel": "first memento", "datetime": "Mon, 22 Nov 2021 13:31:35 GMT"}
+20211209015250 {"uri": "https://web.archive.org/web/20211209015250/https://www.xula.edu/department/department-of-mass-communications.html", "rel": "memento", "datetime": "Thu, 09 Dec 2021 01:52:50 GMT"}
+20211213223707 {"uri": "https://web.archive.org/web/20211213223707/https://www.xula.edu/department/department-of-mass-communications.html", "rel": "last memento", "datetime": "Mon, 13 Dec 2021 22:37:07 GMT"}

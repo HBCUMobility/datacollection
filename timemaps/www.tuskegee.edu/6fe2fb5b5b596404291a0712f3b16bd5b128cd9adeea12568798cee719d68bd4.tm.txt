@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology"}}
+20200813001745 {"uri": "https://web.archive.org/web/20200813001745/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:17:45 GMT"}
+20201029053147 {"uri": "https://web.archive.org/web/20201029053147/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:31:47 GMT"}
+20210125045057 {"uri": "https://web.archive.org/web/20210125045057/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:50:57 GMT"}
+20210410145133 {"uri": "https://web.archive.org/web/20210410145133/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:51:33 GMT"}
+20210425133550 {"uri": "https://web.archive.org/web/20210425133550/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/psychology-sociology", "rel": "last memento", "datetime": "Sun, 25 Apr 2021 13:35:50 GMT"}

@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cobe/academic-departments/economics/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cobe/academic-departments/economics/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cobe/academic-departments/economics/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cobe/academic-departments/economics/index.php"}}
+20200808154050 {"uri": "https://web.archive.org/web/20200808154050/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "rel": "first memento", "datetime": "Sat, 08 Aug 2020 15:40:50 GMT"}
+20200903072522 {"uri": "https://web.archive.org/web/20200903072522/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 07:25:22 GMT"}
+20200922205757 {"uri": "https://web.archive.org/web/20200922205757/https://ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:57:57 GMT"}
+20201025082952 {"uri": "https://web.archive.org/web/20201025082952/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Sun, 25 Oct 2020 08:29:52 GMT"}
+20201128022826 {"uri": "https://web.archive.org/web/20201128022826/https://ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:28:26 GMT"}
+20201204203501 {"uri": "https://web.archive.org/web/20201204203501/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Fri, 04 Dec 2020 20:35:01 GMT"}
+20210129083424 {"uri": "https://web.archive.org/web/20210129083424/https://ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 08:34:24 GMT"}
+20210302074743 {"uri": "https://web.archive.org/web/20210302074743/https://ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 07:47:43 GMT"}
+20210418235952 {"uri": "https://web.archive.org/web/20210418235952/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 23:59:52 GMT"}
+20210505190527 {"uri": "https://web.archive.org/web/20210505190527/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Wed, 05 May 2021 19:05:27 GMT"}
+20210518015157 {"uri": "https://web.archive.org/web/20210518015157/https://ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 01:51:57 GMT"}
+20210811213839 {"uri": "https://web.archive.org/web/20210811213839/https://ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:38:39 GMT"}
+20210815014826 {"uri": "https://web.archive.org/web/20210815014826/https://ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Sun, 15 Aug 2021 01:48:26 GMT"}
+20210817025230 {"uri": "https://web.archive.org/web/20210817025230/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 02:52:30 GMT"}
+20211117094728 {"uri": "https://web.archive.org/web/20211117094728/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:28 GMT"}
+20220107225752 {"uri": "https://web.archive.org/web/20220107225752/https://www.ncat.edu/cobe/academic-departments/economics/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:57:52 GMT"}

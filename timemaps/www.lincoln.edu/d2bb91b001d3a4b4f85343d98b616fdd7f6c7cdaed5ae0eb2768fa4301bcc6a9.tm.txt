@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/nursing-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/nursing-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/nursing-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/nursing-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/nursing-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/nursing-department"}}
+20170628115318 {"uri": "https://web.archive.org/web/20170628115318/http://www.lincoln.edu/departments/nursing-department", "rel": "first memento", "datetime": "Wed, 28 Jun 2017 11:53:18 GMT"}
+20200923124759 {"uri": "https://web.archive.org/web/20200923124759/https://www.lincoln.edu/departments/nursing-department", "rel": "memento", "datetime": "Wed, 23 Sep 2020 12:47:59 GMT"}
+20201201055045 {"uri": "https://web.archive.org/web/20201201055045/https://www.lincoln.edu/departments/nursing-department", "rel": "memento", "datetime": "Tue, 01 Dec 2020 05:50:45 GMT"}
+20210305041135 {"uri": "https://web.archive.org/web/20210305041135/https://www.lincoln.edu/departments/nursing-department", "rel": "memento", "datetime": "Fri, 05 Mar 2021 04:11:35 GMT"}
+20210420221347 {"uri": "https://web.archive.org/web/20210420221347/https://www.lincoln.edu/departments/nursing-department", "rel": "memento", "datetime": "Tue, 20 Apr 2021 22:13:47 GMT"}
+20210519023742 {"uri": "https://web.archive.org/web/20210519023742/https://www.lincoln.edu/departments/nursing-department", "rel": "last memento", "datetime": "Wed, 19 May 2021 02:37:42 GMT"}

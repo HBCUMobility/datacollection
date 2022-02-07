@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/cas/science-mathematics/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/cas/science-mathematics/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/cas/science-mathematics/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/cas/science-mathematics/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/cas/science-mathematics/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/cas/science-mathematics/"}}
+20170203020001 {"uri": "https://web.archive.org/web/20170203020001/http://www.udc.edu:80/cas/science-mathematics/", "rel": "first memento", "datetime": "Fri, 03 Feb 2017 02:00:01 GMT"}
+20170203020001 {"uri": "https://web.archive.org/web/20170203020001/http://www.udc.edu:80/cas/science-mathematics", "rel": "memento", "datetime": "Fri, 03 Feb 2017 02:00:01 GMT"}
+20190904033930 {"uri": "https://web.archive.org/web/20190904033930/http://www.udc.edu/cas/science-mathematics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:30 GMT"}
+20190904033931 {"uri": "https://web.archive.org/web/20190904033931/https://www.udc.edu/cas/science-mathematics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:31 GMT"}
+20190904035835 {"uri": "https://web.archive.org/web/20190904035835/https://www.udc.edu/cas/science-mathematics/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:58:35 GMT"}
+20200812015050 {"uri": "https://web.archive.org/web/20200812015050/https://www.udc.edu/cas/science-mathematics/", "rel": "memento", "datetime": "Wed, 12 Aug 2020 01:50:50 GMT"}
+20201028152407 {"uri": "https://web.archive.org/web/20201028152407/https://www.udc.edu/cas/science-mathematics/", "rel": "memento", "datetime": "Wed, 28 Oct 2020 15:24:07 GMT"}
+20210120204854 {"uri": "https://web.archive.org/web/20210120204854/https://www.udc.edu/cas/science-mathematics/", "rel": "memento", "datetime": "Wed, 20 Jan 2021 20:48:54 GMT"}
+20210419010358 {"uri": "https://web.archive.org/web/20210419010358/https://www.udc.edu/cas/science-mathematics/", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 01:03:58 GMT"}

@@ -1,0 +1,44 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/art/degrees.aspx"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/art/degrees.aspx"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/art/degrees.aspx"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/art/degrees.aspx", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/art/degrees.aspx", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/art/degrees.aspx"}}
+20130607050942 {"uri": "https://web.archive.org/web/20130607050942/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "first memento", "datetime": "Fri, 07 Jun 2013 05:09:42 GMT"}
+20150106211852 {"uri": "https://web.archive.org/web/20150106211852/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Tue, 06 Jan 2015 21:18:52 GMT"}
+20150301130603 {"uri": "https://web.archive.org/web/20150301130603/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sun, 01 Mar 2015 13:06:03 GMT"}
+20150410223501 {"uri": "https://web.archive.org/web/20150410223501/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Fri, 10 Apr 2015 22:35:01 GMT"}
+20150412024029 {"uri": "https://web.archive.org/web/20150412024029/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sun, 12 Apr 2015 02:40:29 GMT"}
+20150512202530 {"uri": "https://web.archive.org/web/20150512202530/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Tue, 12 May 2015 20:25:30 GMT"}
+20150926144350 {"uri": "https://web.archive.org/web/20150926144350/http://www.tnstate.edu/art/degrees.aspx", "rel": "memento", "datetime": "Sat, 26 Sep 2015 14:43:50 GMT"}
+20160414095017 {"uri": "https://web.archive.org/web/20160414095017/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Thu, 14 Apr 2016 09:50:17 GMT"}
+20160515014326 {"uri": "https://web.archive.org/web/20160515014326/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sun, 15 May 2016 01:43:26 GMT"}
+20160614222143 {"uri": "https://web.archive.org/web/20160614222143/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Tue, 14 Jun 2016 22:21:43 GMT"}
+20160716114214 {"uri": "https://web.archive.org/web/20160716114214/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sat, 16 Jul 2016 11:42:14 GMT"}
+20160816233225 {"uri": "https://web.archive.org/web/20160816233225/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Tue, 16 Aug 2016 23:32:25 GMT"}
+20160917222506 {"uri": "https://web.archive.org/web/20160917222506/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sat, 17 Sep 2016 22:25:06 GMT"}
+20161019085429 {"uri": "https://web.archive.org/web/20161019085429/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Wed, 19 Oct 2016 08:54:29 GMT"}
+20180507053153 {"uri": "https://web.archive.org/web/20180507053153/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Mon, 07 May 2018 05:31:53 GMT"}
+20180608005946 {"uri": "https://web.archive.org/web/20180608005946/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Fri, 08 Jun 2018 00:59:46 GMT"}
+20180609045809 {"uri": "https://web.archive.org/web/20180609045809/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sat, 09 Jun 2018 04:58:09 GMT"}
+20180711105740 {"uri": "https://web.archive.org/web/20180711105740/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Wed, 11 Jul 2018 10:57:40 GMT"}
+20180813221733 {"uri": "https://web.archive.org/web/20180813221733/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Mon, 13 Aug 2018 22:17:33 GMT"}
+20180815070051 {"uri": "https://web.archive.org/web/20180815070051/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Wed, 15 Aug 2018 07:00:51 GMT"}
+20180915093643 {"uri": "https://web.archive.org/web/20180915093643/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sat, 15 Sep 2018 09:36:43 GMT"}
+20180916125055 {"uri": "https://web.archive.org/web/20180916125055/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sun, 16 Sep 2018 12:50:55 GMT"}
+20181018212052 {"uri": "https://web.archive.org/web/20181018212052/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Thu, 18 Oct 2018 21:20:52 GMT"}
+20190208212603 {"uri": "https://web.archive.org/web/20190208212603/http://www.tnstate.edu/art/degrees.aspx", "rel": "memento", "datetime": "Fri, 08 Feb 2019 21:26:03 GMT"}
+20190710180129 {"uri": "https://web.archive.org/web/20190710180129/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Wed, 10 Jul 2019 18:01:29 GMT"}
+20190817080059 {"uri": "https://web.archive.org/web/20190817080059/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sat, 17 Aug 2019 08:00:59 GMT"}
+20190919123831 {"uri": "https://web.archive.org/web/20190919123831/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Thu, 19 Sep 2019 12:38:31 GMT"}
+20191027014554 {"uri": "https://web.archive.org/web/20191027014554/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sun, 27 Oct 2019 01:45:54 GMT"}
+20191117214006 {"uri": "https://web.archive.org/web/20191117214006/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sun, 17 Nov 2019 21:40:06 GMT"}
+20191218015700 {"uri": "https://web.archive.org/web/20191218015700/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Wed, 18 Dec 2019 01:57:00 GMT"}
+20200117053117 {"uri": "https://web.archive.org/web/20200117053117/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Fri, 17 Jan 2020 05:31:17 GMT"}
+20200216080729 {"uri": "https://web.archive.org/web/20200216080729/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sun, 16 Feb 2020 08:07:29 GMT"}
+20200301152900 {"uri": "https://web.archive.org/web/20200301152900/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Sun, 01 Mar 2020 15:29:00 GMT"}
+20200629233504 {"uri": "https://web.archive.org/web/20200629233504/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Mon, 29 Jun 2020 23:35:04 GMT"}
+20200701033904 {"uri": "https://web.archive.org/web/20200701033904/http://www.tnstate.edu:80/art/degrees.aspx", "rel": "memento", "datetime": "Wed, 01 Jul 2020 03:39:04 GMT"}
+20210415124942 {"uri": "https://web.archive.org/web/20210415124942/http://www.tnstate.edu/art/degrees.aspx", "rel": "memento", "datetime": "Thu, 15 Apr 2021 12:49:42 GMT"}
+20210427115850 {"uri": "https://web.archive.org/web/20210427115850/https://www.tnstate.edu/art/degrees.aspx", "rel": "memento", "datetime": "Tue, 27 Apr 2021 11:58:50 GMT"}
+20211116183635 {"uri": "https://web.archive.org/web/20211116183635/https://www.tnstate.edu/art/degrees.aspx", "rel": "last memento", "datetime": "Tue, 16 Nov 2021 18:36:35 GMT"}

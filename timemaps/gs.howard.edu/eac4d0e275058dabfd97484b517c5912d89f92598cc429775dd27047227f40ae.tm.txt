@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/womens-studies"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/womens-studies"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/womens-studies"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/womens-studies", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/womens-studies", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/womens-studies"}}
+20170708065423 {"uri": "https://web.archive.org/web/20170708065423/https://gs.howard.edu/graduate-programs/womens-studies", "rel": "first memento", "datetime": "Sat, 08 Jul 2017 06:54:23 GMT"}
+20200126060153 {"uri": "https://web.archive.org/web/20200126060153/https://gs.howard.edu/graduate-programs/womens-studies", "rel": "memento", "datetime": "Sun, 26 Jan 2020 06:01:53 GMT"}
+20201001053936 {"uri": "https://web.archive.org/web/20201001053936/https://gs.howard.edu/graduate-programs/womens-studies", "rel": "memento", "datetime": "Thu, 01 Oct 2020 05:39:36 GMT"}
+20210121152433 {"uri": "https://web.archive.org/web/20210121152433/https://gs.howard.edu/graduate-programs/womens-studies", "rel": "memento", "datetime": "Thu, 21 Jan 2021 15:24:33 GMT"}
+20210413080014 {"uri": "https://web.archive.org/web/20210413080014/https://gs.howard.edu/graduate-programs/womens-studies", "rel": "last memento", "datetime": "Tue, 13 Apr 2021 08:00:14 GMT"}

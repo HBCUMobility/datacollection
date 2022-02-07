@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/liberal-studies/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cahss/departments/liberal-studies/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cahss/departments/liberal-studies/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cahss/departments/liberal-studies/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cahss/departments/liberal-studies/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/liberal-studies/index.php"}}
+20200903105911 {"uri": "https://web.archive.org/web/20200903105911/https://www.ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 10:59:11 GMT"}
+20200922195343 {"uri": "https://web.archive.org/web/20200922195343/https://ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 19:53:43 GMT"}
+20200925104202 {"uri": "https://web.archive.org/web/20200925104202/https://www.ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 10:42:02 GMT"}
+20201125170431 {"uri": "https://web.archive.org/web/20201125170431/https://www.ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Wed, 25 Nov 2020 17:04:31 GMT"}
+20201128013803 {"uri": "https://web.archive.org/web/20201128013803/https://ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 01:38:03 GMT"}
+20210129193357 {"uri": "https://web.archive.org/web/20210129193357/https://ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 19:33:57 GMT"}
+20210302070928 {"uri": "https://web.archive.org/web/20210302070928/https://ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 07:09:28 GMT"}
+20210419034159 {"uri": "https://web.archive.org/web/20210419034159/https://www.ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 03:41:59 GMT"}
+20210518004510 {"uri": "https://web.archive.org/web/20210518004510/https://ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 00:45:10 GMT"}
+20210811211808 {"uri": "https://web.archive.org/web/20210811211808/https://ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:18:08 GMT"}
+20210811221315 {"uri": "https://web.archive.org/web/20210811221315/https://www.ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:13:15 GMT"}
+20210814142623 {"uri": "https://web.archive.org/web/20210814142623/https://ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Sat, 14 Aug 2021 14:26:23 GMT"}
+20210814223431 {"uri": "https://web.archive.org/web/20210814223431/https://www.ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "memento", "datetime": "Sat, 14 Aug 2021 22:34:31 GMT"}
+20211117094816 {"uri": "https://web.archive.org/web/20211117094816/https://www.ncat.edu/cahss/departments/liberal-studies/index.php", "rel": "last memento", "datetime": "Wed, 17 Nov 2021 09:48:16 GMT"}

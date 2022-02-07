@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/genetics-and-human-genetics"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/genetics-and-human-genetics"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/genetics-and-human-genetics"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/genetics-and-human-genetics", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/genetics-and-human-genetics", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/genetics-and-human-genetics"}}
+20170708150641 {"uri": "https://web.archive.org/web/20170708150641/https://gs.howard.edu/graduate-programs/genetics-and-human-genetics", "rel": "first memento", "datetime": "Sat, 08 Jul 2017 15:06:41 GMT"}
+20180805171201 {"uri": "https://web.archive.org/web/20180805171201/http://gs.howard.edu:80/graduate-programs/genetics-and-human-genetics", "rel": "memento", "datetime": "Sun, 05 Aug 2018 17:12:01 GMT"}
+20200126061011 {"uri": "https://web.archive.org/web/20200126061011/https://gs.howard.edu/graduate-programs/genetics-and-human-genetics", "rel": "memento", "datetime": "Sun, 26 Jan 2020 06:10:11 GMT"}
+20210416012856 {"uri": "https://web.archive.org/web/20210416012856/https://gs.howard.edu/graduate-programs/genetics-and-human-genetics", "rel": "memento", "datetime": "Fri, 16 Apr 2021 01:28:56 GMT"}
+20220106213043 {"uri": "https://web.archive.org/web/20220106213043/https://gs.howard.edu/graduate-programs/genetics-and-human-genetics", "rel": "last memento", "datetime": "Thu, 06 Jan 2022 21:30:43 GMT"}

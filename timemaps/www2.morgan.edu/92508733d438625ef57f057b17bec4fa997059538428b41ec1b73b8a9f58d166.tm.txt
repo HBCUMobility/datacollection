@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html"}}
+20200812154632 {"uri": "https://web.archive.org/web/20200812154632/https://morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 15:46:32 GMT"}
+20201001065500 {"uri": "https://web.archive.org/web/20201001065500/https://www.morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "rel": "memento", "datetime": "Thu, 01 Oct 2020 06:55:00 GMT"}
+20201028180827 {"uri": "https://web.archive.org/web/20201028180827/https://morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "rel": "memento", "datetime": "Wed, 28 Oct 2020 18:08:27 GMT"}
+20210123201708 {"uri": "https://web.archive.org/web/20210123201708/https://www.morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "rel": "memento", "datetime": "Sat, 23 Jan 2021 20:17:08 GMT"}
+20210126002750 {"uri": "https://web.archive.org/web/20210126002750/https://morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "rel": "memento", "datetime": "Tue, 26 Jan 2021 00:27:50 GMT"}
+20210414081016 {"uri": "https://web.archive.org/web/20210414081016/https://morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "rel": "memento", "datetime": "Wed, 14 Apr 2021 08:10:16 GMT"}
+20210414131623 {"uri": "https://web.archive.org/web/20210414131623/https://www.morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "rel": "memento", "datetime": "Wed, 14 Apr 2021 13:16:23 GMT"}
+20210418153004 {"uri": "https://web.archive.org/web/20210418153004/https://morgan.edu/college_of_liberal_arts/departments/psychology/center_for_predictive_analytics.html", "rel": "last memento", "datetime": "Sun, 18 Apr 2021 15:30:04 GMT"}

@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html", "json_format": "http://localhost:1208/timemap/json/http://www.tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html"}}
+20200918085121 {"uri": "https://web.archive.org/web/20200918085121/http://www.tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html", "rel": "first memento", "datetime": "Fri, 18 Sep 2020 08:51:21 GMT"}
+20200930034226 {"uri": "https://web.archive.org/web/20200930034226/http://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html", "rel": "memento", "datetime": "Wed, 30 Sep 2020 03:42:26 GMT"}
+20201203052956 {"uri": "https://web.archive.org/web/20201203052956/http://www.tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html", "rel": "memento", "datetime": "Thu, 03 Dec 2020 05:29:56 GMT"}
+20210228223434 {"uri": "https://web.archive.org/web/20210228223434/http://www.tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/political-science/index.html", "rel": "last memento", "datetime": "Sun, 28 Feb 2021 22:34:34 GMT"}

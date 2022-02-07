@@ -1,0 +1,40 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asucontinuinged.com/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asucontinuinged.com/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asucontinuinged.com/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asucontinuinged.com/", "json_format": "http://localhost:1208/timemap/json/https://www.asucontinuinged.com/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asucontinuinged.com/"}}
+20180808074902 {"uri": "https://web.archive.org/web/20180808074902/http://asucontinuinged.com/", "rel": "first memento", "datetime": "Wed, 08 Aug 2018 07:49:02 GMT"}
+20180827125158 {"uri": "https://web.archive.org/web/20180827125158/https://asucontinuinged.com/", "rel": "memento", "datetime": "Mon, 27 Aug 2018 12:51:58 GMT"}
+20190526213625 {"uri": "https://web.archive.org/web/20190526213625/http://asucontinuinged.com/", "rel": "memento", "datetime": "Sun, 26 May 2019 21:36:25 GMT"}
+20191213050305 {"uri": "https://web.archive.org/web/20191213050305/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Fri, 13 Dec 2019 05:03:05 GMT"}
+20200510204908 {"uri": "https://web.archive.org/web/20200510204908/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Sun, 10 May 2020 20:49:08 GMT"}
+20200518114551 {"uri": "https://web.archive.org/web/20200518114551/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Mon, 18 May 2020 11:45:51 GMT"}
+20200531135003 {"uri": "https://web.archive.org/web/20200531135003/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Sun, 31 May 2020 13:50:03 GMT"}
+20200605014913 {"uri": "https://web.archive.org/web/20200605014913/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Fri, 05 Jun 2020 01:49:13 GMT"}
+20200607074144 {"uri": "https://web.archive.org/web/20200607074144/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Sun, 07 Jun 2020 07:41:44 GMT"}
+20200619025322 {"uri": "https://web.archive.org/web/20200619025322/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Fri, 19 Jun 2020 02:53:22 GMT"}
+20200722114219 {"uri": "https://web.archive.org/web/20200722114219/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:42:19 GMT"}
+20200722114231 {"uri": "https://web.archive.org/web/20200722114231/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:42:31 GMT"}
+20200722114243 {"uri": "https://web.archive.org/web/20200722114243/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:42:43 GMT"}
+20201016224854 {"uri": "https://web.archive.org/web/20201016224854/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Fri, 16 Oct 2020 22:48:54 GMT"}
+20201021051135 {"uri": "https://web.archive.org/web/20201021051135/https://asucontinuinged.com/", "rel": "memento", "datetime": "Wed, 21 Oct 2020 05:11:35 GMT"}
+20201101010440 {"uri": "https://web.archive.org/web/20201101010440/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Sun, 01 Nov 2020 01:04:40 GMT"}
+20201117110301 {"uri": "https://web.archive.org/web/20201117110301/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Tue, 17 Nov 2020 11:03:01 GMT"}
+20201201184052 {"uri": "https://web.archive.org/web/20201201184052/https://asucontinuinged.com/", "rel": "memento", "datetime": "Tue, 01 Dec 2020 18:40:52 GMT"}
+20210225111049 {"uri": "https://web.archive.org/web/20210225111049/https://asucontinuinged.com/", "rel": "memento", "datetime": "Thu, 25 Feb 2021 11:10:49 GMT"}
+20210412164837 {"uri": "https://web.archive.org/web/20210412164837/https://asucontinuinged.com/", "rel": "memento", "datetime": "Mon, 12 Apr 2021 16:48:37 GMT"}
+20210414012951 {"uri": "https://web.archive.org/web/20210414012951/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Wed, 14 Apr 2021 01:29:51 GMT"}
+20210415232706 {"uri": "https://web.archive.org/web/20210415232706/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Thu, 15 Apr 2021 23:27:06 GMT"}
+20210417150947 {"uri": "https://web.archive.org/web/20210417150947/https://asucontinuinged.com/", "rel": "memento", "datetime": "Sat, 17 Apr 2021 15:09:47 GMT"}
+20210510083436 {"uri": "https://web.archive.org/web/20210510083436/https://asucontinuinged.com/", "rel": "memento", "datetime": "Mon, 10 May 2021 08:34:36 GMT"}
+20210603053151 {"uri": "https://web.archive.org/web/20210603053151/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Thu, 03 Jun 2021 05:31:51 GMT"}
+20210614064038 {"uri": "https://web.archive.org/web/20210614064038/https://asucontinuinged.com/", "rel": "memento", "datetime": "Mon, 14 Jun 2021 06:40:38 GMT"}
+20210816221653 {"uri": "https://web.archive.org/web/20210816221653/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Mon, 16 Aug 2021 22:16:53 GMT"}
+20211011050001 {"uri": "https://web.archive.org/web/20211011050001/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Mon, 11 Oct 2021 05:00:01 GMT"}
+20211026212116 {"uri": "https://web.archive.org/web/20211026212116/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Tue, 26 Oct 2021 21:21:16 GMT"}
+20211030005956 {"uri": "https://web.archive.org/web/20211030005956/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Sat, 30 Oct 2021 00:59:56 GMT"}
+20211120071938 {"uri": "https://web.archive.org/web/20211120071938/https://www.asucontinuinged.com/", "rel": "memento", "datetime": "Sat, 20 Nov 2021 07:19:38 GMT"}
+20211126202200 {"uri": "https://web.archive.org/web/20211126202200/http://asucontinuinged.com/", "rel": "memento", "datetime": "Fri, 26 Nov 2021 20:22:00 GMT"}
+20211219062253 {"uri": "https://web.archive.org/web/20211219062253/https://asucontinuinged.com/", "rel": "memento", "datetime": "Sun, 19 Dec 2021 06:22:53 GMT"}
+20220111210337 {"uri": "https://web.archive.org/web/20220111210337/https://asucontinuinged.com/", "rel": "last memento", "datetime": "Tue, 11 Jan 2022 21:03:37 GMT"}

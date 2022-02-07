@@ -1,0 +1,35 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/admissions/graduate-admissions"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/admissions/graduate-admissions"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/admissions/graduate-admissions"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/admissions/graduate-admissions", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/admissions/graduate-admissions", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/admissions/graduate-admissions"}}
+20181106194228 {"uri": "https://web.archive.org/web/20181106194228/http://www.alasu.edu:80/admissions/graduate-admissions", "rel": "first memento", "datetime": "Tue, 06 Nov 2018 19:42:28 GMT"}
+20191215140713 {"uri": "https://web.archive.org/web/20191215140713/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Sun, 15 Dec 2019 14:07:13 GMT"}
+20200312210511 {"uri": "https://web.archive.org/web/20200312210511/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Thu, 12 Mar 2020 21:05:11 GMT"}
+20200312211557 {"uri": "https://web.archive.org/web/20200312211557/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Thu, 12 Mar 2020 21:15:57 GMT"}
+20200312220456 {"uri": "https://web.archive.org/web/20200312220456/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Thu, 12 Mar 2020 22:04:56 GMT"}
+20200422032349 {"uri": "https://web.archive.org/web/20200422032349/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Wed, 22 Apr 2020 03:23:49 GMT"}
+20200422034829 {"uri": "https://web.archive.org/web/20200422034829/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Wed, 22 Apr 2020 03:48:29 GMT"}
+20200510193252 {"uri": "https://web.archive.org/web/20200510193252/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Sun, 10 May 2020 19:32:52 GMT"}
+20200518113447 {"uri": "https://web.archive.org/web/20200518113447/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Mon, 18 May 2020 11:34:47 GMT"}
+20200526221552 {"uri": "https://web.archive.org/web/20200526221552/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Tue, 26 May 2020 22:15:52 GMT"}
+20200605020433 {"uri": "https://web.archive.org/web/20200605020433/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Fri, 05 Jun 2020 02:04:33 GMT"}
+20200619003452 {"uri": "https://web.archive.org/web/20200619003452/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Fri, 19 Jun 2020 00:34:52 GMT"}
+20200806162554 {"uri": "https://web.archive.org/web/20200806162554/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Thu, 06 Aug 2020 16:25:54 GMT"}
+20201026133800 {"uri": "https://web.archive.org/web/20201026133800/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Mon, 26 Oct 2020 13:38:00 GMT"}
+20201114200452 {"uri": "https://web.archive.org/web/20201114200452/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Sat, 14 Nov 2020 20:04:52 GMT"}
+20210122070915 {"uri": "https://web.archive.org/web/20210122070915/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Fri, 22 Jan 2021 07:09:15 GMT"}
+20210407083124 {"uri": "https://web.archive.org/web/20210407083124/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Wed, 07 Apr 2021 08:31:24 GMT"}
+20210414041430 {"uri": "https://web.archive.org/web/20210414041430/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Wed, 14 Apr 2021 04:14:30 GMT"}
+20210414104131 {"uri": "https://web.archive.org/web/20210414104131/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Wed, 14 Apr 2021 10:41:31 GMT"}
+20210415214318 {"uri": "https://web.archive.org/web/20210415214318/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Thu, 15 Apr 2021 21:43:18 GMT"}
+20210417174155 {"uri": "https://web.archive.org/web/20210417174155/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Sat, 17 Apr 2021 17:41:55 GMT"}
+20210526194622 {"uri": "https://web.archive.org/web/20210526194622/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Wed, 26 May 2021 19:46:22 GMT"}
+20210603084151 {"uri": "https://web.archive.org/web/20210603084151/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Thu, 03 Jun 2021 08:41:51 GMT"}
+20210815090649 {"uri": "https://web.archive.org/web/20210815090649/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Sun, 15 Aug 2021 09:06:49 GMT"}
+20211010151622 {"uri": "https://web.archive.org/web/20211010151622/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Sun, 10 Oct 2021 15:16:22 GMT"}
+20211026212124 {"uri": "https://web.archive.org/web/20211026212124/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Tue, 26 Oct 2021 21:21:24 GMT"}
+20211030010958 {"uri": "https://web.archive.org/web/20211030010958/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Sat, 30 Oct 2021 01:09:58 GMT"}
+20220108003655 {"uri": "https://web.archive.org/web/20220108003655/https://www.alasu.edu/admissions/graduate-admissions", "rel": "memento", "datetime": "Sat, 08 Jan 2022 00:36:55 GMT"}
+20220128030814 {"uri": "https://web.archive.org/web/20220128030814/https://www.alasu.edu/admissions/graduate-admissions", "rel": "last memento", "datetime": "Fri, 28 Jan 2022 03:08:14 GMT"}

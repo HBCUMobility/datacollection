@@ -1,0 +1,84 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/socialwork/phd-program/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.jsums.edu/socialwork/phd-program/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.jsums.edu/socialwork/phd-program/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.jsums.edu/socialwork/phd-program/", "json_format": "http://localhost:1208/timemap/json/https://www.jsums.edu/socialwork/phd-program/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/socialwork/phd-program/"}}
+20130322173742 {"uri": "https://web.archive.org/web/20130322173742/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "first memento", "datetime": "Fri, 22 Mar 2013 17:37:42 GMT"}
+20130322173742 {"uri": "https://web.archive.org/web/20130322173742/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Fri, 22 Mar 2013 17:37:42 GMT"}
+20130323004324 {"uri": "https://web.archive.org/web/20130323004324/http://www.jsums.edu:80/socialwork/PhD-Program/", "rel": "memento", "datetime": "Sat, 23 Mar 2013 00:43:24 GMT"}
+20130323004324 {"uri": "https://web.archive.org/web/20130323004324/http://www.jsums.edu:80/socialwork/PhD-Program", "rel": "memento", "datetime": "Sat, 23 Mar 2013 00:43:24 GMT"}
+20130324080255 {"uri": "https://web.archive.org/web/20130324080255/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sun, 24 Mar 2013 08:02:55 GMT"}
+20130424040014 {"uri": "https://web.archive.org/web/20130424040014/http://www.jsums.edu:80/socialwork/PhD-Program/", "rel": "memento", "datetime": "Wed, 24 Apr 2013 04:00:14 GMT"}
+20130424040014 {"uri": "https://web.archive.org/web/20130424040014/http://www.jsums.edu:80/socialwork/PhD-Program", "rel": "memento", "datetime": "Wed, 24 Apr 2013 04:00:14 GMT"}
+20130424041252 {"uri": "https://web.archive.org/web/20130424041252/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Wed, 24 Apr 2013 04:12:52 GMT"}
+20130524052426 {"uri": "https://web.archive.org/web/20130524052426/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Fri, 24 May 2013 05:24:26 GMT"}
+20130524235026 {"uri": "https://web.archive.org/web/20130524235026/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Fri, 24 May 2013 23:50:26 GMT"}
+20130526051755 {"uri": "https://web.archive.org/web/20130526051755/http://www.jsums.edu:80/socialwork/PhD-Program/", "rel": "memento", "datetime": "Sun, 26 May 2013 05:17:55 GMT"}
+20130526051755 {"uri": "https://web.archive.org/web/20130526051755/http://www.jsums.edu:80/socialwork/PhD-Program", "rel": "memento", "datetime": "Sun, 26 May 2013 05:17:55 GMT"}
+20130628111847 {"uri": "https://web.archive.org/web/20130628111847/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Fri, 28 Jun 2013 11:18:47 GMT"}
+20130628111847 {"uri": "https://web.archive.org/web/20130628111847/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Fri, 28 Jun 2013 11:18:47 GMT"}
+20130718204307 {"uri": "https://web.archive.org/web/20130718204307/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Thu, 18 Jul 2013 20:43:07 GMT"}
+20130718204307 {"uri": "https://web.archive.org/web/20130718204307/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Thu, 18 Jul 2013 20:43:07 GMT"}
+20130723223349 {"uri": "https://web.archive.org/web/20130723223349/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Tue, 23 Jul 2013 22:33:49 GMT"}
+20130819070608 {"uri": "https://web.archive.org/web/20130819070608/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Mon, 19 Aug 2013 07:06:08 GMT"}
+20130819070608 {"uri": "https://web.archive.org/web/20130819070608/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Mon, 19 Aug 2013 07:06:08 GMT"}
+20130919061420 {"uri": "https://web.archive.org/web/20130919061420/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Thu, 19 Sep 2013 06:14:20 GMT"}
+20130919061420 {"uri": "https://web.archive.org/web/20130919061420/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Thu, 19 Sep 2013 06:14:20 GMT"}
+20131022155741 {"uri": "https://web.archive.org/web/20131022155741/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Tue, 22 Oct 2013 15:57:41 GMT"}
+20131022155741 {"uri": "https://web.archive.org/web/20131022155741/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Tue, 22 Oct 2013 15:57:41 GMT"}
+20131122093244 {"uri": "https://web.archive.org/web/20131122093244/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Fri, 22 Nov 2013 09:32:44 GMT"}
+20131122093244 {"uri": "https://web.archive.org/web/20131122093244/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Fri, 22 Nov 2013 09:32:44 GMT"}
+20150317022539 {"uri": "https://web.archive.org/web/20150317022539/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Tue, 17 Mar 2015 02:25:39 GMT"}
+20150520110606 {"uri": "https://web.archive.org/web/20150520110606/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Wed, 20 May 2015 11:06:06 GMT"}
+20150630215748 {"uri": "https://web.archive.org/web/20150630215748/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Tue, 30 Jun 2015 21:57:48 GMT"}
+20150630215748 {"uri": "https://web.archive.org/web/20150630215748/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Tue, 30 Jun 2015 21:57:48 GMT"}
+20150801083940 {"uri": "https://web.archive.org/web/20150801083940/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sat, 01 Aug 2015 08:39:40 GMT"}
+20150801083940 {"uri": "https://web.archive.org/web/20150801083940/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Sat, 01 Aug 2015 08:39:40 GMT"}
+20150901021801 {"uri": "https://web.archive.org/web/20150901021801/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Tue, 01 Sep 2015 02:18:01 GMT"}
+20150901021801 {"uri": "https://web.archive.org/web/20150901021801/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Tue, 01 Sep 2015 02:18:01 GMT"}
+20150921224135 {"uri": "https://web.archive.org/web/20150921224135/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Mon, 21 Sep 2015 22:41:35 GMT"}
+20151026010838 {"uri": "https://web.archive.org/web/20151026010838/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Mon, 26 Oct 2015 01:08:38 GMT"}
+20151026010838 {"uri": "https://web.archive.org/web/20151026010838/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Mon, 26 Oct 2015 01:08:38 GMT"}
+20151027065414 {"uri": "https://web.archive.org/web/20151027065414/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Tue, 27 Oct 2015 06:54:14 GMT"}
+20151126013803 {"uri": "https://web.archive.org/web/20151126013803/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Thu, 26 Nov 2015 01:38:03 GMT"}
+20151126013803 {"uri": "https://web.archive.org/web/20151126013803/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Thu, 26 Nov 2015 01:38:03 GMT"}
+20151221090620 {"uri": "https://web.archive.org/web/20151221090620/http://www.jsums.edu/socialwork/phd-program/", "rel": "memento", "datetime": "Mon, 21 Dec 2015 09:06:20 GMT"}
+20151223181634 {"uri": "https://web.archive.org/web/20151223181634/http://www.jsums.edu/socialwork/PhD-Program", "rel": "memento", "datetime": "Wed, 23 Dec 2015 18:16:34 GMT"}
+20151226145140 {"uri": "https://web.archive.org/web/20151226145140/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sat, 26 Dec 2015 14:51:40 GMT"}
+20151226145140 {"uri": "https://web.archive.org/web/20151226145140/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Sat, 26 Dec 2015 14:51:40 GMT"}
+20160331211809 {"uri": "https://web.archive.org/web/20160331211809/http://www.jsums.edu/socialwork/phd-program/", "rel": "memento", "datetime": "Thu, 31 Mar 2016 21:18:09 GMT"}
+20160403204440 {"uri": "https://web.archive.org/web/20160403204440/http://www.jsums.edu/socialwork/PhD-Program", "rel": "memento", "datetime": "Sun, 03 Apr 2016 20:44:40 GMT"}
+20160506151037 {"uri": "https://web.archive.org/web/20160506151037/http://www.jsums.edu/socialwork/phd-program/", "rel": "memento", "datetime": "Fri, 06 May 2016 15:10:37 GMT"}
+20160509212333 {"uri": "https://web.archive.org/web/20160509212333/http://www.jsums.edu/socialwork/PhD-Program", "rel": "memento", "datetime": "Mon, 09 May 2016 21:23:33 GMT"}
+20160726042133 {"uri": "https://web.archive.org/web/20160726042133/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Tue, 26 Jul 2016 04:21:33 GMT"}
+20160726042133 {"uri": "https://web.archive.org/web/20160726042133/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Tue, 26 Jul 2016 04:21:33 GMT"}
+20160729112649 {"uri": "https://web.archive.org/web/20160729112649/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Fri, 29 Jul 2016 11:26:49 GMT"}
+20160820015656 {"uri": "https://web.archive.org/web/20160820015656/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sat, 20 Aug 2016 01:56:56 GMT"}
+20160820015656 {"uri": "https://web.archive.org/web/20160820015656/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Sat, 20 Aug 2016 01:56:56 GMT"}
+20160911114943 {"uri": "https://web.archive.org/web/20160911114943/http://www.jsums.edu/socialwork/phd-program/", "rel": "memento", "datetime": "Sun, 11 Sep 2016 11:49:43 GMT"}
+20160911115001 {"uri": "https://web.archive.org/web/20160911115001/http://www.jsums.edu/socialwork/PhD-Program", "rel": "memento", "datetime": "Sun, 11 Sep 2016 11:50:01 GMT"}
+20160911115004 {"uri": "https://web.archive.org/web/20160911115004/http://www.jsums.edu/socialwork/PhD-Program/", "rel": "memento", "datetime": "Sun, 11 Sep 2016 11:50:04 GMT"}
+20160921014829 {"uri": "https://web.archive.org/web/20160921014829/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Wed, 21 Sep 2016 01:48:29 GMT"}
+20160921014829 {"uri": "https://web.archive.org/web/20160921014829/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Wed, 21 Sep 2016 01:48:29 GMT"}
+20160922032146 {"uri": "https://web.archive.org/web/20160922032146/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Thu, 22 Sep 2016 03:21:46 GMT"}
+20160922032146 {"uri": "https://web.archive.org/web/20160922032146/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Thu, 22 Sep 2016 03:21:46 GMT"}
+20160930045829 {"uri": "https://web.archive.org/web/20160930045829/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Fri, 30 Sep 2016 04:58:29 GMT"}
+20161023113654 {"uri": "https://web.archive.org/web/20161023113654/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sun, 23 Oct 2016 11:36:54 GMT"}
+20161023113654 {"uri": "https://web.archive.org/web/20161023113654/http://www.jsums.edu:80/socialwork/phd-program", "rel": "memento", "datetime": "Sun, 23 Oct 2016 11:36:54 GMT"}
+20170409232717 {"uri": "https://web.archive.org/web/20170409232717/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sun, 09 Apr 2017 23:27:17 GMT"}
+20180423165040 {"uri": "https://web.archive.org/web/20180423165040/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Mon, 23 Apr 2018 16:50:40 GMT"}
+20180625114223 {"uri": "https://web.archive.org/web/20180625114223/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Mon, 25 Jun 2018 11:42:23 GMT"}
+20180826131340 {"uri": "https://web.archive.org/web/20180826131340/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sun, 26 Aug 2018 13:13:40 GMT"}
+20181027210309 {"uri": "https://web.archive.org/web/20181027210309/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sat, 27 Oct 2018 21:03:09 GMT"}
+20181227230249 {"uri": "https://web.archive.org/web/20181227230249/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Thu, 27 Dec 2018 23:02:49 GMT"}
+20190227020035 {"uri": "https://web.archive.org/web/20190227020035/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Wed, 27 Feb 2019 02:00:35 GMT"}
+20190228053603 {"uri": "https://web.archive.org/web/20190228053603/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Thu, 28 Feb 2019 05:36:03 GMT"}
+20190430043609 {"uri": "https://web.archive.org/web/20190430043609/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Tue, 30 Apr 2019 04:36:09 GMT"}
+20190831084540 {"uri": "https://web.archive.org/web/20190831084540/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sat, 31 Aug 2019 08:45:40 GMT"}
+20191029010951 {"uri": "https://web.archive.org/web/20191029010951/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Tue, 29 Oct 2019 01:09:51 GMT"}
+20191228054126 {"uri": "https://web.archive.org/web/20191228054126/http://www.jsums.edu:80/socialwork/phd-program/", "rel": "memento", "datetime": "Sat, 28 Dec 2019 05:41:26 GMT"}
+20210117105535 {"uri": "https://web.archive.org/web/20210117105535/https://www.jsums.edu/socialwork/phd-program/", "rel": "memento", "datetime": "Sun, 17 Jan 2021 10:55:35 GMT"}
+20210225163156 {"uri": "https://web.archive.org/web/20210225163156/https://www.jsums.edu/socialwork/phd-program/", "rel": "memento", "datetime": "Thu, 25 Feb 2021 16:31:56 GMT"}
+20220121175506 {"uri": "https://web.archive.org/web/20220121175506/https://www.jsums.edu/socialwork/phd-program/", "rel": "memento", "datetime": "Fri, 21 Jan 2022 17:55:06 GMT"}
+20220121175506 {"uri": "https://web.archive.org/web/20220121175506/http://www.jsums.edu/socialwork/phd-program/", "rel": "last memento", "datetime": "Fri, 21 Jan 2022 17:55:06 GMT"}

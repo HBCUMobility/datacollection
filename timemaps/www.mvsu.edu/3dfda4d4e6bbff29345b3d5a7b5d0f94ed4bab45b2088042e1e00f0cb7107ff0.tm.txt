@@ -1,0 +1,27 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/social-work-homepage"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.mvsu.edu/academics/academic-programs/social-work-homepage"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.mvsu.edu/academics/academic-programs/social-work-homepage"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "json_format": "http://localhost:1208/timemap/json/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mvsu.edu/academics/academic-programs/social-work-homepage"}}
+20170706064057 {"uri": "https://web.archive.org/web/20170706064057/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "first memento", "datetime": "Thu, 06 Jul 2017 06:40:57 GMT"}
+20190803224714 {"uri": "https://web.archive.org/web/20190803224714/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Sat, 03 Aug 2019 22:47:14 GMT"}
+20190929081152 {"uri": "https://web.archive.org/web/20190929081152/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Sun, 29 Sep 2019 08:11:52 GMT"}
+20200513085653 {"uri": "https://web.archive.org/web/20200513085653/https://mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Wed, 13 May 2020 08:56:53 GMT"}
+20200525165931 {"uri": "https://web.archive.org/web/20200525165931/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Mon, 25 May 2020 16:59:31 GMT"}
+20200609132205 {"uri": "https://web.archive.org/web/20200609132205/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Tue, 09 Jun 2020 13:22:05 GMT"}
+20200621103539 {"uri": "https://web.archive.org/web/20200621103539/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Sun, 21 Jun 2020 10:35:39 GMT"}
+20200813143046 {"uri": "https://web.archive.org/web/20200813143046/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Thu, 13 Aug 2020 14:30:46 GMT"}
+20200816082404 {"uri": "https://web.archive.org/web/20200816082404/https://mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Sun, 16 Aug 2020 08:24:04 GMT"}
+20201021135203 {"uri": "https://web.archive.org/web/20201021135203/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Wed, 21 Oct 2020 13:52:03 GMT"}
+20201024100245 {"uri": "https://web.archive.org/web/20201024100245/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Sat, 24 Oct 2020 10:02:45 GMT"}
+20210101142511 {"uri": "https://web.archive.org/web/20210101142511/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Fri, 01 Jan 2021 14:25:11 GMT"}
+20210128001228 {"uri": "https://web.archive.org/web/20210128001228/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Thu, 28 Jan 2021 00:12:28 GMT"}
+20210409174714 {"uri": "https://web.archive.org/web/20210409174714/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Fri, 09 Apr 2021 17:47:14 GMT"}
+20210414231633 {"uri": "https://web.archive.org/web/20210414231633/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Wed, 14 Apr 2021 23:16:33 GMT"}
+20210417223836 {"uri": "https://web.archive.org/web/20210417223836/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Sat, 17 Apr 2021 22:38:36 GMT"}
+20210515194506 {"uri": "https://web.archive.org/web/20210515194506/https://mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Sat, 15 May 2021 19:45:06 GMT"}
+20210812015441 {"uri": "https://web.archive.org/web/20210812015441/https://mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Thu, 12 Aug 2021 01:54:41 GMT"}
+20220108001656 {"uri": "https://web.archive.org/web/20220108001656/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Sat, 08 Jan 2022 00:16:56 GMT"}
+20220112133003 {"uri": "https://web.archive.org/web/20220112133003/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "memento", "datetime": "Wed, 12 Jan 2022 13:30:03 GMT"}
+20220112133150 {"uri": "https://web.archive.org/web/20220112133150/https://www.mvsu.edu/academics/academic-programs/social-work-homepage", "rel": "last memento", "datetime": "Wed, 12 Jan 2022 13:31:50 GMT"}

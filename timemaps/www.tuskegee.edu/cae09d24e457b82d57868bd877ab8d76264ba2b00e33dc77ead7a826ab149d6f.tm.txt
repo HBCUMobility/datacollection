@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology"}}
+20200812232302 {"uri": "https://web.archive.org/web/20200812232302/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 23:23:02 GMT"}
+20201029043303 {"uri": "https://web.archive.org/web/20201029043303/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology", "rel": "memento", "datetime": "Thu, 29 Oct 2020 04:33:03 GMT"}
+20210125033537 {"uri": "https://web.archive.org/web/20210125033537/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology", "rel": "memento", "datetime": "Mon, 25 Jan 2021 03:35:37 GMT"}
+20210410135934 {"uri": "https://web.archive.org/web/20210410135934/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology", "rel": "memento", "datetime": "Sat, 10 Apr 2021 13:59:34 GMT"}
+20210420045437 {"uri": "https://web.archive.org/web/20210420045437/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-pathobiology", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 04:54:37 GMT"}

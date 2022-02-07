@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.xula.edu/department/department-of-speech-pathology.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.xula.edu/department/department-of-speech-pathology.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.xula.edu/department/department-of-speech-pathology.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.xula.edu/department/department-of-speech-pathology.html", "json_format": "http://localhost:1208/timemap/json/https://www.xula.edu/department/department-of-speech-pathology.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.xula.edu/department/department-of-speech-pathology.html"}}
+20220127021039 {"uri": "https://web.archive.org/web/20220127021039/https://www.xula.edu/department/department-of-speech-pathology.html", "rel": "first last memento", "datetime": "Thu, 27 Jan 2022 02:10:39 GMT"}

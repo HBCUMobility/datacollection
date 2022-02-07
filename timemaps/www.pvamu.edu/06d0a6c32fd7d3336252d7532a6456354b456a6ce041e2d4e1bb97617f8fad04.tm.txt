@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/mathematics/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.pvamu.edu/bcas/departments/mathematics/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.pvamu.edu/bcas/departments/mathematics/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.pvamu.edu/bcas/departments/mathematics/", "json_format": "http://localhost:1208/timemap/json/https://www.pvamu.edu/bcas/departments/mathematics/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/mathematics/"}}
+20150705164228 {"uri": "https://web.archive.org/web/20150705164228/http://www.pvamu.edu:80/bcas/departments/mathematics/", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 16:42:28 GMT"}
+20150905130238 {"uri": "https://web.archive.org/web/20150905130238/http://www.pvamu.edu/bcas/departments/mathematics/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 13:02:38 GMT"}
+20190402185406 {"uri": "https://web.archive.org/web/20190402185406/http://www.pvamu.edu/bcas/departments/mathematics/", "rel": "memento", "datetime": "Tue, 02 Apr 2019 18:54:06 GMT"}
+20200809095138 {"uri": "https://web.archive.org/web/20200809095138/https://www.pvamu.edu/bcas/departments/mathematics/", "rel": "memento", "datetime": "Sun, 09 Aug 2020 09:51:38 GMT"}
+20200930010743 {"uri": "https://web.archive.org/web/20200930010743/https://www.pvamu.edu/bcas/departments/mathematics/", "rel": "memento", "datetime": "Wed, 30 Sep 2020 01:07:43 GMT"}
+20210201231525 {"uri": "https://web.archive.org/web/20210201231525/https://www.pvamu.edu/bcas/departments/mathematics/", "rel": "memento", "datetime": "Mon, 01 Feb 2021 23:15:25 GMT"}
+20210419043430 {"uri": "https://web.archive.org/web/20210419043430/https://www.pvamu.edu/bcas/departments/mathematics", "rel": "memento", "datetime": "Mon, 19 Apr 2021 04:34:30 GMT"}
+20210419085719 {"uri": "https://web.archive.org/web/20210419085719/https://www.pvamu.edu/bcas/departments/mathematics/", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 08:57:19 GMT"}

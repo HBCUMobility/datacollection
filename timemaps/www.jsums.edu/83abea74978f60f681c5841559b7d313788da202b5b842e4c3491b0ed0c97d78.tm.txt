@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/emes/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.jsums.edu/emes/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.jsums.edu/emes/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.jsums.edu/emes/", "json_format": "http://localhost:1208/timemap/json/https://www.jsums.edu/emes/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.jsums.edu/emes/"}}
+20210516221800 {"uri": "https://web.archive.org/web/20210516221800/https://www.jsums.edu/emes/", "rel": "first last memento", "datetime": "Sun, 16 May 2021 22:18:00 GMT"}

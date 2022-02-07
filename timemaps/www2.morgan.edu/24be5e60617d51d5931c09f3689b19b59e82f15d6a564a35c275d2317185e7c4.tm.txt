@@ -1,0 +1,35 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/cla/finearts"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/cla/finearts"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/cla/finearts"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/cla/finearts", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/cla/finearts", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/cla/finearts"}}
+20171012214543 {"uri": "https://web.archive.org/web/20171012214543/http://www.morgan.edu:80/cla/finearts", "rel": "first memento", "datetime": "Thu, 12 Oct 2017 21:45:43 GMT"}
+20171025060649 {"uri": "https://web.archive.org/web/20171025060649/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Wed, 25 Oct 2017 06:06:49 GMT"}
+20171103192411 {"uri": "https://web.archive.org/web/20171103192411/http://morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Fri, 03 Nov 2017 19:24:11 GMT"}
+20171112152308 {"uri": "https://web.archive.org/web/20171112152308/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Sun, 12 Nov 2017 15:23:08 GMT"}
+20171213153226 {"uri": "https://web.archive.org/web/20171213153226/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Wed, 13 Dec 2017 15:32:26 GMT"}
+20180114024445 {"uri": "https://web.archive.org/web/20180114024445/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Sun, 14 Jan 2018 02:44:45 GMT"}
+20180214140135 {"uri": "https://web.archive.org/web/20180214140135/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Wed, 14 Feb 2018 14:01:35 GMT"}
+20180215154536 {"uri": "https://web.archive.org/web/20180215154536/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Thu, 15 Feb 2018 15:45:36 GMT"}
+20180319050719 {"uri": "https://web.archive.org/web/20180319050719/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Mon, 19 Mar 2018 05:07:19 GMT"}
+20180320031139 {"uri": "https://web.archive.org/web/20180320031139/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Tue, 20 Mar 2018 03:11:39 GMT"}
+20180421152346 {"uri": "https://web.archive.org/web/20180421152346/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Sat, 21 Apr 2018 15:23:46 GMT"}
+20180529142512 {"uri": "https://web.archive.org/web/20180529142512/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Tue, 29 May 2018 14:25:12 GMT"}
+20180630085442 {"uri": "https://web.archive.org/web/20180630085442/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Sat, 30 Jun 2018 08:54:42 GMT"}
+20180802041704 {"uri": "https://web.archive.org/web/20180802041704/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Thu, 02 Aug 2018 04:17:04 GMT"}
+20180803064750 {"uri": "https://web.archive.org/web/20180803064750/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Fri, 03 Aug 2018 06:47:50 GMT"}
+20180904003432 {"uri": "https://web.archive.org/web/20180904003432/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Tue, 04 Sep 2018 00:34:32 GMT"}
+20181022172545 {"uri": "https://web.archive.org/web/20181022172545/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Mon, 22 Oct 2018 17:25:45 GMT"}
+20190327095314 {"uri": "https://web.archive.org/web/20190327095314/https://www.morgan.edu/cla/finearts", "rel": "memento", "datetime": "Wed, 27 Mar 2019 09:53:14 GMT"}
+20190830085810 {"uri": "https://web.archive.org/web/20190830085810/http://www.morgan.edu:80/cla/finearts", "rel": "memento", "datetime": "Fri, 30 Aug 2019 08:58:10 GMT"}
+20200812143557 {"uri": "https://web.archive.org/web/20200812143557/https://morgan.edu/cla/finearts", "rel": "memento", "datetime": "Wed, 12 Aug 2020 14:35:57 GMT"}
+20201001070935 {"uri": "https://web.archive.org/web/20201001070935/https://www.morgan.edu/cla/finearts", "rel": "memento", "datetime": "Thu, 01 Oct 2020 07:09:35 GMT"}
+20201028171313 {"uri": "https://web.archive.org/web/20201028171313/https://morgan.edu/cla/finearts", "rel": "memento", "datetime": "Wed, 28 Oct 2020 17:13:13 GMT"}
+20210123210409 {"uri": "https://web.archive.org/web/20210123210409/https://www.morgan.edu/cla/finearts", "rel": "memento", "datetime": "Sat, 23 Jan 2021 21:04:09 GMT"}
+20210125231817 {"uri": "https://web.archive.org/web/20210125231817/https://morgan.edu/cla/finearts", "rel": "memento", "datetime": "Mon, 25 Jan 2021 23:18:17 GMT"}
+20210303022729 {"uri": "https://web.archive.org/web/20210303022729/https://www.morgan.edu/cla/finearts", "rel": "memento", "datetime": "Wed, 03 Mar 2021 02:27:29 GMT"}
+20210414025154 {"uri": "https://web.archive.org/web/20210414025154/https://morgan.edu/cla/finearts", "rel": "memento", "datetime": "Wed, 14 Apr 2021 02:51:54 GMT"}
+20210415134536 {"uri": "https://web.archive.org/web/20210415134536/https://morgan.edu/cla/finearts", "rel": "memento", "datetime": "Thu, 15 Apr 2021 13:45:36 GMT"}
+20210421075813 {"uri": "https://web.archive.org/web/20210421075813/https://www.morgan.edu/cla/finearts", "rel": "memento", "datetime": "Wed, 21 Apr 2021 07:58:13 GMT"}
+20210818004326 {"uri": "https://web.archive.org/web/20210818004326/https://morgan.edu/cla/finearts", "rel": "last memento", "datetime": "Wed, 18 Aug 2021 00:43:26 GMT"}

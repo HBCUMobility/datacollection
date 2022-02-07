@@ -1,0 +1,84 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://eis.tsu.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://eis.tsu.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://eis.tsu.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://eis.tsu.edu/", "json_format": "http://localhost:1208/timemap/json/http://eis.tsu.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://eis.tsu.edu/"}}
+20150106181708 {"uri": "https://web.archive.org/web/20150106181708/http://eis.tsu.edu:80/", "rel": "first memento", "datetime": "Tue, 06 Jan 2015 18:17:08 GMT"}
+20150219234527 {"uri": "https://web.archive.org/web/20150219234527/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 19 Feb 2015 23:45:27 GMT"}
+20150421075441 {"uri": "https://web.archive.org/web/20150421075441/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 21 Apr 2015 07:54:41 GMT"}
+20150621003744 {"uri": "https://web.archive.org/web/20150621003744/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 21 Jun 2015 00:37:44 GMT"}
+20150907032934 {"uri": "https://web.archive.org/web/20150907032934/http://eis.tsu.edu/", "rel": "memento", "datetime": "Mon, 07 Sep 2015 03:29:34 GMT"}
+20151020003844 {"uri": "https://web.archive.org/web/20151020003844/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 20 Oct 2015 00:38:44 GMT"}
+20151031153839 {"uri": "https://web.archive.org/web/20151031153839/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 31 Oct 2015 15:38:39 GMT"}
+20151205164927 {"uri": "https://web.archive.org/web/20151205164927/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 05 Dec 2015 16:49:27 GMT"}
+20160106201709 {"uri": "https://web.archive.org/web/20160106201709/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 06 Jan 2016 20:17:09 GMT"}
+20160219224243 {"uri": "https://web.archive.org/web/20160219224243/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 19 Feb 2016 22:42:43 GMT"}
+20160220095116 {"uri": "https://web.archive.org/web/20160220095116/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 20 Feb 2016 09:51:16 GMT"}
+20160321212910 {"uri": "https://web.archive.org/web/20160321212910/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 21 Mar 2016 21:29:10 GMT"}
+20160331035015 {"uri": "https://web.archive.org/web/20160331035015/http://eis.tsu.edu/", "rel": "memento", "datetime": "Thu, 31 Mar 2016 03:50:15 GMT"}
+20160421191009 {"uri": "https://web.archive.org/web/20160421191009/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 21 Apr 2016 19:10:09 GMT"}
+20160523031749 {"uri": "https://web.archive.org/web/20160523031749/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 23 May 2016 03:17:49 GMT"}
+20160624025139 {"uri": "https://web.archive.org/web/20160624025139/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 24 Jun 2016 02:51:39 GMT"}
+20160625072341 {"uri": "https://web.archive.org/web/20160625072341/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 25 Jun 2016 07:23:41 GMT"}
+20160726170305 {"uri": "https://web.archive.org/web/20160726170305/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 26 Jul 2016 17:03:05 GMT"}
+20160828001657 {"uri": "https://web.archive.org/web/20160828001657/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 28 Aug 2016 00:16:57 GMT"}
+20161024113010 {"uri": "https://web.archive.org/web/20161024113010/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 24 Oct 2016 11:30:10 GMT"}
+20170309095712 {"uri": "https://web.archive.org/web/20170309095712/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 09 Mar 2017 09:57:12 GMT"}
+20170506222501 {"uri": "https://web.archive.org/web/20170506222501/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 06 May 2017 22:25:01 GMT"}
+20170619173428 {"uri": "https://web.archive.org/web/20170619173428/http://eis.tsu.edu/", "rel": "memento", "datetime": "Mon, 19 Jun 2017 17:34:28 GMT"}
+20170706190242 {"uri": "https://web.archive.org/web/20170706190242/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 06 Jul 2017 19:02:42 GMT"}
+20170711152456 {"uri": "https://web.archive.org/web/20170711152456/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 11 Jul 2017 15:24:56 GMT"}
+20170810211350 {"uri": "https://web.archive.org/web/20170810211350/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 10 Aug 2017 21:13:50 GMT"}
+20170811211645 {"uri": "https://web.archive.org/web/20170811211645/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 11 Aug 2017 21:16:45 GMT"}
+20170911211103 {"uri": "https://web.archive.org/web/20170911211103/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 11 Sep 2017 21:11:03 GMT"}
+20171012125941 {"uri": "https://web.archive.org/web/20171012125941/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 12 Oct 2017 12:59:41 GMT"}
+20171112020841 {"uri": "https://web.archive.org/web/20171112020841/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 12 Nov 2017 02:08:41 GMT"}
+20171114183744 {"uri": "https://web.archive.org/web/20171114183744/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 14 Nov 2017 18:37:44 GMT"}
+20180114113331 {"uri": "https://web.archive.org/web/20180114113331/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 14 Jan 2018 11:33:31 GMT"}
+20180128021707 {"uri": "https://web.archive.org/web/20180128021707/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 28 Jan 2018 02:17:07 GMT"}
+20180228040956 {"uri": "https://web.archive.org/web/20180228040956/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 28 Feb 2018 04:09:56 GMT"}
+20180323003218 {"uri": "https://web.archive.org/web/20180323003218/http://eis.tsu.edu/", "rel": "memento", "datetime": "Fri, 23 Mar 2018 00:32:18 GMT"}
+20180331045231 {"uri": "https://web.archive.org/web/20180331045231/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 31 Mar 2018 04:52:31 GMT"}
+20180501052322 {"uri": "https://web.archive.org/web/20180501052322/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 01 May 2018 05:23:22 GMT"}
+20180601175926 {"uri": "https://web.archive.org/web/20180601175926/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 01 Jun 2018 17:59:26 GMT"}
+20180702142015 {"uri": "https://web.archive.org/web/20180702142015/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 02 Jul 2018 14:20:15 GMT"}
+20180802202759 {"uri": "https://web.archive.org/web/20180802202759/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 02 Aug 2018 20:27:59 GMT"}
+20180903040800 {"uri": "https://web.archive.org/web/20180903040800/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 03 Sep 2018 04:08:00 GMT"}
+20181004064649 {"uri": "https://web.archive.org/web/20181004064649/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 04 Oct 2018 06:46:49 GMT"}
+20181019231001 {"uri": "https://web.archive.org/web/20181019231001/http://eis.tsu.edu/", "rel": "memento", "datetime": "Fri, 19 Oct 2018 23:10:01 GMT"}
+20181101173205 {"uri": "https://web.archive.org/web/20181101173205/http://eis.tsu.edu/", "rel": "memento", "datetime": "Thu, 01 Nov 2018 17:32:05 GMT"}
+20181104162445 {"uri": "https://web.archive.org/web/20181104162445/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 04 Nov 2018 16:24:45 GMT"}
+20181116203956 {"uri": "https://web.archive.org/web/20181116203956/http://eis.tsu.edu/", "rel": "memento", "datetime": "Fri, 16 Nov 2018 20:39:56 GMT"}
+20181206070836 {"uri": "https://web.archive.org/web/20181206070836/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 06 Dec 2018 07:08:36 GMT"}
+20190106190107 {"uri": "https://web.archive.org/web/20190106190107/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 06 Jan 2019 19:01:07 GMT"}
+20190207171418 {"uri": "https://web.archive.org/web/20190207171418/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 07 Feb 2019 17:14:18 GMT"}
+20190311081258 {"uri": "https://web.archive.org/web/20190311081258/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 11 Mar 2019 08:12:58 GMT"}
+20190411115802 {"uri": "https://web.archive.org/web/20190411115802/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 11 Apr 2019 11:58:02 GMT"}
+20190512185656 {"uri": "https://web.archive.org/web/20190512185656/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 12 May 2019 18:56:56 GMT"}
+20190513202204 {"uri": "https://web.archive.org/web/20190513202204/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 13 May 2019 20:22:04 GMT"}
+20190614012458 {"uri": "https://web.archive.org/web/20190614012458/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Fri, 14 Jun 2019 01:24:58 GMT"}
+20190615023721 {"uri": "https://web.archive.org/web/20190615023721/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 15 Jun 2019 02:37:21 GMT"}
+20190708120634 {"uri": "https://web.archive.org/web/20190708120634/http://eis.tsu.edu/", "rel": "memento", "datetime": "Mon, 08 Jul 2019 12:06:34 GMT"}
+20190730105859 {"uri": "https://web.archive.org/web/20190730105859/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 30 Jul 2019 10:58:59 GMT"}
+20190731173324 {"uri": "https://web.archive.org/web/20190731173324/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 31 Jul 2019 17:33:24 GMT"}
+20190816043741 {"uri": "https://web.archive.org/web/20190816043741/http://eis.tsu.edu/", "rel": "memento", "datetime": "Fri, 16 Aug 2019 04:37:41 GMT"}
+20190901005307 {"uri": "https://web.archive.org/web/20190901005307/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sun, 01 Sep 2019 00:53:07 GMT"}
+20191022105326 {"uri": "https://web.archive.org/web/20191022105326/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Tue, 22 Oct 2019 10:53:26 GMT"}
+20191030195735 {"uri": "https://web.archive.org/web/20191030195735/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 30 Oct 2019 19:57:35 GMT"}
+20191130014606 {"uri": "https://web.archive.org/web/20191130014606/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Sat, 30 Nov 2019 01:46:06 GMT"}
+20191230034159 {"uri": "https://web.archive.org/web/20191230034159/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 30 Dec 2019 03:41:59 GMT"}
+20200129063741 {"uri": "https://web.archive.org/web/20200129063741/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Wed, 29 Jan 2020 06:37:41 GMT"}
+20200406014013 {"uri": "https://web.archive.org/web/20200406014013/http://eis.tsu.edu/", "rel": "memento", "datetime": "Mon, 06 Apr 2020 01:40:13 GMT"}
+20200430132049 {"uri": "https://web.archive.org/web/20200430132049/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Thu, 30 Apr 2020 13:20:49 GMT"}
+20200629183639 {"uri": "https://web.archive.org/web/20200629183639/http://eis.tsu.edu:80/", "rel": "memento", "datetime": "Mon, 29 Jun 2020 18:36:39 GMT"}
+20200806075023 {"uri": "https://web.archive.org/web/20200806075023/http://eis.tsu.edu/", "rel": "memento", "datetime": "Thu, 06 Aug 2020 07:50:23 GMT"}
+20200921004036 {"uri": "https://web.archive.org/web/20200921004036/https://eis.tsu.edu/", "rel": "memento", "datetime": "Mon, 21 Sep 2020 00:40:36 GMT"}
+20201030080933 {"uri": "https://web.archive.org/web/20201030080933/https://eis.tsu.edu/", "rel": "memento", "datetime": "Fri, 30 Oct 2020 08:09:33 GMT"}
+20210121030846 {"uri": "https://web.archive.org/web/20210121030846/https://eis.tsu.edu/", "rel": "memento", "datetime": "Thu, 21 Jan 2021 03:08:46 GMT"}
+20210412223546 {"uri": "https://web.archive.org/web/20210412223546/http://eis.tsu.edu/", "rel": "memento", "datetime": "Mon, 12 Apr 2021 22:35:46 GMT"}
+20210422153035 {"uri": "https://web.archive.org/web/20210422153035/https://eis.tsu.edu/", "rel": "memento", "datetime": "Thu, 22 Apr 2021 15:30:35 GMT"}
+20210507111208 {"uri": "https://web.archive.org/web/20210507111208/https://eis.tsu.edu/", "rel": "memento", "datetime": "Fri, 07 May 2021 11:12:08 GMT"}
+20210613003230 {"uri": "https://web.archive.org/web/20210613003230/https://eis.tsu.edu/", "rel": "memento", "datetime": "Sun, 13 Jun 2021 00:32:30 GMT"}
+20210805052235 {"uri": "https://web.archive.org/web/20210805052235/http://eis.tsu.edu/", "rel": "memento", "datetime": "Thu, 05 Aug 2021 05:22:35 GMT"}
+20210805052321 {"uri": "https://web.archive.org/web/20210805052321/https://eis.tsu.edu/", "rel": "last memento", "datetime": "Thu, 05 Aug 2021 05:23:21 GMT"}

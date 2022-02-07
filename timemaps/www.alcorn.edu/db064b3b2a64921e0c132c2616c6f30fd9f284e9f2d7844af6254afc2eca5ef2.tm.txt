@@ -1,0 +1,26 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "json_format": "http://localhost:1208/timemap/json/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing"}}
+20190404150303 {"uri": "https://web.archive.org/web/20190404150303/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "first memento", "datetime": "Thu, 04 Apr 2019 15:03:03 GMT"}
+20190507062151 {"uri": "https://web.archive.org/web/20190507062151/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Tue, 07 May 2019 06:21:51 GMT"}
+20200414080718 {"uri": "https://web.archive.org/web/20200414080718/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Tue, 14 Apr 2020 08:07:18 GMT"}
+20200531053322 {"uri": "https://web.archive.org/web/20200531053322/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Sun, 31 May 2020 05:33:22 GMT"}
+20200619015447 {"uri": "https://web.archive.org/web/20200619015447/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Fri, 19 Jun 2020 01:54:47 GMT"}
+20200722110731 {"uri": "https://web.archive.org/web/20200722110731/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:07:31 GMT"}
+20200722110736 {"uri": "https://web.archive.org/web/20200722110736/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:07:36 GMT"}
+20200926090558 {"uri": "https://web.archive.org/web/20200926090558/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Sat, 26 Sep 2020 09:05:58 GMT"}
+20201027210140 {"uri": "https://web.archive.org/web/20201027210140/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Tue, 27 Oct 2020 21:01:40 GMT"}
+20201202133223 {"uri": "https://web.archive.org/web/20201202133223/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Wed, 02 Dec 2020 13:32:23 GMT"}
+20210202203425 {"uri": "https://web.archive.org/web/20210202203425/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Tue, 02 Feb 2021 20:34:25 GMT"}
+20210301131245 {"uri": "https://web.archive.org/web/20210301131245/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Mon, 01 Mar 2021 13:12:45 GMT"}
+20210321114755 {"uri": "https://web.archive.org/web/20210321114755/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Sun, 21 Mar 2021 11:47:55 GMT"}
+20210413235809 {"uri": "https://web.archive.org/web/20210413235809/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Tue, 13 Apr 2021 23:58:09 GMT"}
+20210416055802 {"uri": "https://web.archive.org/web/20210416055802/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Fri, 16 Apr 2021 05:58:02 GMT"}
+20210510051636 {"uri": "https://web.archive.org/web/20210510051636/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Mon, 10 May 2021 05:16:36 GMT"}
+20210925123533 {"uri": "https://web.archive.org/web/20210925123533/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Sat, 25 Sep 2021 12:35:33 GMT"}
+20211106205618 {"uri": "https://web.archive.org/web/20211106205618/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Sat, 06 Nov 2021 20:56:18 GMT"}
+20211118175211 {"uri": "https://web.archive.org/web/20211118175211/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "memento", "datetime": "Thu, 18 Nov 2021 17:52:11 GMT"}
+20211208072634 {"uri": "https://web.archive.org/web/20211208072634/https://www.alcorn.edu/academics/schools-and-departments/school-of-nursing", "rel": "last memento", "datetime": "Wed, 08 Dec 2021 07:26:34 GMT"}

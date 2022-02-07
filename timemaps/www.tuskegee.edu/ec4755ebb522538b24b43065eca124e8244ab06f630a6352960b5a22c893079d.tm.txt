@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department"}}
+20200813002252 {"uri": "https://web.archive.org/web/20200813002252/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:22:52 GMT"}
+20201029054046 {"uri": "https://web.archive.org/web/20201029054046/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:40:46 GMT"}
+20210125045924 {"uri": "https://web.archive.org/web/20210125045924/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:59:24 GMT"}
+20210410145912 {"uri": "https://web.archive.org/web/20210410145912/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:59:12 GMT"}
+20210420091738 {"uri": "https://web.archive.org/web/20210420091738/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/accounting-economics-finance-department", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 09:17:38 GMT"}

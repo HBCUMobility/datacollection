@@ -1,0 +1,25 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/computer-information-systems-graduate-program"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/computer-information-systems-graduate-program"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/computer-information-systems-graduate-program"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/computer-information-systems-graduate-program", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/computer-information-systems-graduate-program", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/computer-information-systems-graduate-program"}}
+20190228173323 {"uri": "https://web.archive.org/web/20190228173323/http://www.suno.edu:80/page/computer-information-systems-graduate-program", "rel": "first memento", "datetime": "Thu, 28 Feb 2019 17:33:23 GMT"}
+20190430155611 {"uri": "https://web.archive.org/web/20190430155611/http://www.suno.edu:80/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Tue, 30 Apr 2019 15:56:11 GMT"}
+20190816044518 {"uri": "https://web.archive.org/web/20190816044518/http://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Fri, 16 Aug 2019 04:45:18 GMT"}
+20190830231215 {"uri": "https://web.archive.org/web/20190830231215/http://www.suno.edu:80/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Fri, 30 Aug 2019 23:12:15 GMT"}
+20191004064918 {"uri": "https://web.archive.org/web/20191004064918/http://www.suno.edu:80/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Fri, 04 Oct 2019 06:49:18 GMT"}
+20191203100719 {"uri": "https://web.archive.org/web/20191203100719/http://www.suno.edu:80/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Tue, 03 Dec 2019 10:07:19 GMT"}
+20200201130506 {"uri": "https://web.archive.org/web/20200201130506/http://www.suno.edu:80/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Sat, 01 Feb 2020 13:05:06 GMT"}
+20200606062311 {"uri": "https://web.archive.org/web/20200606062311/http://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Sat, 06 Jun 2020 06:23:11 GMT"}
+20200706122535 {"uri": "https://web.archive.org/web/20200706122535/http://www.suno.edu:80/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Mon, 06 Jul 2020 12:25:35 GMT"}
+20201007022436 {"uri": "https://web.archive.org/web/20201007022436/http://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Wed, 07 Oct 2020 02:24:36 GMT"}
+20201127104933 {"uri": "https://web.archive.org/web/20201127104933/http://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Fri, 27 Nov 2020 10:49:33 GMT"}
+20210120135109 {"uri": "https://web.archive.org/web/20210120135109/https://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Wed, 20 Jan 2021 13:51:09 GMT"}
+20210203111310 {"uri": "https://web.archive.org/web/20210203111310/http://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Wed, 03 Feb 2021 11:13:10 GMT"}
+20210410150626 {"uri": "https://web.archive.org/web/20210410150626/http://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Sat, 10 Apr 2021 15:06:26 GMT"}
+20210412215832 {"uri": "https://web.archive.org/web/20210412215832/https://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Mon, 12 Apr 2021 21:58:32 GMT"}
+20210916112011 {"uri": "https://web.archive.org/web/20210916112011/https://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Thu, 16 Sep 2021 11:20:11 GMT"}
+20210916112015 {"uri": "https://web.archive.org/web/20210916112015/http://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Thu, 16 Sep 2021 11:20:15 GMT"}
+20220108012523 {"uri": "https://web.archive.org/web/20220108012523/https://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "memento", "datetime": "Sat, 08 Jan 2022 01:25:23 GMT"}
+20220108012523 {"uri": "https://web.archive.org/web/20220108012523/http://www.suno.edu/page/computer-information-systems-graduate-program", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 01:25:23 GMT"}

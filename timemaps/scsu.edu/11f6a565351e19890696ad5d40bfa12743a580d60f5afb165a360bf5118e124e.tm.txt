@@ -1,0 +1,7 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://scsu.edu/academics/department-of-mathematics-computer-science/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://scsu.edu/academics/department-of-mathematics-computer-science/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://scsu.edu/academics/department-of-mathematics-computer-science/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://scsu.edu/academics/department-of-mathematics-computer-science/", "json_format": "http://localhost:1208/timemap/json/https://scsu.edu/academics/department-of-mathematics-computer-science/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scsu.edu/academics/department-of-mathematics-computer-science/"}}
+20211203024750 {"uri": "https://wayback.archive-it.org/all/20211203024750/https://scsu.edu/academics/department-of-mathematics-computer-science/", "rel": "first last memento", "datetime": "Fri, 03 Dec 2021 02:47:50 GMT"}

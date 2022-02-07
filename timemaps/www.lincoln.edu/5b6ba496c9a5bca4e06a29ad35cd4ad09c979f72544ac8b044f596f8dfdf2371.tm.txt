@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/mass-communications-department"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.lincoln.edu/departments/mass-communications-department"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.lincoln.edu/departments/mass-communications-department"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.lincoln.edu/departments/mass-communications-department", "json_format": "http://localhost:1208/timemap/json/https://www.lincoln.edu/departments/mass-communications-department", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lincoln.edu/departments/mass-communications-department"}}
+20201022005723 {"uri": "https://web.archive.org/web/20201022005723/https://www.lincoln.edu/departments/mass-communications-department", "rel": "first memento", "datetime": "Thu, 22 Oct 2020 00:57:23 GMT"}
+20210110021826 {"uri": "https://web.archive.org/web/20210110021826/https://www.lincoln.edu/departments/mass-communications-department", "rel": "memento", "datetime": "Sun, 10 Jan 2021 02:18:26 GMT"}
+20210122125020 {"uri": "https://web.archive.org/web/20210122125020/https://www.lincoln.edu/departments/mass-communications-department", "rel": "memento", "datetime": "Fri, 22 Jan 2021 12:50:20 GMT"}
+20210418172101 {"uri": "https://web.archive.org/web/20210418172101/https://www.lincoln.edu/departments/mass-communications-department", "rel": "memento", "datetime": "Sun, 18 Apr 2021 17:21:01 GMT"}
+20210422194744 {"uri": "https://web.archive.org/web/20210422194744/https://www.lincoln.edu/departments/mass-communications-department", "rel": "memento", "datetime": "Thu, 22 Apr 2021 19:47:44 GMT"}
+20210507183705 {"uri": "https://web.archive.org/web/20210507183705/https://www.lincoln.edu/departments/mass-communications-department", "rel": "last memento", "datetime": "Fri, 07 May 2021 18:37:05 GMT"}

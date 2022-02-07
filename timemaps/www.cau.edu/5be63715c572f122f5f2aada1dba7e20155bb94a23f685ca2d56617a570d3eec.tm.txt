@@ -1,0 +1,37 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html"}}
+20190911221638 {"uri": "https://web.archive.org/web/20190911221638/http://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "first memento", "datetime": "Wed, 11 Sep 2019 22:16:38 GMT"}
+20191004072931 {"uri": "https://web.archive.org/web/20191004072931/http://www.cau.edu:80/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Fri, 04 Oct 2019 07:29:31 GMT"}
+20191011221719 {"uri": "https://web.archive.org/web/20191011221719/http://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:17:19 GMT"}
+20191111221520 {"uri": "https://web.archive.org/web/20191111221520/http://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:15:20 GMT"}
+20191203142902 {"uri": "https://web.archive.org/web/20191203142902/http://www.cau.edu:80/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Tue, 03 Dec 2019 14:29:02 GMT"}
+20191211221536 {"uri": "https://web.archive.org/web/20191211221536/http://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:15:36 GMT"}
+20200111221707 {"uri": "https://web.archive.org/web/20200111221707/http://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:17:07 GMT"}
+20200212035513 {"uri": "https://web.archive.org/web/20200212035513/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 03:55:13 GMT"}
+20200312005552 {"uri": "https://web.archive.org/web/20200312005552/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Thu, 12 Mar 2020 00:55:52 GMT"}
+20200411231029 {"uri": "https://web.archive.org/web/20200411231029/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 23:10:29 GMT"}
+20200511233455 {"uri": "https://web.archive.org/web/20200511233455/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Mon, 11 May 2020 23:34:55 GMT"}
+20200612014005 {"uri": "https://web.archive.org/web/20200612014005/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 01:40:05 GMT"}
+20200711230210 {"uri": "https://web.archive.org/web/20200711230210/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 23:02:10 GMT"}
+20200811232500 {"uri": "https://web.archive.org/web/20200811232500/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 23:25:00 GMT"}
+20200912003511 {"uri": "https://web.archive.org/web/20200912003511/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sat, 12 Sep 2020 00:35:11 GMT"}
+20201011235408 {"uri": "https://web.archive.org/web/20201011235408/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 23:54:08 GMT"}
+20201111231918 {"uri": "https://web.archive.org/web/20201111231918/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 23:19:18 GMT"}
+20201205055910 {"uri": "https://web.archive.org/web/20201205055910/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 05:59:10 GMT"}
+20201212020908 {"uri": "https://web.archive.org/web/20201212020908/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sat, 12 Dec 2020 02:09:08 GMT"}
+20210111234126 {"uri": "https://web.archive.org/web/20210111234126/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 23:41:26 GMT"}
+20210211234532 {"uri": "https://web.archive.org/web/20210211234532/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 23:45:32 GMT"}
+20210312001253 {"uri": "https://web.archive.org/web/20210312001253/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Fri, 12 Mar 2021 00:12:53 GMT"}
+20210411225416 {"uri": "https://web.archive.org/web/20210411225416/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:54:16 GMT"}
+20210414075952 {"uri": "https://web.archive.org/web/20210414075952/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Wed, 14 Apr 2021 07:59:52 GMT"}
+20210512005731 {"uri": "https://web.archive.org/web/20210512005731/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Wed, 12 May 2021 00:57:31 GMT"}
+20210612001653 {"uri": "https://web.archive.org/web/20210612001653/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sat, 12 Jun 2021 00:16:53 GMT"}
+20210711231035 {"uri": "https://web.archive.org/web/20210711231035/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 23:10:35 GMT"}
+20210811234808 {"uri": "https://web.archive.org/web/20210811234808/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 23:48:08 GMT"}
+20210911234424 {"uri": "https://web.archive.org/web/20210911234424/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 23:44:24 GMT"}
+20211012000422 {"uri": "https://web.archive.org/web/20211012000422/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "memento", "datetime": "Tue, 12 Oct 2021 00:04:22 GMT"}
+20211111233259 {"uri": "https://web.archive.org/web/20211111233259/https://www.cau.edu/school-of-arts-and-sciences/engineering-dual-degree.html", "rel": "last memento", "datetime": "Thu, 11 Nov 2021 23:32:59 GMT"}

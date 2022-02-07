@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/pharmaceutical-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences"}}
+20170614201818 {"uri": "https://web.archive.org/web/20170614201818/http://gs.howard.edu/graduate-programs/pharmaceutical-sciences", "rel": "first memento", "datetime": "Wed, 14 Jun 2017 20:18:18 GMT"}
+20170708151538 {"uri": "https://web.archive.org/web/20170708151538/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences", "rel": "memento", "datetime": "Sat, 08 Jul 2017 15:15:38 GMT"}
+20200126055000 {"uri": "https://web.archive.org/web/20200126055000/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:50:00 GMT"}
+20210416002429 {"uri": "https://web.archive.org/web/20210416002429/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences", "rel": "memento", "datetime": "Fri, 16 Apr 2021 00:24:29 GMT"}
+20211018073618 {"uri": "https://web.archive.org/web/20211018073618/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences", "rel": "memento", "datetime": "Mon, 18 Oct 2021 07:36:18 GMT"}
+20211119021759 {"uri": "https://web.archive.org/web/20211119021759/https://gs.howard.edu/graduate-programs/pharmaceutical-sciences", "rel": "last memento", "datetime": "Fri, 19 Nov 2021 02:17:59 GMT"}

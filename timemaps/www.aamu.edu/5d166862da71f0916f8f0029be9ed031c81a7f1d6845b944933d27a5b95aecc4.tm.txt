@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html"}}
+20190517041250 {"uri": "https://web.archive.org/web/20190517041250/http://www.aamu.edu:80/academics/colleges/business-public-affairs/departments/accounting-finance/index.html", "rel": "first memento", "datetime": "Fri, 17 May 2019 04:12:50 GMT"}
+20190717042420 {"uri": "https://web.archive.org/web/20190717042420/http://www.aamu.edu:80/academics/colleges/business-public-affairs/departments/accounting-finance/index.html", "rel": "memento", "datetime": "Wed, 17 Jul 2019 04:24:20 GMT"}
+20200805105909 {"uri": "https://web.archive.org/web/20200805105909/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html", "rel": "memento", "datetime": "Wed, 05 Aug 2020 10:59:09 GMT"}
+20210211153351 {"uri": "https://web.archive.org/web/20210211153351/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 15:33:51 GMT"}
+20210211153352 {"uri": "https://web.archive.org/web/20210211153352/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 15:33:52 GMT"}
+20210211153353 {"uri": "https://web.archive.org/web/20210211153353/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/accounting-finance/index.html", "rel": "last memento", "datetime": "Thu, 11 Feb 2021 15:33:53 GMT"}

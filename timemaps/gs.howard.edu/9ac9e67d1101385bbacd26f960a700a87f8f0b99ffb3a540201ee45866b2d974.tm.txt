@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/cybersecurity"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/cybersecurity"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/cybersecurity"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/cybersecurity", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/cybersecurity", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/cybersecurity"}}
+20200126060616 {"uri": "https://web.archive.org/web/20200126060616/https://gs.howard.edu/graduate-programs/cybersecurity", "rel": "first memento", "datetime": "Sun, 26 Jan 2020 06:06:16 GMT"}
+20200928114646 {"uri": "https://web.archive.org/web/20200928114646/https://gs.howard.edu/graduate-programs/cybersecurity/", "rel": "memento", "datetime": "Mon, 28 Sep 2020 11:46:46 GMT"}
+20201001044824 {"uri": "https://web.archive.org/web/20201001044824/https://gs.howard.edu/graduate-programs/cybersecurity", "rel": "memento", "datetime": "Thu, 01 Oct 2020 04:48:24 GMT"}
+20201201144347 {"uri": "https://web.archive.org/web/20201201144347/https://gs.howard.edu/graduate-programs/cybersecurity", "rel": "memento", "datetime": "Tue, 01 Dec 2020 14:43:47 GMT"}
+20210121143020 {"uri": "https://web.archive.org/web/20210121143020/https://gs.howard.edu/graduate-programs/cybersecurity/", "rel": "memento", "datetime": "Thu, 21 Jan 2021 14:30:20 GMT"}
+20210121144554 {"uri": "https://web.archive.org/web/20210121144554/https://gs.howard.edu/graduate-programs/cybersecurity", "rel": "memento", "datetime": "Thu, 21 Jan 2021 14:45:54 GMT"}
+20210128073820 {"uri": "https://web.archive.org/web/20210128073820/https://gs.howard.edu/graduate-programs/cybersecurity", "rel": "memento", "datetime": "Thu, 28 Jan 2021 07:38:20 GMT"}
+20210413065701 {"uri": "https://web.archive.org/web/20210413065701/https://gs.howard.edu/graduate-programs/cybersecurity/", "rel": "memento", "datetime": "Tue, 13 Apr 2021 06:57:01 GMT"}
+20210413071104 {"uri": "https://web.archive.org/web/20210413071104/https://gs.howard.edu/graduate-programs/cybersecurity", "rel": "memento", "datetime": "Tue, 13 Apr 2021 07:11:04 GMT"}
+20210614210812 {"uri": "https://web.archive.org/web/20210614210812/https://gs.howard.edu/graduate-programs/cybersecurity", "rel": "last memento", "datetime": "Mon, 14 Jun 2021 21:08:12 GMT"}

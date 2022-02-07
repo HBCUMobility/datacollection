@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering"}}
+20170508064258 {"uri": "https://web.archive.org/web/20170508064258/http://gs.howard.edu:80/graduate-programs/electrical-and-computer-engineering", "rel": "first memento", "datetime": "Mon, 08 May 2017 06:42:58 GMT"}
+20170607230807 {"uri": "https://web.archive.org/web/20170607230807/http://gs.howard.edu:80/graduate-programs/electrical-and-computer-engineering", "rel": "memento", "datetime": "Wed, 07 Jun 2017 23:08:07 GMT"}
+20170708142352 {"uri": "https://web.archive.org/web/20170708142352/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering", "rel": "memento", "datetime": "Sat, 08 Jul 2017 14:23:52 GMT"}
+20170709020942 {"uri": "https://web.archive.org/web/20170709020942/http://gs.howard.edu:80/graduate-programs/electrical-and-computer-engineering", "rel": "memento", "datetime": "Sun, 09 Jul 2017 02:09:42 GMT"}
+20170809072234 {"uri": "https://web.archive.org/web/20170809072234/http://gs.howard.edu:80/graduate-programs/electrical-and-computer-engineering", "rel": "memento", "datetime": "Wed, 09 Aug 2017 07:22:34 GMT"}
+20180805171151 {"uri": "https://web.archive.org/web/20180805171151/http://gs.howard.edu:80/graduate-programs/electrical-and-computer-engineering", "rel": "memento", "datetime": "Sun, 05 Aug 2018 17:11:51 GMT"}
+20200126054747 {"uri": "https://web.archive.org/web/20200126054747/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:47:47 GMT"}
+20210416002920 {"uri": "https://web.archive.org/web/20210416002920/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering", "rel": "memento", "datetime": "Fri, 16 Apr 2021 00:29:20 GMT"}
+20211118012200 {"uri": "https://web.archive.org/web/20211118012200/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering", "rel": "memento", "datetime": "Thu, 18 Nov 2021 01:22:00 GMT"}
+20220106213140 {"uri": "https://web.archive.org/web/20220106213140/https://gs.howard.edu/graduate-programs/electrical-and-computer-engineering", "rel": "last memento", "datetime": "Thu, 06 Jan 2022 21:31:40 GMT"}

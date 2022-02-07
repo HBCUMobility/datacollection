@@ -1,0 +1,33 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html", "json_format": "http://localhost:1208/timemap/json/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html"}}
+20190315171133 {"uri": "https://web.archive.org/web/20190315171133/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "first memento", "datetime": "Fri, 15 Mar 2019 17:11:33 GMT"}
+20190322100303 {"uri": "https://web.archive.org/web/20190322100303/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Fri, 22 Mar 2019 10:03:03 GMT"}
+20190513035259 {"uri": "https://web.archive.org/web/20190513035259/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Mon, 13 May 2019 03:52:59 GMT"}
+20190612221920 {"uri": "https://web.archive.org/web/20190612221920/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Wed, 12 Jun 2019 22:19:20 GMT"}
+20190614021329 {"uri": "https://web.archive.org/web/20190614021329/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Fri, 14 Jun 2019 02:13:29 GMT"}
+20190720052724 {"uri": "https://web.archive.org/web/20190720052724/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Sat, 20 Jul 2019 05:27:24 GMT"}
+20190822044114 {"uri": "https://web.archive.org/web/20190822044114/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Thu, 22 Aug 2019 04:41:14 GMT"}
+20190923222111 {"uri": "https://web.archive.org/web/20190923222111/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Mon, 23 Sep 2019 22:21:11 GMT"}
+20191003085356 {"uri": "https://web.archive.org/web/20191003085356/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 08:53:56 GMT"}
+20191022020920 {"uri": "https://web.archive.org/web/20191022020920/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Tue, 22 Oct 2019 02:09:20 GMT"}
+20191121082955 {"uri": "https://web.archive.org/web/20191121082955/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Thu, 21 Nov 2019 08:29:55 GMT"}
+20191128132211 {"uri": "https://web.archive.org/web/20191128132211/http://tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Thu, 28 Nov 2019 13:22:11 GMT"}
+20191221135631 {"uri": "https://web.archive.org/web/20191221135631/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Sat, 21 Dec 2019 13:56:31 GMT"}
+20200120175646 {"uri": "https://web.archive.org/web/20200120175646/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Mon, 20 Jan 2020 17:56:46 GMT"}
+20200127174335 {"uri": "https://web.archive.org/web/20200127174335/http://tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Mon, 27 Jan 2020 17:43:35 GMT"}
+20200219224129 {"uri": "https://web.archive.org/web/20200219224129/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Wed, 19 Feb 2020 22:41:29 GMT"}
+20200304060456 {"uri": "https://web.archive.org/web/20200304060456/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Wed, 04 Mar 2020 06:04:56 GMT"}
+20200502134543 {"uri": "https://web.archive.org/web/20200502134543/http://tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Sat, 02 May 2020 13:45:43 GMT"}
+20200503171435 {"uri": "https://web.archive.org/web/20200503171435/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Sun, 03 May 2020 17:14:35 GMT"}
+20200627114749 {"uri": "https://web.archive.org/web/20200627114749/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Sat, 27 Jun 2020 11:47:49 GMT"}
+20200701182241 {"uri": "https://web.archive.org/web/20200701182241/http://tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Wed, 01 Jul 2020 18:22:41 GMT"}
+20200727152508 {"uri": "https://web.archive.org/web/20200727152508/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Mon, 27 Jul 2020 15:25:08 GMT"}
+20200919102246 {"uri": "https://web.archive.org/web/20200919102246/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Sat, 19 Sep 2020 10:22:46 GMT"}
+20201203052745 {"uri": "https://web.archive.org/web/20201203052745/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Thu, 03 Dec 2020 05:27:45 GMT"}
+20210224235007 {"uri": "https://web.archive.org/web/20210224235007/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Wed, 24 Feb 2021 23:50:07 GMT"}
+20210420212733 {"uri": "https://web.archive.org/web/20210420212733/http://tsu.edu/academics/colleges-and-schools/colabs/english/index.html", "rel": "memento", "datetime": "Tue, 20 Apr 2021 21:27:33 GMT"}
+20220204202155 {"uri": "https://web.archive.org/web/20220204202155/http://www.tsu.edu/academics/colleges-and-schools/colabs/english/index.html", "rel": "last memento", "datetime": "Fri, 04 Feb 2022 20:21:55 GMT"}

@@ -1,0 +1,24 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://business.howard.edu/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://business.howard.edu/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://business.howard.edu/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://business.howard.edu/", "json_format": "http://localhost:1208/timemap/json/https://business.howard.edu/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://business.howard.edu/"}}
+20200810085439 {"uri": "https://web.archive.org/web/20200810085439/https://business.howard.edu/", "rel": "first memento", "datetime": "Mon, 10 Aug 2020 08:54:39 GMT"}
+20200921072259 {"uri": "https://web.archive.org/web/20200921072259/https://business.howard.edu/", "rel": "memento", "datetime": "Mon, 21 Sep 2020 07:22:59 GMT"}
+20200924101339 {"uri": "https://web.archive.org/web/20200924101339/https://business.howard.edu/", "rel": "memento", "datetime": "Thu, 24 Sep 2020 10:13:39 GMT"}
+20201028191744 {"uri": "https://web.archive.org/web/20201028191744/https://business.howard.edu/", "rel": "memento", "datetime": "Wed, 28 Oct 2020 19:17:44 GMT"}
+20201031225220 {"uri": "https://web.archive.org/web/20201031225220/https://business.howard.edu/", "rel": "memento", "datetime": "Sat, 31 Oct 2020 22:52:20 GMT"}
+20201201170515 {"uri": "https://web.archive.org/web/20201201170515/https://business.howard.edu/", "rel": "memento", "datetime": "Tue, 01 Dec 2020 17:05:15 GMT"}
+20210120054258 {"uri": "https://web.archive.org/web/20210120054258/https://business.howard.edu/", "rel": "memento", "datetime": "Wed, 20 Jan 2021 05:42:58 GMT"}
+20210301183110 {"uri": "https://web.archive.org/web/20210301183110/https://business.howard.edu/", "rel": "memento", "datetime": "Mon, 01 Mar 2021 18:31:10 GMT"}
+20210415195854 {"uri": "https://web.archive.org/web/20210415195854/https://business.howard.edu/", "rel": "memento", "datetime": "Thu, 15 Apr 2021 19:58:54 GMT"}
+20210421065434 {"uri": "https://web.archive.org/web/20210421065434/https://business.howard.edu/", "rel": "memento", "datetime": "Wed, 21 Apr 2021 06:54:34 GMT"}
+20210508091849 {"uri": "https://web.archive.org/web/20210508091849/https://business.howard.edu/", "rel": "memento", "datetime": "Sat, 08 May 2021 09:18:49 GMT"}
+20210624205928 {"uri": "https://web.archive.org/web/20210624205928/https://business.howard.edu/", "rel": "memento", "datetime": "Thu, 24 Jun 2021 20:59:28 GMT"}
+20210629044828 {"uri": "https://web.archive.org/web/20210629044828/https://business.howard.edu/", "rel": "memento", "datetime": "Tue, 29 Jun 2021 04:48:28 GMT"}
+20210803200018 {"uri": "https://web.archive.org/web/20210803200018/https://business.howard.edu/", "rel": "memento", "datetime": "Tue, 03 Aug 2021 20:00:18 GMT"}
+20210925143652 {"uri": "https://arquivo.pt/wayback/20210925143652mp_/https://business.howard.edu/", "rel": "memento", "datetime": "Sat, 25 Sep 2021 14:36:52 GMT"}
+20211022012512 {"uri": "https://web.archive.org/web/20211022012512/https://business.howard.edu/", "rel": "memento", "datetime": "Fri, 22 Oct 2021 01:25:12 GMT"}
+20211123150939 {"uri": "https://web.archive.org/web/20211123150939/https://business.howard.edu/", "rel": "memento", "datetime": "Tue, 23 Nov 2021 15:09:39 GMT"}
+20220120141457 {"uri": "https://web.archive.org/web/20220120141457/https://business.howard.edu/", "rel": "last memento", "datetime": "Thu, 20 Jan 2022 14:14:57 GMT"}

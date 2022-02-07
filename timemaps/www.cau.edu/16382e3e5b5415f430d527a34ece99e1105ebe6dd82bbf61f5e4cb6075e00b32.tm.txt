@@ -1,0 +1,52 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html"}}
+20190812040844 {"uri": "https://web.archive.org/web/20190812040844/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "first memento", "datetime": "Mon, 12 Aug 2019 04:08:44 GMT"}
+20190911220620 {"uri": "https://web.archive.org/web/20190911220620/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 11 Sep 2019 22:06:20 GMT"}
+20191003052907 {"uri": "https://web.archive.org/web/20191003052907/http://www.cau.edu:80/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 05:29:07 GMT"}
+20191009071658 {"uri": "https://web.archive.org/web/20191009071658/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 09 Oct 2019 07:16:58 GMT"}
+20191011220616 {"uri": "https://web.archive.org/web/20191011220616/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:06:16 GMT"}
+20191111220604 {"uri": "https://web.archive.org/web/20191111220604/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:06:04 GMT"}
+20191202142400 {"uri": "https://web.archive.org/web/20191202142400/http://www.cau.edu:80/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Mon, 02 Dec 2019 14:24:00 GMT"}
+20191211220551 {"uri": "https://web.archive.org/web/20191211220551/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:05:51 GMT"}
+20200111220630 {"uri": "https://web.archive.org/web/20200111220630/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:06:30 GMT"}
+20200131233830 {"uri": "https://web.archive.org/web/20200131233830/http://www.cau.edu:80/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Fri, 31 Jan 2020 23:38:30 GMT"}
+20200212003131 {"uri": "https://web.archive.org/web/20200212003131/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 00:31:31 GMT"}
+20200218134825 {"uri": "https://web.archive.org/web/20200218134825/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Tue, 18 Feb 2020 13:48:25 GMT"}
+20200223132353 {"uri": "https://web.archive.org/web/20200223132353/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sun, 23 Feb 2020 13:23:53 GMT"}
+20200311222450 {"uri": "https://web.archive.org/web/20200311222450/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 22:24:50 GMT"}
+20200411221613 {"uri": "https://web.archive.org/web/20200411221613/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 22:16:13 GMT"}
+20200511221933 {"uri": "https://web.archive.org/web/20200511221933/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Mon, 11 May 2020 22:19:33 GMT"}
+20200611235353 {"uri": "https://web.archive.org/web/20200611235353/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Thu, 11 Jun 2020 23:53:53 GMT"}
+20200711221648 {"uri": "https://web.archive.org/web/20200711221648/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 22:16:48 GMT"}
+20200811221816 {"uri": "https://web.archive.org/web/20200811221816/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 22:18:16 GMT"}
+20200911223110 {"uri": "https://web.archive.org/web/20200911223110/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Fri, 11 Sep 2020 22:31:10 GMT"}
+20200922070458 {"uri": "https://web.archive.org/web/20200922070458/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Tue, 22 Sep 2020 07:04:58 GMT"}
+20201011222650 {"uri": "https://web.archive.org/web/20201011222650/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 22:26:50 GMT"}
+20201023010101 {"uri": "https://web.archive.org/web/20201023010101/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Fri, 23 Oct 2020 01:01:01 GMT"}
+20201104064619 {"uri": "https://web.archive.org/web/20201104064619/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 04 Nov 2020 06:46:19 GMT"}
+20201111222146 {"uri": "https://web.archive.org/web/20201111222146/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 22:21:46 GMT"}
+20201205050936 {"uri": "https://web.archive.org/web/20201205050936/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 05:09:36 GMT"}
+20201211224236 {"uri": "https://web.archive.org/web/20201211224236/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Fri, 11 Dec 2020 22:42:36 GMT"}
+20210111221851 {"uri": "https://web.archive.org/web/20210111221851/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 22:18:51 GMT"}
+20210211222353 {"uri": "https://web.archive.org/web/20210211222353/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 22:23:53 GMT"}
+20210302041656 {"uri": "https://web.archive.org/web/20210302041656/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Tue, 02 Mar 2021 04:16:56 GMT"}
+20210311222252 {"uri": "https://web.archive.org/web/20210311222252/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Thu, 11 Mar 2021 22:22:52 GMT"}
+20210411221310 {"uri": "https://web.archive.org/web/20210411221310/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:13:10 GMT"}
+20210420230629 {"uri": "https://web.archive.org/web/20210420230629/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Tue, 20 Apr 2021 23:06:29 GMT"}
+20210505020710 {"uri": "https://web.archive.org/web/20210505020710/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 05 May 2021 02:07:10 GMT"}
+20210511222535 {"uri": "https://web.archive.org/web/20210511222535/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Tue, 11 May 2021 22:25:35 GMT"}
+20210512103047 {"uri": "https://web.archive.org/web/20210512103047/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 12 May 2021 10:30:47 GMT"}
+20210611222125 {"uri": "https://web.archive.org/web/20210611222125/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Fri, 11 Jun 2021 22:21:25 GMT"}
+20210708023011 {"uri": "https://web.archive.org/web/20210708023011/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Thu, 08 Jul 2021 02:30:11 GMT"}
+20210711221821 {"uri": "https://web.archive.org/web/20210711221821/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 22:18:21 GMT"}
+20210811222557 {"uri": "https://web.archive.org/web/20210811222557/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:25:57 GMT"}
+20210910053704 {"uri": "https://web.archive.org/web/20210910053704/http://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Fri, 10 Sep 2021 05:37:04 GMT"}
+20210910053705 {"uri": "https://web.archive.org/web/20210910053705/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Fri, 10 Sep 2021 05:37:05 GMT"}
+20210911222708 {"uri": "https://web.archive.org/web/20210911222708/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 22:27:08 GMT"}
+20210925083411 {"uri": "https://web.archive.org/web/20210925083411/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:34:11 GMT"}
+20211011225245 {"uri": "https://web.archive.org/web/20211011225245/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "memento", "datetime": "Mon, 11 Oct 2021 22:52:45 GMT"}
+20211111222948 {"uri": "https://web.archive.org/web/20211111222948/https://www.cau.edu/school-of-arts-and-sciences/aawh/index.html", "rel": "last memento", "datetime": "Thu, 11 Nov 2021 22:29:48 GMT"}

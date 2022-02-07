@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/individualized-services/undergraduate/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/education/departments/individualized-services/undergraduate/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/education/departments/individualized-services/undergraduate/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/education/departments/individualized-services/undergraduate/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/education/departments/individualized-services/undergraduate/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/individualized-services/undergraduate/index.php"}}
+20210121085223 {"uri": "https://web.archive.org/web/20210121085223/https://www.vsu.edu/education/departments/individualized-services/undergraduate/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 08:52:23 GMT"}
+20210419060635 {"uri": "https://web.archive.org/web/20210419060635/https://www.vsu.edu/education/departments/individualized-services/undergraduate/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 06:06:35 GMT"}
+20211217112700 {"uri": "https://web.archive.org/web/20211217112700/https://www.vsu.edu/education/departments/individualized-services/undergraduate/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:27:00 GMT"}

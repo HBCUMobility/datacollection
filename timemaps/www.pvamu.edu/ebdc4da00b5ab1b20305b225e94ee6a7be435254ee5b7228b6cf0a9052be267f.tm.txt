@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/physics/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.pvamu.edu/bcas/departments/physics/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.pvamu.edu/bcas/departments/physics/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.pvamu.edu/bcas/departments/physics/", "json_format": "http://localhost:1208/timemap/json/https://www.pvamu.edu/bcas/departments/physics/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/physics/"}}
+20150705164243 {"uri": "https://web.archive.org/web/20150705164243/http://www.pvamu.edu:80/bcas/departments/physics/", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 16:42:43 GMT"}
+20150905131601 {"uri": "https://web.archive.org/web/20150905131601/http://www.pvamu.edu/bcas/departments/physics/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 13:16:01 GMT"}
+20171006063013 {"uri": "https://web.archive.org/web/20171006063013/http://www.pvamu.edu/bcas/departments/physics/", "rel": "memento", "datetime": "Fri, 06 Oct 2017 06:30:13 GMT"}
+20190402185314 {"uri": "https://web.archive.org/web/20190402185314/http://www.pvamu.edu/bcas/departments/physics/", "rel": "memento", "datetime": "Tue, 02 Apr 2019 18:53:14 GMT"}
+20200723020942 {"uri": "https://web.archive.org/web/20200723020942/https://www.pvamu.edu/bcas/departments/physics/", "rel": "memento", "datetime": "Thu, 23 Jul 2020 02:09:42 GMT"}
+20200811135647 {"uri": "https://web.archive.org/web/20200811135647/https://www.pvamu.edu/bcas/departments/physics/", "rel": "memento", "datetime": "Tue, 11 Aug 2020 13:56:47 GMT"}
+20210419070209 {"uri": "https://web.archive.org/web/20210419070209/https://www.pvamu.edu/bcas/departments/physics/", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 07:02:09 GMT"}

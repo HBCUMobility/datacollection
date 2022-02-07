@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/center-for-sustainable-development/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/causes/center-for-sustainable-development/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/causes/center-for-sustainable-development/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/causes/center-for-sustainable-development/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/causes/center-for-sustainable-development/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/causes/center-for-sustainable-development/"}}
+20170912035844 {"uri": "https://web.archive.org/web/20170912035844/http://www.udc.edu/causes/center-for-sustainable-development/", "rel": "first memento", "datetime": "Tue, 12 Sep 2017 03:58:44 GMT"}
+20190904033725 {"uri": "https://web.archive.org/web/20190904033725/http://www.udc.edu/causes/center-for-sustainable-development/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:37:25 GMT"}
+20190904033727 {"uri": "https://web.archive.org/web/20190904033727/https://www.udc.edu/causes/center-for-sustainable-development/", "rel": "last memento", "datetime": "Wed, 04 Sep 2019 03:37:27 GMT"}

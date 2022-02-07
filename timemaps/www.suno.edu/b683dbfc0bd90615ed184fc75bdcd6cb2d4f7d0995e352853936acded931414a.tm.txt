@@ -1,0 +1,30 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/faculty-and-staff-directory"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/faculty-and-staff-directory"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/faculty-and-staff-directory"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/faculty-and-staff-directory", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/faculty-and-staff-directory", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/faculty-and-staff-directory"}}
+20180702004516 {"uri": "https://web.archive.org/web/20180702004516/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "first memento", "datetime": "Mon, 02 Jul 2018 00:45:16 GMT"}
+20180703014000 {"uri": "https://web.archive.org/web/20180703014000/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Tue, 03 Jul 2018 01:40:00 GMT"}
+20180814171058 {"uri": "https://web.archive.org/web/20180814171058/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Tue, 14 Aug 2018 17:10:58 GMT"}
+20190203215802 {"uri": "https://web.archive.org/web/20190203215802/http://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Sun, 03 Feb 2019 21:58:02 GMT"}
+20190717120419 {"uri": "https://web.archive.org/web/20190717120419/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Wed, 17 Jul 2019 12:04:19 GMT"}
+20190816044620 {"uri": "https://web.archive.org/web/20190816044620/http://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Fri, 16 Aug 2019 04:46:20 GMT"}
+20191004052843 {"uri": "https://web.archive.org/web/20191004052843/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Fri, 04 Oct 2019 05:28:43 GMT"}
+20191203093949 {"uri": "https://web.archive.org/web/20191203093949/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Tue, 03 Dec 2019 09:39:49 GMT"}
+20200312073638 {"uri": "https://web.archive.org/web/20200312073638/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Thu, 12 Mar 2020 07:36:38 GMT"}
+20200411094728 {"uri": "https://web.archive.org/web/20200411094728/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Sat, 11 Apr 2020 09:47:28 GMT"}
+20200511161821 {"uri": "https://web.archive.org/web/20200511161821/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Mon, 11 May 2020 16:18:21 GMT"}
+20200606123918 {"uri": "https://web.archive.org/web/20200606123918/http://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Sat, 06 Jun 2020 12:39:18 GMT"}
+20200610202713 {"uri": "https://web.archive.org/web/20200610202713/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Wed, 10 Jun 2020 20:27:13 GMT"}
+20200623072733 {"uri": "https://web.archive.org/web/20200623072733/http://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Tue, 23 Jun 2020 07:27:33 GMT"}
+20200711005926 {"uri": "https://web.archive.org/web/20200711005926/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Sat, 11 Jul 2020 00:59:26 GMT"}
+20200810023330 {"uri": "https://web.archive.org/web/20200810023330/http://www.suno.edu:80/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Mon, 10 Aug 2020 02:33:30 GMT"}
+20200929213519 {"uri": "https://web.archive.org/web/20200929213519/http://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Tue, 29 Sep 2020 21:35:19 GMT"}
+20201009153516 {"uri": "https://web.archive.org/web/20201009153516/http://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Fri, 09 Oct 2020 15:35:16 GMT"}
+20201127003757 {"uri": "https://web.archive.org/web/20201127003757/https://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Fri, 27 Nov 2020 00:37:57 GMT"}
+20201127204822 {"uri": "https://web.archive.org/web/20201127204822/https://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Fri, 27 Nov 2020 20:48:22 GMT"}
+20210227191914 {"uri": "https://web.archive.org/web/20210227191914/https://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Sat, 27 Feb 2021 19:19:14 GMT"}
+20210512060155 {"uri": "https://web.archive.org/web/20210512060155/https://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Wed, 12 May 2021 06:01:55 GMT"}
+20210916123645 {"uri": "https://web.archive.org/web/20210916123645/https://www.suno.edu/page/faculty-and-staff-directory", "rel": "memento", "datetime": "Thu, 16 Sep 2021 12:36:45 GMT"}
+20220108012901 {"uri": "https://web.archive.org/web/20220108012901/https://www.suno.edu/page/faculty-and-staff-directory", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 01:29:01 GMT"}

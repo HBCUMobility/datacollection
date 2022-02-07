@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Sociology--Criminal-Justice-Home"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://libarts.hamptonu.edu/page/Sociology--Criminal-Justice-Home"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://libarts.hamptonu.edu/page/Sociology--Criminal-Justice-Home"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://libarts.hamptonu.edu/page/Sociology--Criminal-Justice-Home", "json_format": "http://localhost:1208/timemap/json/http://libarts.hamptonu.edu/page/Sociology--Criminal-Justice-Home", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Sociology--Criminal-Justice-Home"}}
+20190329175637 {"uri": "https://web.archive.org/web/20190329175637/http://libarts.hamptonu.edu:80/page/Sociology--Criminal-Justice-Home", "rel": "first memento", "datetime": "Fri, 29 Mar 2019 17:56:37 GMT"}
+20191022110329 {"uri": "https://web.archive.org/web/20191022110329/http://libarts.hamptonu.edu:80/page/Sociology--Criminal-Justice-Home", "rel": "memento", "datetime": "Tue, 22 Oct 2019 11:03:29 GMT"}
+20191222004422 {"uri": "https://web.archive.org/web/20191222004422/http://libarts.hamptonu.edu:80/page/Sociology--Criminal-Justice-Home", "rel": "memento", "datetime": "Sun, 22 Dec 2019 00:44:22 GMT"}
+20200117163241 {"uri": "https://web.archive.org/web/20200117163241/http://libarts.hamptonu.edu:80/page/Sociology--Criminal-Justice-Home", "rel": "memento", "datetime": "Fri, 17 Jan 2020 16:32:41 GMT"}
+20200217005933 {"uri": "https://web.archive.org/web/20200217005933/http://libarts.hamptonu.edu:80/page/Sociology--Criminal-Justice-Home", "rel": "memento", "datetime": "Mon, 17 Feb 2020 00:59:33 GMT"}
+20200704102709 {"uri": "https://web.archive.org/web/20200704102709/http://libarts.hamptonu.edu:80/page/Sociology--Criminal-Justice-Home", "rel": "memento", "datetime": "Sat, 04 Jul 2020 10:27:09 GMT"}
+20210510064709 {"uri": "https://web.archive.org/web/20210510064709/http://libarts.hamptonu.edu/page/Sociology--Criminal-Justice-Home", "rel": "last memento", "datetime": "Mon, 10 May 2021 06:47:09 GMT"}

@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/natural-sciences/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/college-of-arts-sciences/natural-sciences/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/natural-sciences/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/natural-sciences/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/natural-sciences/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/natural-sciences/index.php"}}
+20210228060344 {"uri": "https://web.archive.org/web/20210228060344/http://asurams.edu/academic-affairs/college-of-arts-sciences/natural-sciences/index.php", "rel": "first memento", "datetime": "Sun, 28 Feb 2021 06:03:44 GMT"}
+20210416083803 {"uri": "https://web.archive.org/web/20210416083803/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/natural-sciences/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 08:38:03 GMT"}
+20210516003254 {"uri": "https://web.archive.org/web/20210516003254/https://asurams.edu/academic-affairs/college-of-arts-sciences/natural-sciences/index.php", "rel": "last memento", "datetime": "Sun, 16 May 2021 00:32:54 GMT"}

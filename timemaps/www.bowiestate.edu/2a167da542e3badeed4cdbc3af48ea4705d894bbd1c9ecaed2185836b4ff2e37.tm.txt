@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-business/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.bowiestate.edu/academics/colleges/college-of-business/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.bowiestate.edu/academics/colleges/college-of-business/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.bowiestate.edu/academics/colleges/college-of-business/", "json_format": "http://localhost:1208/timemap/json/https://www.bowiestate.edu/academics/colleges/college-of-business/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-business/"}}
+20200922200118 {"uri": "https://web.archive.org/web/20200922200118/https://bowiestate.edu/academics/colleges/college-of-business/", "rel": "first memento", "datetime": "Tue, 22 Sep 2020 20:01:18 GMT"}
+20201030071336 {"uri": "https://web.archive.org/web/20201030071336/https://www.bowiestate.edu/academics/colleges/college-of-business/", "rel": "memento", "datetime": "Fri, 30 Oct 2020 07:13:36 GMT"}
+20201124085534 {"uri": "https://web.archive.org/web/20201124085534/https://bowiestate.edu/academics/colleges/college-of-business/", "rel": "memento", "datetime": "Tue, 24 Nov 2020 08:55:34 GMT"}
+20210118065615 {"uri": "https://web.archive.org/web/20210118065615/https://bowiestate.edu/academics/colleges/college-of-business/", "rel": "memento", "datetime": "Mon, 18 Jan 2021 06:56:15 GMT"}
+20210126082405 {"uri": "https://web.archive.org/web/20210126082405/https://www.bowiestate.edu/academics/colleges/college-of-business/", "rel": "memento", "datetime": "Tue, 26 Jan 2021 08:24:05 GMT"}
+20210411033359 {"uri": "https://web.archive.org/web/20210411033359/https://bowiestate.edu/academics/colleges/college-of-business/", "rel": "memento", "datetime": "Sun, 11 Apr 2021 03:33:59 GMT"}
+20210421194934 {"uri": "https://web.archive.org/web/20210421194934/https://www.bowiestate.edu/academics/colleges/college-of-business/", "rel": "memento", "datetime": "Wed, 21 Apr 2021 19:49:34 GMT"}
+20210812031414 {"uri": "https://web.archive.org/web/20210812031414/https://bowiestate.edu/academics/colleges/college-of-business/", "rel": "memento", "datetime": "Thu, 12 Aug 2021 03:14:14 GMT"}
+20210816032650 {"uri": "https://web.archive.org/web/20210816032650/https://www.bowiestate.edu/academics/colleges/college-of-business/", "rel": "memento", "datetime": "Mon, 16 Aug 2021 03:26:50 GMT"}
+20211102114202 {"uri": "https://web.archive.org/web/20211102114202/https://www.bowiestate.edu/academics/colleges/college-of-business/", "rel": "last memento", "datetime": "Tue, 02 Nov 2021 11:42:02 GMT"}

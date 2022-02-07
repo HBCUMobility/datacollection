@@ -1,0 +1,23 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/sbpa/sbpa/departments/business-management/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/sbpa/sbpa/departments/business-management/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/sbpa/sbpa/departments/business-management/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/sbpa/sbpa/departments/business-management/"}}
+20190618162010 {"uri": "https://web.archive.org/web/20190618162010/http://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "first memento", "datetime": "Tue, 18 Jun 2019 16:20:10 GMT"}
+20190618162012 {"uri": "https://web.archive.org/web/20190618162012/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Tue, 18 Jun 2019 16:20:12 GMT"}
+20190904033828 {"uri": "https://web.archive.org/web/20190904033828/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:28 GMT"}
+20190904033828 {"uri": "https://web.archive.org/web/20190904033828/http://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:28 GMT"}
+20190904033844 {"uri": "https://web.archive.org/web/20190904033844/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:38:44 GMT"}
+20190904033957 {"uri": "https://web.archive.org/web/20190904033957/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:39:57 GMT"}
+20190904035511 {"uri": "https://web.archive.org/web/20190904035511/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:55:11 GMT"}
+20190904035953 {"uri": "https://web.archive.org/web/20190904035953/https://www.udc.edu/sbpa/sbpa/departments/business-management", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:59:53 GMT"}
+20190904035954 {"uri": "https://web.archive.org/web/20190904035954/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 03:59:54 GMT"}
+20190904040730 {"uri": "https://web.archive.org/web/20190904040730/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 04:07:30 GMT"}
+20190904040730 {"uri": "https://web.archive.org/web/20190904040730/https://www.udc.edu/sbpa/sbpa/departments/business-management", "rel": "memento", "datetime": "Wed, 04 Sep 2019 04:07:30 GMT"}
+20190904043001 {"uri": "https://web.archive.org/web/20190904043001/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Wed, 04 Sep 2019 04:30:01 GMT"}
+20200807010024 {"uri": "https://web.archive.org/web/20200807010024/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Fri, 07 Aug 2020 01:00:24 GMT"}
+20201024121003 {"uri": "https://web.archive.org/web/20201024121003/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Sat, 24 Oct 2020 12:10:03 GMT"}
+20210127073730 {"uri": "https://web.archive.org/web/20210127073730/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Wed, 27 Jan 2021 07:37:30 GMT"}
+20210420071139 {"uri": "https://web.archive.org/web/20210420071139/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "memento", "datetime": "Tue, 20 Apr 2021 07:11:39 GMT"}
+20210509173244 {"uri": "https://web.archive.org/web/20210509173244/https://www.udc.edu/sbpa/sbpa/departments/business-management/", "rel": "last memento", "datetime": "Sun, 09 May 2021 17:32:44 GMT"}

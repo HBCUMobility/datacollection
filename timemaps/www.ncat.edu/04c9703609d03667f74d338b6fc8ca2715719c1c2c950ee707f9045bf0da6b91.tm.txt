@@ -1,0 +1,19 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/built-environment/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cost/departments/built-environment/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cost/departments/built-environment/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cost/departments/built-environment/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cost/departments/built-environment/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/built-environment/index.php"}}
+20200903073625 {"uri": "https://web.archive.org/web/20200903073625/https://www.ncat.edu/cost/departments/built-environment/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 07:36:25 GMT"}
+20200922203245 {"uri": "https://web.archive.org/web/20200922203245/https://ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:32:45 GMT"}
+20200929121344 {"uri": "https://web.archive.org/web/20200929121344/https://www.ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Tue, 29 Sep 2020 12:13:44 GMT"}
+20201128020904 {"uri": "https://web.archive.org/web/20201128020904/https://ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:09:04 GMT"}
+20210130224350 {"uri": "https://web.archive.org/web/20210130224350/https://ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Sat, 30 Jan 2021 22:43:50 GMT"}
+20210302073136 {"uri": "https://web.archive.org/web/20210302073136/https://ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 07:31:36 GMT"}
+20210419034226 {"uri": "https://web.archive.org/web/20210419034226/https://www.ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 03:42:26 GMT"}
+20210502113901 {"uri": "https://web.archive.org/web/20210502113901/https://www.ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Sun, 02 May 2021 11:39:01 GMT"}
+20210518012312 {"uri": "https://web.archive.org/web/20210518012312/https://ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 01:23:12 GMT"}
+20210812015651 {"uri": "https://web.archive.org/web/20210812015651/https://ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 01:56:51 GMT"}
+20210817091904 {"uri": "https://web.archive.org/web/20210817091904/https://www.ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 09:19:04 GMT"}
+20211117094818 {"uri": "https://web.archive.org/web/20211117094818/https://www.ncat.edu/cost/departments/built-environment/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:48:18 GMT"}
+20220107225654 {"uri": "https://web.archive.org/web/20220107225654/https://www.ncat.edu/cost/departments/built-environment/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:56:54 GMT"}

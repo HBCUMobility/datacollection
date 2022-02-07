@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/jsnn/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/jsnn/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/jsnn/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/jsnn/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/jsnn/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/jsnn/index.php"}}
+20200808005312 {"uri": "https://web.archive.org/web/20200808005312/https://www.ncat.edu/jsnn/index.php", "rel": "first memento", "datetime": "Sat, 08 Aug 2020 00:53:12 GMT"}
+20200903095710 {"uri": "https://web.archive.org/web/20200903095710/https://www.ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 09:57:10 GMT"}
+20200922205408 {"uri": "https://web.archive.org/web/20200922205408/https://ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:54:08 GMT"}
+20201002015319 {"uri": "https://web.archive.org/web/20201002015319/https://www.ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Fri, 02 Oct 2020 01:53:19 GMT"}
+20201025085641 {"uri": "https://web.archive.org/web/20201025085641/https://www.ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Sun, 25 Oct 2020 08:56:41 GMT"}
+20201128022445 {"uri": "https://web.archive.org/web/20201128022445/https://ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:24:45 GMT"}
+20201210004740 {"uri": "https://web.archive.org/web/20201210004740/https://www.ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Thu, 10 Dec 2020 00:47:40 GMT"}
+20210117000531 {"uri": "https://web.archive.org/web/20210117000531/https://ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Sun, 17 Jan 2021 00:05:31 GMT"}
+20210129111355 {"uri": "https://web.archive.org/web/20210129111355/https://ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 11:13:55 GMT"}
+20210130005217 {"uri": "https://web.archive.org/web/20210130005217/https://www.ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Sat, 30 Jan 2021 00:52:17 GMT"}
+20210416201130 {"uri": "https://web.archive.org/web/20210416201130/https://ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 20:11:30 GMT"}
+20210419020709 {"uri": "https://web.archive.org/web/20210419020709/https://www.ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 02:07:09 GMT"}
+20210812001656 {"uri": "https://web.archive.org/web/20210812001656/https://ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 00:16:56 GMT"}
+20210814141604 {"uri": "https://web.archive.org/web/20210814141604/https://ncat.edu/jsnn/index.php", "rel": "memento", "datetime": "Sat, 14 Aug 2021 14:16:04 GMT"}
+20211117094732 {"uri": "https://web.archive.org/web/20211117094732/https://www.ncat.edu/jsnn/index.php", "rel": "last memento", "datetime": "Wed, 17 Nov 2021 09:47:32 GMT"}

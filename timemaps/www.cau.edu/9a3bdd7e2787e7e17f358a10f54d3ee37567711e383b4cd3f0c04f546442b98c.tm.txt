@@ -1,0 +1,51 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html"}}
+20190812040902 {"uri": "https://web.archive.org/web/20190812040902/http://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "first memento", "datetime": "Mon, 12 Aug 2019 04:09:02 GMT"}
+20190816234550 {"uri": "https://web.archive.org/web/20190816234550/http://www.cau.edu:80/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Fri, 16 Aug 2019 23:45:50 GMT"}
+20190911220637 {"uri": "https://web.archive.org/web/20190911220637/http://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Wed, 11 Sep 2019 22:06:37 GMT"}
+20190918071913 {"uri": "https://web.archive.org/web/20190918071913/http://www.cau.edu:80/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Wed, 18 Sep 2019 07:19:13 GMT"}
+20190919094653 {"uri": "https://web.archive.org/web/20190919094653/http://www.cau.edu:80/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Thu, 19 Sep 2019 09:46:53 GMT"}
+20191003043737 {"uri": "https://web.archive.org/web/20191003043737/http://www.cau.edu:80/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 04:37:37 GMT"}
+20191011220636 {"uri": "https://web.archive.org/web/20191011220636/http://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:06:36 GMT"}
+20191111220624 {"uri": "https://web.archive.org/web/20191111220624/http://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:06:24 GMT"}
+20191116001902 {"uri": "https://web.archive.org/web/20191116001902/http://www.cau.edu:80/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sat, 16 Nov 2019 00:19:02 GMT"}
+20191211220611 {"uri": "https://web.archive.org/web/20191211220611/http://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:06:11 GMT"}
+20191216061134 {"uri": "https://web.archive.org/web/20191216061134/http://www.cau.edu:80/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Mon, 16 Dec 2019 06:11:34 GMT"}
+20200111220647 {"uri": "https://web.archive.org/web/20200111220647/http://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:06:47 GMT"}
+20200115181343 {"uri": "https://web.archive.org/web/20200115181343/http://www.cau.edu:80/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Wed, 15 Jan 2020 18:13:43 GMT"}
+20200212010626 {"uri": "https://web.archive.org/web/20200212010626/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 01:06:26 GMT"}
+20200215000340 {"uri": "https://web.archive.org/web/20200215000340/http://www.cau.edu:80/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sat, 15 Feb 2020 00:03:40 GMT"}
+20200222002502 {"uri": "https://web.archive.org/web/20200222002502/http://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sat, 22 Feb 2020 00:25:02 GMT"}
+20200310051008 {"uri": "https://web.archive.org/web/20200310051008/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Tue, 10 Mar 2020 05:10:08 GMT"}
+20200311223510 {"uri": "https://web.archive.org/web/20200311223510/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 22:35:10 GMT"}
+20200411222327 {"uri": "https://web.archive.org/web/20200411222327/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 22:23:27 GMT"}
+20200511222356 {"uri": "https://web.archive.org/web/20200511222356/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Mon, 11 May 2020 22:23:56 GMT"}
+20200612000351 {"uri": "https://web.archive.org/web/20200612000351/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 00:03:51 GMT"}
+20200711222036 {"uri": "https://web.archive.org/web/20200711222036/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 22:20:36 GMT"}
+20200811222435 {"uri": "https://web.archive.org/web/20200811222435/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 22:24:35 GMT"}
+20200814195555 {"uri": "https://web.archive.org/web/20200814195555/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Fri, 14 Aug 2020 19:55:55 GMT"}
+20200911224105 {"uri": "https://web.archive.org/web/20200911224105/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Fri, 11 Sep 2020 22:41:05 GMT"}
+20201011223407 {"uri": "https://web.archive.org/web/20201011223407/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 22:34:07 GMT"}
+20201026104408 {"uri": "https://web.archive.org/web/20201026104408/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Mon, 26 Oct 2020 10:44:08 GMT"}
+20201111223018 {"uri": "https://web.archive.org/web/20201111223018/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 22:30:18 GMT"}
+20201205052835 {"uri": "https://web.archive.org/web/20201205052835/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 05:28:35 GMT"}
+20201211230819 {"uri": "https://web.archive.org/web/20201211230819/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Fri, 11 Dec 2020 23:08:19 GMT"}
+20210111222343 {"uri": "https://web.archive.org/web/20210111222343/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 22:23:43 GMT"}
+20210211222942 {"uri": "https://web.archive.org/web/20210211222942/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 22:29:42 GMT"}
+20210302042612 {"uri": "https://web.archive.org/web/20210302042612/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Tue, 02 Mar 2021 04:26:12 GMT"}
+20210311223049 {"uri": "https://web.archive.org/web/20210311223049/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Thu, 11 Mar 2021 22:30:49 GMT"}
+20210411221515 {"uri": "https://web.archive.org/web/20210411221515/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:15:15 GMT"}
+20210511223247 {"uri": "https://web.archive.org/web/20210511223247/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Tue, 11 May 2021 22:32:47 GMT"}
+20210512105451 {"uri": "https://web.archive.org/web/20210512105451/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Wed, 12 May 2021 10:54:51 GMT"}
+20210611222526 {"uri": "https://web.archive.org/web/20210611222526/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Fri, 11 Jun 2021 22:25:26 GMT"}
+20210711222147 {"uri": "https://web.archive.org/web/20210711222147/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 22:21:47 GMT"}
+20210811222945 {"uri": "https://web.archive.org/web/20210811222945/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:29:45 GMT"}
+20210911223211 {"uri": "https://web.archive.org/web/20210911223211/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 22:32:11 GMT"}
+20210925083423 {"uri": "https://web.archive.org/web/20210925083423/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:34:23 GMT"}
+20211011225513 {"uri": "https://web.archive.org/web/20211011225513/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Mon, 11 Oct 2021 22:55:13 GMT"}
+20211111223352 {"uri": "https://web.archive.org/web/20211111223352/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "memento", "datetime": "Thu, 11 Nov 2021 22:33:52 GMT"}
+20220107223644 {"uri": "https://web.archive.org/web/20220107223644/https://www.cau.edu/school-of-arts-and-sciences/psychology/index.html", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:36:44 GMT"}

@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/dchealthprof/health/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/dchealthprof/health/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/dchealthprof/health/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/dchealthprof/health/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/dchealthprof/health/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/dchealthprof/health/index.php"}}
+20200120100555 {"uri": "https://web.archive.org/web/20200120100555/http://www.asurams.edu:80/academic-affairs/dchealthprof/health/index.php", "rel": "first memento", "datetime": "Mon, 20 Jan 2020 10:05:55 GMT"}
+20200926215057 {"uri": "https://web.archive.org/web/20200926215057/https://www.asurams.edu/academic-affairs/dchealthprof/health/index.php", "rel": "memento", "datetime": "Sat, 26 Sep 2020 21:50:57 GMT"}
+20210416141623 {"uri": "https://web.archive.org/web/20210416141623/https://www.asurams.edu/academic-affairs/dchealthprof/health/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 14:16:23 GMT"}
+20210512103802 {"uri": "https://web.archive.org/web/20210512103802/https://www.asurams.edu/academic-affairs/dchealthprof/health/index.php", "rel": "memento", "datetime": "Wed, 12 May 2021 10:38:02 GMT"}
+20210516000940 {"uri": "https://web.archive.org/web/20210516000940/https://asurams.edu/academic-affairs/dchealthprof/health/index.php", "rel": "memento", "datetime": "Sun, 16 May 2021 00:09:40 GMT"}
+20210817234708 {"uri": "https://web.archive.org/web/20210817234708/https://asurams.edu/academic-affairs/dchealthprof/health/index.php", "rel": "last memento", "datetime": "Tue, 17 Aug 2021 23:47:08 GMT"}

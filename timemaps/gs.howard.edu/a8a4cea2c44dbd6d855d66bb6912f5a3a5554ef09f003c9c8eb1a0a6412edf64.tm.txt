@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/microbiology"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://gs.howard.edu/graduate-programs/microbiology"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://gs.howard.edu/graduate-programs/microbiology"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://gs.howard.edu/graduate-programs/microbiology", "json_format": "http://localhost:1208/timemap/json/https://gs.howard.edu/graduate-programs/microbiology", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gs.howard.edu/graduate-programs/microbiology"}}
+20170507000548 {"uri": "https://web.archive.org/web/20170507000548/http://gs.howard.edu:80/graduate-programs/microbiology", "rel": "first memento", "datetime": "Sun, 07 May 2017 00:05:48 GMT"}
+20170508105131 {"uri": "https://web.archive.org/web/20170508105131/http://gs.howard.edu:80/graduate-programs/microbiology", "rel": "memento", "datetime": "Mon, 08 May 2017 10:51:31 GMT"}
+20170608184106 {"uri": "https://web.archive.org/web/20170608184106/http://gs.howard.edu:80/graduate-programs/microbiology", "rel": "memento", "datetime": "Thu, 08 Jun 2017 18:41:06 GMT"}
+20170708154225 {"uri": "https://web.archive.org/web/20170708154225/https://gs.howard.edu/graduate-programs/microbiology", "rel": "memento", "datetime": "Sat, 08 Jul 2017 15:42:25 GMT"}
+20170709163458 {"uri": "https://web.archive.org/web/20170709163458/http://gs.howard.edu:80/graduate-programs/microbiology", "rel": "memento", "datetime": "Sun, 09 Jul 2017 16:34:58 GMT"}
+20170809094519 {"uri": "https://web.archive.org/web/20170809094519/http://gs.howard.edu:80/graduate-programs/microbiology", "rel": "memento", "datetime": "Wed, 09 Aug 2017 09:45:19 GMT"}
+20200126055920 {"uri": "https://web.archive.org/web/20200126055920/https://gs.howard.edu/graduate-programs/microbiology", "rel": "memento", "datetime": "Sun, 26 Jan 2020 05:59:20 GMT"}
+20200920200519 {"uri": "https://web.archive.org/web/20200920200519/https://gs.howard.edu/graduate-programs/microbiology/", "rel": "memento", "datetime": "Sun, 20 Sep 2020 20:05:19 GMT"}
+20201001054734 {"uri": "https://web.archive.org/web/20201001054734/https://gs.howard.edu/graduate-programs/microbiology", "rel": "memento", "datetime": "Thu, 01 Oct 2020 05:47:34 GMT"}
+20210121153323 {"uri": "https://web.archive.org/web/20210121153323/https://gs.howard.edu/graduate-programs/microbiology", "rel": "memento", "datetime": "Thu, 21 Jan 2021 15:33:23 GMT"}
+20210413081927 {"uri": "https://web.archive.org/web/20210413081927/https://gs.howard.edu/graduate-programs/microbiology", "rel": "memento", "datetime": "Tue, 13 Apr 2021 08:19:27 GMT"}
+20210416001638 {"uri": "https://web.archive.org/web/20210416001638/https://gs.howard.edu/graduate-programs/microbiology", "rel": "memento", "datetime": "Fri, 16 Apr 2021 00:16:38 GMT"}
+20211109161800 {"uri": "https://web.archive.org/web/20211109161800/https://gs.howard.edu/graduate-programs/microbiology", "rel": "memento", "datetime": "Tue, 09 Nov 2021 16:18:00 GMT"}
+20220106213114 {"uri": "https://web.archive.org/web/20220106213114/https://gs.howard.edu/graduate-programs/microbiology", "rel": "last memento", "datetime": "Thu, 06 Jan 2022 21:31:14 GMT"}

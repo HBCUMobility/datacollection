@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences"}}
+20200813002231 {"uri": "https://web.archive.org/web/20200813002231/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:22:31 GMT"}
+20201029054023 {"uri": "https://web.archive.org/web/20201029054023/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:40:23 GMT"}
+20210125045857 {"uri": "https://web.archive.org/web/20210125045857/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:58:57 GMT"}
+20210410145842 {"uri": "https://web.archive.org/web/20210410145842/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:58:42 GMT"}
+20210420174759 {"uri": "https://web.archive.org/web/20210420174759/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-department-of-clinical-sciences", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 17:47:59 GMT"}

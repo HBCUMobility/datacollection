@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-business"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alcorn.edu/academics/schools-and-departments/school-of-business"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alcorn.edu/academics/schools-and-departments/school-of-business"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "json_format": "http://localhost:1208/timemap/json/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-business"}}
+20190507130726 {"uri": "https://web.archive.org/web/20190507130726/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "first memento", "datetime": "Tue, 07 May 2019 13:07:26 GMT"}
+20190512183020 {"uri": "https://web.archive.org/web/20190512183020/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Sun, 12 May 2019 18:30:20 GMT"}
+20200414080346 {"uri": "https://web.archive.org/web/20200414080346/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Tue, 14 Apr 2020 08:03:46 GMT"}
+20200531083340 {"uri": "https://web.archive.org/web/20200531083340/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Sun, 31 May 2020 08:33:40 GMT"}
+20200618204752 {"uri": "https://web.archive.org/web/20200618204752/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Thu, 18 Jun 2020 20:47:52 GMT"}
+20200722110637 {"uri": "https://web.archive.org/web/20200722110637/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:06:37 GMT"}
+20200722110643 {"uri": "https://web.archive.org/web/20200722110643/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:06:43 GMT"}
+20201001080537 {"uri": "https://web.archive.org/web/20201001080537/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Thu, 01 Oct 2020 08:05:37 GMT"}
+20201030132554 {"uri": "https://web.archive.org/web/20201030132554/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Fri, 30 Oct 2020 13:25:54 GMT"}
+20210121214452 {"uri": "https://web.archive.org/web/20210121214452/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Thu, 21 Jan 2021 21:44:52 GMT"}
+20210416050942 {"uri": "https://web.archive.org/web/20210416050942/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Fri, 16 Apr 2021 05:09:42 GMT"}
+20210420134700 {"uri": "https://web.archive.org/web/20210420134700/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Tue, 20 Apr 2021 13:47:00 GMT"}
+20210925130704 {"uri": "https://web.archive.org/web/20210925130704/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Sat, 25 Sep 2021 13:07:04 GMT"}
+20211222080651 {"uri": "https://web.archive.org/web/20211222080651/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "memento", "datetime": "Wed, 22 Dec 2021 08:06:51 GMT"}
+20220108035528 {"uri": "https://web.archive.org/web/20220108035528/https://www.alcorn.edu/academics/schools-and-departments/school-of-business", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 03:55:28 GMT"}

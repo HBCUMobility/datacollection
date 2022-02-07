@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/criminal-justice/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cahss/departments/criminal-justice/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cahss/departments/criminal-justice/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cahss/departments/criminal-justice/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cahss/departments/criminal-justice/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/criminal-justice/index.php"}}
+20200903080345 {"uri": "https://web.archive.org/web/20200903080345/https://www.ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 08:03:45 GMT"}
+20200922213021 {"uri": "https://web.archive.org/web/20200922213021/https://ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 21:30:21 GMT"}
+20200925105422 {"uri": "https://web.archive.org/web/20200925105422/https://www.ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 10:54:22 GMT"}
+20201125171116 {"uri": "https://web.archive.org/web/20201125171116/https://www.ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Wed, 25 Nov 2020 17:11:16 GMT"}
+20201128024718 {"uri": "https://web.archive.org/web/20201128024718/https://ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:47:18 GMT"}
+20210129001306 {"uri": "https://web.archive.org/web/20210129001306/https://ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 00:13:06 GMT"}
+20210302083342 {"uri": "https://web.archive.org/web/20210302083342/https://ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 08:33:42 GMT"}
+20210418231523 {"uri": "https://web.archive.org/web/20210418231523/https://www.ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 23:15:23 GMT"}
+20210518023307 {"uri": "https://web.archive.org/web/20210518023307/https://ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 02:33:07 GMT"}
+20210811211756 {"uri": "https://web.archive.org/web/20210811211756/https://ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:17:56 GMT"}
+20210814130055 {"uri": "https://web.archive.org/web/20210814130055/https://ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Sat, 14 Aug 2021 13:00:55 GMT"}
+20210816123332 {"uri": "https://web.archive.org/web/20210816123332/https://www.ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 12:33:32 GMT"}
+20211117094734 {"uri": "https://web.archive.org/web/20211117094734/https://www.ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:34 GMT"}
+20220108103137 {"uri": "https://web.archive.org/web/20220108103137/https://www.ncat.edu/cahss/departments/criminal-justice/index.php", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 10:31:37 GMT"}

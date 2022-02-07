@@ -1,0 +1,31 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml"}}
+20170517173627 {"uri": "https://web.archive.org/web/20170517173627/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "first memento", "datetime": "Wed, 17 May 2017 17:36:27 GMT"}
+20170618105905 {"uri": "https://web.archive.org/web/20170618105905/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Sun, 18 Jun 2017 10:59:05 GMT"}
+20170619185428 {"uri": "https://web.archive.org/web/20170619185428/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Mon, 19 Jun 2017 18:54:28 GMT"}
+20170629061334 {"uri": "https://web.archive.org/web/20170629061334/http://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Thu, 29 Jun 2017 06:13:34 GMT"}
+20170724192539 {"uri": "https://web.archive.org/web/20170724192539/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Mon, 24 Jul 2017 19:25:39 GMT"}
+20171011020557 {"uri": "https://web.archive.org/web/20171011020557/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Wed, 11 Oct 2017 02:05:57 GMT"}
+20171110153905 {"uri": "https://web.archive.org/web/20171110153905/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Fri, 10 Nov 2017 15:39:05 GMT"}
+20171211222035 {"uri": "https://web.archive.org/web/20171211222035/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Mon, 11 Dec 2017 22:20:35 GMT"}
+20180112103003 {"uri": "https://web.archive.org/web/20180112103003/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Fri, 12 Jan 2018 10:30:03 GMT"}
+20180214135943 {"uri": "https://web.archive.org/web/20180214135943/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Wed, 14 Feb 2018 13:59:43 GMT"}
+20180319073539 {"uri": "https://web.archive.org/web/20180319073539/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Mon, 19 Mar 2018 07:35:39 GMT"}
+20180419115410 {"uri": "https://web.archive.org/web/20180419115410/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Thu, 19 Apr 2018 11:54:10 GMT"}
+20180529142541 {"uri": "https://web.archive.org/web/20180529142541/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Tue, 29 May 2018 14:25:41 GMT"}
+20180630070333 {"uri": "https://web.archive.org/web/20180630070333/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Sat, 30 Jun 2018 07:03:33 GMT"}
+20180802040449 {"uri": "https://web.archive.org/web/20180802040449/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Thu, 02 Aug 2018 04:04:49 GMT"}
+20180803114331 {"uri": "https://web.archive.org/web/20180803114331/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Fri, 03 Aug 2018 11:43:31 GMT"}
+20180904042411 {"uri": "https://web.archive.org/web/20180904042411/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Tue, 04 Sep 2018 04:24:11 GMT"}
+20181023090246 {"uri": "https://web.archive.org/web/20181023090246/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Tue, 23 Oct 2018 09:02:46 GMT"}
+20190913191634 {"uri": "https://web.archive.org/web/20190913191634/http://www.savannahstate.edu:80/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Fri, 13 Sep 2019 19:16:34 GMT"}
+20200921125614 {"uri": "https://web.archive.org/web/20200921125614/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Mon, 21 Sep 2020 12:56:14 GMT"}
+20201126050214 {"uri": "https://web.archive.org/web/20201126050214/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Thu, 26 Nov 2020 05:02:14 GMT"}
+20210226220312 {"uri": "https://web.archive.org/web/20210226220312/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Fri, 26 Feb 2021 22:03:12 GMT"}
+20210414091349 {"uri": "https://web.archive.org/web/20210414091349/https://savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Wed, 14 Apr 2021 09:13:49 GMT"}
+20210514172116 {"uri": "https://web.archive.org/web/20210514172116/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "memento", "datetime": "Fri, 14 May 2021 17:21:16 GMT"}
+20220107223657 {"uri": "https://web.archive.org/web/20220107223657/https://www.savannahstate.edu/graduate/master-degrees/degrees-grad-ba.shtml", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:36:57 GMT"}

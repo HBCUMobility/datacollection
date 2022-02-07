@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns"}}
+20180912000317 {"uri": "https://web.archive.org/web/20180912000317/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns", "rel": "first memento", "datetime": "Wed, 12 Sep 2018 00:03:17 GMT"}
+20180914134123 {"uri": "https://web.archive.org/web/20180914134123/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns", "rel": "memento", "datetime": "Fri, 14 Sep 2018 13:41:23 GMT"}
+20200813001237 {"uri": "https://web.archive.org/web/20200813001237/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns", "rel": "memento", "datetime": "Thu, 13 Aug 2020 00:12:37 GMT"}
+20201029052533 {"uri": "https://web.archive.org/web/20201029052533/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:25:33 GMT"}
+20210125044405 {"uri": "https://web.archive.org/web/20210125044405/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:44:05 GMT"}
+20210410144328 {"uri": "https://web.archive.org/web/20210410144328/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:43:28 GMT"}
+20210425140059 {"uri": "https://web.archive.org/web/20210425140059/https://www.tuskegee.edu/programs-courses/colleges-schools/caens/fns", "rel": "last memento", "datetime": "Sun, 25 Apr 2021 14:00:59 GMT"}

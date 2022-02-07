@@ -1,0 +1,40 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/Communications/programs.aspx"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tnstate.edu/Communications/programs.aspx"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tnstate.edu/Communications/programs.aspx"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tnstate.edu/Communications/programs.aspx", "json_format": "http://localhost:1208/timemap/json/https://www.tnstate.edu/Communications/programs.aspx", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tnstate.edu/Communications/programs.aspx"}}
+20110707115445 {"uri": "https://web.archive.org/web/20110707115445/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "first memento", "datetime": "Thu, 07 Jul 2011 11:54:45 GMT"}
+20110825074155 {"uri": "https://web.archive.org/web/20110825074155/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Thu, 25 Aug 2011 07:41:55 GMT"}
+20120312185305 {"uri": "https://web.archive.org/web/20120312185305/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Mon, 12 Mar 2012 18:53:05 GMT"}
+20120714042459 {"uri": "https://web.archive.org/web/20120714042459/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Sat, 14 Jul 2012 04:24:59 GMT"}
+20121205031152 {"uri": "https://web.archive.org/web/20121205031152/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Wed, 05 Dec 2012 03:11:52 GMT"}
+20130312215559 {"uri": "https://web.archive.org/web/20130312215559/http://www.tnstate.edu/Communications/programs.aspx", "rel": "memento", "datetime": "Tue, 12 Mar 2013 21:55:59 GMT"}
+20130313203704 {"uri": "https://web.archive.org/web/20130313203704/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Wed, 13 Mar 2013 20:37:04 GMT"}
+20130625022247 {"uri": "https://web.archive.org/web/20130625022247/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Tue, 25 Jun 2013 02:22:47 GMT"}
+20150109171356 {"uri": "https://web.archive.org/web/20150109171356/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Fri, 09 Jan 2015 17:13:56 GMT"}
+20150318044032 {"uri": "https://web.archive.org/web/20150318044032/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Wed, 18 Mar 2015 04:40:32 GMT"}
+20150506062326 {"uri": "https://web.archive.org/web/20150506062326/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Wed, 06 May 2015 06:23:26 GMT"}
+20150906081506 {"uri": "https://web.archive.org/web/20150906081506/http://www.tnstate.edu/Communications/programs.aspx", "rel": "memento", "datetime": "Sun, 06 Sep 2015 08:15:06 GMT"}
+20150910212920 {"uri": "https://web.archive.org/web/20150910212920/http://www.tnstate.edu/communications/programs.aspx", "rel": "memento", "datetime": "Thu, 10 Sep 2015 21:29:20 GMT"}
+20160301132430 {"uri": "https://web.archive.org/web/20160301132430/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Tue, 01 Mar 2016 13:24:30 GMT"}
+20160412165524 {"uri": "https://web.archive.org/web/20160412165524/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Tue, 12 Apr 2016 16:55:24 GMT"}
+20160513232227 {"uri": "https://web.archive.org/web/20160513232227/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Fri, 13 May 2016 23:22:27 GMT"}
+20160904163703 {"uri": "https://web.archive.org/web/20160904163703/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Sun, 04 Sep 2016 16:37:03 GMT"}
+20161005194916 {"uri": "https://web.archive.org/web/20161005194916/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Wed, 05 Oct 2016 19:49:16 GMT"}
+20161107081255 {"uri": "https://web.archive.org/web/20161107081255/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Mon, 07 Nov 2016 08:12:55 GMT"}
+20171010050323 {"uri": "https://web.archive.org/web/20171010050323/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Tue, 10 Oct 2017 05:03:23 GMT"}
+20171213105510 {"uri": "https://web.archive.org/web/20171213105510/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Wed, 13 Dec 2017 10:55:10 GMT"}
+20171214153803 {"uri": "https://web.archive.org/web/20171214153803/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Thu, 14 Dec 2017 15:38:03 GMT"}
+20180214022628 {"uri": "https://web.archive.org/web/20180214022628/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Wed, 14 Feb 2018 02:26:28 GMT"}
+20180215122646 {"uri": "https://web.archive.org/web/20180215122646/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Thu, 15 Feb 2018 12:26:46 GMT"}
+20180420141038 {"uri": "https://web.archive.org/web/20180420141038/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Fri, 20 Apr 2018 14:10:38 GMT"}
+20180621053952 {"uri": "https://web.archive.org/web/20180621053952/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Thu, 21 Jun 2018 05:39:52 GMT"}
+20180823152403 {"uri": "https://web.archive.org/web/20180823152403/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Thu, 23 Aug 2018 15:24:03 GMT"}
+20181023225211 {"uri": "https://web.archive.org/web/20181023225211/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Tue, 23 Oct 2018 22:52:11 GMT"}
+20191118033350 {"uri": "https://web.archive.org/web/20191118033350/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Mon, 18 Nov 2019 03:33:50 GMT"}
+20200117050111 {"uri": "https://web.archive.org/web/20200117050111/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Fri, 17 Jan 2020 05:01:11 GMT"}
+20200301152844 {"uri": "https://web.archive.org/web/20200301152844/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Sun, 01 Mar 2020 15:28:44 GMT"}
+20200501081725 {"uri": "https://web.archive.org/web/20200501081725/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Fri, 01 May 2020 08:17:25 GMT"}
+20200630144150 {"uri": "https://web.archive.org/web/20200630144150/http://www.tnstate.edu:80/Communications/programs.aspx", "rel": "memento", "datetime": "Tue, 30 Jun 2020 14:41:50 GMT"}
+20211116175450 {"uri": "https://web.archive.org/web/20211116175450/https://www.tnstate.edu/Communications/programs.aspx", "rel": "last memento", "datetime": "Tue, 16 Nov 2021 17:54:50 GMT"}

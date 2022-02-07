@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms", "json_format": "http://localhost:1208/timemap/json/https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms"}}
+20201021024440 {"uri": "https://web.archive.org/web/20201021024440/https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms", "rel": "first memento", "datetime": "Wed, 21 Oct 2020 02:44:40 GMT"}
+20201204120030 {"uri": "https://web.archive.org/web/20201204120030/https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms", "rel": "memento", "datetime": "Fri, 04 Dec 2020 12:00:30 GMT"}
+20210115215359 {"uri": "https://web.archive.org/web/20210115215359/https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms", "rel": "memento", "datetime": "Fri, 15 Jan 2021 21:53:59 GMT"}
+20210417061540 {"uri": "https://web.archive.org/web/20210417061540/https://www.nccu.edu/academics/graduate-programs/communication-disorders-ms", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 06:15:40 GMT"}

@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/english/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cahss/departments/english/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cahss/departments/english/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cahss/departments/english/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cahss/departments/english/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/english/index.php"}}
+20200903075010 {"uri": "https://web.archive.org/web/20200903075010/https://www.ncat.edu/cahss/departments/english/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 07:50:10 GMT"}
+20200922203158 {"uri": "https://web.archive.org/web/20200922203158/https://ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:31:58 GMT"}
+20200925095045 {"uri": "https://web.archive.org/web/20200925095045/https://www.ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 09:50:45 GMT"}
+20201128020831 {"uri": "https://web.archive.org/web/20201128020831/https://ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:08:31 GMT"}
+20201204231154 {"uri": "https://web.archive.org/web/20201204231154/https://www.ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Fri, 04 Dec 2020 23:11:54 GMT"}
+20210116235042 {"uri": "https://web.archive.org/web/20210116235042/https://ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Sat, 16 Jan 2021 23:50:42 GMT"}
+20210131004914 {"uri": "https://web.archive.org/web/20210131004914/https://ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Sun, 31 Jan 2021 00:49:14 GMT"}
+20210310014145 {"uri": "https://web.archive.org/web/20210310014145/https://www.ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Wed, 10 Mar 2021 01:41:45 GMT"}
+20210416194406 {"uri": "https://web.archive.org/web/20210416194406/https://ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 19:44:06 GMT"}
+20210418214117 {"uri": "https://web.archive.org/web/20210418214117/https://www.ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 21:41:17 GMT"}
+20210812015657 {"uri": "https://web.archive.org/web/20210812015657/https://ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 01:56:57 GMT"}
+20210817090033 {"uri": "https://web.archive.org/web/20210817090033/https://ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 09:00:33 GMT"}
+20210817090254 {"uri": "https://web.archive.org/web/20210817090254/https://ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 09:02:54 GMT"}
+20210817234658 {"uri": "https://web.archive.org/web/20210817234658/https://www.ncat.edu/cahss/departments/english/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 23:46:58 GMT"}
+20211117094816 {"uri": "https://web.archive.org/web/20211117094816/https://www.ncat.edu/cahss/departments/english/index.php", "rel": "last memento", "datetime": "Wed, 17 Nov 2021 09:48:16 GMT"}

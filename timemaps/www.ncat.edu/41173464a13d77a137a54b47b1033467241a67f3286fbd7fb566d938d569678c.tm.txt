@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php"}}
+20200929120424 {"uri": "https://web.archive.org/web/20200929120424/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php", "rel": "first memento", "datetime": "Tue, 29 Sep 2020 12:04:24 GMT"}
+20201029051600 {"uri": "https://web.archive.org/web/20201029051600/https://ncat.edu/caes/departments/family-and-consumer-sciences/index.php", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:16:00 GMT"}
+20201204234222 {"uri": "https://web.archive.org/web/20201204234222/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php", "rel": "memento", "datetime": "Fri, 04 Dec 2020 23:42:22 GMT"}
+20210302110145 {"uri": "https://web.archive.org/web/20210302110145/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 11:01:45 GMT"}
+20210419011330 {"uri": "https://web.archive.org/web/20210419011330/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 01:13:30 GMT"}
+20210514195427 {"uri": "https://web.archive.org/web/20210514195427/https://www.ncat.edu/caes/departments/family-and-consumer-sciences/index.php", "rel": "memento", "datetime": "Fri, 14 May 2021 19:54:27 GMT"}
+20210816190544 {"uri": "https://web.archive.org/web/20210816190544/https://ncat.edu/caes/departments/family-and-consumer-sciences/index.php", "rel": "last memento", "datetime": "Mon, 16 Aug 2021 19:05:44 GMT"}

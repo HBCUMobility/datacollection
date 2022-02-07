@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history"}}
+20200812235606 {"uri": "https://web.archive.org/web/20200812235606/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 23:56:06 GMT"}
+20201029050554 {"uri": "https://web.archive.org/web/20201029050554/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:05:54 GMT"}
+20210125041944 {"uri": "https://web.archive.org/web/20210125041944/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history", "rel": "memento", "datetime": "Mon, 25 Jan 2021 04:19:44 GMT"}
+20210410142154 {"uri": "https://web.archive.org/web/20210410142154/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history", "rel": "memento", "datetime": "Sat, 10 Apr 2021 14:21:54 GMT"}
+20210420095303 {"uri": "https://web.archive.org/web/20210420095303/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/history", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 09:53:03 GMT"}

@@ -1,0 +1,26 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/academic-administration-public-administration"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/academic-administration-public-administration"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/academic-administration-public-administration"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/academic-administration-public-administration", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/academic-administration-public-administration", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/academic-administration-public-administration"}}
+20180820022511 {"uri": "https://web.archive.org/web/20180820022511/http://www.suno.edu:80/page/academic-administration-public-administration", "rel": "first memento", "datetime": "Mon, 20 Aug 2018 02:25:11 GMT"}
+20190314045002 {"uri": "https://web.archive.org/web/20190314045002/http://www.suno.edu:80/page/academic-administration-public-administration", "rel": "memento", "datetime": "Thu, 14 Mar 2019 04:50:02 GMT"}
+20190514102653 {"uri": "https://web.archive.org/web/20190514102653/http://www.suno.edu:80/page/academic-administration-public-administration", "rel": "memento", "datetime": "Tue, 14 May 2019 10:26:53 GMT"}
+20190714222620 {"uri": "https://web.archive.org/web/20190714222620/http://www.suno.edu:80/page/academic-administration-public-administration", "rel": "memento", "datetime": "Sun, 14 Jul 2019 22:26:20 GMT"}
+20190816044521 {"uri": "https://web.archive.org/web/20190816044521/http://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Fri, 16 Aug 2019 04:45:21 GMT"}
+20190914061219 {"uri": "https://web.archive.org/web/20190914061219/http://www.suno.edu:80/page/academic-administration-public-administration", "rel": "memento", "datetime": "Sat, 14 Sep 2019 06:12:19 GMT"}
+20191004064741 {"uri": "https://web.archive.org/web/20191004064741/http://www.suno.edu:80/page/academic-administration-public-administration", "rel": "memento", "datetime": "Fri, 04 Oct 2019 06:47:41 GMT"}
+20191203100614 {"uri": "https://web.archive.org/web/20191203100614/http://www.suno.edu:80/page/academic-administration-public-administration", "rel": "memento", "datetime": "Tue, 03 Dec 2019 10:06:14 GMT"}
+20200201130341 {"uri": "https://web.archive.org/web/20200201130341/http://www.suno.edu:80/page/academic-administration-public-administration", "rel": "memento", "datetime": "Sat, 01 Feb 2020 13:03:41 GMT"}
+20200606071355 {"uri": "https://web.archive.org/web/20200606071355/http://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Sat, 06 Jun 2020 07:13:55 GMT"}
+20200623105652 {"uri": "https://web.archive.org/web/20200623105652/http://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Tue, 23 Jun 2020 10:56:52 GMT"}
+20200706122409 {"uri": "https://web.archive.org/web/20200706122409/http://www.suno.edu:80/page/academic-administration-public-administration", "rel": "memento", "datetime": "Mon, 06 Jul 2020 12:24:09 GMT"}
+20201008195630 {"uri": "https://web.archive.org/web/20201008195630/http://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Thu, 08 Oct 2020 19:56:30 GMT"}
+20210120142201 {"uri": "https://web.archive.org/web/20210120142201/https://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Wed, 20 Jan 2021 14:22:01 GMT"}
+20210410150613 {"uri": "https://web.archive.org/web/20210410150613/http://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Sat, 10 Apr 2021 15:06:13 GMT"}
+20210412222634 {"uri": "https://web.archive.org/web/20210412222634/https://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Mon, 12 Apr 2021 22:26:34 GMT"}
+20210916112040 {"uri": "https://web.archive.org/web/20210916112040/https://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Thu, 16 Sep 2021 11:20:40 GMT"}
+20210916124129 {"uri": "https://web.archive.org/web/20210916124129/http://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Thu, 16 Sep 2021 12:41:29 GMT"}
+20220107224741 {"uri": "https://web.archive.org/web/20220107224741/https://www.suno.edu/page/academic-administration-public-administration", "rel": "memento", "datetime": "Fri, 07 Jan 2022 22:47:41 GMT"}
+20220107224741 {"uri": "https://web.archive.org/web/20220107224741/http://www.suno.edu/page/academic-administration-public-administration", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:47:41 GMT"}

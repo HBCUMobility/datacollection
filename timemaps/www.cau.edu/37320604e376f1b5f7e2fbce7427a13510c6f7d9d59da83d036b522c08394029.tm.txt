@@ -1,0 +1,47 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/music/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/music/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/music/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/music/index.html"}}
+20190812040858 {"uri": "https://web.archive.org/web/20190812040858/http://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "first memento", "datetime": "Mon, 12 Aug 2019 04:08:58 GMT"}
+20190911220632 {"uri": "https://web.archive.org/web/20190911220632/http://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Wed, 11 Sep 2019 22:06:32 GMT"}
+20190928220832 {"uri": "https://web.archive.org/web/20190928220832/http://www.cau.edu:80/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sat, 28 Sep 2019 22:08:32 GMT"}
+20191003043708 {"uri": "https://web.archive.org/web/20191003043708/http://www.cau.edu:80/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 04:37:08 GMT"}
+20191011220630 {"uri": "https://web.archive.org/web/20191011220630/http://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:06:30 GMT"}
+20191111220617 {"uri": "https://web.archive.org/web/20191111220617/http://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:06:17 GMT"}
+20191202113047 {"uri": "https://web.archive.org/web/20191202113047/http://www.cau.edu:80/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Mon, 02 Dec 2019 11:30:47 GMT"}
+20191211220606 {"uri": "https://web.archive.org/web/20191211220606/http://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:06:06 GMT"}
+20200111220642 {"uri": "https://web.archive.org/web/20200111220642/http://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:06:42 GMT"}
+20200131233655 {"uri": "https://web.archive.org/web/20200131233655/http://www.cau.edu:80/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Fri, 31 Jan 2020 23:36:55 GMT"}
+20200212010432 {"uri": "https://web.archive.org/web/20200212010432/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 01:04:32 GMT"}
+20200222002500 {"uri": "https://web.archive.org/web/20200222002500/http://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sat, 22 Feb 2020 00:25:00 GMT"}
+20200229132804 {"uri": "https://web.archive.org/web/20200229132804/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sat, 29 Feb 2020 13:28:04 GMT"}
+20200311223306 {"uri": "https://web.archive.org/web/20200311223306/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 22:33:06 GMT"}
+20200411222212 {"uri": "https://web.archive.org/web/20200411222212/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 22:22:12 GMT"}
+20200511222225 {"uri": "https://web.archive.org/web/20200511222225/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Mon, 11 May 2020 22:22:25 GMT"}
+20200612000109 {"uri": "https://web.archive.org/web/20200612000109/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 00:01:09 GMT"}
+20200711221935 {"uri": "https://web.archive.org/web/20200711221935/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 22:19:35 GMT"}
+20200811062718 {"uri": "https://web.archive.org/web/20200811062718/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 06:27:18 GMT"}
+20200811222245 {"uri": "https://web.archive.org/web/20200811222245/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 22:22:45 GMT"}
+20200911223857 {"uri": "https://web.archive.org/web/20200911223857/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Fri, 11 Sep 2020 22:38:57 GMT"}
+20201011223225 {"uri": "https://web.archive.org/web/20201011223225/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 22:32:25 GMT"}
+20201023043655 {"uri": "https://web.archive.org/web/20201023043655/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Fri, 23 Oct 2020 04:36:55 GMT"}
+20201111222820 {"uri": "https://web.archive.org/web/20201111222820/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 22:28:20 GMT"}
+20201205054328 {"uri": "https://web.archive.org/web/20201205054328/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 05:43:28 GMT"}
+20201211225846 {"uri": "https://web.archive.org/web/20201211225846/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Fri, 11 Dec 2020 22:58:46 GMT"}
+20210111222237 {"uri": "https://web.archive.org/web/20210111222237/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 22:22:37 GMT"}
+20210211222821 {"uri": "https://web.archive.org/web/20210211222821/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 22:28:21 GMT"}
+20210302044006 {"uri": "https://web.archive.org/web/20210302044006/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Tue, 02 Mar 2021 04:40:06 GMT"}
+20210311222748 {"uri": "https://web.archive.org/web/20210311222748/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Thu, 11 Mar 2021 22:27:48 GMT"}
+20210411221442 {"uri": "https://web.archive.org/web/20210411221442/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:14:42 GMT"}
+20210511223039 {"uri": "https://web.archive.org/web/20210511223039/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Tue, 11 May 2021 22:30:39 GMT"}
+20210512111825 {"uri": "https://web.archive.org/web/20210512111825/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Wed, 12 May 2021 11:18:25 GMT"}
+20210611222414 {"uri": "https://web.archive.org/web/20210611222414/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Fri, 11 Jun 2021 22:24:14 GMT"}
+20210711222059 {"uri": "https://web.archive.org/web/20210711222059/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 22:20:59 GMT"}
+20210811222835 {"uri": "https://web.archive.org/web/20210811222835/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:28:35 GMT"}
+20210911223038 {"uri": "https://web.archive.org/web/20210911223038/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 22:30:38 GMT"}
+20210925083412 {"uri": "https://web.archive.org/web/20210925083412/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:34:12 GMT"}
+20211011225433 {"uri": "https://web.archive.org/web/20211011225433/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Mon, 11 Oct 2021 22:54:33 GMT"}
+20211111223318 {"uri": "https://web.archive.org/web/20211111223318/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "memento", "datetime": "Thu, 11 Nov 2021 22:33:18 GMT"}
+20220108110156 {"uri": "https://web.archive.org/web/20220108110156/https://www.cau.edu/school-of-arts-and-sciences/music/index.html", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 11:01:56 GMT"}

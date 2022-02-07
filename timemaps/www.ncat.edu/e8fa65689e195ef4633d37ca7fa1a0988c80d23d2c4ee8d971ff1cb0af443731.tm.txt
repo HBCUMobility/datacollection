@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/computer-systems-technology/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cost/departments/computer-systems-technology/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cost/departments/computer-systems-technology/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cost/departments/computer-systems-technology/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cost/departments/computer-systems-technology/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/computer-systems-technology/index.php"}}
+20210117004424 {"uri": "https://web.archive.org/web/20210117004424/https://ncat.edu/cost/departments/computer-systems-technology/index.php", "rel": "first memento", "datetime": "Sun, 17 Jan 2021 00:44:24 GMT"}
+20210419034220 {"uri": "https://web.archive.org/web/20210419034220/https://www.ncat.edu/cost/departments/computer-systems-technology/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 03:42:20 GMT"}
+20210512025052 {"uri": "https://web.archive.org/web/20210512025052/https://ncat.edu/cost/departments/computer-systems-technology/index.php", "rel": "memento", "datetime": "Wed, 12 May 2021 02:50:52 GMT"}
+20210814042900 {"uri": "https://web.archive.org/web/20210814042900/https://ncat.edu/cost/departments/computer-systems-technology/index.php", "rel": "last memento", "datetime": "Sat, 14 Aug 2021 04:29:00 GMT"}

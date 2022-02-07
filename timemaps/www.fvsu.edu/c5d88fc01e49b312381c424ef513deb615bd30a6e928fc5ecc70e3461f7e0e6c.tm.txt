@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.fvsu.edu/business-administration"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.fvsu.edu/business-administration"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.fvsu.edu/business-administration"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.fvsu.edu/business-administration", "json_format": "http://localhost:1208/timemap/json/https://www.fvsu.edu/business-administration", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.fvsu.edu/business-administration"}}
+20171030015921 {"uri": "https://web.archive.org/web/20171030015921/http://www.fvsu.edu:80/business-administration", "rel": "first memento", "datetime": "Mon, 30 Oct 2017 01:59:21 GMT"}
+20171230173913 {"uri": "https://web.archive.org/web/20171230173913/http://www.fvsu.edu:80/business-administration", "rel": "memento", "datetime": "Sat, 30 Dec 2017 17:39:13 GMT"}
+20180302043106 {"uri": "https://web.archive.org/web/20180302043106/http://www.fvsu.edu:80/business-administration", "rel": "memento", "datetime": "Fri, 02 Mar 2018 04:31:06 GMT"}
+20180502113341 {"uri": "https://web.archive.org/web/20180502113341/http://www.fvsu.edu:80/business-administration", "rel": "memento", "datetime": "Wed, 02 May 2018 11:33:41 GMT"}
+20180704232733 {"uri": "https://web.archive.org/web/20180704232733/http://www.fvsu.edu:80/business-administration", "rel": "memento", "datetime": "Wed, 04 Jul 2018 23:27:33 GMT"}
+20180904125704 {"uri": "https://web.archive.org/web/20180904125704/http://www.fvsu.edu:80/business-administration", "rel": "memento", "datetime": "Tue, 04 Sep 2018 12:57:04 GMT"}
+20181105041107 {"uri": "https://web.archive.org/web/20181105041107/http://www.fvsu.edu:80/business-administration", "rel": "memento", "datetime": "Mon, 05 Nov 2018 04:11:07 GMT"}
+20190105071307 {"uri": "https://web.archive.org/web/20190105071307/http://www.fvsu.edu:80/business-administration", "rel": "memento", "datetime": "Sat, 05 Jan 2019 07:13:07 GMT"}
+20190307122818 {"uri": "https://web.archive.org/web/20190307122818/http://www.fvsu.edu:80/business-administration", "rel": "memento", "datetime": "Thu, 07 Mar 2019 12:28:18 GMT"}
+20200925034032 {"uri": "https://web.archive.org/web/20200925034032/https://www.fvsu.edu/business-administration", "rel": "memento", "datetime": "Fri, 25 Sep 2020 03:40:32 GMT"}
+20210225101136 {"uri": "https://web.archive.org/web/20210225101136/https://www.fvsu.edu/business-administration", "rel": "memento", "datetime": "Thu, 25 Feb 2021 10:11:36 GMT"}
+20210228220753 {"uri": "https://web.archive.org/web/20210228220753/https://www.fvsu.edu/business-administration", "rel": "memento", "datetime": "Sun, 28 Feb 2021 22:07:53 GMT"}
+20210416230554 {"uri": "https://web.archive.org/web/20210416230554/https://www.fvsu.edu/business-administration", "rel": "memento", "datetime": "Fri, 16 Apr 2021 23:05:54 GMT"}
+20210429122929 {"uri": "https://web.archive.org/web/20210429122929/https://www.fvsu.edu/business-administration/", "rel": "last memento", "datetime": "Thu, 29 Apr 2021 12:29:29 GMT"}

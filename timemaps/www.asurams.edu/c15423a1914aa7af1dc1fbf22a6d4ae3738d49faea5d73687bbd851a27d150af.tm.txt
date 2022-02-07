@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/rotc/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/rotc/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/rotc/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/rotc/", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/rotc/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-business-education-professional-studies/rotc/"}}
+20210228074236 {"uri": "https://web.archive.org/web/20210228074236/http://asurams.edu/academic-affairs/college-of-business-education-professional-studies/rotc/", "rel": "first memento", "datetime": "Sun, 28 Feb 2021 07:42:36 GMT"}
+20210515233429 {"uri": "https://web.archive.org/web/20210515233429/https://asurams.edu/academic-affairs/college-of-business-education-professional-studies/rotc/", "rel": "last memento", "datetime": "Sat, 15 May 2021 23:34:29 GMT"}

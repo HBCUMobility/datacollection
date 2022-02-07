@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/social-work/department-social-work"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/clas/social-work/department-social-work"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/clas/social-work/department-social-work"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/clas/social-work/department-social-work", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/clas/social-work/department-social-work", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/clas/social-work/department-social-work"}}
+20181112190241 {"uri": "https://web.archive.org/web/20181112190241/http://www.alasu.edu:80/clas/social-work/department-social-work", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 19:02:41 GMT"}
+20181113191614 {"uri": "https://web.archive.org/web/20181113191614/http://www.alasu.edu:80/clas/social-work/department-social-work", "rel": "memento", "datetime": "Tue, 13 Nov 2018 19:16:14 GMT"}
+20200917010735 {"uri": "https://web.archive.org/web/20200917010735/https://www.alasu.edu/clas/social-work/department-social-work", "rel": "memento", "datetime": "Thu, 17 Sep 2020 01:07:35 GMT"}
+20200921191739 {"uri": "https://web.archive.org/web/20200921191739/https://www.alasu.edu/clas/social-work/department-social-work", "rel": "memento", "datetime": "Mon, 21 Sep 2020 19:17:39 GMT"}
+20201130051814 {"uri": "https://web.archive.org/web/20201130051814/https://www.alasu.edu/clas/social-work/department-social-work", "rel": "memento", "datetime": "Mon, 30 Nov 2020 05:18:14 GMT"}
+20210228064938 {"uri": "https://web.archive.org/web/20210228064938/https://www.alasu.edu/clas/social-work/department-social-work", "rel": "memento", "datetime": "Sun, 28 Feb 2021 06:49:38 GMT"}
+20210417062958 {"uri": "https://web.archive.org/web/20210417062958/https://www.alasu.edu/clas/social-work/department-social-work", "rel": "memento", "datetime": "Sat, 17 Apr 2021 06:29:58 GMT"}
+20210818220407 {"uri": "https://web.archive.org/web/20210818220407/https://www.alasu.edu/clas/social-work/department-social-work", "rel": "last memento", "datetime": "Wed, 18 Aug 2021 22:04:07 GMT"}

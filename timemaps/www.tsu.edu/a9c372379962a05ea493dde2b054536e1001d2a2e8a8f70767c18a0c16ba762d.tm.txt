@@ -1,0 +1,27 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/music/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsu.edu/academics/colleges-and-schools/colabs/music/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsu.edu/academics/colleges-and-schools/colabs/music/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsu.edu/academics/colleges-and-schools/colabs/music/index.html", "json_format": "http://localhost:1208/timemap/json/http://www.tsu.edu/academics/colleges-and-schools/colabs/music/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/music/index.html"}}
+20190322100304 {"uri": "https://web.archive.org/web/20190322100304/http://www.tsu.edu/academics/colleges-and-schools/colabs/music/index.html", "rel": "first memento", "datetime": "Fri, 22 Mar 2019 10:03:04 GMT"}
+20190323191047 {"uri": "https://web.archive.org/web/20190323191047/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Sat, 23 Mar 2019 19:10:47 GMT"}
+20190523093408 {"uri": "https://web.archive.org/web/20190523093408/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Thu, 23 May 2019 09:34:08 GMT"}
+20190723081641 {"uri": "https://web.archive.org/web/20190723081641/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Tue, 23 Jul 2019 08:16:41 GMT"}
+20190724113635 {"uri": "https://web.archive.org/web/20190724113635/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Wed, 24 Jul 2019 11:36:35 GMT"}
+20190923014748 {"uri": "https://web.archive.org/web/20190923014748/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Mon, 23 Sep 2019 01:47:48 GMT"}
+20191102130647 {"uri": "https://web.archive.org/web/20191102130647/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Sat, 02 Nov 2019 13:06:47 GMT"}
+20191128185821 {"uri": "https://web.archive.org/web/20191128185821/http://tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Thu, 28 Nov 2019 18:58:21 GMT"}
+20200105092040 {"uri": "https://web.archive.org/web/20200105092040/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Sun, 05 Jan 2020 09:20:40 GMT"}
+20200110092456 {"uri": "https://web.archive.org/web/20200110092456/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Fri, 10 Jan 2020 09:24:56 GMT"}
+20200127210910 {"uri": "https://web.archive.org/web/20200127210910/http://tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Mon, 27 Jan 2020 21:09:10 GMT"}
+20200209114202 {"uri": "https://web.archive.org/web/20200209114202/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Sun, 09 Feb 2020 11:42:02 GMT"}
+20200413121215 {"uri": "https://web.archive.org/web/20200413121215/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Mon, 13 Apr 2020 12:12:15 GMT"}
+20200612222346 {"uri": "https://web.archive.org/web/20200612222346/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 22:23:46 GMT"}
+20200807040818 {"uri": "https://web.archive.org/web/20200807040818/http://tsu.edu/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Fri, 07 Aug 2020 04:08:18 GMT"}
+20200812050140 {"uri": "https://web.archive.org/web/20200812050140/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Wed, 12 Aug 2020 05:01:40 GMT"}
+20200919095425 {"uri": "https://web.archive.org/web/20200919095425/http://www.tsu.edu/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Sat, 19 Sep 2020 09:54:25 GMT"}
+20201022181647 {"uri": "https://web.archive.org/web/20201022181647/http://tsu.edu/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Thu, 22 Oct 2020 18:16:47 GMT"}
+20210126130740 {"uri": "https://web.archive.org/web/20210126130740/http://www.tsu.edu/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Tue, 26 Jan 2021 13:07:40 GMT"}
+20210127070442 {"uri": "https://web.archive.org/web/20210127070442/http://tsu.edu/academics/colleges-and-schools/colabs/music/index.html", "rel": "memento", "datetime": "Wed, 27 Jan 2021 07:04:42 GMT"}
+20210421054311 {"uri": "https://web.archive.org/web/20210421054311/http://tsu.edu/academics/colleges-and-schools/colabs/music/index.html", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 05:43:11 GMT"}

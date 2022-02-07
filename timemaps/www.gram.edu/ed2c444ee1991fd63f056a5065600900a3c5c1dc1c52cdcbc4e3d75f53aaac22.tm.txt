@@ -1,0 +1,86 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/education/instruction/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.gram.edu/academics/majors/education/instruction/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.gram.edu/academics/majors/education/instruction/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.gram.edu/academics/majors/education/instruction/", "json_format": "http://localhost:1208/timemap/json/https://www.gram.edu/academics/majors/education/instruction/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.gram.edu/academics/majors/education/instruction/"}}
+20141013175316 {"uri": "https://web.archive.org/web/20141013175316/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "first memento", "datetime": "Mon, 13 Oct 2014 17:53:16 GMT"}
+20150113025422 {"uri": "https://web.archive.org/web/20150113025422/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Tue, 13 Jan 2015 02:54:22 GMT"}
+20150305072430 {"uri": "https://web.archive.org/web/20150305072430/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Thu, 05 Mar 2015 07:24:30 GMT"}
+20150305072430 {"uri": "https://web.archive.org/web/20150305072430/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Thu, 05 Mar 2015 07:24:30 GMT"}
+20150306075452 {"uri": "https://web.archive.org/web/20150306075452/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Fri, 06 Mar 2015 07:54:52 GMT"}
+20150306075452 {"uri": "https://web.archive.org/web/20150306075452/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Fri, 06 Mar 2015 07:54:52 GMT"}
+20150308120819 {"uri": "https://web.archive.org/web/20150308120819/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sun, 08 Mar 2015 12:08:19 GMT"}
+20150408021058 {"uri": "https://web.archive.org/web/20150408021058/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Wed, 08 Apr 2015 02:10:58 GMT"}
+20150408021058 {"uri": "https://web.archive.org/web/20150408021058/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Wed, 08 Apr 2015 02:10:58 GMT"}
+20150508004514 {"uri": "https://web.archive.org/web/20150508004514/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Fri, 08 May 2015 00:45:14 GMT"}
+20150509102125 {"uri": "https://web.archive.org/web/20150509102125/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 09 May 2015 10:21:25 GMT"}
+20150509102125 {"uri": "https://web.archive.org/web/20150509102125/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Sat, 09 May 2015 10:21:25 GMT"}
+20150512004742 {"uri": "https://web.archive.org/web/20150512004742/http://www.gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Tue, 12 May 2015 00:47:42 GMT"}
+20150609054507 {"uri": "https://web.archive.org/web/20150609054507/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Tue, 09 Jun 2015 05:45:07 GMT"}
+20150609054507 {"uri": "https://web.archive.org/web/20150609054507/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Tue, 09 Jun 2015 05:45:07 GMT"}
+20150710213927 {"uri": "https://web.archive.org/web/20150710213927/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Fri, 10 Jul 2015 21:39:27 GMT"}
+20150710213927 {"uri": "https://web.archive.org/web/20150710213927/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Fri, 10 Jul 2015 21:39:27 GMT"}
+20150723052718 {"uri": "https://web.archive.org/web/20150723052718/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Thu, 23 Jul 2015 05:27:18 GMT"}
+20150811103350 {"uri": "https://web.archive.org/web/20150811103350/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Tue, 11 Aug 2015 10:33:50 GMT"}
+20150811103350 {"uri": "https://web.archive.org/web/20150811103350/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Tue, 11 Aug 2015 10:33:50 GMT"}
+20150905084729 {"uri": "https://web.archive.org/web/20150905084729/http://www.gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 08:47:29 GMT"}
+20150913105922 {"uri": "https://web.archive.org/web/20150913105922/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sun, 13 Sep 2015 10:59:22 GMT"}
+20150913105922 {"uri": "https://web.archive.org/web/20150913105922/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Sun, 13 Sep 2015 10:59:22 GMT"}
+20151021011709 {"uri": "https://web.archive.org/web/20151021011709/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Wed, 21 Oct 2015 01:17:09 GMT"}
+20151021011709 {"uri": "https://web.archive.org/web/20151021011709/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Wed, 21 Oct 2015 01:17:09 GMT"}
+20151022070616 {"uri": "https://web.archive.org/web/20151022070616/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Thu, 22 Oct 2015 07:06:16 GMT"}
+20151120145628 {"uri": "https://web.archive.org/web/20151120145628/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Fri, 20 Nov 2015 14:56:28 GMT"}
+20151120145628 {"uri": "https://web.archive.org/web/20151120145628/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Fri, 20 Nov 2015 14:56:28 GMT"}
+20151221190826 {"uri": "https://web.archive.org/web/20151221190826/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Mon, 21 Dec 2015 19:08:26 GMT"}
+20160410062749 {"uri": "https://web.archive.org/web/20160410062749/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sun, 10 Apr 2016 06:27:49 GMT"}
+20160410062749 {"uri": "https://web.archive.org/web/20160410062749/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Sun, 10 Apr 2016 06:27:49 GMT"}
+20160427100518 {"uri": "https://web.archive.org/web/20160427100518/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Wed, 27 Apr 2016 10:05:18 GMT"}
+20160502215427 {"uri": "https://web.archive.org/web/20160502215427/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Mon, 02 May 2016 21:54:27 GMT"}
+20160702192758 {"uri": "https://web.archive.org/web/20160702192758/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 02 Jul 2016 19:27:58 GMT"}
+20160704002202 {"uri": "https://web.archive.org/web/20160704002202/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Mon, 04 Jul 2016 00:22:02 GMT"}
+20160903090159 {"uri": "https://web.archive.org/web/20160903090159/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 03 Sep 2016 09:01:59 GMT"}
+20170129073923 {"uri": "https://web.archive.org/web/20170129073923/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sun, 29 Jan 2017 07:39:23 GMT"}
+20170409163258 {"uri": "https://web.archive.org/web/20170409163258/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sun, 09 Apr 2017 16:32:58 GMT"}
+20170615035404 {"uri": "https://web.archive.org/web/20170615035404/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Thu, 15 Jun 2017 03:54:04 GMT"}
+20170616104823 {"uri": "https://web.archive.org/web/20170616104823/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Fri, 16 Jun 2017 10:48:23 GMT"}
+20170713024132 {"uri": "https://web.archive.org/web/20170713024132/http://www.gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Thu, 13 Jul 2017 02:41:32 GMT"}
+20180208125607 {"uri": "https://web.archive.org/web/20180208125607/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Thu, 08 Feb 2018 12:56:07 GMT"}
+20180914160815 {"uri": "https://web.archive.org/web/20180914160815/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Fri, 14 Sep 2018 16:08:15 GMT"}
+20181115072850 {"uri": "https://web.archive.org/web/20181115072850/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Thu, 15 Nov 2018 07:28:50 GMT"}
+20190115134631 {"uri": "https://web.archive.org/web/20190115134631/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Tue, 15 Jan 2019 13:46:31 GMT"}
+20190316210554 {"uri": "https://web.archive.org/web/20190316210554/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 16 Mar 2019 21:05:54 GMT"}
+20190316210554 {"uri": "https://web.archive.org/web/20190316210554/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Sat, 16 Mar 2019 21:05:54 GMT"}
+20190317220015 {"uri": "https://web.archive.org/web/20190317220015/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sun, 17 Mar 2019 22:00:15 GMT"}
+20190318235024 {"uri": "https://web.archive.org/web/20190318235024/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Mon, 18 Mar 2019 23:50:24 GMT"}
+20190416174249 {"uri": "https://web.archive.org/web/20190416174249/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Tue, 16 Apr 2019 17:42:49 GMT"}
+20190416174249 {"uri": "https://web.archive.org/web/20190416174249/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Tue, 16 Apr 2019 17:42:49 GMT"}
+20190517160031 {"uri": "https://web.archive.org/web/20190517160031/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Fri, 17 May 2019 16:00:31 GMT"}
+20190517160031 {"uri": "https://web.archive.org/web/20190517160031/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Fri, 17 May 2019 16:00:31 GMT"}
+20190520024355 {"uri": "https://web.archive.org/web/20190520024355/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Mon, 20 May 2019 02:43:55 GMT"}
+20190617223456 {"uri": "https://web.archive.org/web/20190617223456/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Mon, 17 Jun 2019 22:34:56 GMT"}
+20190617223456 {"uri": "https://web.archive.org/web/20190617223456/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Mon, 17 Jun 2019 22:34:56 GMT"}
+20190619035955 {"uri": "https://web.archive.org/web/20190619035955/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Wed, 19 Jun 2019 03:59:55 GMT"}
+20190619035955 {"uri": "https://web.archive.org/web/20190619035955/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Wed, 19 Jun 2019 03:59:55 GMT"}
+20190702064444 {"uri": "https://web.archive.org/web/20190702064444/http://www.gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Tue, 02 Jul 2019 06:44:44 GMT"}
+20190720111816 {"uri": "https://web.archive.org/web/20190720111816/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 20 Jul 2019 11:18:16 GMT"}
+20190720112446 {"uri": "https://web.archive.org/web/20190720112446/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 20 Jul 2019 11:24:46 GMT"}
+20190720112446 {"uri": "https://web.archive.org/web/20190720112446/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Sat, 20 Jul 2019 11:24:46 GMT"}
+20190820223109 {"uri": "https://web.archive.org/web/20190820223109/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Tue, 20 Aug 2019 22:31:09 GMT"}
+20190820223109 {"uri": "https://web.archive.org/web/20190820223109/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Tue, 20 Aug 2019 22:31:09 GMT"}
+20190919020201 {"uri": "https://web.archive.org/web/20190919020201/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Thu, 19 Sep 2019 02:02:01 GMT"}
+20190920230455 {"uri": "https://web.archive.org/web/20190920230455/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Fri, 20 Sep 2019 23:04:55 GMT"}
+20190920230455 {"uri": "https://web.archive.org/web/20190920230455/http://www.gram.edu:80/academics/majors/education/instruction", "rel": "memento", "datetime": "Fri, 20 Sep 2019 23:04:55 GMT"}
+20191019025504 {"uri": "https://web.archive.org/web/20191019025504/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 19 Oct 2019 02:55:04 GMT"}
+20191118102929 {"uri": "https://web.archive.org/web/20191118102929/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Mon, 18 Nov 2019 10:29:29 GMT"}
+20191218162914 {"uri": "https://web.archive.org/web/20191218162914/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Wed, 18 Dec 2019 16:29:14 GMT"}
+20200117214641 {"uri": "https://web.archive.org/web/20200117214641/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Fri, 17 Jan 2020 21:46:41 GMT"}
+20200217024601 {"uri": "https://web.archive.org/web/20200217024601/http://www.gram.edu:80/academics/majors/education/instruction/", "rel": "memento", "datetime": "Mon, 17 Feb 2020 02:46:01 GMT"}
+20200805111540 {"uri": "https://web.archive.org/web/20200805111540/https://gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Wed, 05 Aug 2020 11:15:40 GMT"}
+20200812083758 {"uri": "https://web.archive.org/web/20200812083758/https://www.gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Wed, 12 Aug 2020 08:37:58 GMT"}
+20201021223037 {"uri": "https://web.archive.org/web/20201021223037/https://gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Wed, 21 Oct 2020 22:30:37 GMT"}
+20201125185441 {"uri": "https://web.archive.org/web/20201125185441/https://www.gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Wed, 25 Nov 2020 18:54:41 GMT"}
+20210123085357 {"uri": "https://web.archive.org/web/20210123085357/https://gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 23 Jan 2021 08:53:57 GMT"}
+20210306224345 {"uri": "https://web.archive.org/web/20210306224345/https://www.gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 06 Mar 2021 22:43:45 GMT"}
+20210417235304 {"uri": "https://web.archive.org/web/20210417235304/https://www.gram.edu/academics/majors/education/instruction/", "rel": "memento", "datetime": "Sat, 17 Apr 2021 23:53:04 GMT"}
+20210513040949 {"uri": "https://web.archive.org/web/20210513040949/https://gram.edu/academics/majors/education/instruction/", "rel": "last memento", "datetime": "Thu, 13 May 2021 04:09:49 GMT"}

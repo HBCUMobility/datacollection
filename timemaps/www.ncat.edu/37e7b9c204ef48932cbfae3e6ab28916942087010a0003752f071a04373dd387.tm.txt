@@ -1,0 +1,19 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php"}}
+20201025085839 {"uri": "https://web.archive.org/web/20201025085839/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "first memento", "datetime": "Sun, 25 Oct 2020 08:58:39 GMT"}
+20201029051304 {"uri": "https://web.archive.org/web/20201029051304/https://ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:13:04 GMT"}
+20201210004735 {"uri": "https://web.archive.org/web/20201210004735/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Thu, 10 Dec 2020 00:47:35 GMT"}
+20210117000826 {"uri": "https://web.archive.org/web/20210117000826/https://ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Sun, 17 Jan 2021 00:08:26 GMT"}
+20210130013934 {"uri": "https://web.archive.org/web/20210130013934/https://ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Sat, 30 Jan 2021 01:39:34 GMT"}
+20210416201910 {"uri": "https://web.archive.org/web/20210416201910/https://ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 20:19:10 GMT"}
+20210419000451 {"uri": "https://web.archive.org/web/20210419000451/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 00:04:51 GMT"}
+20210811211743 {"uri": "https://web.archive.org/web/20210811211743/https://ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:17:43 GMT"}
+20210816224258 {"uri": "https://web.archive.org/web/20210816224258/https://ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 22:42:58 GMT"}
+20210817025640 {"uri": "https://web.archive.org/web/20210817025640/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 02:56:40 GMT"}
+20210817025756 {"uri": "https://web.archive.org/web/20210817025756/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 02:57:56 GMT"}
+20211117094903 {"uri": "https://web.archive.org/web/20211117094903/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:49:03 GMT"}
+20220107224544 {"uri": "https://web.archive.org/web/20220107224544/https://www.ncat.edu/cost/departments/computer-graphics-technology/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:45:44 GMT"}

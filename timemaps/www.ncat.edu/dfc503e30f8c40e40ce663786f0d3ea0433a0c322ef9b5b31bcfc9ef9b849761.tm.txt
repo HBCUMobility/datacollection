@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php"}}
+20200808001520 {"uri": "https://web.archive.org/web/20200808001520/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "rel": "first memento", "datetime": "Sat, 08 Aug 2020 00:15:20 GMT"}
+20201025080436 {"uri": "https://web.archive.org/web/20201025080436/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "rel": "memento", "datetime": "Sun, 25 Oct 2020 08:04:36 GMT"}
+20201029053011 {"uri": "https://web.archive.org/web/20201029053011/https://ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:30:11 GMT"}
+20210119083357 {"uri": "https://web.archive.org/web/20210119083357/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "rel": "memento", "datetime": "Tue, 19 Jan 2021 08:33:57 GMT"}
+20210209211200 {"uri": "https://web.archive.org/web/20210209211200/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "rel": "memento", "datetime": "Tue, 09 Feb 2021 21:12:00 GMT"}
+20210417044632 {"uri": "https://web.archive.org/web/20210417044632/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "rel": "memento", "datetime": "Sat, 17 Apr 2021 04:46:32 GMT"}
+20210418213636 {"uri": "https://web.archive.org/web/20210418213636/https://www.ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 21:36:36 GMT"}
+20210817211710 {"uri": "https://web.archive.org/web/20210817211710/https://ncat.edu/caes/departments/natural-resources-and-environmental-design/index.php", "rel": "last memento", "datetime": "Tue, 17 Aug 2021 21:17:10 GMT"}

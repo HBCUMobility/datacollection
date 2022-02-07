@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/eng-tech/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/cost/eng-tech/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/cost/eng-tech/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/cost/eng-tech/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/cost/eng-tech/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/eng-tech/index.shtml"}}
+20100421004817 {"uri": "https://web.archive.org/web/20100421004817/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "first memento", "datetime": "Wed, 21 Apr 2010 00:48:17 GMT"}
+20100528014353 {"uri": "https://web.archive.org/web/20100528014353/http://www.savannahstate.edu/cost/eng%2Dtech/index.shtml", "rel": "memento", "datetime": "Fri, 28 May 2010 01:43:53 GMT"}
+20110623070158 {"uri": "https://web.archive.org/web/20110623070158/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Thu, 23 Jun 2011 07:01:58 GMT"}
+20130505030359 {"uri": "https://web.archive.org/web/20130505030359/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Sun, 05 May 2013 03:03:59 GMT"}
+20130825044611 {"uri": "https://web.archive.org/web/20130825044611/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Sun, 25 Aug 2013 04:46:11 GMT"}
+20141006075635 {"uri": "https://web.archive.org/web/20141006075635/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Mon, 06 Oct 2014 07:56:35 GMT"}
+20150305095027 {"uri": "https://web.archive.org/web/20150305095027/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Thu, 05 Mar 2015 09:50:27 GMT"}
+20160428130006 {"uri": "https://web.archive.org/web/20160428130006/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Thu, 28 Apr 2016 13:00:06 GMT"}
+20160802223036 {"uri": "https://web.archive.org/web/20160802223036/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Tue, 02 Aug 2016 22:30:36 GMT"}
+20160803235053 {"uri": "https://web.archive.org/web/20160803235053/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Wed, 03 Aug 2016 23:50:53 GMT"}
+20161006001600 {"uri": "https://web.archive.org/web/20161006001600/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Thu, 06 Oct 2016 00:16:00 GMT"}
+20170524005732 {"uri": "https://web.archive.org/web/20170524005732/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Wed, 24 May 2017 00:57:32 GMT"}
+20170806020648 {"uri": "https://web.archive.org/web/20170806020648/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Sun, 06 Aug 2017 02:06:48 GMT"}
+20170906002808 {"uri": "https://web.archive.org/web/20170906002808/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Wed, 06 Sep 2017 00:28:08 GMT"}
+20171008070538 {"uri": "https://web.archive.org/web/20171008070538/http://www.savannahstate.edu:80/cost/eng-tech/index.shtml", "rel": "memento", "datetime": "Sun, 08 Oct 2017 07:05:38 GMT"}
+20210419224628 {"uri": "https://web.archive.org/web/20210419224628/https://www.savannahstate.edu/cost/eng-tech/index.shtml", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 22:46:28 GMT"}

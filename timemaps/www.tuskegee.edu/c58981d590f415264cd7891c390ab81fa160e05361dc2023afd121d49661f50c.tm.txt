@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering"}}
+20200812225922 {"uri": "https://web.archive.org/web/20200812225922/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering", "rel": "first memento", "datetime": "Wed, 12 Aug 2020 22:59:22 GMT"}
+20201029040125 {"uri": "https://web.archive.org/web/20201029040125/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering", "rel": "memento", "datetime": "Thu, 29 Oct 2020 04:01:25 GMT"}
+20210125030442 {"uri": "https://web.archive.org/web/20210125030442/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering", "rel": "memento", "datetime": "Mon, 25 Jan 2021 03:04:42 GMT"}
+20210410134934 {"uri": "https://web.archive.org/web/20210410134934/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering", "rel": "memento", "datetime": "Sat, 10 Apr 2021 13:49:34 GMT"}
+20210420063043 {"uri": "https://web.archive.org/web/20210420063043/https://www.tuskegee.edu/programs-courses/colleges-schools/coe/chemical-engineering", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 06:30:43 GMT"}

@@ -1,0 +1,44 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.coppin.edu/son"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.coppin.edu/son"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.coppin.edu/son"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.coppin.edu/son", "json_format": "http://localhost:1208/timemap/json/https://www.coppin.edu/son", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.coppin.edu/son"}}
+20131106135631 {"uri": "https://web.archive.org/web/20131106135631/http://www.coppin.edu:80/son", "rel": "first memento", "datetime": "Wed, 06 Nov 2013 13:56:31 GMT"}
+20131208022745 {"uri": "https://web.archive.org/web/20131208022745/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sun, 08 Dec 2013 02:27:45 GMT"}
+20131209113226 {"uri": "https://web.archive.org/web/20131209113226/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Mon, 09 Dec 2013 11:32:26 GMT"}
+20140110032012 {"uri": "https://web.archive.org/web/20140110032012/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Fri, 10 Jan 2014 03:20:12 GMT"}
+20140210122112 {"uri": "https://web.archive.org/web/20140210122112/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Mon, 10 Feb 2014 12:21:12 GMT"}
+20140830001140 {"uri": "https://web.archive.org/web/20140830001140/http://www.coppin.edu/son", "rel": "memento", "datetime": "Sat, 30 Aug 2014 00:11:40 GMT"}
+20141221103336 {"uri": "https://web.archive.org/web/20141221103336/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sun, 21 Dec 2014 10:33:36 GMT"}
+20150217130903 {"uri": "https://web.archive.org/web/20150217130903/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Tue, 17 Feb 2015 13:09:03 GMT"}
+20150320160309 {"uri": "https://web.archive.org/web/20150320160309/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Fri, 20 Mar 2015 16:03:09 GMT"}
+20150420051309 {"uri": "https://web.archive.org/web/20150420051309/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Mon, 20 Apr 2015 05:13:09 GMT"}
+20150511115923 {"uri": "https://web.archive.org/web/20150511115923/http://www.coppin.edu/son", "rel": "memento", "datetime": "Mon, 11 May 2015 11:59:23 GMT"}
+20150521011244 {"uri": "https://web.archive.org/web/20150521011244/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Thu, 21 May 2015 01:12:44 GMT"}
+20150622030433 {"uri": "https://web.archive.org/web/20150622030433/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Mon, 22 Jun 2015 03:04:33 GMT"}
+20150723105331 {"uri": "https://web.archive.org/web/20150723105331/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Thu, 23 Jul 2015 10:53:31 GMT"}
+20150827044657 {"uri": "https://web.archive.org/web/20150827044657/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Thu, 27 Aug 2015 04:46:57 GMT"}
+20150905093423 {"uri": "https://web.archive.org/web/20150905093423/http://www.coppin.edu/son", "rel": "memento", "datetime": "Sat, 05 Sep 2015 09:34:23 GMT"}
+20150930071018 {"uri": "https://web.archive.org/web/20150930071018/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Wed, 30 Sep 2015 07:10:18 GMT"}
+20151031070753 {"uri": "https://web.archive.org/web/20151031070753/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sat, 31 Oct 2015 07:07:53 GMT"}
+20151201070650 {"uri": "https://web.archive.org/web/20151201070650/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Tue, 01 Dec 2015 07:06:50 GMT"}
+20160124162259 {"uri": "https://web.archive.org/web/20160124162259/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sun, 24 Jan 2016 16:22:59 GMT"}
+20160224163603 {"uri": "https://web.archive.org/web/20160224163603/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Wed, 24 Feb 2016 16:36:03 GMT"}
+20160225182126 {"uri": "https://web.archive.org/web/20160225182126/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Thu, 25 Feb 2016 18:21:26 GMT"}
+20160326032402 {"uri": "https://web.archive.org/web/20160326032402/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sat, 26 Mar 2016 03:24:02 GMT"}
+20160409083537 {"uri": "https://web.archive.org/web/20160409083537/http://www.coppin.edu/son", "rel": "memento", "datetime": "Sat, 09 Apr 2016 08:35:37 GMT"}
+20160423171226 {"uri": "https://web.archive.org/web/20160423171226/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sat, 23 Apr 2016 17:12:26 GMT"}
+20160525024512 {"uri": "https://web.archive.org/web/20160525024512/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Wed, 25 May 2016 02:45:12 GMT"}
+20160625060724 {"uri": "https://web.archive.org/web/20160625060724/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sat, 25 Jun 2016 06:07:24 GMT"}
+20160726202133 {"uri": "https://web.archive.org/web/20160726202133/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Tue, 26 Jul 2016 20:21:33 GMT"}
+20160827055215 {"uri": "https://web.archive.org/web/20160827055215/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sat, 27 Aug 2016 05:52:15 GMT"}
+20160828095047 {"uri": "https://web.archive.org/web/20160828095047/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sun, 28 Aug 2016 09:50:47 GMT"}
+20160929033645 {"uri": "https://web.archive.org/web/20160929033645/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Thu, 29 Sep 2016 03:36:45 GMT"}
+20161030170407 {"uri": "https://web.archive.org/web/20161030170407/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Sun, 30 Oct 2016 17:04:07 GMT"}
+20170112044444 {"uri": "https://web.archive.org/web/20170112044444/http://www.coppin.edu:80/son", "rel": "memento", "datetime": "Thu, 12 Jan 2017 04:44:44 GMT"}
+20200814230148 {"uri": "https://web.archive.org/web/20200814230148/https://www.coppin.edu/son", "rel": "memento", "datetime": "Fri, 14 Aug 2020 23:01:48 GMT"}
+20201205182220 {"uri": "https://web.archive.org/web/20201205182220/https://www.coppin.edu/son", "rel": "memento", "datetime": "Sat, 05 Dec 2020 18:22:20 GMT"}
+20210301125849 {"uri": "https://web.archive.org/web/20210301125849/https://www.coppin.edu/son", "rel": "memento", "datetime": "Mon, 01 Mar 2021 12:58:49 GMT"}
+20211007183636 {"uri": "https://web.archive.org/web/20211007183636/https://www.coppin.edu/son", "rel": "memento", "datetime": "Thu, 07 Oct 2021 18:36:36 GMT"}
+20211008083253 {"uri": "https://web.archive.org/web/20211008083253/https://www.coppin.edu/son", "rel": "last memento", "datetime": "Fri, 08 Oct 2021 08:32:53 GMT"}

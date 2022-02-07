@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/departments/social-science/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/class/departments/social-science/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/class/departments/social-science/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/class/departments/social-science/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/class/departments/social-science/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/departments/social-science/index.shtml"}}
+20210121153657 {"uri": "https://web.archive.org/web/20210121153657/https://www.savannahstate.edu/class/departments/social-science/index.shtml", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 15:36:57 GMT"}
+20210612184340 {"uri": "https://web.archive.org/web/20210612184340/https://www.savannahstate.edu/class/departments/social-science/index.shtml", "rel": "last memento", "datetime": "Sat, 12 Jun 2021 18:43:40 GMT"}

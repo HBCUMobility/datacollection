@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/business/bs-business"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.nsu.edu/business/bs-business"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.nsu.edu/business/bs-business"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.nsu.edu/business/bs-business", "json_format": "http://localhost:1208/timemap/json/https://www.nsu.edu/business/bs-business", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nsu.edu/business/bs-business"}}
+20190618170028 {"uri": "https://web.archive.org/web/20190618170028/http://www.nsu.edu:80/business/bs-business", "rel": "first memento", "datetime": "Tue, 18 Jun 2019 17:00:28 GMT"}
+20190820024849 {"uri": "https://web.archive.org/web/20190820024849/http://www.nsu.edu:80/business/bs-business", "rel": "memento", "datetime": "Tue, 20 Aug 2019 02:48:49 GMT"}
+20191115190546 {"uri": "https://web.archive.org/web/20191115190546/http://www.nsu.edu:80/business/bs-business", "rel": "memento", "datetime": "Fri, 15 Nov 2019 19:05:46 GMT"}
+20200116133808 {"uri": "https://web.archive.org/web/20200116133808/http://www.nsu.edu:80/business/bs-business", "rel": "memento", "datetime": "Thu, 16 Jan 2020 13:38:08 GMT"}
+20200919062509 {"uri": "https://web.archive.org/web/20200919062509/http://www.nsu.edu/business/bs-business", "rel": "memento", "datetime": "Sat, 19 Sep 2020 06:25:09 GMT"}
+20200920211339 {"uri": "https://web.archive.org/web/20200920211339/https://www.nsu.edu/business/bs-business", "rel": "memento", "datetime": "Sun, 20 Sep 2020 21:13:39 GMT"}
+20201126105204 {"uri": "https://web.archive.org/web/20201126105204/https://www.nsu.edu/business/bs-business", "rel": "memento", "datetime": "Thu, 26 Nov 2020 10:52:04 GMT"}
+20201205185251 {"uri": "https://web.archive.org/web/20201205185251/http://www.nsu.edu/business/bs-business", "rel": "memento", "datetime": "Sat, 05 Dec 2020 18:52:51 GMT"}
+20210226130820 {"uri": "https://web.archive.org/web/20210226130820/http://www.nsu.edu/business/bs-business", "rel": "memento", "datetime": "Fri, 26 Feb 2021 13:08:20 GMT"}
+20210305014450 {"uri": "https://web.archive.org/web/20210305014450/https://www.nsu.edu/business/bs-business", "rel": "last memento", "datetime": "Fri, 05 Mar 2021 01:44:50 GMT"}

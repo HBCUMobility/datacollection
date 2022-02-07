@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc"}}
+20201026130047 {"uri": "https://web.archive.org/web/20201026130047/https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc", "rel": "first memento", "datetime": "Mon, 26 Oct 2020 13:00:47 GMT"}
+20210414120737 {"uri": "https://web.archive.org/web/20210414120737/https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc", "rel": "memento", "datetime": "Wed, 14 Apr 2021 12:07:37 GMT"}
+20210415043036 {"uri": "https://web.archive.org/web/20210415043036/https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc", "rel": "memento", "datetime": "Thu, 15 Apr 2021 04:30:36 GMT"}
+20210417065202 {"uri": "https://web.archive.org/web/20210417065202/https://www.alasu.edu/airforcerotc/department-aerospace-studies-air-force-rotc", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 06:52:02 GMT"}

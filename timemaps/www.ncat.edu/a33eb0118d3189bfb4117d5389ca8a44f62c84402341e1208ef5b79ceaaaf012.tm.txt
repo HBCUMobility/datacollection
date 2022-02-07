@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php"}}
+20200903095558 {"uri": "https://web.archive.org/web/20200903095558/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 09:55:58 GMT"}
+20200922205728 {"uri": "https://web.archive.org/web/20200922205728/https://ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:57:28 GMT"}
+20200925111106 {"uri": "https://web.archive.org/web/20200925111106/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 11:11:06 GMT"}
+20201128022803 {"uri": "https://web.archive.org/web/20201128022803/https://ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:28:03 GMT"}
+20201205000136 {"uri": "https://web.archive.org/web/20201205000136/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Sat, 05 Dec 2020 00:01:36 GMT"}
+20210117000804 {"uri": "https://web.archive.org/web/20210117000804/https://ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Sun, 17 Jan 2021 00:08:04 GMT"}
+20210130120348 {"uri": "https://web.archive.org/web/20210130120348/https://ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Sat, 30 Jan 2021 12:03:48 GMT"}
+20210416201824 {"uri": "https://web.archive.org/web/20210416201824/https://ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 20:18:24 GMT"}
+20210419020512 {"uri": "https://web.archive.org/web/20210419020512/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Mon, 19 Apr 2021 02:05:12 GMT"}
+20210811211753 {"uri": "https://web.archive.org/web/20210811211753/https://ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:17:53 GMT"}
+20210814155738 {"uri": "https://web.archive.org/web/20210814155738/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Sat, 14 Aug 2021 15:57:38 GMT"}
+20210817164202 {"uri": "https://web.archive.org/web/20210817164202/https://ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 16:42:02 GMT"}
+20210817164219 {"uri": "https://web.archive.org/web/20210817164219/https://ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 16:42:19 GMT"}
+20210817164309 {"uri": "https://web.archive.org/web/20210817164309/https://ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 16:43:09 GMT"}
+20211117094858 {"uri": "https://web.archive.org/web/20211117094858/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:48:58 GMT"}
+20220107222031 {"uri": "https://web.archive.org/web/20220107222031/https://www.ncat.edu/cobe/academic-departments/accounting-and-finance/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:20:31 GMT"}

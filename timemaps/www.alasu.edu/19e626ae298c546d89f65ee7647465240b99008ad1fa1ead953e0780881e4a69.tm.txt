@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/universitycollege/university-college"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/universitycollege/university-college"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/universitycollege/university-college"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/universitycollege/university-college", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/universitycollege/university-college", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/universitycollege/university-college"}}
+20181112214851 {"uri": "https://web.archive.org/web/20181112214851/http://www.alasu.edu:80/universitycollege/university-college", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:48:51 GMT"}
+20201026135144 {"uri": "https://web.archive.org/web/20201026135144/https://www.alasu.edu/universitycollege/university-college", "rel": "memento", "datetime": "Mon, 26 Oct 2020 13:51:44 GMT"}
+20210417034528 {"uri": "https://web.archive.org/web/20210417034528/https://www.alasu.edu/universitycollege/university-college", "rel": "memento", "datetime": "Sat, 17 Apr 2021 03:45:28 GMT"}
+20210509045802 {"uri": "https://web.archive.org/web/20210509045802/https://www.alasu.edu/universitycollege/university-college", "rel": "last memento", "datetime": "Sun, 09 May 2021 04:58:02 GMT"}

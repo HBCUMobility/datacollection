@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/seas/electrical-and-computer-engineering/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/seas/electrical-and-computer-engineering/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/seas/electrical-and-computer-engineering/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/seas/electrical-and-computer-engineering/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/seas/electrical-and-computer-engineering/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/seas/electrical-and-computer-engineering/"}}
+20200921194051 {"uri": "https://web.archive.org/web/20200921194051/https://www.udc.edu/seas/electrical-and-computer-engineering/", "rel": "first memento", "datetime": "Mon, 21 Sep 2020 19:40:51 GMT"}
+20201028054949 {"uri": "https://web.archive.org/web/20201028054949/https://www.udc.edu/seas/electrical-and-computer-engineering/", "rel": "memento", "datetime": "Wed, 28 Oct 2020 05:49:49 GMT"}
+20210120203703 {"uri": "https://web.archive.org/web/20210120203703/https://www.udc.edu/seas/electrical-and-computer-engineering/", "rel": "memento", "datetime": "Wed, 20 Jan 2021 20:37:03 GMT"}
+20210419002833 {"uri": "https://web.archive.org/web/20210419002833/https://www.udc.edu/seas/electrical-and-computer-engineering/", "rel": "memento", "datetime": "Mon, 19 Apr 2021 00:28:33 GMT"}
+20210518232520 {"uri": "https://web.archive.org/web/20210518232520/https://www.udc.edu/seas/electrical-and-computer-engineering/", "rel": "last memento", "datetime": "Tue, 18 May 2021 23:25:20 GMT"}

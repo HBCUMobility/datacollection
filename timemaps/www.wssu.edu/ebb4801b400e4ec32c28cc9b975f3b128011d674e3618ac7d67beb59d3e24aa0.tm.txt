@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html"}}
+20190125111848 {"uri": "https://web.archive.org/web/20190125111848/https://wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html", "rel": "first memento", "datetime": "Fri, 25 Jan 2019 11:18:48 GMT"}
+20200513233437 {"uri": "https://web.archive.org/web/20200513233437/https://wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html", "rel": "memento", "datetime": "Wed, 13 May 2020 23:34:37 GMT"}
+20200803175819 {"uri": "https://web.archive.org/web/20200803175819/https://wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html", "rel": "memento", "datetime": "Mon, 03 Aug 2020 17:58:19 GMT"}
+20200919060928 {"uri": "https://web.archive.org/web/20200919060928/https://wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html", "rel": "memento", "datetime": "Sat, 19 Sep 2020 06:09:28 GMT"}
+20210119154207 {"uri": "https://web.archive.org/web/20210119154207/https://wssu.edu/academics/colleges-and-departments/school-of-health-sciences/index.html", "rel": "last memento", "datetime": "Tue, 19 Jan 2021 15:42:07 GMT"}

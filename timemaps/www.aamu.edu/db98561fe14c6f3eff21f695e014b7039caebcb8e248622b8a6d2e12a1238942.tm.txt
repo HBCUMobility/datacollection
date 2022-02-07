@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/social-sciences/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.aamu.edu/academics/colleges/business-public-affairs/departments/social-sciences/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/social-sciences/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/social-sciences/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/social-sciences/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/social-sciences/index.html"}}
+20190324150406 {"uri": "https://web.archive.org/web/20190324150406/http://www.aamu.edu:80/academics/colleges/business-public-affairs/departments/social-sciences/index.html", "rel": "first memento", "datetime": "Sun, 24 Mar 2019 15:04:06 GMT"}
+20190524161954 {"uri": "https://web.archive.org/web/20190524161954/http://www.aamu.edu:80/academics/colleges/business-public-affairs/departments/social-sciences/index.html", "rel": "memento", "datetime": "Fri, 24 May 2019 16:19:54 GMT"}
+20190724180132 {"uri": "https://web.archive.org/web/20190724180132/http://www.aamu.edu:80/academics/colleges/business-public-affairs/departments/social-sciences/index.html", "rel": "memento", "datetime": "Wed, 24 Jul 2019 18:01:32 GMT"}
+20210211154218 {"uri": "https://web.archive.org/web/20210211154218/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/social-sciences/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 15:42:18 GMT"}
+20210211154219 {"uri": "https://web.archive.org/web/20210211154219/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/social-sciences/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 15:42:19 GMT"}
+20210211154220 {"uri": "https://web.archive.org/web/20210211154220/https://www.aamu.edu/academics/colleges/business-public-affairs/departments/social-sciences/index.html", "rel": "last memento", "datetime": "Thu, 11 Feb 2021 15:42:20 GMT"}

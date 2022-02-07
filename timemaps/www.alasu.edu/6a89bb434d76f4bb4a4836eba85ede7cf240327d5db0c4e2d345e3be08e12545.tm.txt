@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/regional-education-inservice-center"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/coe/regional-education-inservice-center"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/coe/regional-education-inservice-center"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/coe/regional-education-inservice-center", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/coe/regional-education-inservice-center", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/regional-education-inservice-center"}}
+20201026132528 {"uri": "https://web.archive.org/web/20201026132528/https://www.alasu.edu/coe/regional-education-inservice-center", "rel": "first memento", "datetime": "Mon, 26 Oct 2020 13:25:28 GMT"}
+20210417034524 {"uri": "https://web.archive.org/web/20210417034524/https://www.alasu.edu/coe/regional-education-inservice-center", "rel": "memento", "datetime": "Sat, 17 Apr 2021 03:45:24 GMT"}
+20211020135555 {"uri": "https://web.archive.org/web/20211020135555/https://www.alasu.edu/coe/regional-education-inservice-center", "rel": "last memento", "datetime": "Wed, 20 Oct 2021 13:55:55 GMT"}

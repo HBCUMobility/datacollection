@@ -1,0 +1,6 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://scsu.edu/academics/department-of-visual-performing-arts/https://www.coppin.edu/son"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://scsu.edu/academics/department-of-visual-performing-arts/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://scsu.edu/academics/department-of-visual-performing-arts/"}
+!meta {"note": "This TimeMap was fabricated for a URI-R with no mementos"}

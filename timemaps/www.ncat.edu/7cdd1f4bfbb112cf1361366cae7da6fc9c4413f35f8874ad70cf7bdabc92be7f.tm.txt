@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/chemistry/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cost/departments/chemistry/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cost/departments/chemistry/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cost/departments/chemistry/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cost/departments/chemistry/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/chemistry/index.php"}}
+20200903072725 {"uri": "https://web.archive.org/web/20200903072725/https://www.ncat.edu/cost/departments/chemistry/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 07:27:25 GMT"}
+20200922204312 {"uri": "https://web.archive.org/web/20200922204312/https://ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:43:12 GMT"}
+20200925111233 {"uri": "https://web.archive.org/web/20200925111233/https://www.ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Fri, 25 Sep 2020 11:12:33 GMT"}
+20201128021530 {"uri": "https://web.archive.org/web/20201128021530/https://ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:15:30 GMT"}
+20201205000311 {"uri": "https://web.archive.org/web/20201205000311/https://www.ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Sat, 05 Dec 2020 00:03:11 GMT"}
+20210129230410 {"uri": "https://web.archive.org/web/20210129230410/https://ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Fri, 29 Jan 2021 23:04:10 GMT"}
+20210302073721 {"uri": "https://web.archive.org/web/20210302073721/https://ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 07:37:21 GMT"}
+20210418214051 {"uri": "https://web.archive.org/web/20210418214051/https://www.ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 21:40:51 GMT"}
+20210518013550 {"uri": "https://web.archive.org/web/20210518013550/https://ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 01:35:50 GMT"}
+20210812002719 {"uri": "https://web.archive.org/web/20210812002719/https://ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Thu, 12 Aug 2021 00:27:19 GMT"}
+20210814140002 {"uri": "https://web.archive.org/web/20210814140002/https://www.ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Sat, 14 Aug 2021 14:00:02 GMT"}
+20210816133321 {"uri": "https://web.archive.org/web/20210816133321/https://ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 13:33:21 GMT"}
+20211117094720 {"uri": "https://web.archive.org/web/20211117094720/https://www.ncat.edu/cost/departments/chemistry/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:47:20 GMT"}
+20220107222027 {"uri": "https://web.archive.org/web/20220107222027/https://www.ncat.edu/cost/departments/chemistry/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:20:27 GMT"}

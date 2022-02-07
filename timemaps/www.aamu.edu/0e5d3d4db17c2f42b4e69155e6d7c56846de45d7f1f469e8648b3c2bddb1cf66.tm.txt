@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.aamu.edu/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.aamu.edu/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.aamu.edu/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.aamu.edu/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.aamu.edu/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.aamu.edu/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html"}}
+20190403020157 {"uri": "https://web.archive.org/web/20190403020157/http://www.aamu.edu:80/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html", "rel": "first memento", "datetime": "Wed, 03 Apr 2019 02:01:57 GMT"}
+20190603221619 {"uri": "https://web.archive.org/web/20190603221619/http://www.aamu.edu:80/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html", "rel": "memento", "datetime": "Mon, 03 Jun 2019 22:16:19 GMT"}
+20190804222801 {"uri": "https://web.archive.org/web/20190804222801/http://www.aamu.edu:80/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html", "rel": "memento", "datetime": "Sun, 04 Aug 2019 22:28:01 GMT"}
+20210211142704 {"uri": "https://web.archive.org/web/20210211142704/https://www.aamu.edu/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 14:27:04 GMT"}
+20210211142706 {"uri": "https://web.archive.org/web/20210211142706/https://www.aamu.edu/academics/colleges/agricultural-life-natural-sciences/departments/military-sciences/index.html", "rel": "last memento", "datetime": "Thu, 11 Feb 2021 14:27:06 GMT"}

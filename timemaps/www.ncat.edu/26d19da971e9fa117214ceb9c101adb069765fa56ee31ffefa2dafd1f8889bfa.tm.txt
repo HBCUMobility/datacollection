@@ -1,0 +1,20 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cobe/academic-departments/bisa/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cobe/academic-departments/bisa/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cobe/academic-departments/bisa/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cobe/academic-departments/bisa/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cobe/academic-departments/bisa/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cobe/academic-departments/bisa/index.php"}}
+20200808004800 {"uri": "https://web.archive.org/web/20200808004800/https://www.ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "first memento", "datetime": "Sat, 08 Aug 2020 00:48:00 GMT"}
+20200903080522 {"uri": "https://web.archive.org/web/20200903080522/https://www.ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Thu, 03 Sep 2020 08:05:22 GMT"}
+20200922204117 {"uri": "https://web.archive.org/web/20200922204117/https://ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 20:41:17 GMT"}
+20201025084949 {"uri": "https://web.archive.org/web/20201025084949/https://www.ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Sun, 25 Oct 2020 08:49:49 GMT"}
+20201128021406 {"uri": "https://web.archive.org/web/20201128021406/https://ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:14:06 GMT"}
+20210130014721 {"uri": "https://web.archive.org/web/20210130014721/https://ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Sat, 30 Jan 2021 01:47:21 GMT"}
+20210302073516 {"uri": "https://web.archive.org/web/20210302073516/https://ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Tue, 02 Mar 2021 07:35:16 GMT"}
+20210418234147 {"uri": "https://web.archive.org/web/20210418234147/https://www.ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 23:41:47 GMT"}
+20210518013105 {"uri": "https://web.archive.org/web/20210518013105/https://ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 01:31:05 GMT"}
+20210811211738 {"uri": "https://web.archive.org/web/20210811211738/https://ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:17:38 GMT"}
+20210816232711 {"uri": "https://web.archive.org/web/20210816232711/https://www.ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 23:27:11 GMT"}
+20210817155619 {"uri": "https://web.archive.org/web/20210817155619/https://ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 15:56:19 GMT"}
+20211117094814 {"uri": "https://web.archive.org/web/20211117094814/https://www.ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:48:14 GMT"}
+20220107233131 {"uri": "https://web.archive.org/web/20220107233131/https://www.ncat.edu/cobe/academic-departments/bisa/index.php", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 23:31:31 GMT"}

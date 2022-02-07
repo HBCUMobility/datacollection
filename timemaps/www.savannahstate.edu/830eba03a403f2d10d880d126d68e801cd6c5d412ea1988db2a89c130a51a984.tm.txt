@@ -1,0 +1,33 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/class/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/class/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/class/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/class/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/index.shtml"}}
+20100527161827 {"uri": "https://web.archive.org/web/20100527161827/http://www.savannahstate.edu/class/index.shtml", "rel": "first memento", "datetime": "Thu, 27 May 2010 16:18:27 GMT"}
+20101129214933 {"uri": "https://web.archive.org/web/20101129214933/http://savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Mon, 29 Nov 2010 21:49:33 GMT"}
+20151015042820 {"uri": "https://web.archive.org/web/20151015042820/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Thu, 15 Oct 2015 04:28:20 GMT"}
+20160101140300 {"uri": "https://web.archive.org/web/20160101140300/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Fri, 01 Jan 2016 14:03:00 GMT"}
+20160314084939 {"uri": "https://web.archive.org/web/20160314084939/http://savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Mon, 14 Mar 2016 08:49:39 GMT"}
+20160404000208 {"uri": "https://web.archive.org/web/20160404000208/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Mon, 04 Apr 2016 00:02:08 GMT"}
+20160411052236 {"uri": "https://web.archive.org/web/20160411052236/http://www.savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Mon, 11 Apr 2016 05:22:36 GMT"}
+20160604134445 {"uri": "https://web.archive.org/web/20160604134445/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Sat, 04 Jun 2016 13:44:45 GMT"}
+20160805130317 {"uri": "https://web.archive.org/web/20160805130317/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Fri, 05 Aug 2016 13:03:17 GMT"}
+20161006212954 {"uri": "https://web.archive.org/web/20161006212954/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Thu, 06 Oct 2016 21:29:54 GMT"}
+20161008021941 {"uri": "https://web.archive.org/web/20161008021941/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Sat, 08 Oct 2016 02:19:41 GMT"}
+20170425015324 {"uri": "https://web.archive.org/web/20170425015324/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Tue, 25 Apr 2017 01:53:24 GMT"}
+20170604083007 {"uri": "https://web.archive.org/web/20170604083007/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Sun, 04 Jun 2017 08:30:07 GMT"}
+20170704231647 {"uri": "https://web.archive.org/web/20170704231647/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Tue, 04 Jul 2017 23:16:47 GMT"}
+20170705010944 {"uri": "https://web.archive.org/web/20170705010944/http://www.savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Wed, 05 Jul 2017 01:09:44 GMT"}
+20170804195438 {"uri": "https://web.archive.org/web/20170804195438/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Fri, 04 Aug 2017 19:54:38 GMT"}
+20170906002758 {"uri": "https://web.archive.org/web/20170906002758/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Wed, 06 Sep 2017 00:27:58 GMT"}
+20171008065354 {"uri": "https://web.archive.org/web/20171008065354/http://www.savannahstate.edu:80/class/index.shtml", "rel": "memento", "datetime": "Sun, 08 Oct 2017 06:53:54 GMT"}
+20210414071150 {"uri": "https://web.archive.org/web/20210414071150/https://savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Wed, 14 Apr 2021 07:11:50 GMT"}
+20210414111705 {"uri": "https://web.archive.org/web/20210414111705/http://www.savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Wed, 14 Apr 2021 11:17:05 GMT"}
+20210414113305 {"uri": "https://web.archive.org/web/20210414113305/https://www.savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Wed, 14 Apr 2021 11:33:05 GMT"}
+20210419190302 {"uri": "https://web.archive.org/web/20210419190302/https://www.savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Mon, 19 Apr 2021 19:03:02 GMT"}
+20210419234219 {"uri": "https://web.archive.org/web/20210419234219/https://www.savannahstate.edu//class/index.shtml", "rel": "memento", "datetime": "Mon, 19 Apr 2021 23:42:19 GMT"}
+20210427103802 {"uri": "https://web.archive.org/web/20210427103802/http://www.savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Tue, 27 Apr 2021 10:38:02 GMT"}
+20210429064854 {"uri": "https://web.archive.org/web/20210429064854/https://www.savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Thu, 29 Apr 2021 06:48:54 GMT"}
+20210429153550 {"uri": "https://web.archive.org/web/20210429153550/http://www.savannahstate.edu/class/index.shtml", "rel": "memento", "datetime": "Thu, 29 Apr 2021 15:35:50 GMT"}
+20220108021317 {"uri": "https://web.archive.org/web/20220108021317/https://www.savannahstate.edu/class/index.shtml", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 02:13:17 GMT"}

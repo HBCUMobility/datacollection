@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics"}}
+20200813003624 {"uri": "https://web.archive.org/web/20200813003624/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics", "rel": "first memento", "datetime": "Thu, 13 Aug 2020 00:36:24 GMT"}
+20201021020358 {"uri": "https://web.archive.org/web/20201021020358/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics", "rel": "memento", "datetime": "Wed, 21 Oct 2020 02:03:58 GMT"}
+20201029055807 {"uri": "https://web.archive.org/web/20201029055807/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics", "rel": "memento", "datetime": "Thu, 29 Oct 2020 05:58:07 GMT"}
+20210125050853 {"uri": "https://web.archive.org/web/20210125050853/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics", "rel": "memento", "datetime": "Mon, 25 Jan 2021 05:08:53 GMT"}
+20210410151201 {"uri": "https://web.archive.org/web/20210410151201/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics", "rel": "memento", "datetime": "Sat, 10 Apr 2021 15:12:01 GMT"}
+20210424183204 {"uri": "https://web.archive.org/web/20210424183204/https://www.tuskegee.edu/programs-courses/colleges-schools/cas/department-of-mathematics", "rel": "last memento", "datetime": "Sat, 24 Apr 2021 18:32:04 GMT"}

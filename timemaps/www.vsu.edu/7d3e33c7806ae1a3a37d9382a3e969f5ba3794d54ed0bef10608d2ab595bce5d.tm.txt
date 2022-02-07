@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/leadership/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/education/departments/leadership/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/education/departments/leadership/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/education/departments/leadership/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/education/departments/leadership/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/leadership/index.php"}}
+20210121220029 {"uri": "https://web.archive.org/web/20210121220029/https://www.vsu.edu/education/departments/leadership/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 22:00:29 GMT"}
+20210413135009 {"uri": "https://web.archive.org/web/20210413135009/https://www.vsu.edu/education/departments/leadership/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 13:50:09 GMT"}
+20210614000219 {"uri": "https://web.archive.org/web/20210614000219/https://www.vsu.edu/education/departments/leadership/index.php", "rel": "memento", "datetime": "Mon, 14 Jun 2021 00:02:19 GMT"}
+20211217113014 {"uri": "https://web.archive.org/web/20211217113014/https://www.vsu.edu/education/departments/leadership/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:30:14 GMT"}

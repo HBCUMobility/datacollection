@@ -1,0 +1,30 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/seus/tepd"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.morgan.edu/seus/tepd"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.morgan.edu/seus/tepd"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.morgan.edu/seus/tepd", "json_format": "http://localhost:1208/timemap/json/https://www.morgan.edu/seus/tepd", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.morgan.edu/seus/tepd"}}
+20171103191854 {"uri": "https://web.archive.org/web/20171103191854/http://morgan.edu:80/seus/tepd", "rel": "first memento", "datetime": "Fri, 03 Nov 2017 19:18:54 GMT"}
+20171106043823 {"uri": "https://web.archive.org/web/20171106043823/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Mon, 06 Nov 2017 04:38:23 GMT"}
+20171112004735 {"uri": "https://web.archive.org/web/20171112004735/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Sun, 12 Nov 2017 00:47:35 GMT"}
+20171207092608 {"uri": "https://web.archive.org/web/20171207092608/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Thu, 07 Dec 2017 09:26:08 GMT"}
+20180112094042 {"uri": "https://web.archive.org/web/20180112094042/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Fri, 12 Jan 2018 09:40:42 GMT"}
+20180116143325 {"uri": "https://web.archive.org/web/20180116143325/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Tue, 16 Jan 2018 14:33:25 GMT"}
+20180214111500 {"uri": "https://web.archive.org/web/20180214111500/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Wed, 14 Feb 2018 11:15:00 GMT"}
+20180215160614 {"uri": "https://web.archive.org/web/20180215160614/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Thu, 15 Feb 2018 16:06:14 GMT"}
+20180319055052 {"uri": "https://web.archive.org/web/20180319055052/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Mon, 19 Mar 2018 05:50:52 GMT"}
+20180319072045 {"uri": "https://web.archive.org/web/20180319072045/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Mon, 19 Mar 2018 07:20:45 GMT"}
+20180320033509 {"uri": "https://web.archive.org/web/20180320033509/http://www.morgan.edu:80/seus/tepd", "rel": "memento", "datetime": "Tue, 20 Mar 2018 03:35:09 GMT"}
+20200812154220 {"uri": "https://web.archive.org/web/20200812154220/https://morgan.edu/seus/tepd", "rel": "memento", "datetime": "Wed, 12 Aug 2020 15:42:20 GMT"}
+20200814085334 {"uri": "https://web.archive.org/web/20200814085334/https://www.morgan.edu/seus/tepd", "rel": "memento", "datetime": "Fri, 14 Aug 2020 08:53:34 GMT"}
+20200814111148 {"uri": "https://web.archive.org/web/20200814111148/https://www.morgan.edu/seus/tepd", "rel": "memento", "datetime": "Fri, 14 Aug 2020 11:11:48 GMT"}
+20200919104227 {"uri": "https://web.archive.org/web/20200919104227/https://www.morgan.edu/seus/tepd", "rel": "memento", "datetime": "Sat, 19 Sep 2020 10:42:27 GMT"}
+20201028180353 {"uri": "https://web.archive.org/web/20201028180353/https://morgan.edu/seus/tepd", "rel": "memento", "datetime": "Wed, 28 Oct 2020 18:03:53 GMT"}
+20210125110023 {"uri": "https://web.archive.org/web/20210125110023/https://www.morgan.edu/seus/tepd", "rel": "memento", "datetime": "Mon, 25 Jan 2021 11:00:23 GMT"}
+20210126002658 {"uri": "https://web.archive.org/web/20210126002658/https://morgan.edu/seus/tepd", "rel": "memento", "datetime": "Tue, 26 Jan 2021 00:26:58 GMT"}
+20210301045900 {"uri": "https://web.archive.org/web/20210301045900/https://www.morgan.edu/seus/tepd", "rel": "memento", "datetime": "Mon, 01 Mar 2021 04:59:00 GMT"}
+20210414031607 {"uri": "https://web.archive.org/web/20210414031607/https://morgan.edu/seus/tepd", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:16:07 GMT"}
+20210418152550 {"uri": "https://web.archive.org/web/20210418152550/https://morgan.edu/seus/tepd", "rel": "memento", "datetime": "Sun, 18 Apr 2021 15:25:50 GMT"}
+20210511005732 {"uri": "https://web.archive.org/web/20210511005732/https://www.morgan.edu/seus/tepd", "rel": "memento", "datetime": "Tue, 11 May 2021 00:57:32 GMT"}
+20210814155434 {"uri": "https://web.archive.org/web/20210814155434/https://morgan.edu/seus/tepd", "rel": "memento", "datetime": "Sat, 14 Aug 2021 15:54:34 GMT"}
+20220122153656 {"uri": "https://web.archive.org/web/20220122153656/https://www.morgan.edu/seus/tepd", "rel": "last memento", "datetime": "Sat, 22 Jan 2022 15:36:56 GMT"}

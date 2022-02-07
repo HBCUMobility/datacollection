@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "json_format": "http://localhost:1208/timemap/json/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/"}}
+20200922202617 {"uri": "https://web.archive.org/web/20200922202617/https://bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "rel": "first memento", "datetime": "Tue, 22 Sep 2020 20:26:17 GMT"}
+20201030064520 {"uri": "https://web.archive.org/web/20201030064520/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "rel": "memento", "datetime": "Fri, 30 Oct 2020 06:45:20 GMT"}
+20210126075201 {"uri": "https://web.archive.org/web/20210126075201/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "rel": "memento", "datetime": "Tue, 26 Jan 2021 07:52:01 GMT"}
+20210610141631 {"uri": "https://web.archive.org/web/20210610141631/https://bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "rel": "memento", "datetime": "Thu, 10 Jun 2021 14:16:31 GMT"}
+20210812133533 {"uri": "https://web.archive.org/web/20210812133533/https://bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "rel": "memento", "datetime": "Thu, 12 Aug 2021 13:35:33 GMT"}
+20210813011321 {"uri": "https://web.archive.org/web/20210813011321/https://bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "rel": "memento", "datetime": "Fri, 13 Aug 2021 01:13:21 GMT"}
+20210815075433 {"uri": "https://web.archive.org/web/20210815075433/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "rel": "memento", "datetime": "Sun, 15 Aug 2021 07:54:33 GMT"}
+20211102125609 {"uri": "https://web.archive.org/web/20211102125609/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/social-work/", "rel": "last memento", "datetime": "Tue, 02 Nov 2021 12:56:09 GMT"}

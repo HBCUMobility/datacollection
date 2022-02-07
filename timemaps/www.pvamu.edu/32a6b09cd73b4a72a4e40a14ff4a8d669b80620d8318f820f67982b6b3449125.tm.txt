@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/chemistry/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.pvamu.edu/bcas/departments/chemistry/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.pvamu.edu/bcas/departments/chemistry/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.pvamu.edu/bcas/departments/chemistry/", "json_format": "http://localhost:1208/timemap/json/https://www.pvamu.edu/bcas/departments/chemistry/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/chemistry/"}}
+20150705164218 {"uri": "https://web.archive.org/web/20150705164218/http://www.pvamu.edu:80/bcas/departments/chemistry/", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 16:42:18 GMT"}
+20150905130527 {"uri": "https://web.archive.org/web/20150905130527/http://www.pvamu.edu/bcas/departments/chemistry/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 13:05:27 GMT"}
+20151025192613 {"uri": "https://web.archive.org/web/20151025192613/https://www.pvamu.edu/bcas/departments/chemistry/", "rel": "memento", "datetime": "Sun, 25 Oct 2015 19:26:13 GMT"}
+20171006052307 {"uri": "https://web.archive.org/web/20171006052307/http://www.pvamu.edu/bcas/departments/chemistry/", "rel": "memento", "datetime": "Fri, 06 Oct 2017 05:23:07 GMT"}
+20190402183007 {"uri": "https://web.archive.org/web/20190402183007/http://www.pvamu.edu/bcas/departments/chemistry/", "rel": "memento", "datetime": "Tue, 02 Apr 2019 18:30:07 GMT"}
+20200809095022 {"uri": "https://web.archive.org/web/20200809095022/https://www.pvamu.edu/bcas/departments/chemistry/", "rel": "memento", "datetime": "Sun, 09 Aug 2020 09:50:22 GMT"}
+20200815203722 {"uri": "https://web.archive.org/web/20200815203722/https://www.pvamu.edu/bcas/departments/chemistry/", "rel": "memento", "datetime": "Sat, 15 Aug 2020 20:37:22 GMT"}
+20210419085709 {"uri": "https://web.archive.org/web/20210419085709/https://www.pvamu.edu/bcas/departments/chemistry/", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 08:57:09 GMT"}

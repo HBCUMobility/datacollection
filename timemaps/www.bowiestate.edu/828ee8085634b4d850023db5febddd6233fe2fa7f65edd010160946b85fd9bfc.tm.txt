@@ -1,0 +1,15 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/", "json_format": "http://localhost:1208/timemap/json/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/"}}
+20200922205334 {"uri": "https://web.archive.org/web/20200922205334/https://bowiestate.edu/academics/colleges/college-of-professional-studies/", "rel": "first memento", "datetime": "Tue, 22 Sep 2020 20:53:34 GMT"}
+20201030072610 {"uri": "https://web.archive.org/web/20201030072610/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/", "rel": "memento", "datetime": "Fri, 30 Oct 2020 07:26:10 GMT"}
+20201031073126 {"uri": "https://web.archive.org/web/20201031073126/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/", "rel": "memento", "datetime": "Sat, 31 Oct 2020 07:31:26 GMT"}
+20201124093724 {"uri": "https://web.archive.org/web/20201124093724/https://bowiestate.edu/academics/colleges/college-of-professional-studies/", "rel": "memento", "datetime": "Tue, 24 Nov 2020 09:37:24 GMT"}
+20210610141646 {"uri": "https://web.archive.org/web/20210610141646/https://bowiestate.edu/academics/colleges/college-of-professional-studies/", "rel": "memento", "datetime": "Thu, 10 Jun 2021 14:16:46 GMT"}
+20210812031322 {"uri": "https://web.archive.org/web/20210812031322/https://bowiestate.edu/academics/colleges/college-of-professional-studies/", "rel": "memento", "datetime": "Thu, 12 Aug 2021 03:13:22 GMT"}
+20210816102614 {"uri": "https://web.archive.org/web/20210816102614/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/", "rel": "memento", "datetime": "Mon, 16 Aug 2021 10:26:14 GMT"}
+20210816102947 {"uri": "https://web.archive.org/web/20210816102947/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/", "rel": "memento", "datetime": "Mon, 16 Aug 2021 10:29:47 GMT"}
+20211102120710 {"uri": "https://web.archive.org/web/20211102120710/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/", "rel": "last memento", "datetime": "Tue, 02 Nov 2021 12:07:10 GMT"}

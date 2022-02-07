@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/music/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/sola/departments/music/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/sola/departments/music/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/sola/departments/music/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/sola/departments/music/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/music/index.php"}}
+20210121213742 {"uri": "https://web.archive.org/web/20210121213742/https://www.vsu.edu/sola/departments/music/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 21:37:42 GMT"}
+20210416201441 {"uri": "https://web.archive.org/web/20210416201441/https://www.vsu.edu/sola/departments/music/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 20:14:41 GMT"}
+20210613234206 {"uri": "https://web.archive.org/web/20210613234206/https://www.vsu.edu/sola/departments/music/index.php", "rel": "memento", "datetime": "Sun, 13 Jun 2021 23:42:06 GMT"}
+20211217115520 {"uri": "https://web.archive.org/web/20211217115520/https://www.vsu.edu/sola/departments/music/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:55:20 GMT"}

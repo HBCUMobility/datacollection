@@ -1,0 +1,8 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/departments/political-science/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/class/departments/political-science/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/class/departments/political-science/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/class/departments/political-science/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/class/departments/political-science/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/class/departments/political-science/index.shtml"}}
+20210121145736 {"uri": "https://web.archive.org/web/20210121145736/https://www.savannahstate.edu/class/departments/political-science/index.shtml", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 14:57:36 GMT"}
+20210612173736 {"uri": "https://web.archive.org/web/20210612173736/https://www.savannahstate.edu/class/departments/political-science/index.shtml", "rel": "last memento", "datetime": "Sat, 12 Jun 2021 17:37:36 GMT"}

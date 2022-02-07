@@ -1,0 +1,22 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://www.tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://www.tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://www.tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html", "json_format": "http://localhost:1208/timemap/json/http://www.tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html"}}
+20190316154544 {"uri": "https://web.archive.org/web/20190316154544/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "first memento", "datetime": "Sat, 16 Mar 2019 15:45:44 GMT"}
+20190322100405 {"uri": "https://web.archive.org/web/20190322100405/http://www.tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Fri, 22 Mar 2019 10:04:05 GMT"}
+20190419032527 {"uri": "https://web.archive.org/web/20190419032527/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Fri, 19 Apr 2019 03:25:27 GMT"}
+20190529185255 {"uri": "https://web.archive.org/web/20190529185255/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Wed, 29 May 2019 18:52:55 GMT"}
+20190701205431 {"uri": "https://web.archive.org/web/20190701205431/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Mon, 01 Jul 2019 20:54:31 GMT"}
+20190802190302 {"uri": "https://web.archive.org/web/20190802190302/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Fri, 02 Aug 2019 19:03:02 GMT"}
+20190804010944 {"uri": "https://web.archive.org/web/20190804010944/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Sun, 04 Aug 2019 01:09:44 GMT"}
+20190904082410 {"uri": "https://web.archive.org/web/20190904082410/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Wed, 04 Sep 2019 08:24:10 GMT"}
+20191129031748 {"uri": "https://web.archive.org/web/20191129031748/http://tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Fri, 29 Nov 2019 03:17:48 GMT"}
+20191204155047 {"uri": "https://web.archive.org/web/20191204155047/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Wed, 04 Dec 2019 15:50:47 GMT"}
+20200128052513 {"uri": "https://web.archive.org/web/20200128052513/http://tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Tue, 28 Jan 2020 05:25:13 GMT"}
+20200202205737 {"uri": "https://web.archive.org/web/20200202205737/http://www.tsu.edu:80/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Sun, 02 Feb 2020 20:57:37 GMT"}
+20200807041544 {"uri": "https://web.archive.org/web/20200807041544/http://tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Fri, 07 Aug 2020 04:15:44 GMT"}
+20201022182437 {"uri": "https://web.archive.org/web/20201022182437/http://tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Thu, 22 Oct 2020 18:24:37 GMT"}
+20210127071813 {"uri": "https://web.archive.org/web/20210127071813/http://tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "memento", "datetime": "Wed, 27 Jan 2021 07:18:13 GMT"}
+20210421035623 {"uri": "https://web.archive.org/web/20210421035623/http://tsu.edu/academics/colleges-and-schools/colabs/social-work/index.html", "rel": "last memento", "datetime": "Wed, 21 Apr 2021 03:56:23 GMT"}

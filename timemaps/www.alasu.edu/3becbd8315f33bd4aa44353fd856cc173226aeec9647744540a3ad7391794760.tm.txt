@@ -1,0 +1,11 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies"}}
+20181112212016 {"uri": "https://web.archive.org/web/20181112212016/http://www.alasu.edu:80/chs/rehabilitation-studies/department-rehabilitation-studies", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:20:16 GMT"}
+20200806165154 {"uri": "https://web.archive.org/web/20200806165154/https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies", "rel": "memento", "datetime": "Thu, 06 Aug 2020 16:51:54 GMT"}
+20201028151949 {"uri": "https://web.archive.org/web/20201028151949/https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies", "rel": "memento", "datetime": "Wed, 28 Oct 2020 15:19:49 GMT"}
+20210415054205 {"uri": "https://web.archive.org/web/20210415054205/https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies", "rel": "memento", "datetime": "Thu, 15 Apr 2021 05:42:05 GMT"}
+20210417062958 {"uri": "https://web.archive.org/web/20210417062958/https://www.alasu.edu/chs/rehabilitation-studies/department-rehabilitation-studies", "rel": "last memento", "datetime": "Sat, 17 Apr 2021 06:29:58 GMT"}

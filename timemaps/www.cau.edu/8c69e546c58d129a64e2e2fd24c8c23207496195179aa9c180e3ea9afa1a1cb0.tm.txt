@@ -1,0 +1,46 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html"}}
+20190812040857 {"uri": "https://web.archive.org/web/20190812040857/http://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "first memento", "datetime": "Mon, 12 Aug 2019 04:08:57 GMT"}
+20190911220631 {"uri": "https://web.archive.org/web/20190911220631/http://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Wed, 11 Sep 2019 22:06:31 GMT"}
+20191003043703 {"uri": "https://web.archive.org/web/20191003043703/http://www.cau.edu:80/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 04:37:03 GMT"}
+20191011220629 {"uri": "https://web.archive.org/web/20191011220629/http://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:06:29 GMT"}
+20191111220616 {"uri": "https://web.archive.org/web/20191111220616/http://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:06:16 GMT"}
+20191202112807 {"uri": "https://web.archive.org/web/20191202112807/http://www.cau.edu:80/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Mon, 02 Dec 2019 11:28:07 GMT"}
+20191211220604 {"uri": "https://web.archive.org/web/20191211220604/http://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:06:04 GMT"}
+20200111220641 {"uri": "https://web.archive.org/web/20200111220641/http://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:06:41 GMT"}
+20200131233838 {"uri": "https://web.archive.org/web/20200131233838/http://www.cau.edu:80/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Fri, 31 Jan 2020 23:38:38 GMT"}
+20200212010404 {"uri": "https://web.archive.org/web/20200212010404/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 01:04:04 GMT"}
+20200214051838 {"uri": "https://web.archive.org/web/20200214051838/http://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Fri, 14 Feb 2020 05:18:38 GMT"}
+20200301001815 {"uri": "https://web.archive.org/web/20200301001815/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sun, 01 Mar 2020 00:18:15 GMT"}
+20200311223235 {"uri": "https://web.archive.org/web/20200311223235/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 22:32:35 GMT"}
+20200411222145 {"uri": "https://web.archive.org/web/20200411222145/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 22:21:45 GMT"}
+20200511222204 {"uri": "https://web.archive.org/web/20200511222204/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Mon, 11 May 2020 22:22:04 GMT"}
+20200612000031 {"uri": "https://web.archive.org/web/20200612000031/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 00:00:31 GMT"}
+20200711221923 {"uri": "https://web.archive.org/web/20200711221923/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 22:19:23 GMT"}
+20200811222228 {"uri": "https://web.archive.org/web/20200811222228/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 22:22:28 GMT"}
+20200911223812 {"uri": "https://web.archive.org/web/20200911223812/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Fri, 11 Sep 2020 22:38:12 GMT"}
+20200920072939 {"uri": "https://web.archive.org/web/20200920072939/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sun, 20 Sep 2020 07:29:39 GMT"}
+20201011223203 {"uri": "https://web.archive.org/web/20201011223203/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 22:32:03 GMT"}
+20201027060100 {"uri": "https://web.archive.org/web/20201027060100/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Tue, 27 Oct 2020 06:01:00 GMT"}
+20201111222752 {"uri": "https://web.archive.org/web/20201111222752/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 22:27:52 GMT"}
+20201205053708 {"uri": "https://web.archive.org/web/20201205053708/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 05:37:08 GMT"}
+20201211225726 {"uri": "https://web.archive.org/web/20201211225726/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Fri, 11 Dec 2020 22:57:26 GMT"}
+20210111222213 {"uri": "https://web.archive.org/web/20210111222213/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 22:22:13 GMT"}
+20210211222759 {"uri": "https://web.archive.org/web/20210211222759/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 22:27:59 GMT"}
+20210302043105 {"uri": "https://web.archive.org/web/20210302043105/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Tue, 02 Mar 2021 04:31:05 GMT"}
+20210311222656 {"uri": "https://web.archive.org/web/20210311222656/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Thu, 11 Mar 2021 22:26:56 GMT"}
+20210411221432 {"uri": "https://web.archive.org/web/20210411221432/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:14:32 GMT"}
+20210511222956 {"uri": "https://web.archive.org/web/20210511222956/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Tue, 11 May 2021 22:29:56 GMT"}
+20210512110444 {"uri": "https://web.archive.org/web/20210512110444/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Wed, 12 May 2021 11:04:44 GMT"}
+20210611222352 {"uri": "https://web.archive.org/web/20210611222352/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Fri, 11 Jun 2021 22:23:52 GMT"}
+20210711222043 {"uri": "https://web.archive.org/web/20210711222043/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 22:20:43 GMT"}
+20210811222816 {"uri": "https://web.archive.org/web/20210811222816/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:28:16 GMT"}
+20210911223000 {"uri": "https://web.archive.org/web/20210911223000/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 22:30:00 GMT"}
+20210925083557 {"uri": "https://web.archive.org/web/20210925083557/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:35:57 GMT"}
+20211011225418 {"uri": "https://web.archive.org/web/20211011225418/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Mon, 11 Oct 2021 22:54:18 GMT"}
+20211111223310 {"uri": "https://web.archive.org/web/20211111223310/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "memento", "datetime": "Thu, 11 Nov 2021 22:33:10 GMT"}
+20220107234917 {"uri": "https://web.archive.org/web/20220107234917/https://www.cau.edu/school-of-arts-and-sciences/mathematics/index.html", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 23:49:17 GMT"}

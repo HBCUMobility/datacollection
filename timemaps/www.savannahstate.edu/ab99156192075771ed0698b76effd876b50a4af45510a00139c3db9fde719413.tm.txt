@@ -1,0 +1,36 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/biology/index.shtml"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.savannahstate.edu/cost/biology/index.shtml"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.savannahstate.edu/cost/biology/index.shtml"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.savannahstate.edu/cost/biology/index.shtml", "json_format": "http://localhost:1208/timemap/json/https://www.savannahstate.edu/cost/biology/index.shtml", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.savannahstate.edu/cost/biology/index.shtml"}}
+20140718214004 {"uri": "https://web.archive.org/web/20140718214004/http://www.savannahstate.edu/cost/biology/index.shtml", "rel": "first memento", "datetime": "Fri, 18 Jul 2014 21:40:04 GMT"}
+20140804093358 {"uri": "https://web.archive.org/web/20140804093358/http://savannahstate.edu/cost/biology/index.shtml", "rel": "memento", "datetime": "Mon, 04 Aug 2014 09:33:58 GMT"}
+20150307022132 {"uri": "https://web.archive.org/web/20150307022132/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Sat, 07 Mar 2015 02:21:32 GMT"}
+20150328062649 {"uri": "https://web.archive.org/web/20150328062649/http://www.savannahstate.edu/cost/biology/index.shtml", "rel": "memento", "datetime": "Sat, 28 Mar 2015 06:26:49 GMT"}
+20150509235645 {"uri": "https://web.archive.org/web/20150509235645/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Sat, 09 May 2015 23:56:45 GMT"}
+20150907183227 {"uri": "https://web.archive.org/web/20150907183227/http://www.savannahstate.edu/cost/biology/index.shtml", "rel": "memento", "datetime": "Mon, 07 Sep 2015 18:32:27 GMT"}
+20151029065209 {"uri": "https://web.archive.org/web/20151029065209/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Thu, 29 Oct 2015 06:52:09 GMT"}
+20160302221209 {"uri": "https://web.archive.org/web/20160302221209/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Wed, 02 Mar 2016 22:12:09 GMT"}
+20160630055606 {"uri": "https://web.archive.org/web/20160630055606/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Thu, 30 Jun 2016 05:56:06 GMT"}
+20160808105256 {"uri": "https://web.archive.org/web/20160808105256/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Mon, 08 Aug 2016 10:52:56 GMT"}
+20170524012510 {"uri": "https://web.archive.org/web/20170524012510/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Wed, 24 May 2017 01:25:10 GMT"}
+20170731121630 {"uri": "https://web.archive.org/web/20170731121630/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Mon, 31 Jul 2017 12:16:30 GMT"}
+20170801151146 {"uri": "https://web.archive.org/web/20170801151146/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Tue, 01 Aug 2017 15:11:46 GMT"}
+20170906002026 {"uri": "https://web.archive.org/web/20170906002026/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Wed, 06 Sep 2017 00:20:26 GMT"}
+20171008065405 {"uri": "https://web.archive.org/web/20171008065405/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Sun, 08 Oct 2017 06:54:05 GMT"}
+20171011091514 {"uri": "https://web.archive.org/web/20171011091514/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Wed, 11 Oct 2017 09:15:14 GMT"}
+20171111111507 {"uri": "https://web.archive.org/web/20171111111507/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Sat, 11 Nov 2017 11:15:07 GMT"}
+20171212094230 {"uri": "https://web.archive.org/web/20171212094230/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Tue, 12 Dec 2017 09:42:30 GMT"}
+20180112102958 {"uri": "https://web.archive.org/web/20180112102958/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Fri, 12 Jan 2018 10:29:58 GMT"}
+20180214133412 {"uri": "https://web.archive.org/web/20180214133412/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Wed, 14 Feb 2018 13:34:12 GMT"}
+20180215153219 {"uri": "https://web.archive.org/web/20180215153219/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Thu, 15 Feb 2018 15:32:19 GMT"}
+20180319104158 {"uri": "https://web.archive.org/web/20180319104158/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Mon, 19 Mar 2018 10:41:58 GMT"}
+20180419120015 {"uri": "https://web.archive.org/web/20180419120015/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Thu, 19 Apr 2018 12:00:15 GMT"}
+20180529025359 {"uri": "https://web.archive.org/web/20180529025359/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Tue, 29 May 2018 02:53:59 GMT"}
+20180530104646 {"uri": "https://web.archive.org/web/20180530104646/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Wed, 30 May 2018 10:46:46 GMT"}
+20180630091102 {"uri": "https://web.archive.org/web/20180630091102/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Sat, 30 Jun 2018 09:11:02 GMT"}
+20180803115702 {"uri": "https://web.archive.org/web/20180803115702/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Fri, 03 Aug 2018 11:57:02 GMT"}
+20180904014427 {"uri": "https://web.archive.org/web/20180904014427/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Tue, 04 Sep 2018 01:44:27 GMT"}
+20181023062024 {"uri": "https://web.archive.org/web/20181023062024/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "memento", "datetime": "Tue, 23 Oct 2018 06:20:24 GMT"}
+20190913190713 {"uri": "https://web.archive.org/web/20190913190713/http://www.savannahstate.edu:80/cost/biology/index.shtml", "rel": "last memento", "datetime": "Fri, 13 Sep 2019 19:07:13 GMT"}

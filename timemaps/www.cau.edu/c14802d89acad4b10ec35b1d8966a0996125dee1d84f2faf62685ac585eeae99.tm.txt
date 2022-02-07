@@ -1,0 +1,47 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html"}}
+20190812040901 {"uri": "https://web.archive.org/web/20190812040901/http://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "first memento", "datetime": "Mon, 12 Aug 2019 04:09:01 GMT"}
+20190911220636 {"uri": "https://web.archive.org/web/20190911220636/http://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Wed, 11 Sep 2019 22:06:36 GMT"}
+20190912043956 {"uri": "https://web.archive.org/web/20190912043956/http://www.cau.edu:80/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Thu, 12 Sep 2019 04:39:56 GMT"}
+20191003043729 {"uri": "https://web.archive.org/web/20191003043729/http://www.cau.edu:80/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 04:37:29 GMT"}
+20191011220635 {"uri": "https://web.archive.org/web/20191011220635/http://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:06:35 GMT"}
+20191111220622 {"uri": "https://web.archive.org/web/20191111220622/http://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:06:22 GMT"}
+20191202113042 {"uri": "https://web.archive.org/web/20191202113042/http://www.cau.edu:80/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Mon, 02 Dec 2019 11:30:42 GMT"}
+20191211220610 {"uri": "https://web.archive.org/web/20191211220610/http://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:06:10 GMT"}
+20200111220646 {"uri": "https://web.archive.org/web/20200111220646/http://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:06:46 GMT"}
+20200131233915 {"uri": "https://web.archive.org/web/20200131233915/http://www.cau.edu:80/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Fri, 31 Jan 2020 23:39:15 GMT"}
+20200212010555 {"uri": "https://web.archive.org/web/20200212010555/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 01:05:55 GMT"}
+20200216150605 {"uri": "https://web.archive.org/web/20200216150605/http://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sun, 16 Feb 2020 15:06:05 GMT"}
+20200309235920 {"uri": "https://web.archive.org/web/20200309235920/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Mon, 09 Mar 2020 23:59:20 GMT"}
+20200311223430 {"uri": "https://web.archive.org/web/20200311223430/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 22:34:30 GMT"}
+20200411222306 {"uri": "https://web.archive.org/web/20200411222306/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 22:23:06 GMT"}
+20200511222338 {"uri": "https://web.archive.org/web/20200511222338/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Mon, 11 May 2020 22:23:38 GMT"}
+20200612000318 {"uri": "https://web.archive.org/web/20200612000318/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 00:03:18 GMT"}
+20200711222018 {"uri": "https://web.archive.org/web/20200711222018/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 22:20:18 GMT"}
+20200811222406 {"uri": "https://web.archive.org/web/20200811222406/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 22:24:06 GMT"}
+20200911224016 {"uri": "https://web.archive.org/web/20200911224016/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Fri, 11 Sep 2020 22:40:16 GMT"}
+20200922073630 {"uri": "https://web.archive.org/web/20200922073630/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Tue, 22 Sep 2020 07:36:30 GMT"}
+20201011223340 {"uri": "https://web.archive.org/web/20201011223340/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 22:33:40 GMT"}
+20201024083852 {"uri": "https://web.archive.org/web/20201024083852/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sat, 24 Oct 2020 08:38:52 GMT"}
+20201111222947 {"uri": "https://web.archive.org/web/20201111222947/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 22:29:47 GMT"}
+20201205055405 {"uri": "https://web.archive.org/web/20201205055405/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 05:54:05 GMT"}
+20201211230619 {"uri": "https://web.archive.org/web/20201211230619/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Fri, 11 Dec 2020 23:06:19 GMT"}
+20210111222324 {"uri": "https://web.archive.org/web/20210111222324/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 22:23:24 GMT"}
+20210211222922 {"uri": "https://web.archive.org/web/20210211222922/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 22:29:22 GMT"}
+20210302045010 {"uri": "https://web.archive.org/web/20210302045010/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Tue, 02 Mar 2021 04:50:10 GMT"}
+20210311223010 {"uri": "https://web.archive.org/web/20210311223010/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Thu, 11 Mar 2021 22:30:10 GMT"}
+20210411221507 {"uri": "https://web.archive.org/web/20210411221507/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:15:07 GMT"}
+20210511223217 {"uri": "https://web.archive.org/web/20210511223217/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Tue, 11 May 2021 22:32:17 GMT"}
+20210512113207 {"uri": "https://web.archive.org/web/20210512113207/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Wed, 12 May 2021 11:32:07 GMT"}
+20210611222501 {"uri": "https://web.archive.org/web/20210611222501/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Fri, 11 Jun 2021 22:25:01 GMT"}
+20210711222135 {"uri": "https://web.archive.org/web/20210711222135/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 22:21:35 GMT"}
+20210811222929 {"uri": "https://web.archive.org/web/20210811222929/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:29:29 GMT"}
+20210911223159 {"uri": "https://web.archive.org/web/20210911223159/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 22:31:59 GMT"}
+20210925083533 {"uri": "https://web.archive.org/web/20210925083533/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:35:33 GMT"}
+20211011225501 {"uri": "https://web.archive.org/web/20211011225501/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Mon, 11 Oct 2021 22:55:01 GMT"}
+20211111223344 {"uri": "https://web.archive.org/web/20211111223344/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "memento", "datetime": "Thu, 11 Nov 2021 22:33:44 GMT"}
+20220108000021 {"uri": "https://web.archive.org/web/20220108000021/https://www.cau.edu/school-of-arts-and-sciences/political-science/index.html", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 00:00:21 GMT"}

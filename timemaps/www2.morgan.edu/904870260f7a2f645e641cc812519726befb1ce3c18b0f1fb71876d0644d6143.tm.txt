@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/iur"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www2.morgan.edu/iur"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www2.morgan.edu/iur"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www2.morgan.edu/iur", "json_format": "http://localhost:1208/timemap/json/https://www2.morgan.edu/iur", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www2.morgan.edu/iur"}}
+20190406200605 {"uri": "https://web.archive.org/web/20190406200605/https://www.morgan.edu/iur", "rel": "first memento", "datetime": "Sat, 06 Apr 2019 20:06:05 GMT"}
+20200714032129 {"uri": "https://web.archive.org/web/20200714032129/http://www.morgan.edu/iur", "rel": "memento", "datetime": "Tue, 14 Jul 2020 03:21:29 GMT"}
+20200807181305 {"uri": "https://web.archive.org/web/20200807181305/https://www.morgan.edu/iur", "rel": "memento", "datetime": "Fri, 07 Aug 2020 18:13:05 GMT"}
+20201122040357 {"uri": "https://web.archive.org/web/20201122040357/https://www.morgan.edu/iur", "rel": "memento", "datetime": "Sun, 22 Nov 2020 04:03:57 GMT"}
+20210414031621 {"uri": "https://web.archive.org/web/20210414031621/https://morgan.edu/iur", "rel": "memento", "datetime": "Wed, 14 Apr 2021 03:16:21 GMT"}
+20210814165158 {"uri": "https://web.archive.org/web/20210814165158/https://morgan.edu/iur", "rel": "last memento", "datetime": "Sat, 14 Aug 2021 16:51:58 GMT"}

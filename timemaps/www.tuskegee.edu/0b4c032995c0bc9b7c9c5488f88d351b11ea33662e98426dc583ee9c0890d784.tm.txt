@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management"}}
+20200927014219 {"uri": "https://web.archive.org/web/20200927014219/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management", "rel": "first memento", "datetime": "Sun, 27 Sep 2020 01:42:19 GMT"}
+20210121061157 {"uri": "https://web.archive.org/web/20210121061157/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management", "rel": "memento", "datetime": "Thu, 21 Jan 2021 06:11:57 GMT"}
+20210410151500 {"uri": "https://web.archive.org/web/20210410151500/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management", "rel": "memento", "datetime": "Sat, 10 Apr 2021 15:15:00 GMT"}
+20210420091507 {"uri": "https://web.archive.org/web/20210420091507/https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/management", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 09:15:07 GMT"}

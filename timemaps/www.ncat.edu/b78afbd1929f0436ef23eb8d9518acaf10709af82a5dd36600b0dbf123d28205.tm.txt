@@ -1,0 +1,18 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/physics/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cost/departments/physics/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cost/departments/physics/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cost/departments/physics/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cost/departments/physics/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cost/departments/physics/index.php"}}
+20200903103926 {"uri": "https://web.archive.org/web/20200903103926/https://www.ncat.edu/cost/departments/physics/index.php", "rel": "first memento", "datetime": "Thu, 03 Sep 2020 10:39:26 GMT"}
+20200922211343 {"uri": "https://web.archive.org/web/20200922211343/https://ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Tue, 22 Sep 2020 21:13:43 GMT"}
+20201128024028 {"uri": "https://web.archive.org/web/20201128024028/https://ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Sat, 28 Nov 2020 02:40:28 GMT"}
+20210128164431 {"uri": "https://web.archive.org/web/20210128164431/https://ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Thu, 28 Jan 2021 16:44:31 GMT"}
+20210418214116 {"uri": "https://web.archive.org/web/20210418214116/https://www.ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 21:41:16 GMT"}
+20210502104830 {"uri": "https://web.archive.org/web/20210502104830/https://www.ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Sun, 02 May 2021 10:48:30 GMT"}
+20210811211736 {"uri": "https://web.archive.org/web/20210811211736/https://ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Wed, 11 Aug 2021 21:17:36 GMT"}
+20210816051351 {"uri": "https://web.archive.org/web/20210816051351/https://ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Mon, 16 Aug 2021 05:13:51 GMT"}
+20210817193744 {"uri": "https://web.archive.org/web/20210817193744/https://www.ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 19:37:44 GMT"}
+20211117094810 {"uri": "https://web.archive.org/web/20211117094810/https://www.ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Wed, 17 Nov 2021 09:48:10 GMT"}
+20211231083925 {"uri": "https://web.archive.org/web/20211231083925/https://www.ncat.edu/cost/departments/physics/index.php", "rel": "memento", "datetime": "Fri, 31 Dec 2021 08:39:25 GMT"}
+20220108022259 {"uri": "https://web.archive.org/web/20220108022259/https://www.ncat.edu/cost/departments/physics/index.php", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 02:22:59 GMT"}

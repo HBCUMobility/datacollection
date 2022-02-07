@@ -1,0 +1,46 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html"}}
+20190812040849 {"uri": "https://web.archive.org/web/20190812040849/http://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "first memento", "datetime": "Mon, 12 Aug 2019 04:08:49 GMT"}
+20190911220624 {"uri": "https://web.archive.org/web/20190911220624/http://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Wed, 11 Sep 2019 22:06:24 GMT"}
+20191003052925 {"uri": "https://web.archive.org/web/20191003052925/http://www.cau.edu:80/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 05:29:25 GMT"}
+20191011220622 {"uri": "https://web.archive.org/web/20191011220622/http://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:06:22 GMT"}
+20191111220608 {"uri": "https://web.archive.org/web/20191111220608/http://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:06:08 GMT"}
+20191202142528 {"uri": "https://web.archive.org/web/20191202142528/http://www.cau.edu:80/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Mon, 02 Dec 2019 14:25:28 GMT"}
+20191211220556 {"uri": "https://web.archive.org/web/20191211220556/http://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:05:56 GMT"}
+20200111220634 {"uri": "https://web.archive.org/web/20200111220634/http://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:06:34 GMT"}
+20200131234040 {"uri": "https://web.archive.org/web/20200131234040/http://www.cau.edu:80/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Fri, 31 Jan 2020 23:40:40 GMT"}
+20200212005735 {"uri": "https://web.archive.org/web/20200212005735/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 00:57:35 GMT"}
+20200216090250 {"uri": "https://web.archive.org/web/20200216090250/http://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sun, 16 Feb 2020 09:02:50 GMT"}
+20200311061242 {"uri": "https://web.archive.org/web/20200311061242/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 06:12:42 GMT"}
+20200311222857 {"uri": "https://web.archive.org/web/20200311222857/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 22:28:57 GMT"}
+20200411221716 {"uri": "https://web.archive.org/web/20200411221716/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 22:17:16 GMT"}
+20200511222026 {"uri": "https://web.archive.org/web/20200511222026/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Mon, 11 May 2020 22:20:26 GMT"}
+20200611235559 {"uri": "https://web.archive.org/web/20200611235559/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Thu, 11 Jun 2020 23:55:59 GMT"}
+20200711221743 {"uri": "https://web.archive.org/web/20200711221743/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 22:17:43 GMT"}
+20200811221951 {"uri": "https://web.archive.org/web/20200811221951/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 22:19:51 GMT"}
+20200911223340 {"uri": "https://web.archive.org/web/20200911223340/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Fri, 11 Sep 2020 22:33:40 GMT"}
+20200922071250 {"uri": "https://web.archive.org/web/20200922071250/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Tue, 22 Sep 2020 07:12:50 GMT"}
+20201011222843 {"uri": "https://web.archive.org/web/20201011222843/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 22:28:43 GMT"}
+20201026052421 {"uri": "https://web.archive.org/web/20201026052421/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Mon, 26 Oct 2020 05:24:21 GMT"}
+20201111222347 {"uri": "https://web.archive.org/web/20201111222347/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 22:23:47 GMT"}
+20201205052122 {"uri": "https://web.archive.org/web/20201205052122/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 05:21:22 GMT"}
+20201211224703 {"uri": "https://web.archive.org/web/20201211224703/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Fri, 11 Dec 2020 22:47:03 GMT"}
+20210111221959 {"uri": "https://web.archive.org/web/20210111221959/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 22:19:59 GMT"}
+20210211222529 {"uri": "https://web.archive.org/web/20210211222529/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 22:25:29 GMT"}
+20210302042159 {"uri": "https://web.archive.org/web/20210302042159/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Tue, 02 Mar 2021 04:21:59 GMT"}
+20210311222353 {"uri": "https://web.archive.org/web/20210311222353/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Thu, 11 Mar 2021 22:23:53 GMT"}
+20210411221336 {"uri": "https://web.archive.org/web/20210411221336/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:13:36 GMT"}
+20210511222700 {"uri": "https://web.archive.org/web/20210511222700/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Tue, 11 May 2021 22:27:00 GMT"}
+20210512104919 {"uri": "https://web.archive.org/web/20210512104919/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Wed, 12 May 2021 10:49:19 GMT"}
+20210611222228 {"uri": "https://web.archive.org/web/20210611222228/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Fri, 11 Jun 2021 22:22:28 GMT"}
+20210711221914 {"uri": "https://web.archive.org/web/20210711221914/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 22:19:14 GMT"}
+20210811222652 {"uri": "https://web.archive.org/web/20210811222652/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:26:52 GMT"}
+20210911222810 {"uri": "https://web.archive.org/web/20210911222810/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 22:28:10 GMT"}
+20210925083420 {"uri": "https://web.archive.org/web/20210925083420/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:34:20 GMT"}
+20211011225316 {"uri": "https://web.archive.org/web/20211011225316/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Mon, 11 Oct 2021 22:53:16 GMT"}
+20211111223053 {"uri": "https://web.archive.org/web/20211111223053/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "memento", "datetime": "Thu, 11 Nov 2021 22:30:53 GMT"}
+20220108002407 {"uri": "https://web.archive.org/web/20220108002407/https://www.cau.edu/school-of-arts-and-sciences/chemistry/index.html", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 00:24:07 GMT"}

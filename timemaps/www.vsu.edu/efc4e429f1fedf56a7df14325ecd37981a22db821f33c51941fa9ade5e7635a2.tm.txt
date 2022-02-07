@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/social-work/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/sola/departments/social-work/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/sola/departments/social-work/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/sola/departments/social-work/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/sola/departments/social-work/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/sola/departments/social-work/index.php"}}
+20210121201813 {"uri": "https://web.archive.org/web/20210121201813/https://www.vsu.edu/sola/departments/social-work/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 20:18:13 GMT"}
+20210301201637 {"uri": "https://web.archive.org/web/20210301201637/https://www.vsu.edu/sola/departments/social-work/index.php", "rel": "memento", "datetime": "Mon, 01 Mar 2021 20:16:37 GMT"}
+20210416192357 {"uri": "https://web.archive.org/web/20210416192357/https://www.vsu.edu/sola/departments/social-work/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 19:23:57 GMT"}
+20210509154149 {"uri": "https://web.archive.org/web/20210509154149/https://www.vsu.edu/sola/departments/social-work/index.php", "rel": "memento", "datetime": "Sun, 09 May 2021 15:41:49 GMT"}
+20210518143746 {"uri": "https://web.archive.org/web/20210518143746/https://www.vsu.edu/sola/departments/social-work/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 14:37:46 GMT"}
+20211217114145 {"uri": "https://web.archive.org/web/20211217114145/https://www.vsu.edu/sola/departments/social-work/index.php", "rel": "memento", "datetime": "Fri, 17 Dec 2021 11:41:45 GMT"}
+20220120173811 {"uri": "https://web.archive.org/web/20220120173811/https://www.vsu.edu/sola/departments/social-work/index.php", "rel": "last memento", "datetime": "Thu, 20 Jan 2022 17:38:11 GMT"}

@@ -1,0 +1,45 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "json_format": "http://localhost:1208/timemap/json/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html"}}
+20190812040859 {"uri": "https://web.archive.org/web/20190812040859/http://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "first memento", "datetime": "Mon, 12 Aug 2019 04:08:59 GMT"}
+20190911220634 {"uri": "https://web.archive.org/web/20190911220634/http://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Wed, 11 Sep 2019 22:06:34 GMT"}
+20191003052949 {"uri": "https://web.archive.org/web/20191003052949/http://www.cau.edu:80/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Thu, 03 Oct 2019 05:29:49 GMT"}
+20191011220633 {"uri": "https://web.archive.org/web/20191011220633/http://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Fri, 11 Oct 2019 22:06:33 GMT"}
+20191111220620 {"uri": "https://web.archive.org/web/20191111220620/http://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Mon, 11 Nov 2019 22:06:20 GMT"}
+20191202142459 {"uri": "https://web.archive.org/web/20191202142459/http://www.cau.edu:80/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Mon, 02 Dec 2019 14:24:59 GMT"}
+20191211220608 {"uri": "https://web.archive.org/web/20191211220608/http://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Wed, 11 Dec 2019 22:06:08 GMT"}
+20200111220644 {"uri": "https://web.archive.org/web/20200111220644/http://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Sat, 11 Jan 2020 22:06:44 GMT"}
+20200212010503 {"uri": "https://web.archive.org/web/20200212010503/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Wed, 12 Feb 2020 01:05:03 GMT"}
+20200220061425 {"uri": "https://web.archive.org/web/20200220061425/http://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Thu, 20 Feb 2020 06:14:25 GMT"}
+20200311102342 {"uri": "https://web.archive.org/web/20200311102342/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 10:23:42 GMT"}
+20200311223331 {"uri": "https://web.archive.org/web/20200311223331/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Wed, 11 Mar 2020 22:33:31 GMT"}
+20200411222229 {"uri": "https://web.archive.org/web/20200411222229/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Sat, 11 Apr 2020 22:22:29 GMT"}
+20200511222256 {"uri": "https://web.archive.org/web/20200511222256/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Mon, 11 May 2020 22:22:56 GMT"}
+20200612000153 {"uri": "https://web.archive.org/web/20200612000153/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Fri, 12 Jun 2020 00:01:53 GMT"}
+20200711221952 {"uri": "https://web.archive.org/web/20200711221952/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Sat, 11 Jul 2020 22:19:52 GMT"}
+20200811222311 {"uri": "https://web.archive.org/web/20200811222311/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Tue, 11 Aug 2020 22:23:11 GMT"}
+20200814205044 {"uri": "https://web.archive.org/web/20200814205044/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Fri, 14 Aug 2020 20:50:44 GMT"}
+20200911223912 {"uri": "https://web.archive.org/web/20200911223912/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Fri, 11 Sep 2020 22:39:12 GMT"}
+20201011223252 {"uri": "https://web.archive.org/web/20201011223252/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Sun, 11 Oct 2020 22:32:52 GMT"}
+20201027051935 {"uri": "https://web.archive.org/web/20201027051935/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Tue, 27 Oct 2020 05:19:35 GMT"}
+20201111222851 {"uri": "https://web.archive.org/web/20201111222851/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Wed, 11 Nov 2020 22:28:51 GMT"}
+20201205062151 {"uri": "https://web.archive.org/web/20201205062151/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Sat, 05 Dec 2020 06:21:51 GMT"}
+20201211230141 {"uri": "https://web.archive.org/web/20201211230141/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Fri, 11 Dec 2020 23:01:41 GMT"}
+20210111222258 {"uri": "https://web.archive.org/web/20210111222258/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Mon, 11 Jan 2021 22:22:58 GMT"}
+20210211222844 {"uri": "https://web.archive.org/web/20210211222844/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Thu, 11 Feb 2021 22:28:44 GMT"}
+20210302053716 {"uri": "https://web.archive.org/web/20210302053716/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Tue, 02 Mar 2021 05:37:16 GMT"}
+20210311222841 {"uri": "https://web.archive.org/web/20210311222841/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Thu, 11 Mar 2021 22:28:41 GMT"}
+20210411221450 {"uri": "https://web.archive.org/web/20210411221450/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Sun, 11 Apr 2021 22:14:50 GMT"}
+20210511223123 {"uri": "https://web.archive.org/web/20210511223123/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Tue, 11 May 2021 22:31:23 GMT"}
+20210512122223 {"uri": "https://web.archive.org/web/20210512122223/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Wed, 12 May 2021 12:22:23 GMT"}
+20210611222426 {"uri": "https://web.archive.org/web/20210611222426/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Fri, 11 Jun 2021 22:24:26 GMT"}
+20210711222113 {"uri": "https://web.archive.org/web/20210711222113/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Sun, 11 Jul 2021 22:21:13 GMT"}
+20210811222853 {"uri": "https://web.archive.org/web/20210811222853/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:28:53 GMT"}
+20210911223117 {"uri": "https://web.archive.org/web/20210911223117/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Sat, 11 Sep 2021 22:31:17 GMT"}
+20210925083411 {"uri": "https://web.archive.org/web/20210925083411/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Sat, 25 Sep 2021 08:34:11 GMT"}
+20211011225443 {"uri": "https://web.archive.org/web/20211011225443/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Mon, 11 Oct 2021 22:54:43 GMT"}
+20211111223330 {"uri": "https://web.archive.org/web/20211111223330/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "memento", "datetime": "Thu, 11 Nov 2021 22:33:30 GMT"}
+20220108021405 {"uri": "https://web.archive.org/web/20220108021405/https://www.cau.edu/school-of-arts-and-sciences/religion-philosophy/index.html", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 02:14:05 GMT"}

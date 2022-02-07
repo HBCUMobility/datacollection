@@ -1,0 +1,24 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "json_format": "http://localhost:1208/timemap/json/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences"}}
+20190507055958 {"uri": "https://web.archive.org/web/20190507055958/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "first memento", "datetime": "Tue, 07 May 2019 05:59:58 GMT"}
+20190512183738 {"uri": "https://web.archive.org/web/20190512183738/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Sun, 12 May 2019 18:37:38 GMT"}
+20200414071130 {"uri": "https://web.archive.org/web/20200414071130/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Tue, 14 Apr 2020 07:11:30 GMT"}
+20200531064542 {"uri": "https://web.archive.org/web/20200531064542/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Sun, 31 May 2020 06:45:42 GMT"}
+20200618215913 {"uri": "https://web.archive.org/web/20200618215913/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Thu, 18 Jun 2020 21:59:13 GMT"}
+20200722110554 {"uri": "https://web.archive.org/web/20200722110554/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:05:54 GMT"}
+20200722110600 {"uri": "https://web.archive.org/web/20200722110600/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Wed, 22 Jul 2020 11:06:00 GMT"}
+20200817193353 {"uri": "https://web.archive.org/web/20200817193353/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Mon, 17 Aug 2020 19:33:53 GMT"}
+20200817193400 {"uri": "https://web.archive.org/web/20200817193400/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Mon, 17 Aug 2020 19:34:00 GMT"}
+20201001064913 {"uri": "https://web.archive.org/web/20201001064913/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Thu, 01 Oct 2020 06:49:13 GMT"}
+20201029234933 {"uri": "https://web.archive.org/web/20201029234933/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Thu, 29 Oct 2020 23:49:33 GMT"}
+20210121201723 {"uri": "https://web.archive.org/web/20210121201723/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Thu, 21 Jan 2021 20:17:23 GMT"}
+20210319100359 {"uri": "https://web.archive.org/web/20210319100359/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Fri, 19 Mar 2021 10:03:59 GMT"}
+20210416051243 {"uri": "https://web.archive.org/web/20210416051243/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Fri, 16 Apr 2021 05:12:43 GMT"}
+20210420123345 {"uri": "https://web.archive.org/web/20210420123345/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Tue, 20 Apr 2021 12:33:45 GMT"}
+20210925092317 {"uri": "https://web.archive.org/web/20210925092317/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Sat, 25 Sep 2021 09:23:17 GMT"}
+20211207183951 {"uri": "https://web.archive.org/web/20211207183951/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "memento", "datetime": "Tue, 07 Dec 2021 18:39:51 GMT"}
+20220107222158 {"uri": "https://web.archive.org/web/20220107222158/https://www.alcorn.edu/academics/schools-and-departments/school-of-arts-and-sciences", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 22:21:58 GMT"}

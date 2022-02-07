@@ -1,0 +1,21 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/business-administration"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.suno.edu/page/business-administration"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.suno.edu/page/business-administration"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.suno.edu/page/business-administration", "json_format": "http://localhost:1208/timemap/json/https://www.suno.edu/page/business-administration", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.suno.edu/page/business-administration"}}
+20180906010933 {"uri": "https://web.archive.org/web/20180906010933/http://www.suno.edu:80/page/business-administration", "rel": "first memento", "datetime": "Thu, 06 Sep 2018 01:09:33 GMT"}
+20190816044517 {"uri": "https://web.archive.org/web/20190816044517/http://www.suno.edu/page/business-administration", "rel": "memento", "datetime": "Fri, 16 Aug 2019 04:45:17 GMT"}
+20191004064833 {"uri": "https://web.archive.org/web/20191004064833/http://www.suno.edu:80/page/business-administration", "rel": "memento", "datetime": "Fri, 04 Oct 2019 06:48:33 GMT"}
+20191203100649 {"uri": "https://web.archive.org/web/20191203100649/http://www.suno.edu:80/page/business-administration", "rel": "memento", "datetime": "Tue, 03 Dec 2019 10:06:49 GMT"}
+20200201130426 {"uri": "https://web.archive.org/web/20200201130426/http://www.suno.edu:80/page/business-administration", "rel": "memento", "datetime": "Sat, 01 Feb 2020 13:04:26 GMT"}
+20200606091916 {"uri": "https://web.archive.org/web/20200606091916/http://www.suno.edu/page/business-administration", "rel": "memento", "datetime": "Sat, 06 Jun 2020 09:19:16 GMT"}
+20200706122455 {"uri": "https://web.archive.org/web/20200706122455/http://www.suno.edu:80/page/business-administration", "rel": "memento", "datetime": "Mon, 06 Jul 2020 12:24:55 GMT"}
+20201007163919 {"uri": "https://web.archive.org/web/20201007163919/http://www.suno.edu/page/business-administration", "rel": "memento", "datetime": "Wed, 07 Oct 2020 16:39:19 GMT"}
+20201127003336 {"uri": "https://web.archive.org/web/20201127003336/http://www.suno.edu/page/business-administration", "rel": "memento", "datetime": "Fri, 27 Nov 2020 00:33:36 GMT"}
+20210119160017 {"uri": "https://web.archive.org/web/20210119160017/https://www.suno.edu/page/business-administration", "rel": "memento", "datetime": "Tue, 19 Jan 2021 16:00:17 GMT"}
+20210412231419 {"uri": "https://web.archive.org/web/20210412231419/https://www.suno.edu/page/business-administration", "rel": "memento", "datetime": "Mon, 12 Apr 2021 23:14:19 GMT"}
+20210916111954 {"uri": "https://web.archive.org/web/20210916111954/https://www.suno.edu/page/business-administration", "rel": "memento", "datetime": "Thu, 16 Sep 2021 11:19:54 GMT"}
+20210916112035 {"uri": "https://web.archive.org/web/20210916112035/http://www.suno.edu/page/business-administration", "rel": "memento", "datetime": "Thu, 16 Sep 2021 11:20:35 GMT"}
+20220107232019 {"uri": "https://web.archive.org/web/20220107232019/https://www.suno.edu/page/business-administration", "rel": "memento", "datetime": "Fri, 07 Jan 2022 23:20:19 GMT"}
+20220107232019 {"uri": "https://web.archive.org/web/20220107232019/http://www.suno.edu/page/business-administration", "rel": "last memento", "datetime": "Fri, 07 Jan 2022 23:20:19 GMT"}

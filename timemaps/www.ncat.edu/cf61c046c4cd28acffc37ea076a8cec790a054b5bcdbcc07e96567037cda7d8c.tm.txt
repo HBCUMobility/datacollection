@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php"}}
+20201205180639 {"uri": "https://web.archive.org/web/20201205180639/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "rel": "first memento", "datetime": "Sat, 05 Dec 2020 18:06:39 GMT"}
+20210128150107 {"uri": "https://web.archive.org/web/20210128150107/https://ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "rel": "memento", "datetime": "Thu, 28 Jan 2021 15:01:07 GMT"}
+20210228092504 {"uri": "https://web.archive.org/web/20210228092504/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "rel": "memento", "datetime": "Sun, 28 Feb 2021 09:25:04 GMT"}
+20210418230454 {"uri": "https://web.archive.org/web/20210418230454/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "rel": "memento", "datetime": "Sun, 18 Apr 2021 23:04:54 GMT"}
+20210516024053 {"uri": "https://web.archive.org/web/20210516024053/https://www.ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "rel": "memento", "datetime": "Sun, 16 May 2021 02:40:53 GMT"}
+20210518010557 {"uri": "https://web.archive.org/web/20210518010557/https://ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 01:05:57 GMT"}
+20210817055237 {"uri": "https://web.archive.org/web/20210817055237/https://ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "rel": "memento", "datetime": "Tue, 17 Aug 2021 05:52:37 GMT"}
+20210817060709 {"uri": "https://web.archive.org/web/20210817060709/https://ncat.edu/cahss/departments/visual-and-performing-arts/dance/index.php", "rel": "last memento", "datetime": "Tue, 17 Aug 2021 06:07:09 GMT"}

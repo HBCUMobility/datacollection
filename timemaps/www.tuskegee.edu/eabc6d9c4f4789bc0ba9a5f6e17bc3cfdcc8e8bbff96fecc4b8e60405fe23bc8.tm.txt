@@ -1,0 +1,39 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "json_format": "http://localhost:1208/timemap/json/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions"}}
+20190911162627 {"uri": "https://arquivo.pt/wayback/20190911162627mp_/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "first memento", "datetime": "Wed, 11 Sep 2019 16:26:27 GMT"}
+20190913062401 {"uri": "https://arquivo.pt/wayback/20190913062401mp_/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Fri, 13 Sep 2019 06:24:01 GMT"}
+20190914114702 {"uri": "https://wayback.archive-it.org/all/20190914114702/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sat, 14 Sep 2019 11:47:02 GMT"}
+20190914114702 {"uri": "https://web.archive.org/web/20190914114702/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sat, 14 Sep 2019 11:47:02 GMT"}
+20190920092707 {"uri": "https://arquivo.pt/wayback/20190920092707mp_/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Fri, 20 Sep 2019 09:27:07 GMT"}
+20191004203640 {"uri": "https://arquivo.pt/wayback/20191004203640mp_/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Fri, 04 Oct 2019 20:36:40 GMT"}
+20191103103047 {"uri": "https://wayback.archive-it.org/all/20191103103047/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sun, 03 Nov 2019 10:30:47 GMT"}
+20191103103047 {"uri": "https://web.archive.org/web/20191103103047/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sun, 03 Nov 2019 10:30:47 GMT"}
+20191229214105 {"uri": "https://arquivo.pt/wayback/20191229214105mp_/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sun, 29 Dec 2019 21:41:05 GMT"}
+20200115170824 {"uri": "https://wayback.archive-it.org/all/20200115170824/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Wed, 15 Jan 2020 17:08:24 GMT"}
+20200115170824 {"uri": "https://web.archive.org/web/20200115170824/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Wed, 15 Jan 2020 17:08:24 GMT"}
+20200313012940 {"uri": "https://arquivo.pt/wayback/20200313012940mp_/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Fri, 13 Mar 2020 01:29:40 GMT"}
+20200426222021 {"uri": "https://web.archive.org/web/20200426222021/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sun, 26 Apr 2020 22:20:21 GMT"}
+20200521160558 {"uri": "https://wayback.archive-it.org/all/20200521160558/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Thu, 21 May 2020 16:05:58 GMT"}
+20200521160558 {"uri": "https://web.archive.org/web/20200521160558/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Thu, 21 May 2020 16:05:58 GMT"}
+20200603185748 {"uri": "https://web.archive.org/web/20200603185748/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Wed, 03 Jun 2020 18:57:48 GMT"}
+20200611162923 {"uri": "https://arquivo.pt/wayback/20200611162923mp_/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Thu, 11 Jun 2020 16:29:23 GMT"}
+20200909100446 {"uri": "https://arquivo.pt/wayback/20200909100446mp_/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Wed, 09 Sep 2020 10:04:46 GMT"}
+20200926234644 {"uri": "https://web.archive.org/web/20200926234644/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sat, 26 Sep 2020 23:46:44 GMT"}
+20201128103323 {"uri": "https://web.archive.org/web/20201128103323/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sat, 28 Nov 2020 10:33:23 GMT"}
+20201210195124 {"uri": "https://arquivo.pt/wayback/20201210195124mp_/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Thu, 10 Dec 2020 19:51:24 GMT"}
+20201222094512 {"uri": "https://web.archive.org/web/20201222094512/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Tue, 22 Dec 2020 09:45:12 GMT"}
+20210207031934 {"uri": "https://wayback.archive-it.org/all/20210207031934/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sun, 07 Feb 2021 03:19:34 GMT"}
+20210207031934 {"uri": "https://web.archive.org/web/20210207031934/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sun, 07 Feb 2021 03:19:34 GMT"}
+20210302040420 {"uri": "https://web.archive.org/web/20210302040420/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Tue, 02 Mar 2021 04:04:20 GMT"}
+20210411191240 {"uri": "https://web.archive.org/web/20210411191240/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sun, 11 Apr 2021 19:12:40 GMT"}
+20210414121743 {"uri": "https://web.archive.org/web/20210414121743/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Wed, 14 Apr 2021 12:17:43 GMT"}
+20210513143733 {"uri": "https://web.archive.org/web/20210513143733/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Thu, 13 May 2021 14:37:33 GMT"}
+20210608155116 {"uri": "https://web.archive.org/web/20210608155116/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Tue, 08 Jun 2021 15:51:16 GMT"}
+20211009014630 {"uri": "https://web.archive.org/web/20211009014630/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sat, 09 Oct 2021 01:46:30 GMT"}
+20211009225916 {"uri": "https://web.archive.org/web/20211009225916/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sat, 09 Oct 2021 22:59:16 GMT"}
+20211031071339 {"uri": "https://web.archive.org/web/20211031071339/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "memento", "datetime": "Sun, 31 Oct 2021 07:13:39 GMT"}
+20220108005646 {"uri": "https://web.archive.org/web/20220108005646/https://www.tuskegee.edu/programs-courses/colleges-schools/cvm/cvm-admissions", "rel": "last memento", "datetime": "Sat, 08 Jan 2022 00:56:46 GMT"}

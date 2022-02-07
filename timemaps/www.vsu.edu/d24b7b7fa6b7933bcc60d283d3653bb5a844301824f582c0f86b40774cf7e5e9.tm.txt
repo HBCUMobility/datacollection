@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/business/departments/accounting-and-finance/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/business/departments/accounting-and-finance/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/business/departments/accounting-and-finance/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/business/departments/accounting-and-finance/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/business/departments/accounting-and-finance/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/business/departments/accounting-and-finance/index.php"}}
+20210121220855 {"uri": "https://web.archive.org/web/20210121220855/https://www.vsu.edu/business/departments/accounting-and-finance/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 22:08:55 GMT"}
+20210413141645 {"uri": "https://web.archive.org/web/20210413141645/https://www.vsu.edu/business/departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 14:16:45 GMT"}
+20210518191857 {"uri": "https://web.archive.org/web/20210518191857/https://www.vsu.edu/business/departments/accounting-and-finance/index.php", "rel": "memento", "datetime": "Tue, 18 May 2021 19:18:57 GMT"}
+20211217115517 {"uri": "https://web.archive.org/web/20211217115517/https://www.vsu.edu/business/departments/accounting-and-finance/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:55:17 GMT"}

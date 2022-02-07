@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.coppin.edu/asps"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.coppin.edu/asps"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.coppin.edu/asps"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.coppin.edu/asps", "json_format": "http://localhost:1208/timemap/json/https://www.coppin.edu/asps", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.coppin.edu/asps"}}
+20200815013928 {"uri": "https://web.archive.org/web/20200815013928/https://www.coppin.edu/asps", "rel": "first memento", "datetime": "Sat, 15 Aug 2020 01:39:28 GMT"}
+20210122062209 {"uri": "https://web.archive.org/web/20210122062209/https://www.coppin.edu/asps", "rel": "memento", "datetime": "Fri, 22 Jan 2021 06:22:09 GMT"}
+20210420191512 {"uri": "https://web.archive.org/web/20210420191512/https://www.coppin.edu/asps", "rel": "last memento", "datetime": "Tue, 20 Apr 2021 19:15:12 GMT"}

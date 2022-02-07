@@ -1,0 +1,26 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/agriculture/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/agriculture/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/agriculture/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/agriculture/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/agriculture/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/agriculture/index.php"}}
+20201218035259 {"uri": "https://wayback.archive-it.org/all/20201218035259/https://www.vsu.edu/agriculture/index.php", "rel": "first memento", "datetime": "Fri, 18 Dec 2020 03:52:59 GMT"}
+20201218035259 {"uri": "https://web.archive.org/web/20201218035259/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Fri, 18 Dec 2020 03:52:59 GMT"}
+20210121213348 {"uri": "https://web.archive.org/web/20210121213348/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Thu, 21 Jan 2021 21:33:48 GMT"}
+20210131081826 {"uri": "https://wayback.archive-it.org/all/20210131081826/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Sun, 31 Jan 2021 08:18:26 GMT"}
+20210131081826 {"uri": "https://web.archive.org/web/20210131081826/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Sun, 31 Jan 2021 08:18:26 GMT"}
+20210331112531 {"uri": "https://wayback.archive-it.org/all/20210331112531/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Wed, 31 Mar 2021 11:25:31 GMT"}
+20210331112531 {"uri": "https://web.archive.org/web/20210331112531/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Wed, 31 Mar 2021 11:25:31 GMT"}
+20210413131752 {"uri": "https://web.archive.org/web/20210413131752/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Tue, 13 Apr 2021 13:17:52 GMT"}
+20210506072147 {"uri": "https://web.archive.org/web/20210506072147/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Thu, 06 May 2021 07:21:47 GMT"}
+20210531054156 {"uri": "https://wayback.archive-it.org/all/20210531054156/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Mon, 31 May 2021 05:41:56 GMT"}
+20210531054156 {"uri": "https://web.archive.org/web/20210531054156/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Mon, 31 May 2021 05:41:56 GMT"}
+20210731103320 {"uri": "https://wayback.archive-it.org/all/20210731103320/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Sat, 31 Jul 2021 10:33:20 GMT"}
+20210731103320 {"uri": "https://web.archive.org/web/20210731103320/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Sat, 31 Jul 2021 10:33:20 GMT"}
+20210930072518 {"uri": "https://wayback.archive-it.org/all/20210930072518/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Thu, 30 Sep 2021 07:25:18 GMT"}
+20210930072518 {"uri": "https://web.archive.org/web/20210930072518/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Thu, 30 Sep 2021 07:25:18 GMT"}
+20211101235202 {"uri": "https://web.archive.org/web/20211101235202/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Mon, 01 Nov 2021 23:52:02 GMT"}
+20211130062203 {"uri": "https://wayback.archive-it.org/all/20211130062203/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Tue, 30 Nov 2021 06:22:03 GMT"}
+20211130062203 {"uri": "https://web.archive.org/web/20211130062203/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Tue, 30 Nov 2021 06:22:03 GMT"}
+20211216055546 {"uri": "https://web.archive.org/web/20211216055546/https://www.vsu.edu/agriculture/index.php", "rel": "memento", "datetime": "Thu, 16 Dec 2021 05:55:46 GMT"}
+20220119170331 {"uri": "https://web.archive.org/web/20220119170331/https://www.vsu.edu/agriculture/index.php", "rel": "last memento", "datetime": "Wed, 19 Jan 2022 17:03:31 GMT"}

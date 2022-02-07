@@ -1,0 +1,16 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "json_format": "http://localhost:1208/timemap/json/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/"}}
+20200929151834 {"uri": "https://web.archive.org/web/20200929151834/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "first memento", "datetime": "Tue, 29 Sep 2020 15:18:34 GMT"}
+20201030080647 {"uri": "https://web.archive.org/web/20201030080647/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "memento", "datetime": "Fri, 30 Oct 2020 08:06:47 GMT"}
+20210126094103 {"uri": "https://web.archive.org/web/20210126094103/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "memento", "datetime": "Tue, 26 Jan 2021 09:41:03 GMT"}
+20210421210933 {"uri": "https://web.archive.org/web/20210421210933/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "memento", "datetime": "Wed, 21 Apr 2021 21:09:33 GMT"}
+20210610130724 {"uri": "https://web.archive.org/web/20210610130724/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "memento", "datetime": "Thu, 10 Jun 2021 13:07:24 GMT"}
+20210610141632 {"uri": "https://web.archive.org/web/20210610141632/https://bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "memento", "datetime": "Thu, 10 Jun 2021 14:16:32 GMT"}
+20210812031519 {"uri": "https://web.archive.org/web/20210812031519/https://bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "memento", "datetime": "Thu, 12 Aug 2021 03:15:19 GMT"}
+20210813094633 {"uri": "https://web.archive.org/web/20210813094633/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "memento", "datetime": "Fri, 13 Aug 2021 09:46:33 GMT"}
+20211102145605 {"uri": "https://web.archive.org/web/20211102145605/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "memento", "datetime": "Tue, 02 Nov 2021 14:56:05 GMT"}
+20211210051915 {"uri": "https://web.archive.org/web/20211210051915/https://www.bowiestate.edu/academics/colleges/college-of-professional-studies/departments/nursing/", "rel": "last memento", "datetime": "Fri, 10 Dec 2021 05:19:15 GMT"}

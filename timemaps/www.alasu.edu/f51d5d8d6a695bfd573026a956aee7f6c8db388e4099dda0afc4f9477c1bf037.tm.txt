@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/department-curriculum-instruction"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.alasu.edu/coe/curriculum-instruction-program-available-online/department-curriculum-instruction"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/department-curriculum-instruction"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/department-curriculum-instruction", "json_format": "http://localhost:1208/timemap/json/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/department-curriculum-instruction", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/department-curriculum-instruction"}}
+20181112212121 {"uri": "https://web.archive.org/web/20181112212121/http://www.alasu.edu:80/coe/curriculum-instruction-program-available-online/department-curriculum-instruction", "rel": "first memento", "datetime": "Mon, 12 Nov 2018 21:21:21 GMT"}
+20201026121643 {"uri": "https://web.archive.org/web/20201026121643/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/department-curriculum-instruction", "rel": "memento", "datetime": "Mon, 26 Oct 2020 12:16:43 GMT"}
+20210417055757 {"uri": "https://web.archive.org/web/20210417055757/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/department-curriculum-instruction", "rel": "memento", "datetime": "Sat, 17 Apr 2021 05:57:57 GMT"}
+20211020141220 {"uri": "https://web.archive.org/web/20211020141220/https://www.alasu.edu/coe/curriculum-instruction-program-available-online/department-curriculum-instruction", "rel": "last memento", "datetime": "Wed, 20 Oct 2021 14:12:20 GMT"}

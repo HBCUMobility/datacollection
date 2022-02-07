@@ -1,0 +1,10 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php"}}
+20210228062306 {"uri": "https://web.archive.org/web/20210228062306/http://asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php", "rel": "first memento", "datetime": "Sun, 28 Feb 2021 06:23:06 GMT"}
+20210416081457 {"uri": "https://web.archive.org/web/20210416081457/https://www.asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php", "rel": "memento", "datetime": "Fri, 16 Apr 2021 08:14:57 GMT"}
+20210515225029 {"uri": "https://web.archive.org/web/20210515225029/https://asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php", "rel": "memento", "datetime": "Sat, 15 May 2021 22:50:29 GMT"}
+20210818112628 {"uri": "https://web.archive.org/web/20210818112628/https://asurams.edu/academic-affairs/college-of-arts-sciences/social-sciences/index.php", "rel": "last memento", "datetime": "Wed, 18 Aug 2021 11:26:28 GMT"}

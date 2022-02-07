@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/seas/civil-engineering/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.udc.edu/seas/civil-engineering/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.udc.edu/seas/civil-engineering/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.udc.edu/seas/civil-engineering/", "json_format": "http://localhost:1208/timemap/json/https://www.udc.edu/seas/civil-engineering/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.udc.edu/seas/civil-engineering/"}}
+20200921181942 {"uri": "https://web.archive.org/web/20200921181942/https://www.udc.edu/seas/civil-engineering/", "rel": "first memento", "datetime": "Mon, 21 Sep 2020 18:19:42 GMT"}
+20201129100103 {"uri": "https://web.archive.org/web/20201129100103/https://www.udc.edu/seas/civil-engineering/", "rel": "memento", "datetime": "Sun, 29 Nov 2020 10:01:03 GMT"}
+20201203171735 {"uri": "https://web.archive.org/web/20201203171735/https://www.udc.edu/seas/civil-engineering/", "rel": "memento", "datetime": "Thu, 03 Dec 2020 17:17:35 GMT"}
+20210303171724 {"uri": "https://web.archive.org/web/20210303171724/https://www.udc.edu/seas/civil-engineering/", "rel": "memento", "datetime": "Wed, 03 Mar 2021 17:17:24 GMT"}
+20210508182939 {"uri": "https://web.archive.org/web/20210508182939/https://www.udc.edu/seas/civil-engineering/", "rel": "memento", "datetime": "Sat, 08 May 2021 18:29:39 GMT"}
+20210518233839 {"uri": "https://web.archive.org/web/20210518233839/https://www.udc.edu/seas/civil-engineering/", "rel": "last memento", "datetime": "Tue, 18 May 2021 23:38:39 GMT"}

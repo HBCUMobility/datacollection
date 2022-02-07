@@ -1,0 +1,12 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Political-Science--History-Home"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "http://libarts.hamptonu.edu/page/Political-Science--History-Home"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/http://libarts.hamptonu.edu/page/Political-Science--History-Home"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/http://libarts.hamptonu.edu/page/Political-Science--History-Home", "json_format": "http://localhost:1208/timemap/json/http://libarts.hamptonu.edu/page/Political-Science--History-Home", "cdxj_format": "http://localhost:1208/timemap/cdxj/http://libarts.hamptonu.edu/page/Political-Science--History-Home"}}
+20190329175627 {"uri": "https://web.archive.org/web/20190329175627/http://libarts.hamptonu.edu:80/page/Political-Science--History-Home", "rel": "first memento", "datetime": "Fri, 29 Mar 2019 17:56:27 GMT"}
+20191022105717 {"uri": "https://web.archive.org/web/20191022105717/http://libarts.hamptonu.edu:80/page/Political-Science--History-Home", "rel": "memento", "datetime": "Tue, 22 Oct 2019 10:57:17 GMT"}
+20191222005704 {"uri": "https://web.archive.org/web/20191222005704/http://libarts.hamptonu.edu:80/page/Political-Science--History-Home", "rel": "memento", "datetime": "Sun, 22 Dec 2019 00:57:04 GMT"}
+20200220055405 {"uri": "https://web.archive.org/web/20200220055405/http://libarts.hamptonu.edu:80/page/Political-Science--History-Home", "rel": "memento", "datetime": "Thu, 20 Feb 2020 05:54:05 GMT"}
+20200704102608 {"uri": "https://web.archive.org/web/20200704102608/http://libarts.hamptonu.edu:80/page/Political-Science--History-Home", "rel": "memento", "datetime": "Sat, 04 Jul 2020 10:26:08 GMT"}
+20210510080907 {"uri": "https://web.archive.org/web/20210510080907/http://libarts.hamptonu.edu/page/Political-Science--History-Home", "rel": "last memento", "datetime": "Mon, 10 May 2021 08:09:07 GMT"}

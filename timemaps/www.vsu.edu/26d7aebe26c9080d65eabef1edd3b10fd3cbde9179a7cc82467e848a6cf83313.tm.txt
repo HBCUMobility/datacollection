@@ -1,0 +1,9 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/leadership/doctoral-programs/index.php"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.vsu.edu/education/departments/leadership/doctoral-programs/index.php"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.vsu.edu/education/departments/leadership/doctoral-programs/index.php"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.vsu.edu/education/departments/leadership/doctoral-programs/index.php", "json_format": "http://localhost:1208/timemap/json/https://www.vsu.edu/education/departments/leadership/doctoral-programs/index.php", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vsu.edu/education/departments/leadership/doctoral-programs/index.php"}}
+20210121092613 {"uri": "https://web.archive.org/web/20210121092613/https://www.vsu.edu/education/departments/leadership/doctoral-programs/index.php", "rel": "first memento", "datetime": "Thu, 21 Jan 2021 09:26:13 GMT"}
+20210420203818 {"uri": "https://web.archive.org/web/20210420203818/https://www.vsu.edu/education/departments/leadership/doctoral-programs/index.php", "rel": "memento", "datetime": "Tue, 20 Apr 2021 20:38:18 GMT"}
+20211217114442 {"uri": "https://web.archive.org/web/20211217114442/https://www.vsu.edu/education/departments/leadership/doctoral-programs/index.php", "rel": "last memento", "datetime": "Fri, 17 Dec 2021 11:44:42 GMT"}

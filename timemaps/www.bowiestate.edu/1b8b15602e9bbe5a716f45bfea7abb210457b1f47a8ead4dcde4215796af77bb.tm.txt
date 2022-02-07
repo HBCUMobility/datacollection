@@ -1,0 +1,14 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "json_format": "http://localhost:1208/timemap/json/https://www.bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/"}}
+20200922212934 {"uri": "https://web.archive.org/web/20200922212934/https://bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "rel": "first memento", "datetime": "Tue, 22 Sep 2020 21:29:34 GMT"}
+20201124100411 {"uri": "https://web.archive.org/web/20201124100411/https://bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "rel": "memento", "datetime": "Tue, 24 Nov 2020 10:04:11 GMT"}
+20210125134237 {"uri": "https://web.archive.org/web/20210125134237/https://www.bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "rel": "memento", "datetime": "Mon, 25 Jan 2021 13:42:37 GMT"}
+20210811223533 {"uri": "https://web.archive.org/web/20210811223533/https://bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "rel": "memento", "datetime": "Wed, 11 Aug 2021 22:35:33 GMT"}
+20210815130000 {"uri": "https://web.archive.org/web/20210815130000/https://www.bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "rel": "memento", "datetime": "Sun, 15 Aug 2021 13:00:00 GMT"}
+20210818193817 {"uri": "https://web.archive.org/web/20210818193817/https://bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "rel": "memento", "datetime": "Wed, 18 Aug 2021 19:38:17 GMT"}
+20210818193853 {"uri": "https://web.archive.org/web/20210818193853/https://bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "rel": "memento", "datetime": "Wed, 18 Aug 2021 19:38:53 GMT"}
+20211102155529 {"uri": "https://web.archive.org/web/20211102155529/https://www.bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/mathematics/", "rel": "last memento", "datetime": "Tue, 02 Nov 2021 15:55:29 GMT"}

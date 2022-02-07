@@ -1,0 +1,13 @@
+!context ["https://oduwsdl.github.io/contexts/memento"]
+!id {"uri": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/biology/"}
+!keys ["memento_datetime_YYYYMMDDhhmmss"]
+!meta {"original_uri": "https://www.pvamu.edu/bcas/departments/biology/"}
+!meta {"timegate_uri": "http://localhost:1208/timegate/https://www.pvamu.edu/bcas/departments/biology/"}
+!meta {"timemap_uri": {"link_format": "http://localhost:1208/timemap/link/https://www.pvamu.edu/bcas/departments/biology/", "json_format": "http://localhost:1208/timemap/json/https://www.pvamu.edu/bcas/departments/biology/", "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pvamu.edu/bcas/departments/biology/"}}
+20150705164212 {"uri": "https://web.archive.org/web/20150705164212/http://www.pvamu.edu:80/bcas/departments/biology/", "rel": "first memento", "datetime": "Sun, 05 Jul 2015 16:42:12 GMT"}
+20150905171134 {"uri": "https://web.archive.org/web/20150905171134/http://www.pvamu.edu/bcas/departments/biology/", "rel": "memento", "datetime": "Sat, 05 Sep 2015 17:11:34 GMT"}
+20151025185125 {"uri": "https://web.archive.org/web/20151025185125/https://www.pvamu.edu/bcas/departments/biology/", "rel": "memento", "datetime": "Sun, 25 Oct 2015 18:51:25 GMT"}
+20190402190222 {"uri": "https://web.archive.org/web/20190402190222/http://www.pvamu.edu/bcas/departments/biology/", "rel": "memento", "datetime": "Tue, 02 Apr 2019 19:02:22 GMT"}
+20200727011846 {"uri": "https://web.archive.org/web/20200727011846/https://www.pvamu.edu/bcas/departments/biology/", "rel": "memento", "datetime": "Mon, 27 Jul 2020 01:18:46 GMT"}
+20200811132707 {"uri": "https://web.archive.org/web/20200811132707/https://www.pvamu.edu/bcas/departments/biology/", "rel": "memento", "datetime": "Tue, 11 Aug 2020 13:27:07 GMT"}
+20210419095111 {"uri": "https://web.archive.org/web/20210419095111/https://www.pvamu.edu/bcas/departments/biology/", "rel": "last memento", "datetime": "Mon, 19 Apr 2021 09:51:11 GMT"}
