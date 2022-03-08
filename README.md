@@ -12,7 +12,7 @@ The Python script expects a Memento Aggregator to be running. [Memento (RFC7089)
 
 In short:
 
-1. Download the latest binary release of MemGator at https://github.com/oduwsdl/MemGator/releases/tag/1.0-rc8, for example, the file `memgator-darwin-365`.
+1. Download the latest binary release of MemGator at https://github.com/oduwsdl/MemGator/releases/tag/1.0-rc8, for example, the file `memgator-darwin-386`.
 2. In Terminal, move to the directory where you downloaded the file and run `./memgator server`. This will start the MemGator service from your machine on port 1208 by default.
 3. In a separate Terminal, move to the directory where _this_ repository's code resides.
 4. Install the Python script's requirements via `python3 -m pip install -r requirements.txt`.
